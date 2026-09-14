@@ -21,40 +21,44 @@ function question(overrides: Partial<Question> = {}): Question {
   };
 }
 
-describe("verified question eligibility", () => {
+describe("trusted local review eligibility", () => {
   it("accepts a complete bundled or reviewed record", () => {
     expect(isRevisionEligible(question())).toBe(true);
     expect(eligibilityRestrictions(question())).toEqual([]);
   });
 
-  it("rejects every explicit OCR or unresolved-review marker", () => {
-    const restricted = [
-      question({ needsReview: true }),
-      question({ isOcrDraft: true }),
-      question({ ocrStatus: "ocr_draft" }),
-      question({ ocrStatus: "needs_review" }),
-      question({ ocrStatus: "needs_image" }),
-      question({ needsImage: true }),
-    ];
-
-    restricted.forEach((item) => expect(isRevisionEligible(item)).toBe(false));
-    expect(eligibilityRestrictions(question({ needsReview: true, isOcrDraft: true, ocrStatus: "needs_review", needsImage: true }))).toEqual([
-      "needs_review",
-      "ocr_draft",
-      "needs_image",
-      "ocr_status",
-    ]);
+  it("lets structurally complete OCR drafts into private revision", () => {
+    const draft = question({
+      id: "draft",
+      needsReview: true,
+      isOcrDraft: true,
+      ocrStatus: "ocr_draft",
+      needsImage: false,
+    });
+    expect(isRevisionEligible(draft)).toBe(true);
+    expect(eligibleQuestionBank([question(), draft])).toHaveLength(2);
+    expect(eligibilityRestrictions(draft)).toEqual(["needs_review", "ocr_draft", "ocr_status"]);
   });
 
-  it("filters a mixed bank before it reaches active study", () => {
-    const eligible = question();
-    const draft = question({ id: "draft", needsReview: true, isOcrDraft: true, ocrStatus: "ocr_draft" });
-    expect(eligibleQuestionBank([eligible, draft])).toEqual([eligible]);
+  it("still allows ungraded records with no answer key", () => {
+    const open = question({ correctOption: null });
+    expect(isRevisionEligible(open)).toBe(true);
+    expect(eligibilityRestrictions(open)).toContain("no_answer_key");
+    expect(isMockEligible(open)).toBe(false);
   });
 
-  it("requires Primary blueprint metadata for mock eligibility", () => {
+  it("rejects incomplete stems or option lists from revision", () => {
+    expect(isRevisionEligible(question({ stem: "   " }))).toBe(false);
+    expect(isRevisionEligible(question({ options: ["A"] }))).toBe(false);
+  });
+
+  it("keeps timed Primary mocks fail-closed", () => {
     expect(isMockEligible(question())).toBe(true);
     expect(isMockEligible(question({ primaryBlueprintCategory: undefined }))).toBe(false);
     expect(isMockEligible(question({ needsReview: true }))).toBe(false);
+    expect(isMockEligible(question({ isOcrDraft: true }))).toBe(false);
+    expect(isMockEligible(question({ ocrStatus: "ocr_draft" }))).toBe(false);
+    expect(isMockEligible(question({ needsImage: true }))).toBe(false);
+    expect(isMockEligible(question({ correctOption: null }))).toBe(false);
   });
 });

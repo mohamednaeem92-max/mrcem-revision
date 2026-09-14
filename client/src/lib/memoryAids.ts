@@ -1,6 +1,6 @@
 /**
  * Clinical Field Notes: source-linked recall aids remain separate from mock
- * eligibility but use the same approved-only active-study boundary.
+ * eligibility. Private revision may use complete aids on trusted local OCR records.
  */
 import type { MemoryAid, Question } from "./questionBank";
 import { isRevisionEligible } from "./questionEligibility";

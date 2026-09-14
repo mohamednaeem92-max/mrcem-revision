@@ -1,17 +1,18 @@
 # Meridian Revision
 
-Meridian Revision is a private, offline-first MRCEM Intermediate study workspace. It contains a validated Evidence-based Medicine pilot bank, immediate post-answer explanations, a review queue, local progress tracking, and a source-aware import path for your own reviewed PDF-derived questions.
+Meridian Revision is a private, offline-first MRCEM Primary study workspace. It opens your bundled source catalogue for revision, marks keyed single-best-answer items, keeps ungraded records out of the missed queue, and reserves timed mocks for complete blueprint-tagged questions.
 
 ## Included now
 
 | Area | Current status |
 |---|---|
-| Question interface | Complete single-best-answer workflow with immediate answer feedback and explanations |
+| Question interface | Subject and topic paths, search, Quick 20, keyboard shortcuts, and immediate explanations |
 | Progress tracking | Local attempts, accuracy, bookmarks, review queue, and study-day count |
 | Data portability | JSON backup and restore for study progress |
-| Question bank | Four manually validated EBM pilot questions from the supplied PDF |
+| Question bank | Full local OCR catalogue (~5,200 records). Keyed items are scored; missing keys stay ungraded |
+| Mock exams | Strict Primary mocks using only verified, blueprint-tagged, non-OCR questions |
 | Source import | Local OCR extractor and browser import for *reviewed* question JSON |
-| Design | Original Meridian Revision clinical-workbench interface, informed by the supplied revision-site flow without using its branding or assets |
+| Design | Original Meridian Revision clinical-workbench interface |
 
 ## Open the application
 
