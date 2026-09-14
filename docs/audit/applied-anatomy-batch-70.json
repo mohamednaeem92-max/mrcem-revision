@@ -1,0 +1,661 @@
+{
+  "generatedAt": "2026-08-27T21:02:30.621Z",
+  "batch": "anatomy-all-pdf-batch-70",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1915-q0061",
+      "sourcePage": 1915,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1915-q0061",
+        "sourcePage": 1915,
+        "stem": "ww Which of the following clinical features would you least expect to see in a lesion of the frontal lobe:",
+        "options": [
+          "Conjugate eye deviation towards side of lesion (x) Contralateral weakness of the face and arm 5%",
+          "Loss of two-point discrimination",
+          "Personality change",
+          "Expressive dysphasia"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "Loss of two-point discrimination is most likely to occur in a lesion of the parietal lobe. Expressive dysphasia results from damage to Broca's area. Contralateral weakness of the face and arm results from damage to the primary motor cortex. Personality change results from damage to the prefrontal cortex. Conjugate eye deviation towards side of lesion results from damage to the frontal eye field. : v Frontal Lobe",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1915-q0061",
+        "sourcePage": 1915,
+        "stem": "Which of the following clinical features would you least expect to see in a lesion of the frontal lobe:",
+        "options": [
+          "Conjugate eye deviation towards side of lesion",
+          "Contralateral weakness of the face and arm",
+          "Loss of two-point discrimination",
+          "Personality change",
+          "Expressive dysphasia"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Loss of two-point discrimination localizes more strongly to parietal sensory cortex than to the frontal lobe.",
+        "learningNote": "Loss of two-point discrimination localizes more strongly to parietal sensory cortex than to the frontal lobe.",
+        "highYieldNote": "Loss of two-point discrimination localizes more strongly to parietal sensory cortex than to the frontal lobe.",
+        "mnemonic": "Frontal moves and plans; parietal discriminates touch.",
+        "memoryAid": {
+          "coreFact": "Loss of two-point discrimination localizes more strongly to parietal sensory cortex than to the frontal lobe.",
+          "mnemonic": "Frontal moves and plans; parietal discriminates touch.",
+          "emojiCues": [
+            "🧠",
+            "✋",
+            "🧭"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf somatosensory cortex",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK555915/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK555915/",
+        "externalFinding": "Two-point discrimination is a parietal cortical sensory function; the other listed features can arise from frontal regions."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1916-q0062",
+      "sourcePage": 1916,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1916-q0062",
+        "sourcePage": 1916,
+        "stem": "th Regarding cerebrospinal fluid, which of the following statements is NOT correct:",
+        "options": [
+          "The total volume of CSF is around 130 mL.",
+          "The inferior horn of the lateral ventricle projects into the temporal lobe. Vv) The lateral ventricles are connected to the third ventricle by the cerebral aqueduct. 33%",
+          "The fourth ventricle lies within the brainstem."
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The lateral ventricles are connected to the third ventricle by the interventricular foramen (of Monro). is 4 Vv Cerebral Ventricles ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1916-q0062",
+        "sourcePage": 1916,
+        "stem": "Regarding cerebrospinal fluid, which of the following statements is NOT correct:",
+        "options": [
+          "The total volume of CSF is around 130 mL.",
+          "The bulk of CSF formation occurs in the lateral ventricles.",
+          "The inferior horn of the lateral ventricle projects into the temporal lobe.",
+          "The lateral ventricles are connected to the third ventricle by the cerebral aqueduct.",
+          "The fourth ventricle lies within the brainstem."
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The lateral ventricles connect to the third ventricle through the interventricular foramina of Monro; the cerebral aqueduct connects the third and fourth ventricles.",
+        "learningNote": "The lateral ventricles connect to the third ventricle through the interventricular foramina of Monro; the cerebral aqueduct connects the third and fourth ventricles.",
+        "highYieldNote": "The lateral ventricles connect to the third ventricle through the interventricular foramina of Monro; the cerebral aqueduct connects the third and fourth ventricles.",
+        "mnemonic": "Monro joins lateral to third; aqueduct joins third to fourth.",
+        "memoryAid": {
+          "coreFact": "The lateral ventricles connect to the third ventricle through the interventricular foramina of Monro; the cerebral aqueduct connects the third and fourth ventricles.",
+          "mnemonic": "Monro joins lateral to third; aqueduct joins third to fourth.",
+          "emojiCues": [
+            "💧",
+            "🔗",
+            "🧠"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf ventricular system",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+        "externalFinding": "The ventricular-system reference distinguishes the foramina of Monro from the cerebral aqueduct and supports the displayed incorrect statement."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1917-q0063",
+      "sourcePage": 1917,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1917-q0063",
+        "sourcePage": 1917,
+        "stem": "ww The vertebral artery is a branch of which of the following blood vessels:",
+        "options": [
+          "Internal carotid artery",
+          "External carotid artery (Vv) Subclavian artery 56%",
+          "Brachiocephalic trunk",
+          "Thyrocervical trunk"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The vertebral artery is a branch of the subclavian artery. v Arterial Supply of Brain ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1917-q0063",
+        "sourcePage": 1917,
+        "stem": "The vertebral artery is a branch of which of the following blood vessels:",
+        "options": [
+          "Internal carotid artery",
+          "External carotid artery",
+          "Subclavian artery",
+          "Brachiocephalic trunk",
+          "Thyrocervical trunk"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Each vertebral artery arises from the corresponding subclavian artery.",
+        "learningNote": "Each vertebral artery arises from the corresponding subclavian artery.",
+        "highYieldNote": "Each vertebral artery arises from the corresponding subclavian artery.",
+        "mnemonic": "Subclavian sends vertebral upward.",
+        "memoryAid": {
+          "coreFact": "Each vertebral artery arises from the corresponding subclavian artery.",
+          "mnemonic": "Subclavian sends vertebral upward.",
+          "emojiCues": [
+            "🩸",
+            "⬆️",
+            "🫀"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf vertebral arteries",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK441972/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK441972/",
+        "externalFinding": "The vertebral-artery reference identifies the subclavian artery as its origin."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1918-q0064",
+      "sourcePage": 1918,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1918-q0064",
+        "sourcePage": 1918,
+        "stem": "ww The internal capsule primarily contains which types of white matter fibres: Vv) Projection fibres 25%",
+        "options": [
+          "Short association fibres",
+          "Long association fibres",
+          "U-fibres"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The internal capsule is a deep subcortical structure that contains a concentration of white matter projection fibres. Projection fibres connect the cerebral cortex with the lower part of the brain or brainstem and the spinal cord, in both directions. : Vv Cerebral Hemispheres ANATOMY / CENTRAL NERVOUS SYSTEM 11 Ranimart",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1918-q0064",
+        "sourcePage": 1918,
+        "stem": "The internal capsule primarily contains which types of white matter fibres:",
+        "options": [
+          "Projection fibres",
+          "Short association fibres",
+          "Commissural fibres",
+          "Long association fibres",
+          "U-fibres"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The internal capsule is a compact collection of projection fibres linking the cerebral cortex with subcortical structures, brainstem, and spinal cord.",
+        "learningNote": "The internal capsule is a compact collection of projection fibres linking the cerebral cortex with subcortical structures, brainstem, and spinal cord.",
+        "highYieldNote": "The internal capsule is a compact collection of projection fibres linking the cerebral cortex with subcortical structures, brainstem, and spinal cord.",
+        "mnemonic": "Internal capsule projects cortex to below.",
+        "memoryAid": {
+          "coreFact": "The internal capsule is a compact collection of projection fibres linking the cerebral cortex with subcortical structures, brainstem, and spinal cord.",
+          "mnemonic": "Internal capsule projects cortex to below.",
+          "emojiCues": [
+            "🧠",
+            "⬇️",
+            "↕️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf internal capsule",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK542181/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK542181/",
+        "externalFinding": "The internal-capsule reference supports projection fibres as the primary fibre type."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1919-q0065",
+      "sourcePage": 1919,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1919-q0065",
+        "sourcePage": 1919,
+        "stem": "ww Damage to Broca's area will most likely result in which of the following clinical features:",
+        "options": [
+          "Nystagmus",
+          "Dysarthria",
+          "Visual disturbance Vv) Expressive dysphasia 89%",
+          "Receptive dysphasia"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The Broca's speech area, in the frontal lobe of the dominant hemisphere, is the ‘expressive’ centre for the production of speech. It is connected to the Wernicke's speech area by the arcuate fasciculus. Damage to this area will result in an expressive dysphasia. Vv Frontal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1919-q0065",
+        "sourcePage": 1919,
+        "stem": "Damage to Broca's area will most likely result in which of the following clinical features:",
+        "options": [
+          "Nystagmus",
+          "Dysarthria",
+          "Visual disturbance",
+          "Expressive dysphasia",
+          "Receptive dysphasia"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Damage to Broca area in the dominant inferior frontal region causes expressive dysphasia.",
+        "learningNote": "Damage to Broca area in the dominant inferior frontal region causes expressive dysphasia.",
+        "highYieldNote": "Damage to Broca area in the dominant inferior frontal region causes expressive dysphasia.",
+        "mnemonic": "Broca builds speech, so damage blocks expression.",
+        "memoryAid": {
+          "coreFact": "Damage to Broca area in the dominant inferior frontal region causes expressive dysphasia.",
+          "mnemonic": "Broca builds speech, so damage blocks expression.",
+          "emojiCues": [
+            "🗣️",
+            "⬅️",
+            "🧠"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf Broca area",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK526096/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK526096/",
+        "externalFinding": "The Broca-area reference supports dominant frontal expressive-language localization."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1920-q0066",
+      "sourcePage": 1920,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1920-q0066",
+        "sourcePage": 1920,
+        "stem": "ww Which of the following brainstem nuclei is NOT located in the pons:",
+        "options": [
+          "Facial nucleus",
+          "Trigeminal nuclei",
+          "Vestibulocochlear nuclei (Vv) Trochlear nucleus 72%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The pons houses nuclei of the trigeminal nerve, the abducens nerve, the facial nerve and the vestibulocochlear nerve. The trochlear nucleus (together with the oculomotor nucleus) lies in the midbrain. , Vv Brainstem ANATOMY / CENTRAL NERVOUS SYSTEM 11 Ranimart",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1920-q0066",
+        "sourcePage": 1920,
+        "stem": "Which of the following brainstem nuclei is NOT located in the pons:",
+        "options": [
+          "Facial nucleus",
+          "Abducens nucleus",
+          "Trigeminal nuclei",
+          "Vestibulocochlear nuclei",
+          "Trochlear nucleus"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The trochlear nucleus lies in the midbrain; facial, abducens, trigeminal, and vestibulocochlear nuclei are associated with the pons.",
+        "learningNote": "The trochlear nucleus lies in the midbrain; facial, abducens, trigeminal, and vestibulocochlear nuclei are associated with the pons.",
+        "highYieldNote": "The trochlear nucleus lies in the midbrain; facial, abducens, trigeminal, and vestibulocochlear nuclei are associated with the pons.",
+        "mnemonic": "Pons hosts V, VI, VII, VIII; IV is midbrain.",
+        "memoryAid": {
+          "coreFact": "The trochlear nucleus lies in the midbrain; facial, abducens, trigeminal, and vestibulocochlear nuclei are associated with the pons.",
+          "mnemonic": "Pons hosts V, VI, VII, VIII; IV is midbrain.",
+          "emojiCues": [
+            "🧠",
+            "4️⃣",
+            "🌉"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf brainstem anatomy",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK544297/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK544297/",
+        "externalFinding": "The brainstem reference supports trochlear nucleus as the exception."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1921-q0067",
+      "sourcePage": 1921,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1921-q0067",
+        "sourcePage": 1921,
+        "stem": "ww A 25 year old woman presents to ED complaining of unsteadiness of her feet and slurred speech. On examination she demonstrates past-pointing, she is unable to perform the heel-shin test and she has nystagmus. The lesion would most likely be in the:",
+        "options": [
+          "Occipital lobe",
+          "Frontal lobe (Vv) Cerebellum 90%",
+          "Parietal lobe",
+          "Temporal lobe"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Cerebellar dysfunction is characterised by DANISH signs: e Dysmetria (past-pointing) and Dysdiadochokinesia (inability to perform rapid alternating movements) e Ataxia (lack of coordination of gait, trunk and limbs) e Nystagmus e Intention tremor © Slow/Slurred/Scanning Speech e Hypotonia",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1921-q0067",
+        "sourcePage": 1921,
+        "stem": "A 25 year old woman presents to ED complaining of unsteadiness of her feet and slurred speech. On examination she demonstrates past-pointing, she is unable to perform the heel-shin test and she has nystagmus. The lesion would most likely be in the:",
+        "options": [
+          "Occipital lobe",
+          "Frontal lobe",
+          "Cerebellum",
+          "Parietal lobe",
+          "Temporal lobe"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Past-pointing, impaired heel-shin testing, nystagmus, ataxia, and slurred speech are cerebellar signs.",
+        "learningNote": "Past-pointing, impaired heel-shin testing, nystagmus, ataxia, and slurred speech are cerebellar signs.",
+        "highYieldNote": "Past-pointing, impaired heel-shin testing, nystagmus, ataxia, and slurred speech are cerebellar signs.",
+        "mnemonic": "DANISH signs point to the cerebellum.",
+        "memoryAid": {
+          "coreFact": "Past-pointing, impaired heel-shin testing, nystagmus, ataxia, and slurred speech are cerebellar signs.",
+          "mnemonic": "DANISH signs point to the cerebellum.",
+          "emojiCues": [
+            "🎯",
+            "🚶",
+            "🧠"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf cerebellar dysfunction",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK562317/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK562317/",
+        "externalFinding": "The cerebellar-dysfunction reference supports the displayed cerebellum localization and DANISH sign list."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1922-q0068",
+      "sourcePage": 1922,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1922-q0068",
+        "sourcePage": 1922,
+        "stem": "ww What of the following type of visual field defect are you most likely to see in a lesion of the optic radiation in the right parietal lobe:",
+        "options": [
+          "Left homonymous hemianopia (Vv) Left homonymous inferior quadrantanopia 76% (x) Right homonymous inferior quadrantanopia 8%",
+          "Left homonymous superior quadrantanopia",
+          "Right homonymous superior quadrantanopia"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The fibres of the upper part of the optic radiation (serving the lower quadrant of the contralateral visual field) pass deep within the parietal lobe. Vv Parietal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM 11 Ranimart",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1922-q0068",
+        "sourcePage": 1922,
+        "stem": "What of the following type of visual field defect are you most likely to see in a lesion of the optic radiation in the right parietal lobe:",
+        "options": [
+          "Left homonymous hemianopia",
+          "Left homonymous inferior quadrantanopia",
+          "Right homonymous inferior quadrantanopia",
+          "Left homonymous superior quadrantanopia",
+          "Right homonymous superior quadrantanopia"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The upper optic radiations pass through the parietal lobe and carry the contralateral lower visual field; a right parietal lesion causes left inferior quadrantanopia.",
+        "learningNote": "The upper optic radiations pass through the parietal lobe and carry the contralateral lower visual field; a right parietal lesion causes left inferior quadrantanopia.",
+        "highYieldNote": "The upper optic radiations pass through the parietal lobe and carry the contralateral lower visual field; a right parietal lesion causes left inferior quadrantanopia.",
+        "mnemonic": "Parietal carries the lower field; right side loses left lower quadrant.",
+        "memoryAid": {
+          "coreFact": "The upper optic radiations pass through the parietal lobe and carry the contralateral lower visual field; a right parietal lesion causes left inferior quadrantanopia.",
+          "mnemonic": "Parietal carries the lower field; right side loses left lower quadrant.",
+          "emojiCues": [
+            "👁️",
+            "⬇️",
+            "⬅️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf visual-field deficits",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK10912/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK10912/",
+        "externalFinding": "The visual-field reference supports left inferior quadrantanopia from right parietal optic-radiation involvement."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1923-q0069",
+      "sourcePage": 1923,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1923-q0069",
+        "sourcePage": 1923,
+        "stem": "ww A 40 year old female presents to ED complaining of complete visual loss in her right eye. On fundoscopy you note a pale retina and a cherry red spot. You suspect an emboli. Which of the following blood vessels is most likely the source of the emboli:",
+        "options": [
+          "Anterior cerebral artery (x) Middl cerebral artery 8%",
+          "Posterior cerebral artery (Vv) Internal carotid artery 56%",
+          "External carotid artery"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The internal carotid artery is the most likely source of the emboli. The ophthalmic artery arises from the internal carotid artery and supplies structures in the orbit and eyeball. The central retinal artery is the most important branch of the ophthalmic artery, supplying the retina and the optic disc. The central retinal artery is an end artery that does not anastomose with other arteries, and thus its occlusion results in monocular blindness. : Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1923-q0069",
+        "sourcePage": 1923,
+        "stem": "A 40 year old female presents to ED complaining of complete visual loss in her right eye. On fundoscopy you note a pale retina and a cherry red spot. You suspect an emboli. Which of the following blood vessels is most likely the source of the emboli:",
+        "options": [
+          "Anterior cerebral artery",
+          "Middle cerebral artery",
+          "Posterior cerebral artery",
+          "Internal carotid artery",
+          "External carotid artery"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The ophthalmic artery arises from the internal carotid artery and gives rise to the central retinal artery, an end artery whose occlusion can cause monocular blindness with a cherry-red spot.",
+        "learningNote": "The ophthalmic artery arises from the internal carotid artery and gives rise to the central retinal artery, an end artery whose occlusion can cause monocular blindness with a cherry-red spot.",
+        "highYieldNote": "The ophthalmic artery arises from the internal carotid artery and gives rise to the central retinal artery, an end artery whose occlusion can cause monocular blindness with a cherry-red spot.",
+        "mnemonic": "ICA gives ophthalmic, then central retinal artery.",
+        "memoryAid": {
+          "coreFact": "The ophthalmic artery arises from the internal carotid artery and gives rise to the central retinal artery, an end artery whose occlusion can cause monocular blindness with a cherry-red spot.",
+          "mnemonic": "ICA gives ophthalmic, then central retinal artery.",
+          "emojiCues": [
+            "👁️",
+            "🩸",
+            "🚫"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf central retinal artery occlusion",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470354/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470354/",
+        "externalFinding": "The retinal-artery reference supports internal carotid origin of the embolic pathway."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1924-q0070",
+      "sourcePage": 1924,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1924-q0070",
+        "sourcePage": 1924,
+        "stem": "w What type of visual field defect are you most likely to see in a lesion of the parietal optic radiation: (x) Bitemporal hemianopia 2% (Vv) Contralateral homonymous inferior quadrantanopia 81%",
+        "options": [
+          "Contralateral homonymous hemianopia",
+          "Contralateral homonymous superior quadrantanopia",
+          "Homonymous hemianopia with macular sparing"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Alesion of the parietal optic radiation will result in a contralateral homonymous inferior quadrantanopia. Vv Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1924-q0070",
+        "sourcePage": 1924,
+        "stem": "What type of visual field defect are you most likely to see in a lesion of the parietal optic radiation:",
+        "options": [
+          "Bitemporal hemianopia",
+          "Contralateral homonymous inferior quadrantanopia",
+          "Contralateral homonymous hemianopia",
+          "Contralateral homonymous superior quadrantanopia",
+          "Homonymous hemianopia with macular sparing"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "A parietal optic-radiation lesion affects fibres carrying the contralateral lower visual field and causes contralateral inferior quadrantanopia.",
+        "learningNote": "A parietal optic-radiation lesion affects fibres carrying the contralateral lower visual field and causes contralateral inferior quadrantanopia.",
+        "highYieldNote": "A parietal optic-radiation lesion affects fibres carrying the contralateral lower visual field and causes contralateral inferior quadrantanopia.",
+        "mnemonic": "Parietal radiations carry the lower quadrant.",
+        "memoryAid": {
+          "coreFact": "A parietal optic-radiation lesion affects fibres carrying the contralateral lower visual field and causes contralateral inferior quadrantanopia.",
+          "mnemonic": "Parietal radiations carry the lower quadrant.",
+          "emojiCues": [
+            "👁️",
+            "⬇️",
+            "↔️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf visual-field deficits",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK10912/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK10912/",
+        "externalFinding": "The visual-field reference supports contralateral inferior quadrantanopia from parietal optic-radiation involvement."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

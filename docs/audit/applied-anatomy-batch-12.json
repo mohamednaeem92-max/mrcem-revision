@@ -1,0 +1,342 @@
+{
+  "generatedAt": "2026-08-22T16:10:35.252Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0442-q0115",
+      "sourcePage": 442,
+      "before": {
+        "stem": "Which of the following best describes the relationship of the bladder and prostate gland:",
+        "options": [
+          "The prostate gland lies anterosuperior to the bladder.",
+          "The prostate gland lies posterosuperior to the bladder.",
+          "The prostate gland lies superior to the bladder. (x) e prostate gland lies posteroinferior to the bladder. 23%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "Which statement best describes the relationship between the bladder and prostate gland?",
+        "options": [
+          "The prostate gland lies anterosuperior to the bladder.",
+          "The prostate gland lies posterosuperior to the bladder.",
+          "The prostate gland lies superior to the bladder.",
+          "The prostate gland lies inferior to the bladder.",
+          "The prostate gland lies posteroinferior to the bladder."
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK540987/",
+        "externalFinding": "The prostate lies directly inferior to the bladder."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0451-q0117",
+      "sourcePage": 451,
+      "before": {
+        "stem": "The infraduodenal region of the common bile duct: (Vv) ins in a groove posterior to the head of the pancreas. 30%",
+        "options": [
+          "lies posterior to the inferior vena cava.",
+          "lies anterior to the left renal vein.",
+          "empties into the third part of the duodenum."
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "Which statement describes the infraduodenal region of the common bile duct?",
+        "options": [
+          "Runs in a groove posterior to the head of the pancreas.",
+          "Lies posterior to the first part of the duodenum.",
+          "Lies posterior to the inferior vena cava.",
+          "Lies anterior to the left renal vein.",
+          "Empties into the third part of the duodenum."
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532912/",
+        "externalFinding": "The bile duct lies in a groove on the posterosuperior surface of the pancreatic head."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0454-q0118",
+      "sourcePage": 454,
+      "before": {
+        "stem": "ww The inguinal ligament spans between which of the following two structures:",
+        "options": [
+          "Anterior superior iliac spine and pubic tubercle",
+          "Anterior superior iliac spine and pubic symphysis 58%",
+          "Iliac crest and pubic symphysis 1%",
+          "lliac crest and pubic tubercle 1%",
+          "Anterior superior iliac spine and pubic crest 1%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The inguinal ligament spans between which two structures?",
+        "options": [
+          "Anterior superior iliac spine and pubic tubercle",
+          "Anterior superior iliac spine and pubic symphysis",
+          "Iliac crest and pubic symphysis",
+          "Iliac crest and pubic tubercle",
+          "Anterior superior iliac spine and pubic crest"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK542321/",
+        "externalFinding": "The inguinal ligament runs between the ASIS and pubic tubercle."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0461-q0120",
+      "sourcePage": 461,
+      "before": {
+        "stem": "A 65 year old lady presents to ED complaining of anal pain and bleeding. Examination reveals external haemorrhoids. Which of the following nerves carries pain sensation from the anus:",
+        "options": [
+          "Genitofemoral nerve 3%",
+          "Hypogastric nerve 2%",
+          "Pudendal nerve",
+          "Pelvic splanchnic nerve",
+          "llioinguinal nerve 2%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "A 65-year-old woman has anal pain and bleeding from external haemorrhoids. Which nerve carries pain sensation from the anus?",
+        "options": [
+          "Genitofemoral nerve",
+          "Hypogastric nerve",
+          "Pudendal nerve",
+          "Pelvic splanchnic nerve",
+          "Ilioinguinal nerve"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK554736/",
+        "externalFinding": "The pudendal inferior rectal branch carries pain from external hemorrhoids."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0465-q0121",
+      "sourcePage": 465,
+      "before": {
+        "stem": "ww The rectum starts at the rectosigmoid junction at which vertebral level: c",
+        "options": [
+          "S2 59%",
+          "S4 3%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "At which vertebral level does the rectum start at the rectosigmoid junction?",
+        "options": [
+          "L5",
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537245/",
+        "externalFinding": "The rectum starts at S3 as a continuation of the sigmoid colon."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0470-q0122",
+      "sourcePage": 470,
+      "before": {
+        "stem": "ww The sacrotuberous ligament spans between which of the following structures:",
+        "options": [
+          "Pubic ramus to the posterior iliac spine and the sacrum 51% (x) Ischial spine to the iliac crest 1%",
+          "Ischial tuberosity to the anterior superior iliac spine 4%",
+          "Ischial tuberosity to the posterior superior iliac spine and the sacrum",
+          "Ischial spine to the posterior superior iliac spine and the sacrum 4%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The sacrotuberous ligament spans between which structures?",
+        "options": [
+          "Pubic ramus to the posterior iliac spine and the sacrum",
+          "Ischial spine to the iliac crest",
+          "Ischial tuberosity to the anterior superior iliac spine",
+          "Ischial tuberosity to the posterior superior iliac spine and the sacrum",
+          "Ischial spine to the posterior superior iliac spine and the sacrum"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK493215/",
+        "externalFinding": "Sacrotuberous ligament arises from sacrum and posterior iliac spines and attaches to ischial tuberosity."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0473-q0123",
+      "sourcePage": 473,
+      "before": {
+        "stem": "ww The base of the bladder faces:",
+        "options": [
+          "Posteroinferiorly",
+          "Posterosuperiorly 10%",
+          "Anteroinferiorly 57%",
+          "Superiorly 4%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "In which direction does the base of the bladder face?",
+        "options": [
+          "Posteroinferiorly",
+          "Posterosuperiorly",
+          "Anteroinferiorly",
+          "Anterosuperiorly",
+          "Superiorly"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK531465/",
+        "externalFinding": "The fundus or base is the posteroinferior part of the bladder."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0478-q0124",
+      "sourcePage": 478,
+      "before": {
+        "stem": "ww The aorta enters the abdomen at which of the following vertebral levels:",
+        "options": [
+          "T8 54%",
+          "Ig 0%",
+          "r12",
+          "u 1%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "At which vertebral level does the aorta enter the abdomen?",
+        "options": [
+          "T8",
+          "T9",
+          "T10",
+          "T12",
+          "L1"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532972/",
+        "externalFinding": "The aorta passes the aortic hiatus at T12."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0481-q0125",
+      "sourcePage": 481,
+      "before": {
+        "stem": "Ld A 36 year old male is brought into ED complaining of fever, abdominal pain and tenderness. Imaging shows that an abdominal infection has spread retroperitoneally. Which of the following structures is most likely affected:",
+        "options": [
+          "Jejunum 1%",
+          "Head of the pancreas",
+          "Transverse colon 4%",
+          "First part of duodenum 56%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "A 36-year-old man has fever, abdominal pain, and tenderness. Imaging shows retroperitoneal spread of infection. Which listed structure is most likely affected?",
+        "options": [
+          "Jejunum",
+          "Head of the pancreas",
+          "Transverse colon",
+          "First part of duodenum",
+          "Appendix"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532912/",
+        "externalFinding": "The pancreas is a retroperitoneal gland and its head is in the duodenal C-loop."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0446-q0116",
+      "sourcePage": 446,
+      "before": {
+        "stem": "ww The body of the pancreas lies at which of the following vertebral levels:",
+        "options": [
+          "™ 7%",
+          "L2 26%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "At which vertebral level does the body of the pancreas lie?",
+        "options": [
+          "T11",
+          "T12",
+          "L1",
+          "L2",
+          "L3"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected.",
+          "Source page reviewed, but the source-marked isolated L1 level for the pancreatic body conflicts with the reviewed authoritative L1-L2 and body-over-L2 description. This record remains excluded from answer learning."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532912/",
+        "externalFinding": "The pancreas crosses L1-L2 and the body passes over L2."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

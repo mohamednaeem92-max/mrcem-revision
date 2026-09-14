@@ -1,0 +1,18 @@
+# Anatomy Batch 36 External Evidence Notes
+
+The original source page controls wording, option order, and the displayed answer mark. External sources below are used only to corroborate whether the displayed answer can be safely restored as an unapproved, mock-ineligible OCR draft.
+
+| Record | External corroboration | Decision |
+|---|---|---|
+| `p1134-q0117` | NCBI states that on its way to the descending duodenum, the bile duct lies in a groove on the posterosuperior surface of the pancreatic head or is embedded in glandular substance. A professional anatomy reference likewise describes the terminal CBD as running behind or through the pancreatic head before opening in D2. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK532912/) [Medscape](https://emedicine.medscape.com/article/1948885-overview) | Restore candidate. |
+| `p1137-q0118` | NCBI states that the obliquely arranged anteroinferior external-oblique aponeurotic fibres fold inward to form the inguinal ligament, running between the ASIS and pubic tubercle. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK542321/) | Restore candidate. |
+| `p1144-q0120` | NCBI identifies the inferior rectal branch of the pudendal nerve as carrying sensory fibres below the pectinate line and the pain of external haemorrhoids. A second NCBI reference describes somatic innervation below the pectinate line as derived from pudendal branches. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK554736/) [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK554531/) | Restore candidate. |
+| `p1148-q0121` | NCBI states that the rectum starts at S3 around the sacral promontory as a continuation of the sigmoid colon. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK537245/) | Restore candidate. |
+| `p1167-q0126` | NCBI states that the sigmoid colon becomes the rectum at the third sacral vertebral level and becomes retroperitoneal at S3. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK549824/) | Restore candidate. |
+| `p1153-q0122` | NCBI states that the sacrotuberous ligament extends from sacral transverse tubercles, posterior superior and inferior iliac spines, and upper coccyx to the ischial tuberosity. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK493215/) | Restore candidate. |
+| `p1156-q0123` | NCBI identifies the fundus, or base, as the posteroinferior part of the urinary bladder. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK531465/) | Restore candidate. |
+| `p1161-q0124` | NCBI states that the descending thoracic aorta passes through the diaphragm's aortic hiatus at T12 and continues as the abdominal aorta. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK537319/) | Restore candidate. |
+| `p1164-q0125` | NCBI describes the pancreas as retroperitoneal on the posterior abdominal wall and identifies the head within the duodenal C loop. Among the listed options, the head of pancreas is the source-confirmed retroperitoneal structure. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK532912/) | Restore candidate. |
+| `p1172-q0127` | NCBI directly defines the mesentery as a double peritoneal fold anchoring jejunum and ileum to the posterior abdominal wall. A second NCBI reference confirms the mesentery's abdominal-wall attachment function. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK459366/) [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK534788/) | Restore candidate. |
+
+**Decision summary:** all ten records have displayed source-page keys and adequate external corroboration. No automatic approval is permitted; every restoration remains an unapproved, mock-ineligible `ocr_draft`.

@@ -1,0 +1,342 @@
+{
+  "exportedAt": "2026-08-27T03:38:50.223Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-54",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1584,
+      1585,
+      1586,
+      1587,
+      1588,
+      1591,
+      1592,
+      1593,
+      1594,
+      1595
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1584-q0057",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following arteries is the terminal branch of the basilar artery:",
+      "options": [
+        "Anterior inferior cerebellar artery (x) Superior cerebellar artery ah",
+        "Posterior inferior cerebellar artery (Vv) Posterior cerebral artery 29%",
+        "Posterior spinal artery"
+      ],
+      "correctOption": null,
+      "explanation": "The posterior cerebral artery is the terminal branch of the basilar artery. , Vv Arterial Supply of Brain ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1584,
+      "sourceQuestionNumber": 57
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1585-q0058",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "w The extracranial portion of the optic nerve is supplied by which of the following blood vessels: Superficial temporal artery",
+      "options": [
+        "Facial artery",
+        "Ophthalmic artery",
+        "Anterior choroidal artery External carotid artery"
+      ],
+      "correctOption": null,
+      "explanation": "",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected.",
+        "Explanation is missing or too short after OCR parsing."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1585,
+      "sourceQuestionNumber": 58
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1586-q0058",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The extracranial portion of the optic nerve is supplied by which of the following blood vessels:",
+      "options": [
+        "Superficial temporal artery (x) Facial artery 2%",
+        "Ophthalmic artery",
+        "Anterior choroidal artery",
+        "External carotid artery"
+      ],
+      "correctOption": 1,
+      "explanation": "The extracranial portion of the optic nerve is supplied by the ophthalmic artery. : : v Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1586,
+      "sourceQuestionNumber": 58
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1587-q0059",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww What type of visual field defect are you likely to see in a lesion of the temporal optic radiation:",
+      "options": [
+        "Bitemporal hemianopia (x) Contralateral homonymous inferior quadrantanopia 1%",
+        "Contralateral homonymous hemianopia (Vv) Contralateral homonymous superior quadrantanopia 1%",
+        "Homonymous hemianopia with macular sparing"
+      ],
+      "correctOption": null,
+      "explanation": "A lesion of the temporal optic radiation will result in a contralateral homonymous superior quadrantanopia. : : v Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1587,
+      "sourceQuestionNumber": 59
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1588-q0060",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following is NOT a typical cerebellar sign:",
+      "options": [
+        "Dysmetria",
+        "Resting tremor",
+        "Hypotonia",
+        "Slurred speech"
+      ],
+      "correctOption": 1,
+      "explanation": "An intention tremor is characteristic of cerebellar dysfunction. Resting tremor may be seen in Parkinsonism. ‘ . Vv Cerebellum ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1588,
+      "sourceQuestionNumber": 60
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1591-q0061",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following clinical features would you least expect to see in a lesion of the frontal lobe:",
+      "options": [
+        "Conjugate eye deviation towards side of lesion (x) Contralateral weakness of the face and arm 5%",
+        "Loss of two-point discrimination",
+        "Personality change",
+        "Expressive dysphasia"
+      ],
+      "correctOption": 1,
+      "explanation": "Loss of two-point discrimination is most likely to occur in a lesion of the parietal lobe. Expressive dysphasia results from damage to Broca's area. Contralateral weakness of the face and arm results from damage to the primary motor cortex. Personality change results from damage to the prefrontal cortex. Conjugate eye deviation towards side of lesion results from damage to the frontal eye field. : v Frontal Lobe",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1591,
+      "sourceQuestionNumber": 61
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1592-q0062",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "th Regarding cerebrospinal fluid, which of the following statements is NOT correct:",
+      "options": [
+        "The total volume of CSF is around 130 mL.",
+        "The inferior horn of the lateral ventricle projects into the temporal lobe. Vv) The lateral ventricles are connected to the third ventricle by the cerebral aqueduct. 33%",
+        "The fourth ventricle lies within the brainstem."
+      ],
+      "correctOption": null,
+      "explanation": "The lateral ventricles are connected to the third ventricle by the interventricular foramen (of Monro). is 4 Vv Cerebral Ventricles ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1592,
+      "sourceQuestionNumber": 62
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1593-q0063",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The vertebral artery is a branch of which of the following blood vessels:",
+      "options": [
+        "Internal carotid artery",
+        "External carotid artery (Vv) Subclavian artery 56%",
+        "Brachiocephalic trunk",
+        "Thyrocervical trunk"
+      ],
+      "correctOption": null,
+      "explanation": "The vertebral artery is a branch of the subclavian artery. v Arterial Supply of Brain ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1593,
+      "sourceQuestionNumber": 63
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1594-q0064",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The internal capsule primarily contains which types of white matter fibres: Vv) Projection fibres 25%",
+      "options": [
+        "Short association fibres",
+        "Long association fibres",
+        "U-fibres"
+      ],
+      "correctOption": null,
+      "explanation": "The internal capsule is a deep subcortical structure that contains a concentration of white matter projection fibres. Projection fibres connect the cerebral cortex with the lower part of the brain or brainstem and the spinal cord, in both directions. : Vv Cerebral Hemispheres ANATOMY / CENTRAL NERVOUS SYSTEM 11 Ranimart",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1594,
+      "sourceQuestionNumber": 64
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1595-q0065",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Damage to Broca's area will most likely result in which of the following clinical features:",
+      "options": [
+        "Nystagmus",
+        "Dysarthria",
+        "Visual disturbance Vv) Expressive dysphasia 89%",
+        "Receptive dysphasia"
+      ],
+      "correctOption": null,
+      "explanation": "The Broca's speech area, in the frontal lobe of the dominant hemisphere, is the ‘expressive’ centre for the production of speech. It is connected to the Wernicke's speech area by the arcuate fasciculus. Damage to this area will result in an expressive dysphasia. Vv Frontal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1595,
+      "sourceQuestionNumber": 65
+    }
+  ]
+}

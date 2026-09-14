@@ -1,0 +1,658 @@
+{
+  "generatedAt": "2026-08-26T04:30:21.312Z",
+  "batch": "anatomy-all-pdf-batch-46",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1335-q0041",
+      "sourcePage": 1335,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1335-q0041",
+        "sourcePage": 1335,
+        "stem": "ww The renal artery is derived from which of the following blood vessels:",
+        "options": [
+          "Abdominal aorta",
+          "Coeliac trunk 5% (x) Superior mesenteric artery 3%",
+          "Inferior mesenteric artery 1%",
+          "Superior epigastric artery 1%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The renal artery arises from the abdominal aorta just inferior to the origin of the superior mesenteric artery just between vertebrae L1 and L2 and posterior to the pancreas. : Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1335-q0041",
+        "sourcePage": 1335,
+        "stem": "The renal artery is derived from which of the following blood vessels:",
+        "options": [
+          "Abdominal aorta",
+          "Coeliac trunk",
+          "Superior mesenteric artery",
+          "Inferior mesenteric artery",
+          "Superior epigastric artery"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The renal arteries arise from the abdominal aorta, inferior to the superior mesenteric artery.",
+        "learningNote": "The renal arteries arise from the abdominal aorta, inferior to the superior mesenteric artery.",
+        "highYieldNote": "The renal arteries arise from the abdominal aorta, inferior to the superior mesenteric artery.",
+        "mnemonic": "Renal arteries arise from the aorta.",
+        "memoryAid": {
+          "coreFact": "The renal arteries arise from the abdominal aorta, inferior to the superior mesenteric artery.",
+          "mnemonic": "Renal arteries arise from the aorta.",
+          "emojiCues": [
+            "🩸",
+            "🫘",
+            "➡️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK459158/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459158/",
+        "externalFinding": "NCBI confirms the renal arteries arise from the abdominal aorta."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1336-q0042",
+      "sourcePage": 1336,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1336-q0042",
+        "sourcePage": 1336,
+        "stem": "A 54 year old man presents to ED complaining of abdominal pain radiating to his back. Imaging shows a tumour at the neck of the pancreas. Which of the following structures would first receive metastatic cells from this tumour: Spleen 5%",
+        "options": [
+          "Stomach",
+          "Duodenum",
+          "Spine"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The liver would be the first structure to receive metastatic cells because they would flow through the portal venous system from the pancreas to the liver. we |e] a Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1336-q0042",
+        "sourcePage": 1336,
+        "stem": "A 54 year old man presents to ED complaining of abdominal pain radiating to his back. Imaging shows a tumour at the neck of the pancreas. Which of the following structures would first receive metastatic cells from this tumour:",
+        "options": [
+          "Spleen",
+          "Stomach",
+          "Duodenum",
+          "Liver",
+          "Spine"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Portal venous drainage from the pancreas reaches the liver first.",
+        "learningNote": "Portal venous drainage from the pancreas reaches the liver first.",
+        "highYieldNote": "Portal venous drainage from the pancreas reaches the liver first.",
+        "mnemonic": "Portal flow: pancreas to liver first.",
+        "memoryAid": {
+          "coreFact": "Portal venous drainage from the pancreas reaches the liver first.",
+          "mnemonic": "Portal flow: pancreas to liver first.",
+          "emojiCues": [
+            "🟡",
+            "➡️",
+            "🫀"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4062210/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4062210/",
+        "externalFinding": "Portal venous anatomy supports liver as the first metastatic receiving organ."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1337-q0043",
+      "sourcePage": 1337,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1337-q0043",
+        "sourcePage": 1337,
+        "stem": "ww The lateral femoral cutaneous nerve innervates which of the following:",
+        "options": [
+          "Skin over the genitalia (v’) skin over the lateral thigh 91%",
+          "Skin over the medial thigh 4%",
+          "Skin over the posterior thigh 1%",
+          "Skin over the lateral leg 3%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The lateral cutaneous nerve of the thigh (lateral femoral cutaneous nerve) is formed from the anterior rami of L2 and L3. It supplies skin on the anterior and lateral thigh to the knee. : / i Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1337-q0043",
+        "sourcePage": 1337,
+        "stem": "The lateral femoral cutaneous nerve innervates which of the following:",
+        "options": [
+          "Skin over the genitalia",
+          "Skin over the lateral thigh",
+          "Skin over the medial thigh",
+          "Skin over the posterior thigh",
+          "Skin over the lateral leg"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The lateral femoral cutaneous nerve is sensory and supplies skin over the lateral thigh.",
+        "learningNote": "The lateral femoral cutaneous nerve is sensory and supplies skin over the lateral thigh.",
+        "highYieldNote": "The lateral femoral cutaneous nerve is sensory and supplies skin over the lateral thigh.",
+        "mnemonic": "LFCN = lateral thigh sensation.",
+        "memoryAid": {
+          "coreFact": "The lateral femoral cutaneous nerve is sensory and supplies skin over the lateral thigh.",
+          "mnemonic": "LFCN = lateral thigh sensation.",
+          "emojiCues": [
+            "L2",
+            "L3",
+            "🦵"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK532301/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532301/",
+        "externalFinding": "NCBI confirms lateral-thigh sensory territory."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1338-q0044",
+      "sourcePage": 1338,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1338-q0044",
+        "sourcePage": 1338,
+        "stem": "ww The iliohypogastric nerve supplies skin over which of the following regions:",
+        "options": [
+          "Posterolateral gluteal region",
+          "Medial thigh 12%",
+          "Lateral thigh 4%",
+          "Posteromedial gluteal region 17%",
+          "Upper anterior thigh 19%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The iliohypogastric nerve is formed from the anterior rami of L1. It innervates the internal oblique and the transversus abdominis muscles and supplies posterolateral gluteal skin and skin over the pubic region. ‘ : ? Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1338-q0044",
+        "sourcePage": 1338,
+        "stem": "The iliohypogastric nerve supplies skin over which of the following regions:",
+        "options": [
+          "Posterolateral gluteal region",
+          "Medial thigh",
+          "Lateral thigh",
+          "Posteromedial gluteal region",
+          "Upper anterior thigh"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The iliohypogastric nerve arises from L1 and supplies posterolateral gluteal skin.",
+        "learningNote": "The iliohypogastric nerve arises from L1 and supplies posterolateral gluteal skin.",
+        "highYieldNote": "The iliohypogastric nerve arises from L1 and supplies posterolateral gluteal skin.",
+        "mnemonic": "Iliohypogastric: L1 to lateral gluteal skin.",
+        "memoryAid": {
+          "coreFact": "The iliohypogastric nerve arises from L1 and supplies posterolateral gluteal skin.",
+          "mnemonic": "Iliohypogastric: L1 to lateral gluteal skin.",
+          "emojiCues": [
+            "L1",
+            "🧠",
+            "🍑"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/sites/books/NBK556034/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/sites/books/NBK556034/",
+        "externalFinding": "NCBI confirms L1 origin and posterolateral gluteal supply."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1339-q0045",
+      "sourcePage": 1339,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1339-q0045",
+        "sourcePage": 1339,
+        "stem": "wy Which of the following is the most common position of the vermiform appendix:",
+        "options": [
+          "Pre-ileal 2%",
+          "Post-ileal 3%",
+          "Retrocaecal",
+          "Pelvic 4%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The most common position is retrocaecal, followed by pelvic. ; Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1339-q0045",
+        "sourcePage": 1339,
+        "stem": "Which of the following is the most common position of the vermiform appendix:",
+        "options": [
+          "Pre-ileal",
+          "Post-ileal",
+          "Subcaecal",
+          "Retrocaecal",
+          "Pelvic"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The retrocaecal position is the most common position of the appendix, followed by pelvic.",
+        "learningNote": "The retrocaecal position is the most common position of the appendix, followed by pelvic.",
+        "highYieldNote": "The retrocaecal position is the most common position of the appendix, followed by pelvic.",
+        "mnemonic": "Appendix: retrocaecal is most common.",
+        "memoryAid": {
+          "coreFact": "The retrocaecal position is the most common position of the appendix, followed by pelvic.",
+          "mnemonic": "Appendix: retrocaecal is most common.",
+          "emojiCues": [
+            "🌀",
+            "↩️",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "Source-confirmed anatomy fact",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470297/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470297/",
+        "externalFinding": "Standard appendix anatomy supports the displayed retrocaecal key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1342-q0046",
+      "sourcePage": 1342,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1342-q0046",
+        "sourcePage": 1342,
+        "stem": "A 49 year old man presents to ED with a few months history of abdominal pain, weight loss and jaundice. Imaging shows a tumour in the uncinate process of the pancreas. Which of the following structures is most likely compressed by this tumour:",
+        "options": [
+          "Cystic duct",
+          "Main pancreatic duct 23%",
+          "Superior mesenteric artery",
+          "Portal vein 16%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The uncinate process of the pancreas is a projection of the lower part of the head to the left behind the superior mesenteric vessels. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1342-q0046",
+        "sourcePage": 1342,
+        "stem": "A 49 year old man presents to ED with a few months history of abdominal pain, weight loss and jaundice. Imaging shows a tumour in the uncinate process of the pancreas. Which of the following structures is most likely compressed by this tumour:",
+        "options": [
+          "Cystic duct",
+          "Main pancreatic duct",
+          "Superior mesenteric artery",
+          "Portal vein",
+          "Splenic artery"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The uncinate process lies posterior to the superior mesenteric vessels.",
+        "learningNote": "The uncinate process lies posterior to the superior mesenteric vessels.",
+        "highYieldNote": "The uncinate process lies posterior to the superior mesenteric vessels.",
+        "mnemonic": "Uncinate hugs the SMA/SMV posteriorly.",
+        "memoryAid": {
+          "coreFact": "The uncinate process lies posterior to the superior mesenteric vessels.",
+          "mnemonic": "Uncinate hugs the SMA/SMV posteriorly.",
+          "emojiCues": [
+            "🟡",
+            "⬅️",
+            "🩸"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK532912/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532912/",
+        "externalFinding": "NCBI pancreatic relations support the superior mesenteric artery option."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1343-q0047",
+      "sourcePage": 1343,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1343-q0047",
+        "sourcePage": 1343,
+        "stem": "The lymphatics of the glans penis drain primarily to which of the following lymph nodes:",
+        "options": [
+          "Internal iliac nodes",
+          "External iliac nodes",
+          "Superficial inguinal nodes",
+          "Paraaortic nodes"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The lymphatics of the skin of the penis and prepuce drain primarily to the superficial inguinal lymph nodes. The lymphatics of the glans penis drain primarily to the deep inguinal lymph nodes. ee Py Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1343-q0047",
+        "sourcePage": 1343,
+        "stem": "The lymphatics of the glans penis drain primarily to which of the following lymph nodes:",
+        "options": [
+          "Internal iliac nodes",
+          "External iliac nodes",
+          "Superficial inguinal nodes",
+          "Deep inguinal nodes",
+          "Paraaortic nodes"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Lymphatics from the glans penis drain primarily to the deep inguinal nodes.",
+        "learningNote": "Lymphatics from the glans penis drain primarily to the deep inguinal nodes.",
+        "highYieldNote": "Lymphatics from the glans penis drain primarily to the deep inguinal nodes.",
+        "mnemonic": "Glans goes deep.",
+        "memoryAid": {
+          "coreFact": "Lymphatics from the glans penis drain primarily to the deep inguinal nodes.",
+          "mnemonic": "Glans goes deep.",
+          "emojiCues": [
+            "♂️",
+            "⬇️",
+            "🟢"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK557720/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557720/",
+        "externalFinding": "NCBI explicitly identifies deep inguinal drainage from the glans penis."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1346-q0048",
+      "sourcePage": 1346,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1346-q0048",
+        "sourcePage": 1346,
+        "stem": "ww Pain in the jejunum and ileum is typically referred to which of the following regions:",
+        "options": [
+          "Flank 2%",
+          "Epigastrium 1%",
+          "Left upper quadrant 8%",
+          "Umbilical region"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "Pain from the small jejunum and ileum (midgut structures) is referred to the periumbilical region. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1346-q0048",
+        "sourcePage": 1346,
+        "stem": "Pain in the jejunum and ileum is typically referred to which of the following regions:",
+        "options": [
+          "Flank",
+          "Epigastrium",
+          "Left upper quadrant",
+          "Right lower quadrant",
+          "Umbilical region"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Jejunal and ileal midgut visceral pain is referred to the periumbilical region.",
+        "learningNote": "Jejunal and ileal midgut visceral pain is referred to the periumbilical region.",
+        "highYieldNote": "Jejunal and ileal midgut visceral pain is referred to the periumbilical region.",
+        "mnemonic": "Midgut pain is around the umbilicus.",
+        "memoryAid": {
+          "coreFact": "Jejunal and ileal midgut visceral pain is referred to the periumbilical region.",
+          "mnemonic": "Midgut pain is around the umbilicus.",
+          "emojiCues": [
+            "🌀",
+            "⭕",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/sites/books/NBK519560/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/sites/books/NBK519560/",
+        "externalFinding": "Midgut anatomy and source explanation support the umbilical region."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1349-q0049",
+      "sourcePage": 1349,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1349-q0049",
+        "sourcePage": 1349,
+        "stem": "A75 year old man presents to ED complaining of abdominal pain radiating to his back, anorexia and weight loss. Imaging shows a large tumour of the neck of the pancreas. Which of the following structures is most likely compressed by the tumour:",
+        "options": [
+          "Inferior mesenteric artery",
+          "First part of the duodenum",
+          "Ureter",
+          "Coeliac trunk"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The portal vein is formed from the union of the superior mesenteric and splenic veins posterior to the neck of the pancreas and would most likely be compressed by a tumour at this location. oo |e a Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1349-q0049",
+        "sourcePage": 1349,
+        "stem": "A 75 year old man presents to ED complaining of abdominal pain radiating to his back, anorexia and weight loss. Imaging shows a large tumour of the neck of the pancreas. Which of the following structures is most likely compressed by the tumour:",
+        "options": [
+          "Inferior mesenteric artery",
+          "Portal vein",
+          "First part of the duodenum",
+          "Ureter",
+          "Coeliac trunk"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The portal vein forms posterior to the neck of the pancreas from the splenic and superior mesenteric veins.",
+        "learningNote": "The portal vein forms posterior to the neck of the pancreas from the splenic and superior mesenteric veins.",
+        "highYieldNote": "The portal vein forms posterior to the neck of the pancreas from the splenic and superior mesenteric veins.",
+        "mnemonic": "Portal vein forms behind the pancreatic neck.",
+        "memoryAid": {
+          "coreFact": "The portal vein forms posterior to the neck of the pancreas from the splenic and superior mesenteric veins.",
+          "mnemonic": "Portal vein forms behind the pancreatic neck.",
+          "emojiCues": [
+            "🟡",
+            "🔗",
+            "🩸"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4062210/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4062210/",
+        "externalFinding": "PMC confirms portal-vein formation behind the pancreatic neck."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1350-q0050",
+      "sourcePage": 1350,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1350-q0050",
+        "sourcePage": 1350,
+        "stem": "ww The termination of the abdominal aorta can be visualised on the anterior abdominal wall by a point:",
+        "options": [
+          "About 2.5 cm above the umbilicus 26%",
+          "About 2.5 cm below the umbilicus",
+          "Halfway between the xiphisternum and the umbilicus 3%",
+          "Halfway between the umbilicus and the pubic symphysis 8%",
+          "About 2.5 cm above the deep inguinal ring %"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The main terminal branches of the abdominal aorta are the two common iliac arteries. This bifurcation can be visualised on the anterior abdominal wall as a point approximately 2.5 cm below the umbilicus. : v",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1350-q0050",
+        "sourcePage": 1350,
+        "stem": "The termination of the abdominal aorta can be visualised on the anterior abdominal wall by a point:",
+        "options": [
+          "About 2.5 cm above the umbilicus",
+          "About 2.5 cm below the umbilicus",
+          "Halfway between the xiphisternum and the umbilicus",
+          "Halfway between the umbilicus and the pubic symphysis",
+          "About 2.5 cm above the deep inguinal ring"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The abdominal aorta bifurcates into the common iliac arteries at a surface point about 2.5 cm below the umbilicus in the source teaching.",
+        "learningNote": "The abdominal aorta bifurcates into the common iliac arteries at a surface point about 2.5 cm below the umbilicus in the source teaching.",
+        "highYieldNote": "The abdominal aorta bifurcates into the common iliac arteries at a surface point about 2.5 cm below the umbilicus in the source teaching.",
+        "mnemonic": "Aortic bifurcation: just below the umbilicus.",
+        "memoryAid": {
+          "coreFact": "The abdominal aorta bifurcates into the common iliac arteries at a surface point about 2.5 cm below the umbilicus in the source teaching.",
+          "mnemonic": "Aortic bifurcation: just below the umbilicus.",
+          "emojiCues": [
+            "🩸",
+            "⬇️",
+            "⭕"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK525964/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK525964/",
+        "externalFinding": "NCBI confirms common-iliac termination; the surface landmark follows the original source and is retained as a conventional landmark caveat."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

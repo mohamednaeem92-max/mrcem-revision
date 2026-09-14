@@ -1,0 +1,340 @@
+{
+  "exportedAt": "2026-08-22T18:15:15.001Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-22",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      650,
+      651,
+      652,
+      653,
+      654,
+      655,
+      656,
+      659,
+      660,
+      663
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0650-q0039",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Ad A79 year old man presents to ED complaining of fever and left sided abdominal and back pain. Imaging reveals a large perinephric abscess. Which of the following most likely describes the fluid location:",
+      "options": [
+        "Between the renal cortex and the renal capsule",
+        "Between the renal capsule and the perinephric fat 31%",
+        "Between the renal capsule and the renal fascia",
+        "Between the renal fascia and the paranephric fat 13%",
+        "Within the paranephric fat 3%"
+      ],
+      "correctOption": 2,
+      "explanation": "Immediately external to the renal capsule is the perinephric fat completely surrounding the kidney. Surrounding the perinephric fat is the renal fascia, and external to the renal fascia is the paranephric fat. Aperinephric abscess is located in the perinephric fat between the renal capsule and the renal fascia. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 650,
+      "sourceQuestionNumber": 39
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0651-q0040",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "we A patient is brought to ED following abdominal trauma. Your consultant performs a FAST scan in the department and identifies fluid in Morison's pouch. Where is Morison's pouch located:",
+      "options": [
+        "Left perinepatic space",
+        "Left subphrenic space 7%",
+        "Right subphrenic space 14%",
+        "Right subhepatic space",
+        "Left infracolic space 2%"
+      ],
+      "correctOption": 3,
+      "explanation": "The supracolic compartment lies above the transverse mesocolon and contains the stomach, liver and spleen. It lies largely under cover of the costal limits of the thoracic cage. The supracolic space can be arbitrarily divided into right and left supracolic spaces and subspaces. The posterior right subhepatic space (Morrison's pouch) separates the liver from the right kidney. Fluid (e.g. ascites or haemoperitoneum) accumulates here as it is the lowest dependant spaces of the peritoneal cavity from a wide range of causes. It is also a preferential site for metastases and abscesses. : 4 v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 651,
+      "sourceQuestionNumber": 40
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0652-q0041",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The renal artery is derived from which of the following blood vessels:",
+      "options": [
+        "Abdominal aorta",
+        "Coeliac trunk 5% (x) Superior mesenteric artery 3%",
+        "Inferior mesenteric artery 1%",
+        "Superior epigastric artery 1%"
+      ],
+      "correctOption": 0,
+      "explanation": "The renal artery arises from the abdominal aorta just inferior to the origin of the superior mesenteric artery just between vertebrae L1 and L2 and posterior to the pancreas. : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 652,
+      "sourceQuestionNumber": 41
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0653-q0042",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 54 year old man presents to ED complaining of abdominal pain radiating to his back. Imaging shows a tumour at the neck of the pancreas. Which of the following structures would first receive metastatic cells from this tumour: Spleen 5%",
+      "options": [
+        "Stomach",
+        "Duodenum",
+        "Spine"
+      ],
+      "correctOption": null,
+      "explanation": "The liver would be the first structure to receive metastatic cells because they would flow through the portal venous system from the pancreas to the liver. we |e] a Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 653,
+      "sourceQuestionNumber": 42
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0654-q0043",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The lateral femoral cutaneous nerve innervates which of the following:",
+      "options": [
+        "Skin over the genitalia (v’) skin over the lateral thigh 91%",
+        "Skin over the medial thigh 4%",
+        "Skin over the posterior thigh 1%",
+        "Skin over the lateral leg 3%"
+      ],
+      "correctOption": null,
+      "explanation": "The lateral cutaneous nerve of the thigh (lateral femoral cutaneous nerve) is formed from the anterior rami of L2 and L3. It supplies skin on the anterior and lateral thigh to the knee. : / i Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 654,
+      "sourceQuestionNumber": 43
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0655-q0044",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The iliohypogastric nerve supplies skin over which of the following regions:",
+      "options": [
+        "Posterolateral gluteal region",
+        "Medial thigh 12%",
+        "Lateral thigh 4%",
+        "Posteromedial gluteal region 17%",
+        "Upper anterior thigh 19%"
+      ],
+      "correctOption": 0,
+      "explanation": "The iliohypogastric nerve is formed from the anterior rami of L1. It innervates the internal oblique and the transversus abdominis muscles and supplies posterolateral gluteal skin and skin over the pubic region. ‘ : ? Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 655,
+      "sourceQuestionNumber": 44
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0656-q0045",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "wy Which of the following is the most common position of the vermiform appendix:",
+      "options": [
+        "Pre-ileal 2%",
+        "Post-ileal 3%",
+        "Retrocaecal",
+        "Pelvic 4%"
+      ],
+      "correctOption": 2,
+      "explanation": "The most common position is retrocaecal, followed by pelvic. ; Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 656,
+      "sourceQuestionNumber": 45
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0659-q0046",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 49 year old man presents to ED with a few months history of abdominal pain, weight loss and jaundice. Imaging shows a tumour in the uncinate process of the pancreas. Which of the following structures is most likely compressed by this tumour:",
+      "options": [
+        "Cystic duct",
+        "Main pancreatic duct 23%",
+        "Superior mesenteric artery",
+        "Portal vein 16%"
+      ],
+      "correctOption": 2,
+      "explanation": "The uncinate process of the pancreas is a projection of the lower part of the head to the left behind the superior mesenteric vessels. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 659,
+      "sourceQuestionNumber": 46
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0660-q0047",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The lymphatics of the glans penis drain primarily to which of the following lymph nodes:",
+      "options": [
+        "Internal iliac nodes",
+        "External iliac nodes",
+        "Superficial inguinal nodes",
+        "Paraaortic nodes"
+      ],
+      "correctOption": null,
+      "explanation": "The lymphatics of the skin of the penis and prepuce drain primarily to the superficial inguinal lymph nodes. The lymphatics of the glans penis drain primarily to the deep inguinal lymph nodes. ee Py Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 660,
+      "sourceQuestionNumber": 47
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0663-q0048",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Pain in the jejunum and ileum is typically referred to which of the following regions:",
+      "options": [
+        "Flank 2%",
+        "Epigastrium 1%",
+        "Left upper quadrant 8%",
+        "Umbilical region"
+      ],
+      "correctOption": 3,
+      "explanation": "Pain from the small jejunum and ileum (midgut structures) is referred to the periumbilical region. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 663,
+      "sourceQuestionNumber": 48
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "generatedAt": "2026-08-23T15:56:45.931Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0650-q0039",
+      "sourcePage": 650,
+      "before": {
+        "stem": "Ad A79 year old man presents to ED complaining of fever and left sided abdominal and back pain. Imaging reveals a large perinephric abscess. Which of the following most likely describes the fluid location:",
+        "options": [
+          "Between the renal cortex and the renal capsule",
+          "Between the renal capsule and the perinephric fat 31%",
+          "Between the renal capsule and the renal fascia",
+          "Between the renal fascia and the paranephric fat 13%",
+          "Within the paranephric fat 3%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "A 79-year-old man has a large perinephric abscess. Which description best identifies the fluid location?",
+        "options": [
+          "Between the renal cortex and the renal capsule",
+          "Between the renal capsule and the perinephric fat",
+          "Between the renal capsule and the renal fascia",
+          "Between the renal fascia and the paranephric fat",
+          "Within the paranephric fat"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK536936/",
+        "externalFinding": "NCBI describes a perinephric abscess in the compartment defined by the renal capsule and Gerota fascia."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0651-q0040",
+      "sourcePage": 651,
+      "before": {
+        "stem": "we A patient is brought to ED following abdominal trauma. Your consultant performs a FAST scan in the department and identifies fluid in Morison's pouch. Where is Morison's pouch located:",
+        "options": [
+          "Left perinepatic space",
+          "Left subphrenic space 7%",
+          "Right subphrenic space 14%",
+          "Right subhepatic space",
+          "Left infracolic space 2%"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "A trauma FAST scan identifies fluid in Morison's pouch. Where is Morison's pouch located?",
+        "options": [
+          "Left perihepatic space",
+          "Left subphrenic space",
+          "Right subphrenic space",
+          "Right subhepatic space",
+          "Left infracolic space"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470479/",
+        "externalFinding": "NCBI identifies Morrison pouch as the hepatorenal recess assessed during FAST."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0652-q0041",
+      "sourcePage": 652,
+      "before": {
+        "stem": "ww The renal artery is derived from which of the following blood vessels:",
+        "options": [
+          "Abdominal aorta",
+          "Coeliac trunk 5% (x) Superior mesenteric artery 3%",
+          "Inferior mesenteric artery 1%",
+          "Superior epigastric artery 1%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The renal artery is derived from which blood vessel?",
+        "options": [
+          "Abdominal aorta",
+          "Coeliac trunk",
+          "Superior mesenteric artery",
+          "Inferior mesenteric artery",
+          "Superior epigastric artery"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532972/",
+        "externalFinding": "NCBI states that renal arteries arise from the aorta."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0653-q0042",
+      "sourcePage": 653,
+      "before": {
+        "stem": "A 54 year old man presents to ED complaining of abdominal pain radiating to his back. Imaging shows a tumour at the neck of the pancreas. Which of the following structures would first receive metastatic cells from this tumour: Spleen 5%",
+        "options": [
+          "Stomach",
+          "Duodenum",
+          "Spine"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "A man has a tumour at the neck of the pancreas. Which structure would first receive metastatic cells through venous drainage?",
+        "options": [
+          "Spleen",
+          "Stomach",
+          "Duodenum",
+          "Liver",
+          "Spine"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK554589/",
+        "externalFinding": "NCBI describes portal-system drainage from the pancreas to the liver."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0654-q0043",
+      "sourcePage": 654,
+      "before": {
+        "stem": "ww The lateral femoral cutaneous nerve innervates which of the following:",
+        "options": [
+          "Skin over the genitalia (v’) skin over the lateral thigh 91%",
+          "Skin over the medial thigh 4%",
+          "Skin over the posterior thigh 1%",
+          "Skin over the lateral leg 3%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The lateral femoral cutaneous nerve innervates which skin territory?",
+        "options": [
+          "Skin over the genitalia",
+          "Skin over the lateral thigh",
+          "Skin over the medial thigh",
+          "Skin over the posterior thigh",
+          "Skin over the lateral leg"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532301/",
+        "externalFinding": "NCBI describes LFCN cutaneous sensation to the anterolateral and lateral thigh."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0655-q0044",
+      "sourcePage": 655,
+      "before": {
+        "stem": "ww The iliohypogastric nerve supplies skin over which of the following regions:",
+        "options": [
+          "Posterolateral gluteal region",
+          "Medial thigh 12%",
+          "Lateral thigh 4%",
+          "Posteromedial gluteal region 17%",
+          "Upper anterior thigh 19%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The iliohypogastric nerve supplies skin over which region?",
+        "options": [
+          "Posterolateral gluteal region",
+          "Medial thigh",
+          "Lateral thigh",
+          "Posteromedial gluteal region",
+          "Upper anterior thigh"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK545137/",
+        "externalFinding": "NCBI gives the iliohypogastric nerve sensory territory as the lateral gluteal area."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0656-q0045",
+      "sourcePage": 656,
+      "before": {
+        "stem": "wy Which of the following is the most common position of the vermiform appendix:",
+        "options": [
+          "Pre-ileal 2%",
+          "Post-ileal 3%",
+          "Retrocaecal",
+          "Pelvic 4%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Which is the most common position of the vermiform appendix?",
+        "options": [
+          "Pre-ileal",
+          "Post-ileal",
+          "Subcaecal",
+          "Retrocaecal",
+          "Pelvic"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459205/",
+        "externalFinding": "NCBI states that retrocaecal is by far the most common appendix position."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0659-q0046",
+      "sourcePage": 659,
+      "before": {
+        "stem": "A 49 year old man presents to ED with a few months history of abdominal pain, weight loss and jaundice. Imaging shows a tumour in the uncinate process of the pancreas. Which of the following structures is most likely compressed by this tumour:",
+        "options": [
+          "Cystic duct",
+          "Main pancreatic duct 23%",
+          "Superior mesenteric artery",
+          "Portal vein 16%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "A man has a tumour in the uncinate process of the pancreas. Which structure is most likely compressed?",
+        "options": [
+          "Cystic duct",
+          "Main pancreatic duct",
+          "Superior mesenteric artery",
+          "Portal vein",
+          "Splenic artery"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK519560/",
+        "externalFinding": "NCBI states that the uncinate process lies posterior to the superior mesenteric artery."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0660-q0047",
+      "sourcePage": 660,
+      "before": {
+        "stem": "The lymphatics of the glans penis drain primarily to which of the following lymph nodes:",
+        "options": [
+          "Internal iliac nodes",
+          "External iliac nodes",
+          "Superficial inguinal nodes",
+          "Paraaortic nodes"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The lymphatics of the glans penis drain primarily to which lymph nodes?",
+        "options": [
+          "Internal iliac nodes",
+          "External iliac nodes",
+          "Superficial inguinal nodes",
+          "Deep inguinal nodes",
+          "Paraaortic nodes"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557639/",
+        "externalFinding": "NCBI specifies glans-penis drainage to deep inguinal nodes."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0663-q0048",
+      "sourcePage": 663,
+      "before": {
+        "stem": "ww Pain in the jejunum and ileum is typically referred to which of the following regions:",
+        "options": [
+          "Flank 2%",
+          "Epigastrium 1%",
+          "Left upper quadrant 8%",
+          "Umbilical region"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Pain in the jejunum and ileum is typically referred to which region?",
+        "options": [
+          "Flank",
+          "Epigastrium",
+          "Left upper quadrant",
+          "Right lower quadrant",
+          "Umbilical region"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK553104/",
+        "externalFinding": "NCBI states that midgut pain is referred to the umbilicus."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

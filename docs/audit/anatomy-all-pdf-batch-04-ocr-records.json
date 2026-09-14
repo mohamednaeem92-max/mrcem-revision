@@ -1,0 +1,337 @@
+{
+  "exportedAt": "2026-08-22T14:01:05.453Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-04",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      137,
+      140,
+      143,
+      146,
+      153,
+      157,
+      161,
+      164,
+      167,
+      172
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0137-q0034",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "iv e) ww The flat anterior abdominal wall muscles are comprised of which of the following muscles: (x) The external and internal oblique muscles 2%",
+      "options": [
+        "The external, internal and innermost oblique muscles 2%",
+        "The external oblique, internal oblique and rectus abdominis muscles 21%",
+        "The external oblique, internal oblique and transversus abdominis muscles",
+        "The rectus abdominis and transversus abdominis muscles 1%"
+      ],
+      "correctOption": 2,
+      "explanation": "The external oblique, internal oblique and transversus abdominis muscles comprise the flat anterior abdominal muscles. ; Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 137,
+      "sourceQuestionNumber": 34
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0140-q0035",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 45 year old overweight patient presents to ED complaining of fever and severe right upper quadrant pain. The pain radiates to her right shoulder tip. Murphy's sign is positive and you diagnose acute cholecystitis. Which of the following nerves is responsible for the pain referred to the shoulder tip:",
+      "options": [
+        "Vagus nerve 53%",
+        "Greater thoracic splanchnic nerve 4% (x) Intercostal nerves 2%",
+        "Lesser thoracic splanchnic nerve 1%"
+      ],
+      "correctOption": null,
+      "explanation": "Inflammation of the gallbladder may present with pain in the right upper quadrant and also in the right shoulder due to irritation of the diaphragmatic peritoneum. N.B. Pain arising from structures supplied by the phrenic nerve is often referred to other somatic regions served by spinal nerves C3 - C5. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 140,
+      "sourceQuestionNumber": 35
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0143-q0036",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The pre-aortic lymph nodes receive lymph from all of the following structures EXCEPT for the:",
+      "options": [
+        "Pancreas",
+        "Spleen",
+        "Sigmoid colon"
+      ],
+      "correctOption": null,
+      "explanation": "The kidneys drain to the lumbar (para-aortic) lymph nodes. Ge c PD] Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 143,
+      "sourceQuestionNumber": 36
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0146-q0037",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The quadrate and caudate lobes of the liver are separated by which of the following structures:",
+      "options": [
+        "Ligamentum venosum",
+        "Gallbladder",
+        "Inferior vena cava"
+      ],
+      "correctOption": null,
+      "explanation": "The porta hepatis is the central intraperitoneal fissure of the liver that separates the caudate and the quadrate lobes. The porta hepatis serves as the point of entry into the liver for the hepatic arteries and portal vein, and the exit point for the hepatic ducts. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 146,
+      "sourceQuestionNumber": 37
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0153-q0038",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The superficial inguinal ring is located at which of the following sites:",
+      "options": [
+        "Just superior to the midpoint of the inguinal ligament (x) Superior to a point midway between the anterior superior iliac spine and the pubic symphysis 13%",
+        "Superior to a point midway between the anterior superior iliac spine and the pubic tubercle",
+        "Immediately lateral to the inferior epigastric vessels"
+      ],
+      "correctOption": null,
+      "explanation": "The superficial inguinal ring is located just superior to the pubic tubercle. ae a Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 153,
+      "sourceQuestionNumber": 38
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0157-q0039",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The abdominal aorta lies posterior to which of the following parts of the duodenum:",
+      "options": [
+        "First part",
+        "First and second parts",
+        "Second and third parts"
+      ],
+      "correctOption": null,
+      "explanation": "The inferior (third) part of the duodenum is the longest section, crossing the inferior vena cava, the aorta and the vertebral column at the level of vertebra L3 and lying inferior to the pancreas. The ascending (fourth) part passes upwards on, or to the left of the aorta to approximately the upper border of vertebra L2 and terminates at the duodenojejunal flexure. Geo c DP] Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 157,
+      "sourceQuestionNumber": 39
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0161-q0040",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The anterior abdominal wall muscles are innervated by:",
+      "options": [
+        "The anterior rami of L1 - L3 6%",
+        "The anterior rami of T7 - T12 and L1",
+        "The anterior rami of T12 and L1 - L4 15%",
+        "The phrenic nerve 1%",
+        "The anterior rami of T7 - T10 6%"
+      ],
+      "correctOption": 1,
+      "explanation": "The anterior abdominal wall muscles are innervated by the anterior rami of T7 - T12 and L1. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 161,
+      "sourceQuestionNumber": 40
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0164-q0041",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Regarding the appendix, which of the following statements is CORRECT:",
+      "options": [
+        "The appendix has a highly variable attachment site to the caecum.",
+        "The appendix is a retroperitoneal structure. (x) The surface projection of the base of the appendix is called Murphy's point. 71%",
+        "The subcaecal position is the most common position of the appendix."
+      ],
+      "correctOption": null,
+      "explanation": "The most common position is retrocaecal, followed by pelvic. The retrocaecal appendix is related anteriorly to the caecum and posteriorly to the psoas major and iliacus muscle. The psoas sign may be positive in retrocaecal appendicitis. Irritation of the psoas muscle (hip flexor) gives rise to pain when the patient's right thigh is extended from a flexed position as the muscle is stretched. «| se |eesr P Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 164,
+      "sourceQuestionNumber": 41
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0167-q0042",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Ld The arterial supply to the colon is derived predominantly from which of the following:",
+      "options": [
+        "Lumbar arteries 1%",
+        "Superior and inferior mesenteric arteries",
+        "Renal artery 0%",
+        "Common iliac artery 1%"
+      ],
+      "correctOption": 1,
+      "explanation": "The arterial supply to the colon is derived from the superior mesenteric artery and the inferior mesenteric artery. : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 167,
+      "sourceQuestionNumber": 42
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0172-q0043",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Which of the following is a retroperitoneal structure: Sigmoid colon 1% lleum 2% Liver 1%",
+      "options": [],
+      "correctOption": null,
+      "explanation": "The second and third parts of the duodenum are retroperitoneal. cc Py] Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "Fewer than two answer options were detected.",
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 172,
+      "sourceQuestionNumber": 43
+    }
+  ]
+}

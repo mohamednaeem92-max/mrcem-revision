@@ -1,0 +1,589 @@
+{
+  "generatedAt": "2026-08-23T18:37:08.306Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1241-q0158",
+      "sourcePage": 1241,
+      "before": {
+        "stem": "ww The oesophagus passes through the diaphragm at which vertebral level:",
+        "options": [
+          "T8 6%",
+          "19 2% () HO 86%",
+          "™m 3%",
+          "112 3%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The abdominal oesophagus emerges through the oesophageal hiatus in the diaphragm at vertebral level T10. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The oesophagus passes through the diaphragm at which vertebral level:",
+        "options": [
+          "T8",
+          "T9",
+          "T10",
+          "T11",
+          "T12"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The oesophagus traverses the oesophageal hiatus in the diaphragm at approximately T10.",
+        "learningNote": "The oesophagus traverses the oesophageal hiatus in the diaphragm at approximately T10.",
+        "highYieldNote": "The oesophagus traverses the oesophageal hiatus in the diaphragm at approximately T10.",
+        "mnemonic": "IVC 8, oesophagus 10, aorta 12.",
+        "memoryAid": {
+          "coreFact": "The oesophageal hiatus is at approximately T10.",
+          "mnemonic": "IVC 8, oesophagus 10, aorta 12.",
+          "emojiCues": [
+            "8️⃣",
+            "🔟",
+            "1️⃣2️⃣"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Anatomy, Thorax, Esophagus",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK482513/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482513/",
+        "externalFinding": "NCBI states that the oesophagus passes through the oesophageal hiatus at approximately T10."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1244-q0159",
+      "sourcePage": 1244,
+      "before": {
+        "stem": "ww A direct inguinal hernia is due to weakness in which of the following layers:",
+        "options": [
+          "External oblique aponeurosis 14%",
+          "Transversalis fascia",
+          "Internal oblique muscle 5%",
+          "Lacunar ligament 1%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "A direct inguinal hernia is due to weakness in the posterior wall of the inguinal canal which is formed mainly by the transversalis fascia. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "A direct inguinal hernia is due to weakness in which of the following layers:",
+        "options": [
+          "External oblique aponeurosis",
+          "Transversalis fascia",
+          "Transversus abdominis muscle",
+          "Internal oblique muscle",
+          "Lacunar ligament"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "A direct inguinal hernia passes through acquired weakness in the posterior wall of the inguinal canal, where transversalis fascia is the key layer.",
+        "learningNote": "A direct inguinal hernia passes through acquired weakness in the posterior wall of the inguinal canal, where transversalis fascia is the key layer.",
+        "highYieldNote": "A direct inguinal hernia passes through acquired weakness in the posterior wall of the inguinal canal, where transversalis fascia is the key layer.",
+        "mnemonic": "Direct goes through a defective posterior wall.",
+        "memoryAid": {
+          "coreFact": "Direct inguinal hernia reflects posterior-wall weakness, particularly at transversalis fascia.",
+          "mnemonic": "Direct goes through a defective posterior wall.",
+          "emojiCues": [
+            "➡️",
+            "🧱"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Inguinal Region",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470204/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470204/",
+        "externalFinding": "NCBI describes direct hernia through posterior inguinal-canal wall weakness and identifies the transversalis layer in the posterior wall."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1246-q0160",
+      "sourcePage": 1246,
+      "before": {
+        "stem": "ww The following structures are all found in the spermatic cord EXCEPT for the:",
+        "options": [
+          "Pampiniform plexus of veins 6%",
+          "Cremasteric artery 5%",
+          "Remnants of the processus vaginalis 6%",
+          "Pudendal nerve",
+          "Testicular artery 6%"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The pudendal nerve is not a component of the spermatic cord. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The following structures are all found in the spermatic cord EXCEPT for the:",
+        "options": [
+          "Pampiniform plexus of veins",
+          "Cremasteric artery",
+          "Remnants of the processus vaginalis",
+          "Pudendal nerve",
+          "Testicular artery"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The pudendal nerve is an S2–S4 perineal nerve rather than a spermatic-cord content.",
+        "learningNote": "The pudendal nerve is an S2–S4 perineal nerve rather than a spermatic-cord content.",
+        "highYieldNote": "The pudendal nerve is an S2–S4 perineal nerve rather than a spermatic-cord content.",
+        "mnemonic": "Pudendal is perineal, not corded.",
+        "memoryAid": {
+          "coreFact": "The pudendal nerve arises from S2–S4 and runs through the perineum, not within the spermatic cord.",
+          "mnemonic": "Pudendal is perineal, not corded.",
+          "emojiCues": [
+            "S2️⃣",
+            "S4️⃣"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Pudendal Nerve",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK554736/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK554736/",
+        "externalFinding": "NCBI describes the pudendal nerve as an S2-S4 nerve that exits the pelvis and runs through the pudendal canal."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1249-q0161",
+      "sourcePage": 1249,
+      "before": {
+        "stem": "wy A565 year old woman presents to ED complaining of abdominal pain and profuse vomiting. Imaging shows part of the bowel is being compressed between the abdominal aorta and the superior mesenteric artery. Which part of the bowel is most likely being affected:",
+        "options": [
+          "First part of the duodenum 17% (/) Third part of the duodenum 48%",
+          "lleum 4%",
+          "Jejunum 7%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The third part of the duodenum lies anterior to the abdominal aorta but posterior to the superior mesenteric artery and constriction between these structures can occur readily. : : Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "A 55 year old woman presents to ED complaining of abdominal pain and profuse vomiting. Imaging shows part of the bowel is being compressed between the abdominal aorta and the superior mesenteric artery. Which part of the bowel is most likely being affected:",
+        "options": [
+          "First part of the duodenum",
+          "Second part of the duodenum",
+          "Third part of the duodenum",
+          "Ileum",
+          "Jejunum"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Superior mesenteric artery syndrome compresses the third part of the duodenum between the aorta posteriorly and the superior mesenteric artery anteriorly.",
+        "learningNote": "Superior mesenteric artery syndrome compresses the third part of the duodenum between the aorta posteriorly and the superior mesenteric artery anteriorly.",
+        "highYieldNote": "Superior mesenteric artery syndrome compresses the third part of the duodenum between the aorta posteriorly and the superior mesenteric artery anteriorly.",
+        "mnemonic": "SMA squeezes D3 against the aorta.",
+        "memoryAid": {
+          "coreFact": "The third duodenum lies in the aortomesenteric angle and is compressed in SMA syndrome.",
+          "mnemonic": "SMA squeezes D3 against the aorta.",
+          "emojiCues": [
+            "3️⃣",
+            "🗜️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Superior Mesenteric Artery Syndrome",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK482209/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482209/",
+        "externalFinding": "NCBI states that SMA syndrome compresses the third part of the duodenum between the aorta and SMA."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1250-q0162",
+      "sourcePage": 1250,
+      "before": {
+        "stem": "The inferior vena cava leaves the abdomen at which of the following vertebral levels:",
+        "options": [
+          "T6 16%",
+          "T10 49%",
+          "u 2%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The inferior vena cava ascends through the posterior abdominal region anterior to the vertebral column immediately to the right of the abdominal aorta, and continues superiorly, leaving the abdomen by piercing the diaphragm at the level of vertebra T8. ; Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The inferior vena cava leaves the abdomen at which of the following vertebral levels:",
+        "options": [
+          "T6",
+          "T8",
+          "T10",
+          "T12",
+          "L1"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The inferior vena cava passes through the central tendon of the diaphragm at approximately T8.",
+        "learningNote": "The inferior vena cava passes through the central tendon of the diaphragm at approximately T8.",
+        "highYieldNote": "The inferior vena cava passes through the central tendon of the diaphragm at approximately T8.",
+        "mnemonic": "IVC at 8, oesophagus at 10, aorta at 12.",
+        "memoryAid": {
+          "coreFact": "The IVC crosses the diaphragm through the caval opening at approximately T8.",
+          "mnemonic": "IVC at 8, oesophagus at 10, aorta at 12.",
+          "emojiCues": [
+            "8️⃣",
+            "🫀"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Inferior Vena Cava",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK482353/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482353/",
+        "externalFinding": "NCBI states that the IVC passes through the central diaphragm tendon around T8."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1254-q0163",
+      "sourcePage": 1254,
+      "before": {
+        "stem": "Abdomen A75 year old man presents to ED complaining of abdominal pain radiating to his back, anorexia and weight loss. Imaging shows a large tumour of the neck of the pancreas. Which of the following structures is most likely compressed by the tumour:",
+        "options": [
+          "Inferior mesenteric artery 7h",
+          "Ureter",
+          "Coeliac trunk 7h"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The portal vein is formed from the union of the superior mesenteric and splenic veins posterior to the neck of the pancreas and would most likely be compressed by a tumour at this location.",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "A 75 year old man presents to ED complaining of abdominal pain radiating to his back, anorexia and weight loss. Imaging shows a large tumour of the neck of the pancreas. Which of the following structures is most likely compressed by the tumour:",
+        "options": [
+          "Inferior mesenteric artery",
+          "Portal vein",
+          "First part of the duodenum",
+          "Ureter",
+          "Coeliac trunk"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The portal vein forms posterior to the pancreatic neck from the splenic and superior mesenteric veins, making it vulnerable to a neck mass.",
+        "learningNote": "The portal vein forms posterior to the pancreatic neck from the splenic and superior mesenteric veins, making it vulnerable to a neck mass.",
+        "highYieldNote": "The portal vein forms posterior to the pancreatic neck from the splenic and superior mesenteric veins, making it vulnerable to a neck mass.",
+        "mnemonic": "Portal vein sits behind the pancreatic neck.",
+        "memoryAid": {
+          "coreFact": "The portal vein forms behind the neck of the pancreas from the splenic and superior mesenteric veins.",
+          "mnemonic": "Portal vein sits behind the pancreatic neck.",
+          "emojiCues": [
+            "🔙",
+            "🩸"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "PMC: Portal Venous System and Its Tributaries",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4062210/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4062210/",
+        "externalFinding": "A peer-reviewed review states that the portal vein forms behind the neck of the pancreas."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1255-q0164",
+      "sourcePage": 1255,
+      "before": {
+        "stem": "Abdomen The following structures are all found in the spermatic cord except for the:",
+        "options": [
+          "Ductus deferens Branch of the inferior vesical artery 16% Cremasteric vein 2% Branch of the genitofemoral nerve Th"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Fewer than two answer options were detected.",
+          "No marked correct option was detected."
+        ],
+        "explanation": "The inferior epigastric artery is not a component of the spermatic cord. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The following structures are all found in the spermatic cord except for the:",
+        "options": [
+          "Ductus deferens",
+          "Branch of the inferior vesical artery",
+          "Cremasteric vein",
+          "Branch of the genitofemoral nerve",
+          "Inferior epigastric artery"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The spermatic cord contains the ductus deferens, vessels, and nerves; the deferential artery comes from the inferior vesical artery, while the inferior epigastric artery itself is not a cord content.",
+        "learningNote": "The spermatic cord contains the ductus deferens, vessels, and nerves; the deferential artery comes from the inferior vesical artery, while the inferior epigastric artery itself is not a cord content.",
+        "highYieldNote": "The spermatic cord contains the ductus deferens, vessels, and nerves; the deferential artery comes from the inferior vesical artery, while the inferior epigastric artery itself is not a cord content.",
+        "mnemonic": "Cord carries branches, not the inferior epigastric trunk.",
+        "memoryAid": {
+          "coreFact": "The spermatic cord contains the ductus deferens, vessels, and nerves; the inferior epigastric artery is not itself a cord content.",
+          "mnemonic": "Cord carries branches, not the inferior epigastric trunk.",
+          "emojiCues": [
+            "🧵",
+            "❌"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Acute Scrotum Pain",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470335/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470335/",
+        "externalFinding": "NCBI identifies deferential and cremasteric arterial branches and describes vascular structures, vas deferens, and nerves within the spermatic cord."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1258-q0167",
+      "sourcePage": 1258,
+      "before": {
+        "stem": "Abdomen The sacrospinous ligament spans between which of the following structures:",
+        "options": [
+          "The anterior superior iliac spine to the sacrum and coccyx (x) jac spine to the sacrum and coccyx 20%",
+          "The ischial tuberosity to the sacrum and coccyx \"1%",
+          "The pubic arch to the sacrum and coccyx"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The sacrospinous ligament is triangular with its apex attached to the ischial spine and its base attached to the related margins of the sacrum and coccyx. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The sacrospinous ligament spans between which of the following structures:",
+        "options": [
+          "The anterior superior iliac spine to the sacrum and coccyx",
+          "The posterior superior iliac spine to the sacrum and coccyx",
+          "The ischial tuberosity to the sacrum and coccyx",
+          "The ischial spine to the sacrum and coccyx",
+          "The pubic arch to the sacrum and coccyx"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The sacrospinous ligament has a broad attachment to the lower sacrum and upper coccyx and narrows to the ischial spine.",
+        "learningNote": "The sacrospinous ligament has a broad attachment to the lower sacrum and upper coccyx and narrows to the ischial spine.",
+        "highYieldNote": "The sacrospinous ligament has a broad attachment to the lower sacrum and upper coccyx and narrows to the ischial spine.",
+        "mnemonic": "SacroSPINOUS reaches the ischial SPINE.",
+        "memoryAid": {
+          "coreFact": "The sacrospinous ligament attaches between the lower sacrum and upper coccyx and the ischial spine.",
+          "mnemonic": "SacroSPINOUS reaches the ischial SPINE.",
+          "emojiCues": [
+            "📍",
+            "🦴"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Pelvic Ligaments",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK493215/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK493215/",
+        "externalFinding": "NCBI states that the sacrospinous ligament attaches from the lower sacrum and upper coccyx to the ischial spine."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1256-q0165",
+      "sourcePage": 1256,
+      "before": {
+        "stem": "Abdomen The quadratus |umborum muscle is innervated by which of the following:",
+        "options": [
+          "lliohypogastric nerve",
+          "Anterior rami of L2 - L4",
+          "Anterior rami of T9 - 712"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The quadratus lumborum muscles are innervated by the anterior rami of T12 and L1 - L4. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The quadratus lumborum muscle is innervated by which of the following:",
+        "options": [
+          "Iliohypogastric nerve",
+          "Ilioinguinal nerve",
+          "Anterior rami of L2 - L4",
+          "Anterior rami of T9 - T12",
+          "Anterior rami of T12 - L4"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but authoritative anatomy names the 12th thoracic intercostal, iliohypogastric, and ilioinguinal nerves rather than uniquely corroborating the source's broad T12-L4 range; no answer is inferred."
+        ],
+        "explanation": "NCBI names the 12th thoracic intercostal, iliohypogastric, and ilioinguinal nerves for quadratus lumborum innervation.",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK535407/",
+        "externalFinding": "NCBI names the 12th thoracic intercostal, iliohypogastric, and ilioinguinal nerves for quadratus lumborum innervation."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1257-q0166",
+      "sourcePage": 1257,
+      "before": {
+        "stem": "Abdomen Visceral afferent fibres from the pancreas travel to which of the following spinal cord levels:",
+        "options": [
+          "11-12",
+          "T4-16 oe",
+          "q0= 112 @)"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Visceral afferent fibres travel in the greater and lesser splanchnic nerves. The segmental level of innervation is T6 - T10. Pain typically radiates to the middle of the back due to irritation of the parietal peritoneum covering the pancreas. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "Visceral afferent fibres from the pancreas travel to which of the following spinal cord levels:",
+        "options": [
+          "T1 - T2",
+          "T4 - T6",
+          "T6 - T10",
+          "T10 - T12",
+          "T12 - L2"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but a pancreas-specialist reference places pancreatic spinal afferent neuron cell bodies at T6-L2, conflicting with the source's unqualified T6-T10 visceral-afferent range; no answer is inferred."
+        ],
+        "explanation": "Pancreapedia reports pancreatic spinal afferent neuron cell bodies in T6-L2 dorsal root ganglia.",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "evidence": {
+        "externalSource": "https://pancreapedia.org/reviews/neural-control-of-pancreas",
+        "externalFinding": "Pancreapedia reports pancreatic spinal afferent neuron cell bodies in T6-L2 dorsal root ganglia."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

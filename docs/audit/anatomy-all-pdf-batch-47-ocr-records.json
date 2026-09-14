@@ -1,0 +1,339 @@
+{
+  "exportedAt": "2026-08-26T04:33:48.999Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-47",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1351,
+      1352,
+      1353,
+      1354,
+      1355,
+      1356,
+      1357,
+      1358,
+      1359,
+      1360
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1351-q0051",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The iliacus muscle is innervated by which of the following:",
+      "options": [
+        "lliohypogastric nerve Bevin",
+        "Genitofemoral nerve 2%",
+        "Anterior rami of L1- L3 54%"
+      ],
+      "correctOption": null,
+      "explanation": "The iliacus muscle is innervated by branches of the femoral nerve. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1351,
+      "sourceQuestionNumber": 51
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1352-q0052",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The inferior vena cava is formed from the union of the two common iliac veins at which of the following vertebral levels:",
+      "options": [
+        "u 48%",
+        "IES) 6%",
+        "L4 25%"
+      ],
+      "correctOption": null,
+      "explanation": "It is formed from the union of the two common iliac veins at the level of vertebra L5, just to the right of the midline. i . v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1352,
+      "sourceQuestionNumber": 52
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1353-q0053",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Which of the following structures does NOT pass through the inguinal canal:",
+      "options": [
+        "Genital branch of genitofemoral nerve",
+        "llioinguinal nerve 5%",
+        "Spermatic cord 2%",
+        "Round ligament 6%",
+        "Inferior epigastric artery"
+      ],
+      "correctOption": 4,
+      "explanation": "The inferior epigastric artery does not pass through the inguinal canal. The inguinal canal contains: e the genital branch of the genitofemoral nerve (within the spermatic cord in men) e the spermatic cord in men e the round ligament in women e the ilioinguinal nerve (passes through part of the canal, exiting the superficial inguinal ring with the other contents) . / Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1353,
+      "sourceQuestionNumber": 53
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1354-q0054",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "w The spleen occupies which of the following abdominal regions:",
+      "options": [
+        "Right hypochondrium",
+        "Left hypochondrium",
+        "Epigastrium 1%",
+        "Left hypochondrium and epigastrium 10%",
+        "Left hypochondrium and left flank \"1%"
+      ],
+      "correctOption": 1,
+      "explanation": "The spleen lies in the left hypochondrium of the abdomen. . Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1354,
+      "sourceQuestionNumber": 54
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1355-q0055",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The ejaculatory duct is formed by the union of which of the following structures:",
+      "options": [
+        "Ductus deferens and the prostatic urethra 4%",
+        "Ductus deferens and the epididymis 3%",
+        "Ductus deferens and prostatic ducts 171%",
+        "Ductus deferens and duct from the seminal vesicle",
+        "Prostatic ducts and duct from seminal vesicle 48%"
+      ],
+      "correctOption": 3,
+      "explanation": "The ejaculatory duct is formed where the duct from the seminal vesicle joins the ductus deferens. The ejaculatory duct penetrates through the prostate gland to connect with the prostatic urethra. v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1355,
+      "sourceQuestionNumber": 55
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1356-q0056",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Regarding the female urethra, which of the following statements is CORRECT:",
+      "options": [
+        "The urethra is longer in women than it is in men. 1%",
+        "The urethra begins at the apex of the bladder. 10%",
+        "The urethra opens in the vestibule that lies between the labia minora.",
+        "The inferior aspect of the urethra is bound to the posterior surface of the vagina. 4%",
+        "The internal urethral sphincter surrounds the urethra as it passes through the pelvic floor. 13%"
+      ],
+      "correctOption": 2,
+      "explanation": "In women the urethra is short (about 4 cm long), beginning at the base of the bladder. It passes inferiorly through the urogenital diaphragm into the perineum before opening in the vestibule that lies between the labia minora. The inferior aspect of the urethra is bound to the anterior surface of the vagina and the urethral opening is anterior to the vaginal opening in the vestibule. The external urethral sphincter surrounds the urethra as it passes through the pelvic floor. 7 v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1356,
+      "sourceQuestionNumber": 56
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1357-q0057",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The arterial supply of the duodenum is primarily derived from which of the following:",
+      "options": [
+        "Superior mesenteric and inferior mesenteric artery 7%",
+        "Inferior mesenteric artery 1%",
+        "Left gastric artery and splenic artery 13%",
+        "Left gastric and superior mesenteric artery 13%",
+        "Gastroduodenal and superior mesenteric artery"
+      ],
+      "correctOption": 4,
+      "explanation": "The arterial supply of the duodenum is primarily from the pancreaticoduodenal arteries, branches of the superior mesenteric artery and the gastroduodenal artery (branch of the common hepatic artery from the coeliac trunk). ° “ v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1357,
+      "sourceQuestionNumber": 57
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1358-q0058",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The union of the common bile duct and the pancreatic duct forms which of the following: Cystic duct (x) Hepatic duct Sphincter of Oddi Major papilla",
+      "options": [
+        "Ampulla of Vater"
+      ],
+      "correctOption": 0,
+      "explanation": "As the common bile duct descends, it passes posterior to the first part of the duodenum before joining with the pancreatic duct from the pancreas, forming the hepatopancreatic ampulla (ampulla of Vater) at the major duodenal papilla, located in the second part of the duodenum.",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "Fewer than two answer options were detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1358,
+      "sourceQuestionNumber": 58
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1359-q0059",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 29 year old man presents to ED with a painful lump in his left groin. Which of the following structures can be used to differentiate between a direct and an indirect inguinal hernia:",
+      "options": [
+        "Inguinal ligament 58% rove",
+        "Inferior epigastric vessels",
+        "Pubic symphysis 3%",
+        "Femoral artery 2%"
+      ],
+      "correctOption": 1,
+      "explanation": "A direct inguinal hernia (in contrast to an indirect inguinal hernia) does not pass through the deep inguinal ring but directly through the posterior wall of the inguinal canal, through the lower portion of the inguinal triangle which is bordered laterally by the inferior epigastric vessels. Therefore an indirect inguinal hernia is lateral to the inferior epigastric vessels, but a direct inguinal hernia is medial to these vessels. , Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1359,
+      "sourceQuestionNumber": 59
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1360-q0060",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The inferior vena cava lies posterior to which of the following parts of the duodenum:",
+      "options": [
+        "Second part (x) hird and fourth parts 1% (v’) First and third parts 20%",
+        "First and second parts 6%",
+        "Second and third parts 57%"
+      ],
+      "correctOption": null,
+      "explanation": "The superior (first) part extends from the pyloric orifice of the stomach to the neck of the gallbladder, lies just to the right of the body of vertebra L1, and passes anterior to the inferior vena cava and superior to the head of the pancreas. The inferior (third) part is the longest section, crossing the inferior vena cava, the aorta and the vertebral column at the level of vertebra L3 and lying inferior to the pancreas. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1360,
+      "sourceQuestionNumber": 60
+    }
+  ]
+}

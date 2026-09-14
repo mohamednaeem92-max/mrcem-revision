@@ -1,0 +1,345 @@
+{
+  "generatedAt": "2026-08-22T16:24:59.210Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0484-q0126",
+      "sourcePage": 484,
+      "before": {
+        "stem": "ww The sigmoid colon extends as low as which of the following vertebral levels:",
+        "options": [
+          "L5 1%",
+          "s1 18%",
+          "s2 18%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "The sigmoid colon extends as low as which vertebral level?",
+        "options": [
+          "L4",
+          "L5",
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470577/",
+        "externalFinding": "The sigmoid colon becomes the rectum at S3."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0489-q0127",
+      "sourcePage": 489,
+      "before": {
+        "stem": "ww The mesentery connects which of the following structures to the posterior abdominal wall:",
+        "options": [
+          "Transverse colon 62%",
+          "Stomach 3%",
+          "Jejunum and ileum",
+          "Duodenum 5%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The mesentery connects which structures to the posterior abdominal wall?",
+        "options": [
+          "Transverse colon",
+          "Stomach",
+          "Jejunum and ileum",
+          "Duodenum",
+          "Liver"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459366/",
+        "externalFinding": "Mesentery anchors jejunum and ileum to posterior abdominal wall."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0493-q0128",
+      "sourcePage": 493,
+      "before": {
+        "stem": "ww The third part of the duodenum lies at which of the following vertebral levels:",
+        "options": [
+          "T12",
+          "u 5%",
+          "L4"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "At which vertebral level does the third part of the duodenum lie?",
+        "options": [
+          "T12",
+          "L1",
+          "L2",
+          "L3",
+          "L4"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459366/",
+        "externalFinding": "The duodenum descends to L3; its third part is horizontal."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0497-q0129",
+      "sourcePage": 497,
+      "before": {
+        "stem": "ww The lumbar plexus forms within which of the following muscles:",
+        "options": [
+          "Rectus abdominis 4%",
+          "Pyramidalis 3%",
+          "lliacus 5%",
+          "Quadratus lumborum 7%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "The lumbar plexus forms within which muscle?",
+        "options": [
+          "Rectus abdominis",
+          "Pyramidalis",
+          "Psoas major",
+          "Iliacus",
+          "Quadratus lumborum"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557605/",
+        "externalFinding": "Lumbar-plexus branches traverse or emerge from psoas major."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0498-q0130",
+      "sourcePage": 498,
+      "before": {
+        "stem": "ww The ejaculatory ducts open into which of the following structures:",
+        "options": [
+          "Prostate 3%",
+          "Preprostatic urethra 10%",
+          "Prostatic urethra",
+          "Spongy urethra 3%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The ejaculatory ducts open into which structure?",
+        "options": [
+          "Prostate",
+          "Preprostatic urethra",
+          "Prostatic urethra",
+          "Membranous urethra",
+          "Spongy urethra"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK562291/",
+        "externalFinding": "Ejaculatory ducts empty into the prostatic urethra."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0505-q0132",
+      "sourcePage": 505,
+      "before": {
+        "stem": "w The pancreas occupies which of the following abdominal regions:",
+        "options": [
+          "Left hypochondrium and left flank 1%",
+          "Left hypochondrium 2%",
+          "Left hypochondrium and epigastrium",
+          "Epigastrium and umbilicus"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The pancreas occupies which abdominal regions?",
+        "options": [
+          "Left hypochondrium and left flank",
+          "Left hypochondrium",
+          "Right hypochondrium and epigastrium",
+          "Left hypochondrium and epigastrium",
+          "Epigastrium and umbilicus"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK553104/",
+        "externalFinding": "The nine-region scheme lists pancreas in epigastrium and left hypochondrium."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0511-q0134",
+      "sourcePage": 511,
+      "before": {
+        "stem": "The second part of the duodenum extends between which of the following vertebral levels:",
+        "options": [
+          "112-11",
+          "L1-L2",
+          "a2 = L2"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "Between which vertebral levels does the second part of the duodenum extend?",
+        "options": [
+          "T12-L1",
+          "L1-L3",
+          "L1-L2",
+          "T12-L2",
+          "L2-L3"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459366/",
+        "externalFinding": "The duodenum runs from L1 down to L3."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0512-q0135",
+      "sourcePage": 512,
+      "before": {
+        "stem": "ww Visceral afferent fibres from the testes usually travel to which of the following spinal cord levels: (v 10-14 40%",
+        "options": [
+          "9-112",
+          "11-13 17%",
+          "L2-L4 14%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "Visceral afferent fibres from the testes usually travel to which spinal cord levels?",
+        "options": [
+          "T10-L1",
+          "T9-T12",
+          "L1-L3",
+          "L2-L4",
+          "S3-S4"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5503924/",
+        "externalFinding": "Testicular autonomic innervation is 90% sympathetic from T10-L1."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0500-q0131",
+      "sourcePage": 500,
+      "before": {
+        "stem": "Which of the following best describes the regions of the abdomen that the stomach occupies: @",
+        "options": [
+          "Left hypochondrium",
+          "Epigastric, umbilical and left hypochondriac regions",
+          "Epigastric region and left hypochondrium",
+          "Epigastric and right and left hypochondriac regions"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Which statement best describes the abdominal regions occupied by the stomach?",
+        "options": [
+          "Epigastric region",
+          "Left hypochondrium",
+          "Epigastric, umbilical and left hypochondriac regions",
+          "Epigastric region and left hypochondrium",
+          "Epigastric and right and left hypochondriac regions"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "Source page reviewed, but the exact three-region stomach formulation is not precisely corroborated by the reviewed external anatomy source. This record remains excluded from answer learning."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK553104/",
+        "externalFinding": "The reviewed nine-region source does not precisely support the full source formulation."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0506-q0133",
+      "sourcePage": 506,
+      "before": {
+        "stem": "ww Visceral afferent fibres from the descending and sigmoid colon travel to which of the following spinal cord segments:",
+        "options": [
+          "16-18 a",
+          "T8- 110 oe (vi 12 41%",
+          "L3-L4"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "Visceral afferent fibres from the descending and sigmoid colon travel to which spinal cord segments?",
+        "options": [
+          "T6-T8",
+          "T8-T10",
+          "T10-T12",
+          "L1-L2",
+          "L3-L4"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected.",
+          "Source page reviewed, but the source-marked lumbar-splanchnic L1-L2 formulation conflicts with the reviewed external pathway description for descending and sigmoid-colon visceral afferents. This record remains excluded from answer learning."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK560504/",
+        "externalFinding": "Pelvic splanchnic nerves carry visceral afferents from descending and sigmoid colon."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

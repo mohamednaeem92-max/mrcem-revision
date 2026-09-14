@@ -1,0 +1,661 @@
+{
+  "generatedAt": "2026-08-27T21:12:18.224Z",
+  "batch": "anatomy-all-pdf-batch-71",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1925-q0071",
+      "sourcePage": 1925,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1925-q0071",
+        "sourcePage": 1925,
+        "stem": "ww Transection of the anterolateral tract of the spinal cord results in which of the following clinical features:",
+        "options": [
+          "Cerebellar incoordination (Vv) Loss of pain and temperature sensation 1%",
+          "Loss of proprioception",
+          "Loss of vibration and fine-touch sensation",
+          "Complete flaccid paralysis"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Transection of the anterolateral tract results in contralateral loss of pain and temperature sensations, starting one segment below the lesion. . v Spinal Cord Tracts ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1925-q0071",
+        "sourcePage": 1925,
+        "stem": "Transection of the anterolateral tract of the spinal cord results in which of the following clinical features:",
+        "options": [
+          "Cerebellar incoordination",
+          "Loss of pain and temperature sensation",
+          "Loss of proprioception",
+          "Loss of vibration and fine-touch sensation",
+          "Complete flaccid paralysis"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The anterolateral/spinothalamic system carries pain and temperature; interruption produces a contralateral deficit beginning below the lesion.",
+        "learningNote": "The anterolateral/spinothalamic system carries pain and temperature; interruption produces a contralateral deficit beginning below the lesion.",
+        "highYieldNote": "The anterolateral/spinothalamic system carries pain and temperature; interruption produces a contralateral deficit beginning below the lesion.",
+        "mnemonic": "Anterolateral carries pain and temperature.",
+        "memoryAid": {
+          "coreFact": "The anterolateral/spinothalamic system carries pain and temperature; interruption produces a contralateral deficit beginning below the lesion.",
+          "mnemonic": "Anterolateral carries pain and temperature.",
+          "emojiCues": [
+            "🔥",
+            "❄️",
+            "↔️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf spinothalamic tract",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK545145/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK545145/",
+        "externalFinding": "The spinothalamic tract reference supports pain and temperature loss after anterolateral tract injury."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1926-q0072",
+      "sourcePage": 1926,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1926-q0072",
+        "sourcePage": 1926,
+        "stem": "ww A 65 year old lady presents to ED complaining of sudden onset visual loss. On examination you demonstrate visual loss on the right side of the vertical midline with macular sparing in both eyes. Which of the following blood vessels is most likely occluded:",
+        "options": [
+          "Posterior communicating artery",
+          "Posterior inferior cerebellar artery",
+          "Posterior cerebral artery",
+          "Anterior cerebral artery",
+          "Middle cerebral artery"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The posterior cerebral artery supplies blood to the visual cortex in the occipital lobe. A lesion to this area will result in a contralateral homonymous hemianopia with macular sparing. . Vv Arterial Supply of Brain",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1926-q0072",
+        "sourcePage": 1926,
+        "stem": "A 65 year old lady presents to ED complaining of sudden onset visual loss. On examination you demonstrate visual loss on the right side of the vertical midline with macular sparing in both eyes. Which of the following blood vessels is most likely occluded:",
+        "options": [
+          "Posterior communicating artery",
+          "Posterior inferior cerebellar artery",
+          "Posterior cerebral artery",
+          "Anterior cerebral artery",
+          "Middle cerebral artery"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The posterior cerebral artery supplies the occipital visual cortex; infarction can cause contralateral homonymous hemianopia with macular sparing.",
+        "learningNote": "The posterior cerebral artery supplies the occipital visual cortex; infarction can cause contralateral homonymous hemianopia with macular sparing.",
+        "highYieldNote": "The posterior cerebral artery supplies the occipital visual cortex; infarction can cause contralateral homonymous hemianopia with macular sparing.",
+        "mnemonic": "PCA powers posterior vision.",
+        "memoryAid": {
+          "coreFact": "The posterior cerebral artery supplies the occipital visual cortex; infarction can cause contralateral homonymous hemianopia with macular sparing.",
+          "mnemonic": "PCA powers posterior vision.",
+          "emojiCues": [
+            "👁️",
+            "🧠",
+            "🩸"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf posterior cerebral artery",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK532260/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532260/",
+        "externalFinding": "The posterior-circulation reference supports PCA supply to the occipital visual cortex."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1927-q0073",
+      "sourcePage": 1927,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1927-q0073",
+        "sourcePage": 1927,
+        "stem": "ww A 65 year old lady , with a history of hypertension and diabetes mellitus, presents to ED with a 1 hour history of sudden onset of weakness and numbness solely in her left leg and foot. She is placed on the stroke pathway. Which of the following blood vessels has most likely been occluded:",
+        "options": [
+          "Middle cerebral artery",
+          "Anterior cerebral artery (x) Posterior cerebral artery 4%",
+          "Vertebral artery",
+          "Anterior choroidal artery"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The anterior cerebral artery supplies the medial cerebral hemisphere including the paracentral lobule which is formed from portions of the frontal and parietal lobes, and responsible for the motor and sensory function of the lower limb. v",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1927-q0073",
+        "sourcePage": 1927,
+        "stem": "A 65 year old lady, with a history of hypertension and diabetes mellitus, presents to ED with a 1 hour history of sudden onset of weakness and numbness solely in her left leg and foot. She is placed on the stroke pathway. Which of the following blood vessels has most likely been occluded:",
+        "options": [
+          "Middle cerebral artery",
+          "Anterior cerebral artery",
+          "Posterior cerebral artery",
+          "Vertebral artery",
+          "Anterior choroidal artery"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The anterior cerebral artery supplies the medial frontal and parietal cortex, including the paracentral lobule for contralateral lower-limb motor and sensory function.",
+        "learningNote": "The anterior cerebral artery supplies the medial frontal and parietal cortex, including the paracentral lobule for contralateral lower-limb motor and sensory function.",
+        "highYieldNote": "The anterior cerebral artery supplies the medial frontal and parietal cortex, including the paracentral lobule for contralateral lower-limb motor and sensory function.",
+        "mnemonic": "ACA = Ankle and Calf Area.",
+        "memoryAid": {
+          "coreFact": "The anterior cerebral artery supplies the medial frontal and parietal cortex, including the paracentral lobule for contralateral lower-limb motor and sensory function.",
+          "mnemonic": "ACA = Ankle and Calf Area.",
+          "emojiCues": [
+            "🦵",
+            "🩸",
+            "⬅️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf anterior cerebral artery",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK532259/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532259/",
+        "externalFinding": "The anterior cerebral artery reference supports medial hemisphere and lower-limb cortical supply."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1928-q0074",
+      "sourcePage": 1928,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1928-q0074",
+        "sourcePage": 1928,
+        "stem": "ww You are performing a full neurological examination on a patient who has presented to the ED department with generalised weakness. You note she has a unilateral absence of her triceps reflex. Which spinal nerve is primarily responsible for this reflex:",
+        "options": [
+          "cs",
+          "cs",
+          "1"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The triceps tendon reflex tap predominantly tests spinal cord segment C7. Vv Myotomes and Reflexes ANATOMY / CENTRAL NERVOUS SYSTEM / LOWER LIMB / INNERVATION OF LOWER LIMB /",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1928-q0074",
+        "sourcePage": 1928,
+        "stem": "You are performing a full neurological examination on a patient who has presented to the ED department with generalised weakness. You note she has a unilateral absence of her triceps reflex. Which spinal nerve is primarily responsible for this reflex:",
+        "options": [
+          "C5",
+          "C6",
+          "C7",
+          "C8",
+          "T1"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The triceps tendon reflex primarily tests the C7 spinal cord segment and nerve root.",
+        "learningNote": "The triceps tendon reflex primarily tests the C7 spinal cord segment and nerve root.",
+        "highYieldNote": "The triceps tendon reflex primarily tests the C7 spinal cord segment and nerve root.",
+        "mnemonic": "C7 extends the elbow and drives the triceps reflex.",
+        "memoryAid": {
+          "coreFact": "The triceps tendon reflex primarily tests the C7 spinal cord segment and nerve root.",
+          "mnemonic": "C7 extends the elbow and drives the triceps reflex.",
+          "emojiCues": [
+            "💪",
+            "🔨",
+            "7️⃣"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf deep tendon reflexes",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK562238/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK562238/",
+        "externalFinding": "The deep-tendon-reflex reference supports C7 as the principal triceps reflex segment."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1929-q0075",
+      "sourcePage": 1929,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1929-q0075",
+        "sourcePage": 1929,
+        "stem": "ww The primary visual cortex is located in which of the following regions: (/) Occipital lobe 89% (x) Parietal lobe 2%",
+        "options": [
+          "Frontal lobe",
+          "Temporal lobe",
+          "Brainstem"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The primary visual cortex is located within the occipital lobe and together with the visual association cortex is responsible for vision. ‘ . Vv Occipital Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1929-q0075",
+        "sourcePage": 1929,
+        "stem": "The primary visual cortex is located in which of the following regions:",
+        "options": [
+          "Occipital lobe",
+          "Parietal lobe",
+          "Frontal lobe",
+          "Temporal lobe",
+          "Brainstem"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The primary visual cortex is located in the occipital lobe around the calcarine sulcus.",
+        "learningNote": "The primary visual cortex is located in the occipital lobe around the calcarine sulcus.",
+        "highYieldNote": "The primary visual cortex is located in the occipital lobe around the calcarine sulcus.",
+        "mnemonic": "Occipital is the visual lobe.",
+        "memoryAid": {
+          "coreFact": "The primary visual cortex is located in the occipital lobe around the calcarine sulcus.",
+          "mnemonic": "Occipital is the visual lobe.",
+          "emojiCues": [
+            "👁️",
+            "🔙",
+            "🧠"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf visual pathway",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK10912/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK10912/",
+        "externalFinding": "The visual-pathway reference supports occipital localization of primary visual cortex."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1930-q0076",
+      "sourcePage": 1930,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1930-q0076",
+        "sourcePage": 1930,
+        "stem": "w What type of visual field defect are you likely to see in a lesion of the visual cortex:",
+        "options": [
+          "Bitemporal hemianopia",
+          "Contralateral homonymous inferior quadrantanopia",
+          "Monocular blindness (Vv) Contralateral homonymous hemianopia with macular sparing 41%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "A lesion of the visual cortex will result in a contralateral homonymous hemianopia with macular sparing. . Vv Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1930-q0076",
+        "sourcePage": 1930,
+        "stem": "What type of visual field defect are you likely to see in a lesion of the visual cortex:",
+        "options": [
+          "Bitemporal hemianopia",
+          "Contralateral homonymous inferior quadrantanopia",
+          "Monocular blindness",
+          "Contralateral homonymous superior quadrantanopia",
+          "Contralateral homonymous hemianopia with macular sparing"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "A visual-cortex lesion causes contralateral homonymous hemianopia; macular sparing may occur because the occipital pole has dual vascular supply.",
+        "learningNote": "A visual-cortex lesion causes contralateral homonymous hemianopia; macular sparing may occur because the occipital pole has dual vascular supply.",
+        "highYieldNote": "A visual-cortex lesion causes contralateral homonymous hemianopia; macular sparing may occur because the occipital pole has dual vascular supply.",
+        "mnemonic": "Cortex cuts the opposite half but often spares the macula.",
+        "memoryAid": {
+          "coreFact": "A visual-cortex lesion causes contralateral homonymous hemianopia; macular sparing may occur because the occipital pole has dual vascular supply.",
+          "mnemonic": "Cortex cuts the opposite half but often spares the macula.",
+          "emojiCues": [
+            "👁️",
+            "↔️",
+            "🎯"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf visual-field deficits",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK10912/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK10912/",
+        "externalFinding": "The visual-field reference supports contralateral homonymous hemianopia with macular sparing from visual-cortex lesions."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1931-q0001",
+      "sourcePage": 1931,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1931-q0001",
+        "sourcePage": 1931,
+        "stem": "Ww A patient complains of diplopia on reading or walking downstairs, which of the following cranial nerves is most likely to be affected: & Trochlear nerve 70%",
+        "options": [
+          "Abducens nerve 9%",
+          "Oculomotor nerve 17%",
+          "Optic nerve 2%",
+          "Ophthalmic division of the trigeminal nerve 2%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Trochlear nerve palsy causes weakness of downward gaze. The patient complains of difficulty reading or walking downstairs and of vertical diplopia. The eye is extorted and may be elevated and the patient may head tilt to the opposite side of the palsy to compensate. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1931-q0001",
+        "sourcePage": 1931,
+        "stem": "A patient complains of diplopia on reading or walking downstairs, which of the following cranial nerves is most likely to be affected:",
+        "options": [
+          "Trochlear nerve",
+          "Abducens nerve",
+          "Oculomotor nerve",
+          "Optic nerve",
+          "Ophthalmic division of the trigeminal nerve"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Trochlear nerve palsy weakens the superior oblique, causing impaired downward gaze and vertical diplopia, often noticed when reading or walking downstairs.",
+        "learningNote": "Trochlear nerve palsy weakens the superior oblique, causing impaired downward gaze and vertical diplopia, often noticed when reading or walking downstairs.",
+        "highYieldNote": "Trochlear nerve palsy weakens the superior oblique, causing impaired downward gaze and vertical diplopia, often noticed when reading or walking downstairs.",
+        "mnemonic": "SO4: superior oblique is cranial nerve IV.",
+        "memoryAid": {
+          "coreFact": "Trochlear nerve palsy weakens the superior oblique, causing impaired downward gaze and vertical diplopia, often noticed when reading or walking downstairs.",
+          "mnemonic": "SO4: superior oblique is cranial nerve IV.",
+          "emojiCues": [
+            "⬇️",
+            "👁️",
+            "4️⃣"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf trochlear nerve",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537173/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537173/",
+        "externalFinding": "The trochlear-nerve reference supports the displayed clinical pattern."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1935-q0002",
+      "sourcePage": 1935,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1935-q0002",
+        "sourcePage": 1935,
+        "stem": "A 64 year old lady complains of a sore right eye. On examination, you note a normal corneal blink reflex on her left side but no consensual blink reflex on her right side. A lesion in which of the following structures is most likely to cause this clinical picture:",
+        "options": [
+          "Ophthalmic nerve",
+          "Oculomotor nerve",
+          "Trigeminal nerve"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The corneal blink reflex is an involuntary blinking of the eyelids, mediated by the orbicularis oculi muscle, and elicited by stimulation of the cornea. The afferent pathway is the ophthalmic division of the trigeminal nerve, and the efferent pathway is the facial nerve. Loss of the consensual corneal blink reflex suggests loss of the efferent pathway on this side. ls > Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1935-q0002",
+        "sourcePage": 1935,
+        "stem": "A 64 year old lady complains of a sore right eye. On examination, you note a normal corneal blink reflex on her left side but no consensual blink reflex on her right side. A lesion in which of the following structures is most likely to cause this clinical picture:",
+        "options": [
+          "Ophthalmic nerve",
+          "Oculomotor nerve",
+          "Optic nerve",
+          "Facial nerve",
+          "Trigeminal nerve"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The corneal reflex is afferent through the ophthalmic division of CN V and efferent through CN VII; loss of the right efferent limb causes absent right consensual blink.",
+        "learningNote": "The corneal reflex is afferent through the ophthalmic division of CN V and efferent through CN VII; loss of the right efferent limb causes absent right consensual blink.",
+        "highYieldNote": "The corneal reflex is afferent through the ophthalmic division of CN V and efferent through CN VII; loss of the right efferent limb causes absent right consensual blink.",
+        "mnemonic": "V1 feels the cornea; VII closes the eye.",
+        "memoryAid": {
+          "coreFact": "The corneal reflex is afferent through the ophthalmic division of CN V and efferent through CN VII; loss of the right efferent limb causes absent right consensual blink.",
+          "mnemonic": "V1 feels the cornea; VII closes the eye.",
+          "emojiCues": [
+            "👁️",
+            "V1",
+            "VII"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf facial nerve",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK526119/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK526119/",
+        "externalFinding": "The facial-nerve reference supports CN VII as the efferent corneal-reflex pathway."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1941-q0003",
+      "sourcePage": 1941,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1941-q0003",
+        "sourcePage": 1941,
+        "stem": "Oculomotor (CN Ill) palsy with sparing of the pupillary reflex is most likely caused by which of the following:",
+        "options": [
+          "Aneurysm of the posterior communicating artery",
+          "Brainstem metastases",
+          "Cavernous sinus disease",
+          "Subdural haematoma"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Compressive causes of CN III palsy cause early pupillary dilatation because the parasympathetic fibres run peripherally in the nerve and are easily compressed. In diabetes mellitus the lesions are ischaemic rather than compressive and therefore typically affect the central fibres resulting in pupillary sparing. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1941-q0003",
+        "sourcePage": 1941,
+        "stem": "Oculomotor (CN III) palsy with sparing of the pupillary reflex is most likely caused by which of the following:",
+        "options": [
+          "Aneurysm of the posterior communicating artery",
+          "Brainstem metastases",
+          "Diabetes mellitus",
+          "Cavernous sinus disease",
+          "Subdural haematoma"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Diabetic ischemic CN III palsy typically affects central motor fibres and may spare the peripheral parasympathetic pupillary fibres; compressive lesions more often dilate the pupil.",
+        "learningNote": "Diabetic ischemic CN III palsy typically affects central motor fibres and may spare the peripheral parasympathetic pupillary fibres; compressive lesions more often dilate the pupil.",
+        "highYieldNote": "Diabetic ischemic CN III palsy typically affects central motor fibres and may spare the peripheral parasympathetic pupillary fibres; compressive lesions more often dilate the pupil.",
+        "mnemonic": "Diabetes keeps the pupil alive; compression opens it.",
+        "memoryAid": {
+          "coreFact": "Diabetic ischemic CN III palsy typically affects central motor fibres and may spare the peripheral parasympathetic pupillary fibres; compressive lesions more often dilate the pupil.",
+          "mnemonic": "Diabetes keeps the pupil alive; compression opens it.",
+          "emojiCues": [
+            "👁️",
+            "🍬",
+            "⭕"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf oculomotor nerve",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537126/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537126/",
+        "externalFinding": "The oculomotor-nerve reference supports pupil-sparing diabetic ischemic palsy."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1945-q0004",
+      "sourcePage": 1945,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1945-q0004",
+        "sourcePage": 1945,
+        "stem": "Which of the following clinical features would you most expect to see in a glossopharyngeal nerve palsy:",
+        "options": [
+          "Tongue fasciculations 4%",
+          "Loss of jaw jerk 2% Loss of gag reflex 81%",
+          "Hoarseness 2%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The glossopharyngeal nerve is the afferent pathway of the gag reflex. Tongue weakness and fasciculations may be seen in hypoglossal nerve palsy. Loss of jaw jerk may be seen in palsy of the mandibular division of the trigeminal nerve. Hoarseness and uvular deviation may been seen in vagus nerve palsy. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1945-q0004",
+        "sourcePage": 1945,
+        "stem": "Which of the following clinical features would you most expect to see in a glossopharyngeal nerve palsy:",
+        "options": [
+          "Tongue fasciculations",
+          "Uvular deviation",
+          "Loss of jaw jerk",
+          "Loss of gag reflex",
+          "Hoarseness"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "CN IX is the afferent limb of the gag reflex, so glossopharyngeal palsy can cause loss of the gag reflex; uvular deviation and hoarseness are more associated with CN X.",
+        "learningNote": "CN IX is the afferent limb of the gag reflex, so glossopharyngeal palsy can cause loss of the gag reflex; uvular deviation and hoarseness are more associated with CN X.",
+        "highYieldNote": "CN IX is the afferent limb of the gag reflex, so glossopharyngeal palsy can cause loss of the gag reflex; uvular deviation and hoarseness are more associated with CN X.",
+        "mnemonic": "IX initiates the gag; X executes the voice and palate.",
+        "memoryAid": {
+          "coreFact": "CN IX is the afferent limb of the gag reflex, so glossopharyngeal palsy can cause loss of the gag reflex; uvular deviation and hoarseness are more associated with CN X.",
+          "mnemonic": "IX initiates the gag; X executes the voice and palate.",
+          "emojiCues": [
+            "🤢",
+            "IX",
+            "X"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf glossopharyngeal nerve",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK539877/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK539877/",
+        "externalFinding": "The glossopharyngeal-nerve reference supports loss of gag reflex as the expected finding."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

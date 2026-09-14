@@ -1,0 +1,342 @@
+{
+  "exportedAt": "2026-08-22T18:02:20.823Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-21",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      634,
+      638,
+      639,
+      640,
+      641,
+      643,
+      644,
+      647,
+      648,
+      649
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0634-q0029",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Which of the following structures is NOT a posterior relation of the transverse colon:",
+      "options": [
+        "Second part of duodenum 7%",
+        "Head of pancreas 7% (x) pper end of mesentery 8%",
+        "Duodenojejunal flexure 57% (/) spleen 21%"
+      ],
+      "correctOption": null,
+      "explanation": "The transverse colon is related posteriorly to the second part of duodenum, the head of pancreas, the upper end of the mesentery, the duodenojejunal flexure and coils of jejunum and ileum. The spleen lies superior to the left colic flexure. ; , Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 634,
+      "sourceQuestionNumber": 29
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0638-q0030",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The abdominal aorta terminates as which of the following:",
+      "options": [
+        "Internal and external iliac arteries",
+        "External iliac and femoral artery 2%",
+        "Right and left common iliac arteries",
+        "Superior and inferior epigastric arteries 0%",
+        "Internal iliac and femoral artery 2%"
+      ],
+      "correctOption": 2,
+      "explanation": "The main terminal branches of the abdominal aorta are the two common iliac arteries. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 638,
+      "sourceQuestionNumber": 30
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0639-q0031",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww A79 year old patient, with a history of AF, presents to ED complaining of sudden onset severe abdominal pain. Imaging shows occlusion of the superior mesenteric artery. Which of the following structures is most likely affected:",
+      "options": [
+        "Stomach 1% (x) First part of the duodenum 10%",
+        "Jejunum and ileum",
+        "Splenic flexure 7%",
+        "Rectum 1%"
+      ],
+      "correctOption": 1,
+      "explanation": "The superior mesenteric artery supplies midgut structures including the duodenum (after the major duodenal papilla in the second part), the jejunum, the ileum, the caecum and appendix, the ascending colon and the proximal two-thirds of the transverse colon. Occlusion of the superior mesenteric artery restricts blood flow to these structures resulting in intestinal ischaemia. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 639,
+      "sourceQuestionNumber": 31
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0640-q0032",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "wy Posteriorly the spleen lies in the region of which of the following:",
+      "options": [
+        "Ribs 7 and 8 2%",
+        "Ribs 8 - 10 5% (v Ribs 9-11 35%",
+        "Ribs 10 - 12",
+        "Below the costal margin 2%"
+      ],
+      "correctOption": null,
+      "explanation": "The spleen projects onto the left side and back in the area of ribs 9 - 11. The spleen follows the contour of rib 10 and extends from the superior pole of the left kidney to just posterior to the midaxillary line. v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 640,
+      "sourceQuestionNumber": 32
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0641-q0033",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "wy The ductus deferens is derived from which of the following structures:",
+      "options": [
+        "Tunica vaginalis 17%",
+        "Ejaculatory ducts 4%",
+        "Seminal vesicle 8% (/) Epididymis fe",
+        "Rete testis 3%"
+      ],
+      "correctOption": null,
+      "explanation": "The ductus deferens continues from the tail of the epididymis. . : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 641,
+      "sourceQuestionNumber": 33
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0643-q0034",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "hd A patient presents following a fall. Imaging shows damage to the L1 nerve root. Which of the following muscles are most likely to be affected:",
+      "options": [
+        "Transversus abdominis and rectus abdominis muscles 5%",
+        "Rectus abdominis and external oblique muscles 55%",
+        "Gluteus medius and minimus muscles 71%",
+        "Transversus abdominis and internal oblique muscles",
+        "Internal and external oblique muscles"
+      ],
+      "correctOption": 3,
+      "explanation": "The ilioinguinal nerve is formed from the anterior rami of L1. It innervates the internal oblique and transversus abdominis muscles and supplies skin over the upper medial thigh and the external genitalia. . Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 643,
+      "sourceQuestionNumber": 34
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0644-q0035",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The cutaneous supply of the scrotum is derived primarily from which of the following spinal nerve roots.",
+      "options": [
+        "m0 - 11 6%",
+        "L2-L4 9%",
+        "$1-S4 12%",
+        "i4,s2-s3 se"
+      ],
+      "correctOption": 3,
+      "explanation": "The scrotum is innervated by nerves derived primarily from spinal roots L1 and S2 - S3: e anterolaterally by the genital branch of the genitofemoral nerve (L1 - L2) e anteriorly by scrotal branches of the ilioinguinal nerve (L1) ® posteriorly by scrotal branches of the perineal nerve of the pudendal nerve (S3) e inferiorly by perineal branches of the posterior femoral cutaneous nerve (S2) Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 644,
+      "sourceQuestionNumber": 35
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0647-q0036",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The kidneys extend between which of the following vertebral levels:",
+      "options": [
+        "19-112 os",
+        "12-1",
+        "LIES 9%",
+        "m2-13",
+        "L2-L5 ig"
+      ],
+      "correctOption": 3,
+      "explanation": "The position of the kidneys varies with respiration and the position of the body. In the supine position, the kidneys extend from approximately vertebra T12 superiorly to vertebra L3 inferiorly. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 647,
+      "sourceQuestionNumber": 36
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0648-q0037",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The body of the pancreas lies at which of the following vertebral levels:",
+      "options": [
+        "112 ms",
+        "e 26%",
+        "L3 3%"
+      ],
+      "correctOption": null,
+      "explanation": "The body of the pancreas is elongated and extends from the neck to the tail of the pancreas in the transpyloric plane (at the level of vertebra L1) to lie behind the stomach and to the left of the superior mesenteric vessels. ; , Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 648,
+      "sourceQuestionNumber": 37
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0649-q0038",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Regarding the uterine tubes, which of the following statements is CORRECT:",
+      "options": [
+        "The uterine tubes open into the peritoneal cavity lateral to the ovaries.",
+        "Each uterine tube is approximately 5 cm long. 4%",
+        "The opening of the uterine tube is formed by the ampulla. 56%",
+        "The infundibulum is the narrowest part of the uterine tube. 9%",
+        "Ectopic pregnancies occur most commonly in the isthmus of the uterine tube. 8%"
+      ],
+      "correctOption": 0,
+      "explanation": "Uterine tubes project laterally from the superior uterus, extending to the lateral pelvic wall, passing superior to the ovaries and opening into the peritoneal cavity immediately lateral to the ovaries. Each tube is about 10 - 12 cm long and divided into four parts. The isthmus is the narrowest part. The infundibulum is the funnel-shaped opening which curves around the superolateral pole of the ovary which opens into the peritoneal cavity. Ectopic pregnancies most commonly occur in the ampulla, the elongated part of the uterine tube. 7 : : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 649,
+      "sourceQuestionNumber": 38
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "exportedAt": "2026-08-26T04:48:08.758Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-50",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1522,
+      1528,
+      1529,
+      1530,
+      1531,
+      1532,
+      1536,
+      1537,
+      1538,
+      1542
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1522-q0016",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The brainstem comprises which of the following:",
+      "options": [
+        "Midbrain and hindbrain (x) Pons, medulla and cerebellum 10%",
+        "Thalamus and hypothalamus (Vv) Pons, medulla and midbrain 88%",
+        "Midbrain and cerebellum"
+      ],
+      "correctOption": null,
+      "explanation": "The brainstem comprises the midbrain, the pons and the medulla. : Vv Brainstem ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1522,
+      "sourceQuestionNumber": 16
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1528-q0017",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The blood supply to the temporal lobe is primarily supplied by which of the following arteries:",
+      "options": [
+        "Basilar artery",
+        "Middle cerebral artery (x) Posterior cerebral artery 2%",
+        "Anterior and middle cerebral artery (Vv) Middle and posterior cerebral artery 18%"
+      ],
+      "correctOption": null,
+      "explanation": "The blood supply to the temporal lobe is from the posterior cerebral artery (medial part of the lobe) and the middle cerebral artery (lateral part of the lobe). , Vv Temporal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM 11 Ranimart",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1528,
+      "sourceQuestionNumber": 17
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1529-q0018",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The basilar artery is formed from which of the following blood vessels:",
+      "options": [
+        "Internal carotid arteries",
+        "Anterior cerebral arteries (Vv) Vertebral arteries 45%",
+        "External carotid arteries",
+        "Middle cerebral arteries"
+      ],
+      "correctOption": null,
+      "explanation": "The basilar artery is formed by the joining of the two terminal vertebral arteries. : / v Arterial Supply of Brain ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1529,
+      "sourceQuestionNumber": 18
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1530-q0019",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "A 29 year old male racing driver has fractured a cervical vertebra. On examination, he has weakness of the right side of his body with upgoing plantars, loss of pain and temperature sensation in his left limbs, with normal fine-touch sensation over all four limbs. This clinical picture is most likely seen in a lesion of the:",
+      "options": [
+        "Anterior column, left side (x) Anterior column, right side 19% (Vv) Lateral column, right side 46%",
+        "Lateral column, left side",
+        "Posterior column, right side"
+      ],
+      "correctOption": null,
+      "explanation": "The lesion is likely affecting the corticospinal and lateral spinothalamic tracts in the lateral column. Motor power of the limbs is mediated by the ipsilateral corticospinal tract, and pain and temperature sensation is mediated by the contralateral spinothalamic tract, therefore the lesion is likely on the right side. The posterior column is spared, as fine-touch sensation is normal throughout. v Spinal Cord Tracts",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1530,
+      "sourceQuestionNumber": 19
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1531-q0020",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww A 65 year old man has resting tremor, rigidity, bradykinesia and a shuffling gait. Parkinson's disease results from which of the following mechanisms:",
+      "options": [
+        "Avascular lesion of the subthalamic nucleus Vv) Loss of dopaminergic neurons in the substantia nigra 93% (x) Loss of serotonergic neurons in the globus pallidus and red nucleus 2% Defect in the metabolism of copper 0%",
+        "Loss of cholinergic and GABAergic neurons in the caudate nucleus and putamen"
+      ],
+      "correctOption": null,
+      "explanation": "Parkinson's disease, characterised by resting tremor, rigidity, akinesia/bradykinesia and shuffling gait, results from degeneration of neurons in the substantia nigra resulting in depletion of dopamine in the caudate nucleus and putamen. ; : Vv Cerebral Hemispheres ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1531,
+      "sourceQuestionNumber": 20
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1532-q0021",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "w Which of the following best describes the function of the cerebral aqueduct:",
+      "options": [
+        "Major site of production of CSF",
+        "Connects the lateral ventricles to the third ventricle (Vv) Connects the third ventricle to the fourth ventricle 38%",
+        "Connects the right and left lateral ventricles"
+      ],
+      "correctOption": null,
+      "explanation": "The third ventricle is connected to the fourth ventricle by the cerebral aqueduct. Vv Cerebral Ventricles ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1532,
+      "sourceQuestionNumber": 21
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1536-q0023",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww What type of visual field defect would you most likely see in a lesion of the optic radiation of the left temporal lobe:",
+      "options": [
+        "Left homonymous hemianopia (x) Left homonymous inferior quadrantanopia 3%",
+        "Right homonymous inferior quadrantanopia",
+        "Left homonymous superior quadrantanopia (Vv) Right homonymous superior quadrantanopia 68%"
+      ],
+      "correctOption": null,
+      "explanation": "The fibres of the lower part of the optic radiation (serving the upper quadrant of the contralateral visual field) pass through the temporal lobe. Vv Temporal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM 01 Ranemare",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1536,
+      "sourceQuestionNumber": 23
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1537-q0024",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww What type of visual field defect are you most likely to see in a lesion of the optic nerve:",
+      "options": [
+        "Bitemporal hemianopia",
+        "Contralateral homonymous inferior quadrantanopia (x) ontralateral homonymous hemianopia 3%",
+        "Ipsilateral homonymous superior quadrantanopia (Vv) Monocular visual loss 43%"
+      ],
+      "correctOption": null,
+      "explanation": "A lesion of the optic nerve will result in ipsilateral monocular visual loss. : : v Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1537,
+      "sourceQuestionNumber": 24
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1538-q0025",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following clinical features is most suggestive of a lesion of the occipital lobe:",
+      "options": [
+        "Memory impairment (Vv) Homonymous hemianopia 83% (x) Expressive dysphasia 2%",
+        "Hemispatial neglect",
+        "Conjugate eye deviation"
+      ],
+      "correctOption": null,
+      "explanation": "Homonymous hemianopia is most likely caused by damage to the occipital lobe. Vv Occipital Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1538,
+      "sourceQuestionNumber": 25
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1542-q0026",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The blood supply to the occipital lobe is primarily supplied from which of the following arteries:",
+      "options": [
+        "Anterior cerebral artery (x) Middle cerebral artery 3%",
+        "Posterior cerebral artery",
+        "Basilar artery",
+        "Vertebral artery"
+      ],
+      "correctOption": 1,
+      "explanation": "The blood supply to the occipital lobe is from the posterior cerebral artery, but the occipital poles, serving macular vision, have additional supply from a branch of the middle cerebral artery. Vv Occipital Lobe ANATOMY / CENTRAL NERVOUS SYSTEM 01 Ranemare",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1542,
+      "sourceQuestionNumber": 26
+    }
+  ]
+}

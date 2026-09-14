@@ -1,0 +1,408 @@
+{
+  "generatedAt": "2026-08-23T16:46:31.923Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0866-q0046",
+      "sourcePage": 866,
+      "before": {
+        "stem": "ww The gallbladder is located on which of the following aspects of the liver:",
+        "options": [
+          "Right lobe",
+          "Left lobe 4%",
+          "Quadrate lobe 7% CJ",
+          "Diaphragmatic surface 4%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The gallbladder is located on which of the following aspects of the liver:",
+        "options": [
+          "Right lobe",
+          "Left lobe",
+          "Quadrate lobe",
+          "Caudate lobe",
+          "Diaphragmatic surface"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459288/",
+        "externalFinding": "NCBI places the gallbladder in a visceral liver-surface fossa between segments IV and V."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0869-q0047",
+      "sourcePage": 869,
+      "before": {
+        "stem": "wv Control of bile and pancreatic fluid entering the duodenum is regulated by the:",
+        "options": [
+          "Ampulla of Vater",
+          "Major duodenal papilla 3%",
+          "External biliary sphincter 2%",
+          "Internal biliary sphincter 0%",
+          "Sphincter of Oddi"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Control of bile and pancreatic fluid entering the duodenum is regulated by the:",
+        "options": [
+          "Ampulla of Vater",
+          "Major duodenal papilla",
+          "External biliary sphincter",
+          "Internal biliary sphincter",
+          "Sphincter of Oddi"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK551515/",
+        "externalFinding": "NCBI defines the sphincter of Oddi as the valve regulating bile and pancreatic secretions into the duodenum."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0877-q0049",
+      "sourcePage": 877,
+      "before": {
+        "stem": "The infracolic compartment is divided into right and left spaces by which of the following structures:",
+        "options": [
+          "Jejunum",
+          "lleum",
+          "Sigmoid mesocolon"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The infracolic compartment is divided into right and left spaces by which of the following structures:",
+        "options": [
+          "Jejunum",
+          "Ileum",
+          "Mesentery",
+          "Transverse mesocolon",
+          "Sigmoid mesocolon"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6590000/",
+        "externalFinding": "Peer-reviewed anatomy review states that small-bowel mesentery subdivides the infracolic compartment into right and left spaces."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0881-q0050",
+      "sourcePage": 881,
+      "before": {
+        "stem": "The stomach receives its blood supply primarily from which of the following arteries:",
+        "options": [
+          "Inferior mesenteric artery Renal artery 0%",
+          "Suprarenal artery"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The stomach receives its blood supply primarily from which of the following arteries:",
+        "options": [
+          "Superior mesenteric artery",
+          "Inferior mesenteric artery",
+          "Coeliac trunk",
+          "Renal artery",
+          "Suprarenal artery"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459241/",
+        "externalFinding": "NCBI identifies the coeliac trunk as the primary arterial supply to foregut organs including the stomach."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0886-q0051",
+      "sourcePage": 886,
+      "before": {
+        "stem": "Visceral afferent fibres from the ascending colon and proximal transverse colon travel to which of the following spinal cord segments:",
+        "options": [
+          "T6-18",
+          "T8- 110 N%",
+          "110 - T11",
+          "Lie 58% (x) L3-L4 2%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Visceral afferent fibres from the ascending colon and proximal transverse colon travel to which of the following spinal cord segments:",
+        "options": [
+          "T6 - T8",
+          "T8 - T10",
+          "T10 - T11",
+          "L1 - L2",
+          "L3 - L4"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK560504/",
+        "externalFinding": "NCBI identifies T10–T11 lesser splanchnic origin, visceral-afferent carriage, and midgut plexus distribution; ascending and proximal transverse colon are midgut."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0891-q0052",
+      "sourcePage": 891,
+      "before": {
+        "stem": "The lateral cutaneous nerve of the thigh is formed from the anterior rami of:",
+        "options": [
+          "u",
+          "LI-L2 a",
+          "L2",
+          "L3-L4"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The lateral cutaneous nerve of the thigh is formed from the anterior rami of:",
+        "options": [
+          "L1",
+          "L1 - L2",
+          "L2",
+          "L2 - L3",
+          "L3 - L4"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532301/",
+        "externalFinding": "NCBI states that the lateral femoral cutaneous nerve typically arises from L2 and L3 ventral rami."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0895-q0053",
+      "sourcePage": 895,
+      "before": {
+        "stem": "ww Regarding the large intestine, which of the following parts is not described correctly:",
+        "options": [
+          "Caecum - Intraperitoneal",
+          "Ascending colon - Retroperitoneal 6%",
+          "Transverse colon - Intraperitoneal 5%",
+          "Descending colon - Retroperitoneal 3%",
+          "Sigmoid colon - Retroperitoneal"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Regarding the large intestine, which of the following parts is not described correctly:",
+        "options": [
+          "Caecum - Intraperitoneal",
+          "Ascending colon - Retroperitoneal",
+          "Transverse colon - Intraperitoneal",
+          "Descending colon - Retroperitoneal",
+          "Sigmoid colon - Retroperitoneal"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470577/",
+        "externalFinding": "NCBI classifies the cecum, transverse colon, and sigmoid colon as intraperitoneal and right and left colon as retroperitoneal."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0900-q0054",
+      "sourcePage": 900,
+      "before": {
+        "stem": "The ilioinguinal nerve supplies skin over which of the following regions:",
+        "options": [
+          "Posterolateral gluteal region",
+          "Lateral thigh",
+          "Posteromedial gluteal region (x) Posterior thigh 2%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The ilioinguinal nerve supplies skin over which of the following regions:",
+        "options": [
+          "Posterolateral gluteal region",
+          "Upper medial thigh",
+          "Lateral thigh",
+          "Posteromedial gluteal region",
+          "Posterior thigh"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK556034/",
+        "externalFinding": "NCBI identifies ilioinguinal supply to the medial thigh, inguinal region, and external genitalia."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0904-q0055",
+      "sourcePage": 904,
+      "before": {
+        "stem": "Which of the following parts of the pancreas is intraperitoneal:",
+        "options": [
+          "Head 12%",
+          "Neck",
+          "Body",
+          "Uncinate process 4%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "Which of the following parts of the pancreas is intraperitoneal:",
+        "options": [
+          "Head",
+          "Neck",
+          "Body",
+          "Uncinate process",
+          "Tail"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.imaios.com/en/e-anatomy/anatomical-structures/splenorenal-ligament-1541221084",
+        "externalFinding": "IMAIOS defines the splenorenal ligament as containing the pancreatic tail, the only intraperitoneal pancreatic portion."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0872-q0048",
+      "sourcePage": 872,
+      "before": {
+        "stem": "The blood supply to the pancreas is primarily from which of the following arteries:",
+        "options": [
+          "Left gastric artery",
+          "Common hepatic artery",
+          "Superior mesenteric artery Inferior mesenteric artery 1%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The blood supply to the pancreas is primarily from which of the following arteries:",
+        "options": [
+          "Left gastric artery",
+          "Common hepatic artery",
+          "Splenic artery",
+          "Superior mesenteric artery",
+          "Inferior mesenteric artery"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but external anatomy evidence describes arterial supply from splenic, superior mesenteric, and common-hepatic branches; the exact whole-pancreas ‘primarily splenic artery’ formulation is not corroborated; no correct option is inferred."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532912/",
+        "externalFinding": "NCBI records pancreatic arterial supply from splenic, superior mesenteric, and common-hepatic branches, without corroborating the exact whole-organ primary-splenic formulation."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

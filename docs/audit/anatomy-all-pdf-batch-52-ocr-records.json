@@ -1,0 +1,344 @@
+{
+  "exportedAt": "2026-08-27T03:29:58.985Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-52",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1557,
+      1558,
+      1561,
+      1562,
+      1563,
+      1564,
+      1565,
+      1566,
+      1567,
+      1568
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1557-q0037",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww A71 year old man walks into ED following a fall. He is complaining of neck pain and weakness affecting his upper limbs only. Which of the following spinal cord lesions is most likely:",
+      "options": [
+        "Complete cord transection (x) Brown-Sequard syndrome 4% Vv) Central cord syndrome 28%",
+        "Anterior cord syndrome",
+        "Lateral cord syndrome"
+      ],
+      "correctOption": null,
+      "explanation": "Central cord syndrome (CCS) is marked by a disproportionately greater impairment of motor function in the upper extremities than in the lower ones, as well as by bladder dysfunction and a variable amount of sensory loss below the injury level. Vv Spinal Cord Tracts",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1557,
+      "sourceQuestionNumber": 37
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1558-q0038",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The thalamus surrounds which of the following structures:",
+      "options": [
+        "Lateral ventricles (/) Third ventricle a",
+        "Fourth ventricle",
+        "Pons"
+      ],
+      "correctOption": null,
+      "explanation": "The thalamus is a wedge-shaped structure surrounding the third ventricle and made up of at least 50 thalamic nuclei. Vv Thalamus ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1558,
+      "sourceQuestionNumber": 38
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1561-q0039",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The primary auditory cortex is located in which of the following regions:",
+      "options": [
+        "Occipital lobe",
+        "Frontal lobe (Vv) Temporal lobe 83%",
+        "Brainstem"
+      ],
+      "correctOption": null,
+      "explanation": "The primary auditory cortex is located in the temporal lobe. The primary auditory cortex and auditory association area are important for perception and recognition of auditory stimuli. v Temporal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1561,
+      "sourceQuestionNumber": 39
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1562-q0040",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The primary somatosensory cortex is located in which of the following regions:",
+      "options": [
+        "Occipital lobe",
+        "Parietal lobe",
+        "Frontal lobe",
+        "Temporal lobe",
+        "Brainstem"
+      ],
+      "correctOption": 1,
+      "explanation": "The primary somatosensory cortex is located in the postcentral gyrus of the parietal lobe and is concerned with perceiving complex somatosensory stimuli from the contralateral side of the face and body. Together with the somatosensory association cortex, these areas are responsible for sensation and proprioception, and visuo-spatial perception. ; Vv Parietal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1562,
+      "sourceQuestionNumber": 40
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1563-q0041",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following best describes the position of the frontal lobe:",
+      "options": [
+        "Anterior to the parieto-occipital sulcus (Vv) Anterior to the central sulcus and superior to the lateral sulcus 46%",
+        "Posterior to the central sulcus and superior to the lateral sulcus",
+        "Anterior to the central sulcus and inferior to the lateral sulcus",
+        "Posterior to the central sulcus and inferior to the lateral sulcus"
+      ],
+      "correctOption": null,
+      "explanation": "The frontal lobe extends from the central sulcus to the frontal pole and lies anterior to the central sulcus and superior to the lateral sulcus. . Vv Frontal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1563,
+      "sourceQuestionNumber": 41
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1564-q0042",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following best describes the position of the parietal lobe:",
+      "options": [
+        "Posterior to the parieto-occipital sulcus",
+        "Anterior to the central sulcus and superior to the lateral sulcus (Vv) Posterior to the central sulcus and superior to the lateral sulcus 82%",
+        "Anterior to the central sulcus and inferior to the lateral sulcus",
+        "Posterior to the central sulcus and inferior to the lateral sulcus"
+      ],
+      "correctOption": null,
+      "explanation": "The parietal lobe extends from the central sulcus to the occipital lobe and lies posterior to the central sulcus and superior to the lateral sulcus and the temporal lobe. . Vv Parietal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1564,
+      "sourceQuestionNumber": 42
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1565-q0043",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The blood supply to the frontal lobe is primarily supplied by which of the following arteries:",
+      "options": [
+        "Anterior cerebral artery (x) Middle cerebral artery 4%",
+        "Posterior cerebral artery (Vv) Anterior and middle cerebral artery 31%",
+        "Basilar artery"
+      ],
+      "correctOption": null,
+      "explanation": "The blood supply to the frontal lobe is from the anterior cerebral artery (supplying the medial surface of the primary motor cortex which controls the lower limb) and the middle cerebral artery (supplying the lateral surface of the primary motor cortex which controls the face and upper limb). : Vv Frontal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1565,
+      "sourceQuestionNumber": 43
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1566-q0044",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The sensation produced by touching the arm with cotton wool during a neurological examination is mediated by which of the following spinal tracts:",
+      "options": [
+        "Anterior spinothalamic tract",
+        "Lateral spinothalamic tract (x) Anterior corticospinal tract 4% (Vv) Posterior column 24%",
+        "Anterior spinocerebellar tract"
+      ],
+      "correctOption": null,
+      "explanation": "Fine-touch, proprioception and vibration sensation are mediated by the posterior column-medial lemniscus pathway. , Vv Spinal Cord Tracts ANATOMY / CENTRAL NERVOUS SYSTEM 11 Ranimart",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1566,
+      "sourceQuestionNumber": 44
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1567-q0045",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "pit. A 69 year old patient is brought to ED with acute onset facial weakness on the right side, and difficulty with speech. He is able to respond to questions appropriately by nodding or shaking his head, but his words are jumbled and don't make sense. Which of the following lobes has been affected:",
+      "options": [
+        "Left parietal lobe",
+        "Left temporal lobe () Lett frontal lobe 30%",
+        "Right frontal lobe"
+      ],
+      "correctOption": null,
+      "explanation": "Right sided facial weakness and expressive dysphasia is most likely caused by a lesion to the left frontal lobe, due to damage to the primary motor cortex and the Broca speech area respectively. Vv Frontal Lobe",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1567,
+      "sourceQuestionNumber": 45
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1568-q0046",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following best describes the position of the occipital lobe:",
+      "options": [
+        "Anterior to the parieto-occipital sulcus (x) Posterior to the central sulcus and inferior to the lateral sulcus 11%",
+        "Posterior to the central sulcus and superior to the lateral sulcus",
+        "Inferior to the lateral sulcus (Vv) Inferior to the parieto-occipital sulcus 76%"
+      ],
+      "correctOption": null,
+      "explanation": "The occipital lobe lies inferior to the parieto-occipital sulcus. , ; Vv Occipital Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1568,
+      "sourceQuestionNumber": 46
+    }
+  ]
+}

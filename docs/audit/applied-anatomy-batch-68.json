@@ -1,0 +1,659 @@
+{
+  "generatedAt": "2026-08-27T20:49:41.963Z",
+  "batch": "anatomy-all-pdf-batch-68",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1888-q0042",
+      "sourcePage": 1888,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1888-q0042",
+        "sourcePage": 1888,
+        "stem": "ww Which of the following best describes the position of the parietal lobe:",
+        "options": [
+          "Posterior to the parieto-occipital sulcus",
+          "Anterior to the central sulcus and superior to the lateral sulcus (Vv) Posterior to the central sulcus and superior to the lateral sulcus 82%",
+          "Anterior to the central sulcus and inferior to the lateral sulcus",
+          "Posterior to the central sulcus and inferior to the lateral sulcus"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The parietal lobe extends from the central sulcus to the occipital lobe and lies posterior to the central sulcus and superior to the lateral sulcus and the temporal lobe. . Vv Parietal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1888-q0042",
+        "sourcePage": 1888,
+        "stem": "Which of the following best describes the position of the parietal lobe:",
+        "options": [
+          "Posterior to the parieto-occipital sulcus",
+          "Anterior to the central sulcus and superior to the lateral sulcus",
+          "Posterior to the central sulcus and superior to the lateral sulcus",
+          "Anterior to the central sulcus and inferior to the lateral sulcus",
+          "Posterior to the central sulcus and inferior to the lateral sulcus"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The parietal lobe lies posterior to the central sulcus and superior to the lateral sulcus, extending posteriorly toward the occipital lobe.",
+        "learningNote": "The parietal lobe lies posterior to the central sulcus and superior to the lateral sulcus, extending posteriorly toward the occipital lobe.",
+        "highYieldNote": "The parietal lobe lies posterior to the central sulcus and superior to the lateral sulcus, extending posteriorly toward the occipital lobe.",
+        "mnemonic": "Parietal is posterior to central and perched above lateral.",
+        "memoryAid": {
+          "coreFact": "The parietal lobe lies posterior to the central sulcus and superior to the lateral sulcus, extending posteriorly toward the occipital lobe.",
+          "mnemonic": "Parietal is posterior to central and perched above lateral.",
+          "emojiCues": [
+            "⬅️",
+            "⬆️",
+            "🧠"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf cerebral hemisphere anatomy",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK549789/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK549789/",
+        "externalFinding": "The reference states that the parietal lobe is posterior to the central sulcus and anterior to the parieto-occipital sulcus; the lateral fissure separates the temporal lobe from frontal and parietal lobes."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1889-q0043",
+      "sourcePage": 1889,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1889-q0043",
+        "sourcePage": 1889,
+        "stem": "ww The blood supply to the frontal lobe is primarily supplied by which of the following arteries:",
+        "options": [
+          "Anterior cerebral artery (x) Middle cerebral artery 4%",
+          "Posterior cerebral artery (Vv) Anterior and middle cerebral artery 31%",
+          "Basilar artery"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The blood supply to the frontal lobe is from the anterior cerebral artery (supplying the medial surface of the primary motor cortex which controls the lower limb) and the middle cerebral artery (supplying the lateral surface of the primary motor cortex which controls the face and upper limb). : Vv Frontal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1889-q0043",
+        "sourcePage": 1889,
+        "stem": "The blood supply to the frontal lobe is primarily supplied by which of the following arteries:",
+        "options": [
+          "Anterior cerebral artery",
+          "Middle cerebral artery",
+          "Posterior cerebral artery",
+          "Anterior and middle cerebral artery",
+          "Basilar artery"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The frontal lobe receives anterior cerebral artery supply on its medial surface and middle cerebral artery supply on its lateral surface.",
+        "learningNote": "The frontal lobe receives anterior cerebral artery supply on its medial surface and middle cerebral artery supply on its lateral surface.",
+        "highYieldNote": "The frontal lobe receives anterior cerebral artery supply on its medial surface and middle cerebral artery supply on its lateral surface.",
+        "mnemonic": "Frontal has two main friends: ACA medial, MCA lateral.",
+        "memoryAid": {
+          "coreFact": "The frontal lobe receives anterior cerebral artery supply on its medial surface and middle cerebral artery supply on its lateral surface.",
+          "mnemonic": "Frontal has two main friends: ACA medial, MCA lateral.",
+          "emojiCues": [
+            "🧠",
+            "🟡",
+            "🔴"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf cerebral cortex anatomy",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK575742/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK575742/",
+        "externalFinding": "The cortex reference describes the anterior cerebral artery supply to the anteromedial hemisphere and middle cerebral artery supply to the lateral surface, including frontal motor regions."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1890-q0044",
+      "sourcePage": 1890,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1890-q0044",
+        "sourcePage": 1890,
+        "stem": "ww The sensation produced by touching the arm with cotton wool during a neurological examination is mediated by which of the following spinal tracts:",
+        "options": [
+          "Anterior spinothalamic tract",
+          "Lateral spinothalamic tract (x) Anterior corticospinal tract 4% (Vv) Posterior column 24%",
+          "Anterior spinocerebellar tract"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Fine-touch, proprioception and vibration sensation are mediated by the posterior column-medial lemniscus pathway. , Vv Spinal Cord Tracts ANATOMY / CENTRAL NERVOUS SYSTEM 11 Ranimart",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1890-q0044",
+        "sourcePage": 1890,
+        "stem": "The sensation produced by touching the arm with cotton wool during a neurological examination is mediated by which of the following spinal tracts:",
+        "options": [
+          "Anterior spinothalamic tract",
+          "Lateral spinothalamic tract",
+          "Anterior corticospinal tract",
+          "Posterior column",
+          "Anterior spinocerebellar tract"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Fine touch is carried in the posterior-column–medial-lemniscus pathway; the posterior columns also carry vibration and proprioception.",
+        "learningNote": "Fine touch is carried in the posterior-column–medial-lemniscus pathway; the posterior columns also carry vibration and proprioception.",
+        "highYieldNote": "Fine touch is carried in the posterior-column–medial-lemniscus pathway; the posterior columns also carry vibration and proprioception.",
+        "mnemonic": "DCML = Discriminative touch, Conscious proprioception, vibration, Medial Lemniscus.",
+        "memoryAid": {
+          "coreFact": "Fine touch is carried in the posterior-column–medial-lemniscus pathway; the posterior columns also carry vibration and proprioception.",
+          "mnemonic": "DCML = Discriminative touch, Conscious proprioception, vibration, Medial Lemniscus.",
+          "emojiCues": [
+            "🧶",
+            "✋",
+            "📳"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf posterior-column anatomy",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK507888/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK507888/",
+        "externalFinding": "The posterior-column reference identifies the dorsal column pathway as carrying fine touch, vibration, and proprioception."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1891-q0045",
+      "sourcePage": 1891,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1891-q0045",
+        "sourcePage": 1891,
+        "stem": "pit. A 69 year old patient is brought to ED with acute onset facial weakness on the right side, and difficulty with speech. He is able to respond to questions appropriately by nodding or shaking his head, but his words are jumbled and don't make sense. Which of the following lobes has been affected:",
+        "options": [
+          "Left parietal lobe",
+          "Left temporal lobe () Lett frontal lobe 30%",
+          "Right frontal lobe"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Right sided facial weakness and expressive dysphasia is most likely caused by a lesion to the left frontal lobe, due to damage to the primary motor cortex and the Broca speech area respectively. Vv Frontal Lobe",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1891-q0045",
+        "sourcePage": 1891,
+        "stem": "A 69 year old patient is brought to ED with acute onset facial weakness on the right side, and difficulty with speech. He is able to respond to questions appropriately by nodding or shaking his head, but his words are jumbled and don't make sense. Which of the following lobes has been affected:",
+        "options": [
+          "Left parietal lobe",
+          "Right parietal lobe",
+          "Left temporal lobe",
+          "Left frontal lobe",
+          "Right frontal lobe"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "A dominant left frontal-lobe lesion can affect the primary motor cortex, causing right facial weakness, and Broca area, causing expressive dysphasia.",
+        "learningNote": "A dominant left frontal-lobe lesion can affect the primary motor cortex, causing right facial weakness, and Broca area, causing expressive dysphasia.",
+        "highYieldNote": "A dominant left frontal-lobe lesion can affect the primary motor cortex, causing right facial weakness, and Broca area, causing expressive dysphasia.",
+        "mnemonic": "Left frontal: face moves right, Broca makes speech.",
+        "memoryAid": {
+          "coreFact": "A dominant left frontal-lobe lesion can affect the primary motor cortex, causing right facial weakness, and Broca area, causing expressive dysphasia.",
+          "mnemonic": "Left frontal: face moves right, Broca makes speech.",
+          "emojiCues": [
+            "⬅️",
+            "🙂",
+            "🗣️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf cerebral hemisphere anatomy",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK549789/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK549789/",
+        "externalFinding": "The reference locates the primary motor cortex in the frontal lobe and Broca area in the dominant inferior frontal gyrus, supporting the displayed left-frontal localization."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1892-q0046",
+      "sourcePage": 1892,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1892-q0046",
+        "sourcePage": 1892,
+        "stem": "ww Which of the following best describes the position of the occipital lobe:",
+        "options": [
+          "Anterior to the parieto-occipital sulcus (x) Posterior to the central sulcus and inferior to the lateral sulcus 11%",
+          "Posterior to the central sulcus and superior to the lateral sulcus",
+          "Inferior to the lateral sulcus (Vv) Inferior to the parieto-occipital sulcus 76%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The occipital lobe lies inferior to the parieto-occipital sulcus. , ; Vv Occipital Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1892-q0046",
+        "sourcePage": 1892,
+        "stem": "Which of the following best describes the position of the occipital lobe:",
+        "options": [
+          "Anterior to the parieto-occipital sulcus",
+          "Posterior to the central sulcus and inferior to the lateral sulcus",
+          "Posterior to the central sulcus and superior to the lateral sulcus",
+          "Inferior to the lateral sulcus",
+          "Inferior to the parieto-occipital sulcus"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The occipital lobe lies posterior to the parieto-occipital sulcus and rests inferiorly on the tentorium cerebelli.",
+        "learningNote": "The occipital lobe lies posterior to the parieto-occipital sulcus and rests inferiorly on the tentorium cerebelli.",
+        "highYieldNote": "The occipital lobe lies posterior to the parieto-occipital sulcus and rests inferiorly on the tentorium cerebelli.",
+        "mnemonic": "Occipital is the back-and-bottom lobe: posterior and inferior.",
+        "memoryAid": {
+          "coreFact": "The occipital lobe lies posterior to the parieto-occipital sulcus and rests inferiorly on the tentorium cerebelli.",
+          "mnemonic": "Occipital is the back-and-bottom lobe: posterior and inferior.",
+          "emojiCues": [
+            "🔙",
+            "⬇️",
+            "👁️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf cerebral hemisphere anatomy",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK549789/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK549789/",
+        "externalFinding": "The reference places the occipital lobe posterior to the parieto-occipital sulcus and superior to the tentorium cerebelli."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1896-q0047",
+      "sourcePage": 1896,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1896-q0047",
+        "sourcePage": 1896,
+        "stem": "ww A 49 year old presents to ED complaining of muscle weakness and clumsiness in the right hand, with slow and effortful speech. In which of the following lobes is the lesion most likely found: (Vv) Left frontal lobe 36% (x) Right frontal lobe 3%",
+        "options": [
+          "Right parietal lobe",
+          "Left parietal lobe",
+          "Left temporal lobe"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The patient exhibits motor weakness and expressive dysphasia. The lesion is most likely in the left frontal lobe. : Vv Frontal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1896-q0047",
+        "sourcePage": 1896,
+        "stem": "A 49 year old presents to ED complaining of muscle weakness and clumsiness in the right hand, with slow and effortful speech. In which of the following lobes is the lesion most likely found:",
+        "options": [
+          "Left frontal lobe",
+          "Right frontal lobe",
+          "Right parietal lobe",
+          "Left parietal lobe",
+          "Left temporal lobe"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Right-hand motor impairment and slow, effortful expressive speech point to the dominant left frontal lobe, involving motor and Broca regions.",
+        "learningNote": "Right-hand motor impairment and slow, effortful expressive speech point to the dominant left frontal lobe, involving motor and Broca regions.",
+        "highYieldNote": "Right-hand motor impairment and slow, effortful expressive speech point to the dominant left frontal lobe, involving motor and Broca regions.",
+        "mnemonic": "Dominant frontal = force plus fluent production problem; right hand points left.",
+        "memoryAid": {
+          "coreFact": "Right-hand motor impairment and slow, effortful expressive speech point to the dominant left frontal lobe, involving motor and Broca regions.",
+          "mnemonic": "Dominant frontal = force plus fluent production problem; right hand points left.",
+          "emojiCues": [
+            "✋",
+            "⬅️",
+            "🗣️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf precentral-gyrus anatomy",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK544218/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK544218/",
+        "externalFinding": "The precentral-gyrus reference locates primary motor cortex in the precentral gyrus; the cerebral-hemisphere reference locates Broca area in the dominant frontal lobe."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1897-q0048",
+      "sourcePage": 1897,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1897-q0048",
+        "sourcePage": 1897,
+        "stem": "ww Which of the following clinical features is most suggestive of a lesion of the parietal lobe:",
+        "options": [
+          "Contralateral limb weakness",
+          "Expressive dysphasia (Vv) Hemispatial sensory neglect 70%",
+          "Receptive dysphasia"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Hemispatial sensory neglect is most likely to be associated with damage to the parietal lobe. Receptive dysphasia may be seen in damage to the Wernicke speech area in the temporal lobe. Expressive dysphasia may be seen in damage to the Broca speech area in the frontal lobe. Contralateral motor weakness is due to damage of the motor cortex of the frontal lobe. Homonymous hemianopia is most likely to occur in damage of the occipital lobe. “ v",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1897-q0048",
+        "sourcePage": 1897,
+        "stem": "Which of the following clinical features is most suggestive of a lesion of the parietal lobe:",
+        "options": [
+          "Contralateral limb weakness",
+          "Homonymous hemianopia",
+          "Expressive dysphasia",
+          "Hemispatial sensory neglect",
+          "Receptive dysphasia"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Hemispatial neglect is a classic clinical association of nondominant parietal-lobe dysfunction, especially on the right.",
+        "learningNote": "Hemispatial neglect is a classic clinical association of nondominant parietal-lobe dysfunction, especially on the right.",
+        "highYieldNote": "Hemispatial neglect is a classic clinical association of nondominant parietal-lobe dysfunction, especially on the right.",
+        "mnemonic": "Parietal neglects a half: space and sensation are missed.",
+        "memoryAid": {
+          "coreFact": "Hemispatial neglect is a classic clinical association of nondominant parietal-lobe dysfunction, especially on the right.",
+          "mnemonic": "Parietal neglects a half: space and sensation are missed.",
+          "emojiCues": [
+            "🧭",
+            "↔️",
+            "🧠"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf cerebral hemisphere anatomy",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK549789/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK549789/",
+        "externalFinding": "The cerebral-hemisphere reference describes nondominant parietal damage as producing contralateral hemispatial neglect."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1898-q0049",
+      "sourcePage": 1898,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1898-q0049",
+        "sourcePage": 1898,
+        "stem": "ww What type of visual field defect are you most likely to see in a lesion at the optic chiasm: (Vv) Bitemporal hemianopia 89%",
+        "options": [
+          "Contralateral homonymous inferior quadrantanopia (x) Contralateral homonymous hemianopia 7%",
+          "Contralateral homonymous superior quadrantanopia",
+          "Homonymous hemianopia with macular sparing"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Alesion at the optic chiasm will result in a bitemporal hemianopia. Vv Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1898-q0049",
+        "sourcePage": 1898,
+        "stem": "What type of visual field defect are you most likely to see in a lesion at the optic chiasm:",
+        "options": [
+          "Bitemporal hemianopia",
+          "Contralateral homonymous inferior quadrantanopia",
+          "Contralateral homonymous hemianopia",
+          "Contralateral homonymous superior quadrantanopia",
+          "Homonymous hemianopia with macular sparing"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "An optic-chiasm lesion disrupts the crossing nasal retinal fibres and causes loss of the temporal visual fields of both eyes, producing bitemporal hemianopia.",
+        "learningNote": "An optic-chiasm lesion disrupts the crossing nasal retinal fibres and causes loss of the temporal visual fields of both eyes, producing bitemporal hemianopia.",
+        "highYieldNote": "An optic-chiasm lesion disrupts the crossing nasal retinal fibres and causes loss of the temporal visual fields of both eyes, producing bitemporal hemianopia.",
+        "mnemonic": "Chiasm crossing cuts the outer fields: bitemporal loss.",
+        "memoryAid": {
+          "coreFact": "An optic-chiasm lesion disrupts the crossing nasal retinal fibres and causes loss of the temporal visual fields of both eyes, producing bitemporal hemianopia.",
+          "mnemonic": "Chiasm crossing cuts the outer fields: bitemporal loss.",
+          "emojiCues": [
+            "👁️",
+            "✖️",
+            "↔️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf bitemporal-hemianopsia review",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK545213/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK545213/",
+        "externalFinding": "The reference states that lesions impinging on the optic chiasm commonly result in bitemporal hemianopsia by affecting decussating nasal fibres."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1899-q0050",
+      "sourcePage": 1899,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1899-q0050",
+        "sourcePage": 1899,
+        "stem": "w A 68 year old lady was involved in a road traffic accident and describes a whiplash type injury. She has pain and tenderness in the cervical region and imaging shows a herniated disc in this region. The patient is complaining of weakness of elbow extension and loss of sensation over the middle finger. Which of the following spinal nerves is most likely affected: c",
+        "options": [
+          "Cé",
+          "c9 %"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Elbow extension is a predominant function of the C7 spinal nerve root, which also supplies sensation to skin over the middle of the hand. The important myotomes are shown below. Vv eat aa moe",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1899-q0050",
+        "sourcePage": 1899,
+        "stem": "A 68 year old lady was involved in a road traffic accident and describes a whiplash type injury. She has pain and tenderness in the cervical region and imaging shows a herniated disc in this region. The patient is complaining of weakness of elbow extension and loss of sensation over the middle finger. Which of the following spinal nerves is most likely affected:",
+        "options": [
+          "C5",
+          "C6",
+          "C7",
+          "C8",
+          "C9"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The C7 root is associated with elbow extension and sensation in the middle-finger distribution, making C7 the best answer for this cervical radiculopathy pattern.",
+        "learningNote": "The C7 root is associated with elbow extension and sensation in the middle-finger distribution, making C7 the best answer for this cervical radiculopathy pattern.",
+        "highYieldNote": "The C7 root is associated with elbow extension and sensation in the middle-finger distribution, making C7 the best answer for this cervical radiculopathy pattern.",
+        "mnemonic": "C7 = straighten the elbow and sense the middle finger.",
+        "memoryAid": {
+          "coreFact": "The C7 root is associated with elbow extension and sensation in the middle-finger distribution, making C7 the best answer for this cervical radiculopathy pattern.",
+          "mnemonic": "C7 = straighten the elbow and sense the middle finger.",
+          "emojiCues": [
+            "💪",
+            "☝️",
+            "7️⃣"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf spinal-cord and root anatomy",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK559056/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK559056/",
+        "externalFinding": "The source page displays C7; its clinical explanation links C7 to elbow extension and middle-finger sensation."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1900-q0051",
+      "sourcePage": 1900,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1900-q0051",
+        "sourcePage": 1900,
+        "stem": "w CSF is reabsorbed from subarachnoid space via which of the following structures:",
+        "options": [
+          "Subarachnoid cisterns",
+          "Cerebral aqueduct (Vv) Arachnoid granulations 27%",
+          "Choroid plexus"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "From the subarachnoid cisterns in the subarachnoid space, CSF is reabsorbed via arachnoid granulations which protrude into the dura mater, into the dural venous sinuses and from here back into the circulation. v Cerebrospinal Fluid ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1900-q0051",
+        "sourcePage": 1900,
+        "stem": "CSF is reabsorbed from subarachnoid space via which of the following structures:",
+        "options": [
+          "Subarachnoid cisterns",
+          "Foramen of Monro",
+          "Cerebral aqueduct",
+          "Arachnoid granulations",
+          "Choroid plexus"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Arachnoid granulations project into the dural venous sinuses and provide the principal route for CSF reabsorption from the subarachnoid space.",
+        "learningNote": "Arachnoid granulations project into the dural venous sinuses and provide the principal route for CSF reabsorption from the subarachnoid space.",
+        "highYieldNote": "Arachnoid granulations project into the dural venous sinuses and provide the principal route for CSF reabsorption from the subarachnoid space.",
+        "mnemonic": "Granulations drain CSF into venous circulation.",
+        "memoryAid": {
+          "coreFact": "Arachnoid granulations project into the dural venous sinuses and provide the principal route for CSF reabsorption from the subarachnoid space.",
+          "mnemonic": "Granulations drain CSF into venous circulation.",
+          "emojiCues": [
+            "💧",
+            "🕸️",
+            "🩸"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf ventricular-system anatomy",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+        "externalFinding": "The displayed explanation identifies arachnoid granulations protruding into dural venous sinuses as the route from subarachnoid CSF back to circulation."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

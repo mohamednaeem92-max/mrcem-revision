@@ -1,0 +1,383 @@
+{
+  "generatedAt": "2026-08-22T17:40:55.730Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0593-q0178",
+      "sourcePage": 593,
+      "before": {
+        "stem": "ww A 29 year old patient, with a known ovarian cyst presents to ED complaining of worsening pelvic pain and pain in the medial thigh region. Irritation of which of the following structures is responsible for the pain in the medial thigh region:",
+        "options": [
+          "Genitofemoral nerve 28%",
+          "Obturator nerve",
+          "Pudendal nerve 4%",
+          "Sacral plexus 3%",
+          "Ovarian plexus 3%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "A 29-year-old patient with a known ovarian cyst has worsening pelvic pain and medial thigh pain. Irritation of which structure is responsible for the medial thigh pain?",
+        "options": [
+          "Genitofemoral nerve",
+          "Obturator nerve",
+          "Pudendal nerve",
+          "Sacral plexus",
+          "Ovarian plexus"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK551640/",
+        "externalFinding": "NCBI identifies obturator sensory innervation of the medial upper thigh and reports medial-thigh pain with pelvic obturator compression or entrapment."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0596-q0179",
+      "sourcePage": 596,
+      "before": {
+        "stem": "ww Which of the following areas of the prostate gland is most commonly involved in carcinomatous transformation:",
+        "options": [
+          "Central zone 6%",
+          "Peripheral zone",
+          "Anterior fibromuscular stroma 1%",
+          "Isthmus 52%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Which region of the prostate is most commonly involved in carcinomatous transformation?",
+        "options": [
+          "Transitional zone",
+          "Central zone",
+          "Peripheral zone",
+          "Anterior fibromuscular stroma",
+          "Isthmus"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK540987/",
+        "externalFinding": "NCBI states that most prostatic carcinomas, reported as 75%, develop in the peripheral zone."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0600-q0180",
+      "sourcePage": 600,
+      "before": {
+        "stem": "ww Which of the following is NOT an anatomical feature that prevents against gastric reflux:",
+        "options": [
+          "The diaphragmatic pinchcock effect on the oesophagus 4%",
+          "Intra-abdominal pressure which maintains the oesophagus in a state of collapse when empty 15%",
+          "The angle of His formed at the junction of the oesophagus and gastric fundus 6%",
+          "Gastric mucosal rosette-like folds at the gastro-oesophageal junction 10%",
+          "The striated lower oesophageal sphincter muscle"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Which is not an anatomical feature that prevents gastro-oesophageal reflux?",
+        "options": [
+          "Diaphragmatic pinchcock effect on the oesophagus",
+          "Intra-abdominal pressure maintaining the empty oesophagus in collapse",
+          "Angle of His at the junction of oesophagus and gastric fundus",
+          "Gastric mucosal rosette-like folds at the gastro-oesophageal junction",
+          "Striated lower oesophageal sphincter muscle"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557452/",
+        "externalFinding": "NCBI states that the intrinsic lower oesophageal sphincter consists of smooth muscle."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0601-q0001",
+      "sourcePage": 601,
+      "before": {
+        "stem": "A70 year old undergoes radical prostatectomy for prostate cancer. Postoperatively he complains of urinary incontinence due to paralysis of the external urethral sphincter. Which of the following nerves was most likely injured during surgery:",
+        "options": [
+          "Genitofemoral nerve 14%",
+          "Pudendal nerve",
+          "Coccygeal nerve 2% ee",
+          "lliohypogastric nerve 4%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "A 70-year-old man develops urinary incontinence from paralysis of the external urethral sphincter after radical prostatectomy. Which nerve was most likely injured?",
+        "options": [
+          "Genitofemoral nerve",
+          "Pudendal nerve",
+          "Coccygeal nerve",
+          "Ilioinguinal nerve",
+          "Iliohypogastric nerve"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482438/",
+        "externalFinding": "NCBI states that the pudendal nerve from S2–S4 innervates the external urethral sphincter."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0603-q0003",
+      "sourcePage": 603,
+      "before": {
+        "stem": "The iliohypogastric nerve is formed from the anterior rami of:",
+        "options": [
+          "et 4885 Ec a",
+          "L4 1%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The iliohypogastric nerve is usually formed from the anterior ramus of which spinal nerve?",
+        "options": [
+          "L1",
+          "L1–L2",
+          "L2",
+          "L2–L3",
+          "L4"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9186473/",
+        "externalFinding": "A systematic review identifies L1 as the usual origin, reported in 62.5% to 96.5% of specimens, with occasional T12 contribution."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0604-q0004",
+      "sourcePage": 604,
+      "before": {
+        "stem": "Which of the following best describes the regions of the abdomen that the liver normally occupies:",
+        "options": [
+          "Left hypochondrium and epigastric region 1%",
+          "Right hypochondrium and right flank 6%",
+          "Right hypochondrium and umbilical region",
+          "Right hypochondrium, epigastric region and left hypochondrium"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Which abdominal regions does the liver normally occupy?",
+        "options": [
+          "Left hypochondrium and epigastric region",
+          "Right hypochondrium and right flank",
+          "Right hypochondrium and umbilical region",
+          "Right hypochondrium, epigastric region, and left hypochondrium",
+          "Right hypochondrium, epigastric region, and umbilicus"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5535334/",
+        "externalFinding": "A peer-reviewed anatomical study directly reports liver location in right hypochondrium, epigastrium, and left hypochondrium."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0610-q0007",
+      "sourcePage": 610,
+      "before": {
+        "stem": "w Which of the following lies immediately medial to the second part of the duodenum:",
+        "options": [
+          "Transverse colon 2%",
+          "Spleen 1%",
+          "Right kidney 3%",
+          "Head of the pancreas",
+          "Stomach 3%"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Which structure lies immediately medial to the second part of the duodenum?",
+        "options": [
+          "Transverse colon",
+          "Spleen",
+          "Right kidney",
+          "Head of the pancreas",
+          "Stomach"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482390/",
+        "externalFinding": "NCBI describes the pancreatic head in the C-shaped concavity of the descending duodenum."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0611-q0008",
+      "sourcePage": 611,
+      "before": {
+        "stem": "A 64 year old man with known liver cirrhosis secondary to chronic alcohol abuse presents to ED vomiting profuse bright red blood. Endoscopy demonstrates ruptured oesophageal varices. Which of the following veins forms a portosystemic anastomosis with caval veins to form the varices:",
+        "options": [
+          "Right gastric vein 10%",
+          "Splenic vein 6%",
+          "Left gastric vein",
+          "Left gastro-omental vein 2%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "A man with cirrhosis has ruptured oesophageal varices. Which vein forms a portosystemic anastomosis with caval-system veins to form these varices?",
+        "options": [
+          "Right gastric vein",
+          "Splenic vein",
+          "Left gastric vein",
+          "Left hepatic vein",
+          "Left gastro-omental vein"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://europepmc.org/articles/PMC3940321",
+        "externalFinding": "A peer-reviewed review states that the left gastric vein anastomoses with oesophageal veins, which drain into the azygos vein."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0605-q0005",
+      "sourcePage": 605,
+      "before": {
+        "stem": "ww A patient with known inflammatory bowel disease presents to ED complaining of severe abdominal pain and diarrhoea. Imaging shows a flare up primarily affecting the rectum. Which of the following nerves is most likely responsible for transmission of pain from the rectum:",
+        "options": [
+          "Pelvic splanchnic nerves",
+          "Lumbar splanchnic nerves",
+          "Sacral splanchnic nerves 9%",
+          "Vagus nerves 1%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "A patient with inflammatory bowel disease has severe abdominal pain and a rectal flare. Which nerves are most likely responsible for transmitting pain from the rectum?",
+        "options": [
+          "Pelvic splanchnic nerves",
+          "Lumbar splanchnic nerves",
+          "Sacral splanchnic nerves",
+          "Vagus nerves",
+          "Pudendal nerves"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "Source page reviewed, but generic rectal pain has multiple reviewed spinal-afferent pathways and the exact source key is not uniquely corroborated. This record remains excluded from answer learning."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://doi.org/10.3389/fncel.2018.00467",
+        "externalFinding": "A peer-reviewed review identifies both lumbar splanchnic and sacral pelvic afferent pathways to the colon and rectum, with differing contributions by location and stimulus."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0606-q0006",
+      "sourcePage": 606,
+      "before": {
+        "stem": "ww A19 year old male is brought to ED having sustained a handlebar injury with blunt trauma to his upper abdomen whilst riding his scooter. Which of the following is the most commonly injured organ:",
+        "options": [
+          "Pancreas 8%",
+          "Transverse colon 5%",
+          "Spleen",
+          "Duodenum",
+          "Kidney 1%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "A 19-year-old man has a handlebar injury with blunt upper-abdominal trauma. Which organ is most commonly injured?",
+        "options": [
+          "Pancreas",
+          "Transverse colon",
+          "Spleen",
+          "Duodenum",
+          "Kidney"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "Source page reviewed, but the mechanism-specific handlebar-injury evidence does not establish the exact source key as a unique most-common organ. This record remains excluded from answer learning."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10460239/",
+        "externalFinding": "A peer-reviewed handlebar-trauma source identifies pancreas, small bowel, mesentery, liver, and spleen as likely targets of direct handlebar impact without proving spleen uniquely most common."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

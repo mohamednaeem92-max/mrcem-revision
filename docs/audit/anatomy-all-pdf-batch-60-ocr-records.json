@@ -1,0 +1,339 @@
+{
+  "exportedAt": "2026-08-27T04:07:41.640Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-60",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1713,
+      1714,
+      1715,
+      1716,
+      1717,
+      1721,
+      1722,
+      1727,
+      1728,
+      1729
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1713-q0041",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "A 21 year old female presents to ED with isolated facial nerve palsy. You diagnose Bell's palsy. Which of the following clinical features might you expect on examination:",
+      "options": [
+        "Sensory loss over the cornea and conjunctiva (x) Fixed and dilated pupil 1%",
+        "Loss of sensation over the ipsilateral face",
+        "Loss of accommodation refiex"
+      ],
+      "correctOption": null,
+      "explanation": "The facial nerve innervates the orbicularis oculi, the muscle responsible for closing the eye. The facial nerve is therefore the efferent pathway of the corneal blink reflex. Sensation to the face, and the cornea and conjunctiva is supplied by the trigeminal nerve, which is therefore the afferent pathway of the corneal blink reflex. A fixed dilated pupil, and loss of the accommodation reflex may be seen in palsy of the oculomotor nerve due to loss of innervation of the sphincter pupillae and ciliary muscle respectively. Cc | Se [seer Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1713,
+      "sourceQuestionNumber": 41
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1714-q0042",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "ww? The facial nerve exits the skull through the:",
+      "options": [
+        "Stylomastoid foramen",
+        "Foramen ovale “Gin. & Jugular foramen 8%",
+        "Foramen rotundum 5%",
+        "Hypoglossal canal"
+      ],
+      "correctOption": 0,
+      "explanation": "The facial nerve exits the facial canal (and the basal skull) through the stylomastoid foramen between the styloid and mastoid processes of the temporal bone. 4",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1714,
+      "sourceQuestionNumber": 42
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1715-q0043",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Which of the following nerves is the efferent pathway of the gag reflex:",
+      "options": [
+        "Facial nerve",
+        "Glossopharyngeal nerve (x) ypoglossal nerve 4%",
+        "Mandibular nerve"
+      ],
+      "correctOption": null,
+      "explanation": "The vagus nerve is the efferent pathway of the gag reflex. The glossopharyngeal nerve is the afferent pathway of the gag reflex. Cc | ss [Ceaser Oo Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1715,
+      "sourceQuestionNumber": 43
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1716-q0044",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "The oculomotor nerve supplies all of the following structures EXCEPT for the:",
+      "options": [
+        "Levator palpebrae superioris & Sphincter pupillae 2%",
+        "Ciliary muscle",
+        "Superior oblique",
+        "Inferior oblique"
+      ],
+      "correctOption": 2,
+      "explanation": "The oculomotor nerve supplies four extraocular muscles - the inferior oblique, superior rectus, inferior rectus and medial rectus muscles, the levator palpebrae superioris muscle, the sphincter pupillae muscle and the ciliary muscle. The superior oblique muscle is innervated by the trochlear nerve, and the lateral rectus muscle by the abducens nerve. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1716,
+      "sourceQuestionNumber": 44
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1717-q0045",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "w A 28 year old man presents to ED complaining of severe headaches and dizziness. Imaging shows a tumour compressing the hypoglossal canal. Which of the following clinical features would you most expect to see:",
+      "options": [
+        "Dysphagia CJ",
+        "Uvula deviation away from affected side",
+        "Tongue deviation on protrusion towards affected side",
+        "Loss of gag reflex"
+      ],
+      "correctOption": 2,
+      "explanation": "The hypoglossal nerve exits the cranial cavity through the hypoglossal canal. Injury to the hypoglossal nerve will result in ipsilateral tongue weakness, atrophy and fasciculations, with tongue deviation on protrusion towards the affected side due to the unopposed action of the opposite genioglossus muscle. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1717,
+      "sourceQuestionNumber": 45
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1721-q0046",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "You are examining a patient who has presented with visual disturbance. Light shone into the right eye elicits a direct reflex in the right eye but no consensual reflex in the left eye. A lesion in which of the following structures is most likely responsible for this clinical picture:",
+      "options": [
+        "Right optic nerve",
+        "Right oculomotor nerve",
+        "Right optic radiation"
+      ],
+      "correctOption": null,
+      "explanation": "The contralateral oculomotor nerve is responsible for the consensual reflex. ce > Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1721,
+      "sourceQuestionNumber": 46
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1722-q0047",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Which of the following is NOT a typical feature of a lesion to the vestibulocochlear nerve:",
+      "options": [
+        "Impaired hearing",
+        "Vertigo",
+        "Tinnitus"
+      ],
+      "correctOption": null,
+      "explanation": "Hyperacusis may result from paralysis of the stapedius muscle, innervated by the facial nerve. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1722,
+      "sourceQuestionNumber": 47
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1727-q0048",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Regarding the vestibulocochlear nerve, which of the following statements is INCORRECT:",
+      "options": [
+        "The vestibulocochlear nerve emerges from the brainstem at the cerebellopontine angle. 5%",
+        "Weber's test distinguishes between sensorineural or conductive hearing loss. 7%",
+        "The vestibulocochlear nerve is a purely sensory nerve.",
+        "In normal hearing air conduction is louder than bone conduction. 10%"
+      ],
+      "correctOption": null,
+      "explanation": "The vestibulocochlear nerve, a purely sensory nerve, leaves the brainstem at the cerebellopontine angle and exits the cranial cavity through the internal acoustic meatus. Pp : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1727,
+      "sourceQuestionNumber": 48
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1728-q0049",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "w Which of the following is NOT a branch of the facial nerve:",
+      "options": [
+        "Posterior auricular nerve",
+        "Chorda tympani",
+        "Marginal mandibular branch & Nerve to the stapedius 8%"
+      ],
+      "correctOption": null,
+      "explanation": "The mental nerve is a branch of the mandibular division of the trigeminal nerve. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1728,
+      "sourceQuestionNumber": 49
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1729-q0050",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "te The hypoglossal nerve emerges from the cranial cavity through the: Creer",
+      "options": [
+        "Foramen ovale",
+        "Hypoglossal canal",
+        "Internal acoustic meatus",
+        "Jugular foramen"
+      ],
+      "correctOption": 1,
+      "explanation": "The hypoglossal nerve exits the cranial cavity through the hypoglossal canal. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1729,
+      "sourceQuestionNumber": 50
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+[
+  {
+    "id": "anatomy-anatomy-all-pdf-p1773-q0080",
+    "page": 1773,
+    "stem": "A 54 year old man presents to ED with severe headaches and vomiting. Imaging shows a tumour causing compression at the jugular foramen. Which of the following clinical features would you most expect to see in this patient:",
+    "options": [
+      "Inability to close the eye",
+      "Loss of sensation over the face",
+      "Loss of tongue movements",
+      "Loss of gag reflex",
+      "Loss of hearing"
+    ],
+    "correctOption": 3,
+    "fact": "Jugular-foramen lesions affect IX and X, which contribute to the gag reflex.",
+    "mnemonic": "IX/X at the jugular foramen affect gag.",
+    "emojiCues": [
+      "🧠",
+      "⚡",
+      "📍"
+    ],
+    "sourceLabel": "NCBI authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK549871/",
+    "finding": "Displayed key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1774-q0001",
+    "page": 1774,
+    "stem": "Which of the following best describes the position of the temporal lobe:",
+    "options": [
+      "Posterior to the parieto-occipital sulcus",
+      "Anterior to the central sulcus and superior to the lateral sulcus",
+      "Posterior to the central sulcus and superior to the lateral sulcus",
+      "Inferior to the lateral sulcus",
+      "Inferior to the parieto-occipital sulcus"
+    ],
+    "correctOption": 3,
+    "fact": "The temporal lobe lies inferior to the lateral sulcus.",
+    "mnemonic": "Temporal is below the lateral sulcus.",
+    "emojiCues": [
+      "🧠",
+      "⚡",
+      "📍"
+    ],
+    "sourceLabel": "NCBI authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+    "finding": "Displayed key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1780-q0002",
+    "page": 1780,
+    "stem": "A 31 year old male presents to ED with a head injury. Rhinorrhoea will most likely result from fracture of which of the following bones:",
+    "options": [
+      "Frontal",
+      "Lacrimal",
+      "Nasal",
+      "Ethmoid",
+      "Palatine"
+    ],
+    "correctOption": 3,
+    "fact": "Cribriform-plate fracture of the ethmoid can cause CSF rhinorrhoea.",
+    "mnemonic": "Ethmoid cribriform plate leaks CSF.",
+    "emojiCues": [
+      "🧠",
+      "⚡",
+      "📍"
+    ],
+    "sourceLabel": "NCBI authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK482119/",
+    "finding": "Displayed key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1783-q0003",
+    "page": 1783,
+    "stem": "The primary motor cortex is located in which of the following regions:",
+    "options": [
+      "Occipital lobe",
+      "Parietal lobe",
+      "Frontal lobe",
+      "Temporal lobe",
+      "Brainstem"
+    ],
+    "correctOption": 2,
+    "fact": "The primary motor cortex lies in the precentral gyrus of the frontal lobe.",
+    "mnemonic": "Motor starts in frontal precentral gyrus.",
+    "emojiCues": [
+      "🧠",
+      "⚡",
+      "📍"
+    ],
+    "sourceLabel": "NCBI authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+    "finding": "Displayed key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1789-q0004",
+    "page": 1789,
+    "stem": "A 74 year old man presents with a three month history of worsening left shoulder and arm pain. On examination there is weakness of shoulder abduction and reduced sensation over the deltoid. You suspect cervical radiculopathy. What level of the cervical spine is most likely to be affected:",
+    "options": [
+      "C1",
+      "C3",
+      "C5",
+      "C7",
+      "C8"
+    ],
+    "correctOption": 2,
+    "fact": "Deltoid weakness and sensory loss over the deltoid localize to C5.",
+    "mnemonic": "C5 drives the deltoid.",
+    "emojiCues": [
+      "🧠",
+      "⚡",
+      "📍"
+    ],
+    "sourceLabel": "NCBI authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+    "finding": "Displayed key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1792-q0005",
+    "page": 1792,
+    "stem": "A 23 year old man is involved in a road traffic collision and sustains a lumbar fracture. On examination you note he is unable to extend his big toe. Which of the following spinal nerve roots has most likely been affected:",
+    "options": [
+      "L3",
+      "L4",
+      "L5",
+      "S1",
+      "S2"
+    ],
+    "correctOption": 2,
+    "fact": "Great-toe extension is classically associated with the L5 root.",
+    "mnemonic": "L5 lifts the big toe.",
+    "emojiCues": [
+      "🧠",
+      "⚡",
+      "📍"
+    ],
+    "sourceLabel": "NCBI authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+    "finding": "Displayed key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1795-q0006",
+    "page": 1795,
+    "stem": "The two cerebral hemispheres are connected by which of the following structures:",
+    "options": [
+      "Internal capsule",
+      "Corpus callosum",
+      "Aqueduct",
+      "Medulla oblongata",
+      "Substantia nigra"
+    ],
+    "correctOption": 1,
+    "fact": "The corpus callosum is the major commissural white-matter connection between the cerebral hemispheres.",
+    "mnemonic": "Callosal fibres connect cerebral halves.",
+    "emojiCues": [
+      "🧠",
+      "⚡",
+      "📍"
+    ],
+    "sourceLabel": "NCBI authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+    "finding": "Displayed key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1800-q0007",
+    "page": 1800,
+    "stem": "The Wernicke's speech area is located in which of the following regions:",
+    "options": [
+      "Occipital lobe",
+      "Parietal lobe",
+      "Frontal lobe",
+      "Temporal lobe",
+      "Brainstem"
+    ],
+    "correctOption": 3,
+    "fact": "Wernicke area is classically located in the temporal lobe of the dominant hemisphere.",
+    "mnemonic": "Wernicke hears in temporal.",
+    "emojiCues": [
+      "🧠",
+      "⚡",
+      "📍"
+    ],
+    "sourceLabel": "NCBI authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+    "finding": "Displayed key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1806-q0008",
+    "page": 1806,
+    "stem": "A 55 year old woman presents to ED complaining of headaches. On examination the patient is found to have weakness of the left side of her body and her eyes are deviated towards the right hand side. The lesion is most likely to be in the:",
+    "options": [
+      "Frontal lobe",
+      "Occipital lobe",
+      "Temporal lobe",
+      "Parietal lobe",
+      "Cerebellum"
+    ],
+    "correctOption": 0,
+    "fact": "A right frontal lesion can cause left-sided weakness and gaze deviation toward the lesion.",
+    "mnemonic": "Frontal fields look toward the lesion.",
+    "emojiCues": [
+      "🧠",
+      "⚡",
+      "📍"
+    ],
+    "sourceLabel": "NCBI authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+    "finding": "Displayed key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1812-q0009",
+    "page": 1812,
+    "stem": "Which of the following is NOT a typical cerebellar sign:",
+    "options": [
+      "Dysdiadochokinesia",
+      "Nystagmus",
+      "Intention tremor",
+      "Hypertonia",
+      "Scanning/staccato speech"
+    ],
+    "correctOption": 3,
+    "fact": "Cerebellar dysfunction is associated with hypotonia rather than hypertonia.",
+    "mnemonic": "Cerebellar tone is low.",
+    "emojiCues": [
+      "🧠",
+      "⚡",
+      "📍"
+    ],
+    "sourceLabel": "NCBI authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK549871/",
+    "finding": "Displayed key and option order directly verified on the original rendered page."
+  }
+]

@@ -1,0 +1,654 @@
+{
+  "generatedAt": "2026-08-27T21:27:31.848Z",
+  "batch": "anatomy-all-pdf-batch-73",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1989-q0015",
+      "sourcePage": 1989,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1989-q0015",
+        "sourcePage": 1989,
+        "stem": "The facial nerve exits the posterior cranial fossa through which of the following:",
+        "options": [
+          "Foramen rotundum",
+          "Hypoglossal canal",
+          "Internal acoustic meatus",
+          "Jugular foramen"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The facial nerve arises in the pons, leaves the brainstem in the cerebellopontine angle and exits the posterior cranial fossa through the internal acoustic meatus in the temporal bone before entering the facial canal still within the temporal bone. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1989-q0015",
+        "sourcePage": 1989,
+        "stem": "The facial nerve exits the posterior cranial fossa through which of the following:",
+        "options": [
+          "Foramen rotundum",
+          "Hypoglossal canal",
+          "Foramen ovale",
+          "Internal acoustic meatus",
+          "Jugular foramen"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The facial nerve enters the internal acoustic meatus before continuing into the facial canal.",
+        "learningNote": "The facial nerve enters the internal acoustic meatus before continuing into the facial canal.",
+        "highYieldNote": "The facial nerve enters the internal acoustic meatus before continuing into the facial canal.",
+        "mnemonic": "VII travels with VIII through the internal acoustic meatus.",
+        "memoryAid": {
+          "coreFact": "The facial nerve enters the internal acoustic meatus before continuing into the facial canal.",
+          "mnemonic": "VII travels with VIII through the internal acoustic meatus.",
+          "emojiCues": [
+            "VII",
+            "👂",
+            "🧠"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI facial nerve",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK526119/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK526119/",
+        "externalFinding": "CN VII exits the posterior cranial fossa via the internal acoustic meatus."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1995-q0016",
+      "sourcePage": 1995,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1995-q0016",
+        "sourcePage": 1995,
+        "stem": "A 54 year old man presents to ED complaining of difficulty chewing. On examination, you note he has loss of muscle bulk over the masseter muscle and loss of power opening the jaw. He also has loss of tactile sensation involving the anterior two thirds of the tongue. Which of the following cranial nerves is most likely affected:",
+        "options": [
+          "Facial nerve (x) orda tympani nerve 5%",
+          "Glossopharyngeal nerve",
+          "Maxillary nerve"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The muscles of mastication are innervated by the mandibular division of the trigeminal nerve, which also supplies tactile sensation to the anterior two-thirds of the tongue. The glossopharyngeal nerve supplies taste and general sensation to the posterior third of the tongue. The chorda tympani branch of the facial nerve supplies taste to the anterior two-thirds of the tongue. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1995-q0016",
+        "sourcePage": 1995,
+        "stem": "A 54 year old man presents to ED complaining of difficulty chewing. On examination, you note he has loss of muscle bulk over the masseter muscle and loss of power opening the jaw. He also has loss of tactile sensation involving the anterior two thirds of the tongue. Which of the following cranial nerves is most likely affected:",
+        "options": [
+          "Facial nerve",
+          "Chorda tympani nerve",
+          "Glossopharyngeal nerve",
+          "Mandibular nerve",
+          "Maxillary nerve"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "V3 supplies the muscles of mastication and general sensation from the anterior two-thirds of the tongue through the lingual nerve.",
+        "learningNote": "V3 supplies the muscles of mastication and general sensation from the anterior two-thirds of the tongue through the lingual nerve.",
+        "highYieldNote": "V3 supplies the muscles of mastication and general sensation from the anterior two-thirds of the tongue through the lingual nerve.",
+        "mnemonic": "V3 moves the jaw and feels the front tongue.",
+        "memoryAid": {
+          "coreFact": "V3 supplies the muscles of mastication and general sensation from the anterior two-thirds of the tongue through the lingual nerve.",
+          "mnemonic": "V3 moves the jaw and feels the front tongue.",
+          "emojiCues": [
+            "🦷",
+            "V3",
+            "👅"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI trigeminal nerve",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK507716/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK507716/",
+        "externalFinding": "The mandibular division provides motor mastication and anterior tongue general sensation."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2000-q0017",
+      "sourcePage": 2000,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p2000-q0017",
+        "sourcePage": 2000,
+        "stem": "Regarding the mandibular nerve, which of the following statements is INCORRECT: The mandibular nerve enters the infratemporal fossa between the tensor veli palatini muscle 5% and the lateral pterygoid muscle.",
+        "options": [
+          "The mandibular nerve exits the cranium through the foramen ovale. ie Nandibular nerve supplies sensation to the anterior two-thirds of the tongue. 16%",
+          "The mandibular nerve has both motor and sensory function."
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The orbicularis oculi, as a muscle of facial expression, is innervated by the facial nerve. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p2000-q0017",
+        "sourcePage": 2000,
+        "stem": "Regarding the mandibular nerve, which of the following statements is INCORRECT:",
+        "options": [
+          "The mandibular nerve enters the infratemporal fossa between the tensor veli palatini muscle and the lateral pterygoid muscle.",
+          "The mandibular nerve exits the cranium through the foramen ovale.",
+          "The mandibular nerve supplies sensation to the anterior two-thirds of the tongue.",
+          "The mandibular nerve innervates the orbicularis oculi.",
+          "The mandibular nerve has both motor and sensory function."
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Orbicularis oculi is a muscle of facial expression supplied by the facial nerve, not V3.",
+        "learningNote": "Orbicularis oculi is a muscle of facial expression supplied by the facial nerve, not V3.",
+        "highYieldNote": "Orbicularis oculi is a muscle of facial expression supplied by the facial nerve, not V3.",
+        "mnemonic": "V3 chews; VII closes the eyelids.",
+        "memoryAid": {
+          "coreFact": "Orbicularis oculi is a muscle of facial expression supplied by the facial nerve, not V3.",
+          "mnemonic": "V3 chews; VII closes the eyelids.",
+          "emojiCues": [
+            "👁️",
+            "🦷",
+            "V3"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI trigeminal nerve",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK507716/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK507716/",
+        "externalFinding": "V3 is mixed and exits through foramen ovale, but orbicularis oculi is supplied by CN VII."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2001-q0018",
+      "sourcePage": 2001,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p2001-q0018",
+        "sourcePage": 2001,
+        "stem": "Regarding the oculomotor nerve, which of the following statements is CORRECT:",
+        "options": [
+          "The oculomotor nerve has both motor and sensory function.",
+          "The oculomotor nerve innervates all of the extraocular muscles. ie The oculomotor ne! rve innervates the dilator pupillae muscle. 23%",
+          "The oculomotor nerve passes through the lateral part of the cavernous sinus.",
+          "The oculomotor nerve enters the orbit through the optic canal."
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The oculomotor nerve does travel through the lateral aspect of the cavernous sinus, together with CN IV and VI nerves and the ophthalmic division of CN V. It enters the orbit through the superior orbital fissure. It innervates only four out of six of the extraocular muscles, in addition to the sphincter pupillae muscle. The oculomotor nerve is a pure motor nerve; it has no sensory function. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p2001-q0018",
+        "sourcePage": 2001,
+        "stem": "Regarding the oculomotor nerve, which of the following statements is CORRECT:",
+        "options": [
+          "The oculomotor nerve has both motor and sensory function.",
+          "The oculomotor nerve innervates all of the extraocular muscles.",
+          "The oculomotor nerve innervates the dilator pupillae muscle.",
+          "The oculomotor nerve passes through the lateral part of the cavernous sinus.",
+          "The oculomotor nerve enters the orbit through the optic canal."
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "CN III passes through the lateral cavernous sinus and enters the orbit via the superior orbital fissure.",
+        "learningNote": "CN III passes through the lateral cavernous sinus and enters the orbit via the superior orbital fissure.",
+        "highYieldNote": "CN III passes through the lateral cavernous sinus and enters the orbit via the superior orbital fissure.",
+        "mnemonic": "III travels in the cavernous sinus, then superior fissure.",
+        "memoryAid": {
+          "coreFact": "CN III passes through the lateral cavernous sinus and enters the orbit via the superior orbital fissure.",
+          "mnemonic": "III travels in the cavernous sinus, then superior fissure.",
+          "emojiCues": [
+            "III",
+            "👁️",
+            "🕳️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI oculomotor nerve",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537126/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537126/",
+        "externalFinding": "The oculomotor nerve reference supports lateral cavernous-sinus passage."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2005-q0019",
+      "sourcePage": 2005,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p2005-q0019",
+        "sourcePage": 2005,
+        "stem": "w A 29 year old man has sustained a significant head injury. On examination it is noted that his uvula is deviated to the right. Which of the following nerves is most likely affected:",
+        "options": [
+          "Right vagus nerve",
+          "Left vagus nerve",
+          "Right glossopharyngeal nerve & Left glossopharyngeal nerve 1%",
+          "Left hypoglossal nerve"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "In damage to the vagus nerve, there is paralysis of the soft palate with deviation of the uvula away from the affected side. This is because the vagus nerve innervates the musculus uvulae muscle that makes up the core of the uvula. If only one side is effectively innervated, contraction of the active muscle will pull the uvula towards it. } Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p2005-q0019",
+        "sourcePage": 2005,
+        "stem": "A 29 year old man has sustained a significant head injury. On examination it is noted that his uvula is deviated to the right. Which of the following nerves is most likely affected:",
+        "options": [
+          "Right vagus nerve",
+          "Left vagus nerve",
+          "Right glossopharyngeal nerve",
+          "Left glossopharyngeal nerve",
+          "Left hypoglossal nerve"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "A unilateral vagus lesion causes palatal weakness and uvular deviation away from the affected side.",
+        "learningNote": "A unilateral vagus lesion causes palatal weakness and uvular deviation away from the affected side.",
+        "highYieldNote": "A unilateral vagus lesion causes palatal weakness and uvular deviation away from the affected side.",
+        "mnemonic": "Vagus weakness pulls the uvula away.",
+        "memoryAid": {
+          "coreFact": "A unilateral vagus lesion causes palatal weakness and uvular deviation away from the affected side.",
+          "mnemonic": "Vagus weakness pulls the uvula away.",
+          "emojiCues": [
+            "👅",
+            "↔️",
+            "X"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI vagus nerve",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537304/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537304/",
+        "externalFinding": "Left vagus palsy produces uvular deviation to the right."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2010-q0020",
+      "sourcePage": 2010,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p2010-q0020",
+        "sourcePage": 2010,
+        "stem": "The mandibular division of the trigeminal nerve supplies general sensation to all of the following regions EXCEPT for the:",
+        "options": [
+          "Anterior two-thirds of the tongue",
+          "Temple",
+          "External ear",
+          "Cranial dura mater"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The upper lip is supplied by branches of the maxillary division of the trigeminal nerve. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p2010-q0020",
+        "sourcePage": 2010,
+        "stem": "The mandibular division of the trigeminal nerve supplies general sensation to all of the following regions EXCEPT for the:",
+        "options": [
+          "Anterior two-thirds of the tongue",
+          "Upper lip",
+          "Temple",
+          "External ear",
+          "Cranial dura mater"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The upper lip is supplied by infraorbital branches of V2, not the mandibular division.",
+        "learningNote": "The upper lip is supplied by infraorbital branches of V2, not the mandibular division.",
+        "highYieldNote": "The upper lip is supplied by infraorbital branches of V2, not the mandibular division.",
+        "mnemonic": "V2 visits the upper lip.",
+        "memoryAid": {
+          "coreFact": "The upper lip is supplied by infraorbital branches of V2, not the mandibular division.",
+          "mnemonic": "V2 visits the upper lip.",
+          "emojiCues": [
+            "👄",
+            "V2",
+            "🧠"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI maxillary nerve",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK544268/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK544268/",
+        "externalFinding": "The maxillary division supplies upper-lip sensation."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2011-q0021",
+      "sourcePage": 2011,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p2011-q0021",
+        "sourcePage": 2011,
+        "stem": "Regarding the vagus nerve, which of the following statements is CORRECT:",
+        "options": [
+          "It exits the skull through the foramen ovale.",
+          "It carries general sensation from the oropharynx.",
+          "It carries visceral afferent fibres from the aortic arch baroreceptors.",
+          "It carries parasympathetic fibres to the parotid gland.",
+          "It is the afferent nerve of the gag reflex."
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The vagus nerve carries visceral afferent fibres from the .aortic arch baroreceptors. The glossopharyngeal nerve supplies parasympathetic fibres to the parotid gland, and general sensation to the oropharynx. The vagus nerve is the efferent pathway of the gag reflex, the glossopharyngeal nerve being the afferent pathway. The vagus nerve exits the skull through the jugular foramen. 3 Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p2011-q0021",
+        "sourcePage": 2011,
+        "stem": "Regarding the vagus nerve, which of the following statements is CORRECT:",
+        "options": [
+          "It exits the skull through the foramen ovale.",
+          "It carries general sensation from the oropharynx.",
+          "It carries visceral afferent fibres from the aortic arch baroreceptors.",
+          "It carries parasympathetic fibres to the parotid gland.",
+          "It is the afferent nerve of the gag reflex."
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The vagus carries visceral afferent information from the aortic arch, including baroreceptor input.",
+        "learningNote": "The vagus carries visceral afferent information from the aortic arch, including baroreceptor input.",
+        "highYieldNote": "The vagus carries visceral afferent information from the aortic arch, including baroreceptor input.",
+        "mnemonic": "Vagus visits the aortic arch.",
+        "memoryAid": {
+          "coreFact": "The vagus carries visceral afferent information from the aortic arch, including baroreceptor input.",
+          "mnemonic": "Vagus visits the aortic arch.",
+          "emojiCues": [
+            "X",
+            "🫀",
+            "📡"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI vagus nerve",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537304/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537304/",
+        "externalFinding": "The vagus reference supports aortic-arch visceral afferents."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2012-q0022",
+      "sourcePage": 2012,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p2012-q0022",
+        "sourcePage": 2012,
+        "stem": "The maxillary nerve supplies general sensation to all of the following regions EXCEPT for the:",
+        "options": [
+          "Mucosa of the hard palate",
+          "Nasopharynx (x) Upper teeth and associated gingiva 6%",
+          "External ear",
+          "Skin over the temple"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The maxillary nerve does not supply skin over the external ear. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p2012-q0022",
+        "sourcePage": 2012,
+        "stem": "The maxillary nerve supplies general sensation to all of the following regions EXCEPT for the:",
+        "options": [
+          "Mucosa of the hard palate",
+          "Nasopharynx",
+          "Upper teeth and associated gingiva",
+          "External ear",
+          "Skin over the temple"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The maxillary division does not supply general sensation to the external ear.",
+        "learningNote": "The maxillary division does not supply general sensation to the external ear.",
+        "highYieldNote": "The maxillary division does not supply general sensation to the external ear.",
+        "mnemonic": "V2 covers midface, palate, teeth, and upper lip, not the ear.",
+        "memoryAid": {
+          "coreFact": "The maxillary division does not supply general sensation to the external ear.",
+          "mnemonic": "V2 covers midface, palate, teeth, and upper lip, not the ear.",
+          "emojiCues": [
+            "👂",
+            "V2",
+            "🦷"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI maxillary nerve",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK544268/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK544268/",
+        "externalFinding": "External-ear sensation is not a maxillary-division territory."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2015-q0023",
+      "sourcePage": 2015,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p2015-q0023",
+        "sourcePage": 2015,
+        "stem": "w A 45 year old lady presents to ED with right sided facial weakness. Your consultant suspects a facial nerve palsy. Which of the following clinical features would you most likely see ON examination:",
+        "options": [
+          "Ptosis",
+          "Loss of tactile sensation to anterior two-thirds of tongue cs Loss of sensation to right side of the face 10%",
+          "Hyperacusis",
+          "Ophthalmoplegia"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "Hyperacusis is increased acuity of hearing with hypersensitivity to low tones resulting from paralysis of the stapedius muscle, innervated by the facial nerve. General sensation to the face and to the anterior two-thirds of the tongue is carried by the divisions of the trigeminal nerve (although taste to the anterior two-thirds of the tongue is supplied by the facial nerve). Eye movements are mediated by the oculomotor, trochlear and abducens nerve. Ptosis results from paralysis of the levator palpebrae superioris, innervated by the oculomotor nerve, or the superior tarsal muscle, innervated by the sympathetic chain. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p2015-q0023",
+        "sourcePage": 2015,
+        "stem": "A 45 year old lady presents to ED with right sided facial weakness. Your consultant suspects a facial nerve palsy. Which of the following clinical features would you most likely see on examination:",
+        "options": [
+          "Ptosis",
+          "Loss of tactile sensation to anterior two-thirds of tongue",
+          "Loss of sensation to right side of the face",
+          "Hyperacusis",
+          "Ophthalmoplegia"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Facial-nerve palsy can cause hyperacusis through stapedius weakness.",
+        "learningNote": "Facial-nerve palsy can cause hyperacusis through stapedius weakness.",
+        "highYieldNote": "Facial-nerve palsy can cause hyperacusis through stapedius weakness.",
+        "mnemonic": "VII protects the stapedius from loudness.",
+        "memoryAid": {
+          "coreFact": "Facial-nerve palsy can cause hyperacusis through stapedius weakness.",
+          "mnemonic": "VII protects the stapedius from loudness.",
+          "emojiCues": [
+            "👂",
+            "VII",
+            "🔊"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI facial nerve",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK526119/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK526119/",
+        "externalFinding": "CN VII supplies stapedius; palsy can produce hyperacusis."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2017-q0024",
+      "sourcePage": 2017,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p2017-q0024",
+        "sourcePage": 2017,
+        "stem": "w A 56 year old female presents to ED complaining of loss of sensation over the anterior two-thirds of her tongue. Taste and salivation are intact. Which of the following nerves is most likely affected:",
+        "options": [
+          "Glossopharyngeal nerve",
+          "Hypoglossal nerve 4%",
+          "Inferior alveolar nerve"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "General sensation to the anterior two-thirds of the tongue is carried by the lingual nerve, branch of the mandibular nerve. Taste to the anterior two-thirds of the tongue (and secretomotor innervation to the submandibular and sublingual glands) is carried by the chorda tympani, branch of the facial nerve. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p2017-q0024",
+        "sourcePage": 2017,
+        "stem": "A 56 year old female presents to ED complaining of loss of sensation over the anterior two-thirds of her tongue. Taste and salivation are intact. Which of the following nerves is most likely affected:",
+        "options": [
+          "Glossopharyngeal nerve",
+          "Lingual nerve",
+          "Chorda tympani nerve",
+          "Hypoglossal nerve",
+          "Inferior alveolar nerve"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The lingual nerve carries general sensation from the anterior two-thirds of the tongue; chorda tympani carries taste and secretomotor fibres.",
+        "learningNote": "The lingual nerve carries general sensation from the anterior two-thirds of the tongue; chorda tympani carries taste and secretomotor fibres.",
+        "highYieldNote": "The lingual nerve carries general sensation from the anterior two-thirds of the tongue; chorda tympani carries taste and secretomotor fibres.",
+        "mnemonic": "Lingual feels; chorda tastes and secretes.",
+        "memoryAid": {
+          "coreFact": "The lingual nerve carries general sensation from the anterior two-thirds of the tongue; chorda tympani carries taste and secretomotor fibres.",
+          "mnemonic": "Lingual feels; chorda tastes and secretes.",
+          "emojiCues": [
+            "👅",
+            "V3",
+            "VII"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI lingual nerve",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK546626/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK546626/",
+        "externalFinding": "The lingual-nerve reference supports isolated anterior-tongue general sensory loss."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

@@ -1,0 +1,18 @@
+# Anatomy Batch 24 Source-Page Checks
+
+## Review method
+
+The original `Anatomy-All.pdf` screenshots control literal stems, option order, and displayed keys. External medical evidence is assessed separately. No unmarked answer is inferred.
+
+| Source page | Record | Direct source-page recovery | Marked answer | Initial disposition |
+|---:|---|---|---:|---|
+| 676 | `p0676-q0059` | Stem: “A 29 year old man presents to ED with a painful lump in his left groin. Which of the following structures can be used to differentiate between a direct and an indirect inguinal hernia:” Options: Inguinal ligament; Femoral canal; Inferior epigastric vessels; Pubic symphysis; Femoral artery. | Index 2, Inferior epigastric vessels | Evidence review required |
+| 677 | `p0677-q0060` | Stem: “The inferior vena cava lies posterior to which of the following parts of the duodenum:” Options: Second part; Third and fourth parts; First and third parts; First and second parts; Second and third parts. | Index 2, First and third parts | Evidence review required |
+| 678 | `p0678-q0061` | Stem: “The lymphatic drainage of the liver primarily drains into:” Options: Superior mesenteric lymph nodes; Inferior mesenteric lymph nodes; Coeliac lymph nodes; Lumbar lymph nodes; Lateral aortic lymph nodes. | Index 2, Coeliac lymph nodes | Evidence review required |
+| 679 | `p0679-q0062` | Stem: “The rectus sheath encloses all of the following structures except the:” Options: Transversus abdominis muscle; Pyramidalis muscle; Lower thoracic intercostal nerves; Superior epigastric artery; Inferior epigastric artery. | Index 0, Transversus abdominis muscle | Evidence review required |
+| 680 | `p0680-q0063` | Stem: “The ilioinguinal nerve supplies skin over which of the following regions:” Options: Posterolateral gluteal region; Upper medial thigh; Lateral thigh; Posteromedial gluteal region; Posterior thigh. | Index 1, Upper medial thigh | Evidence review required |
+| 681 | `p0681-q0064` | Stem: “The greater sac of the peritoneal cavity is divided into two compartments by which of the following structures:” Options: Liver; Stomach; Transverse mesocolon; Duodenum; Mesentery. | Index 2, Transverse mesocolon | Evidence review required |
+| 682 | `p0682-q0065` | Stem: “Which of the following areas of the prostate gland is the most commonly involved in prostatic hyperplasia:” Options: Central zone; Transitional zone; Peripheral zone; Anterior lobe; Isthmus. | Index 1, Transitional zone | Evidence review required |
+| 683 | `p0683-q0066` | Stem: “The ilioinguinal nerve innervates which of the following muscles:” Options: Internal and external oblique muscles; Internal oblique and transversus abdominis muscles; Transversus abdominis and rectus abdominis muscles; Psoas major and minor muscles; Quadratus lumborum. | Index 1, Internal oblique and transversus abdominis muscles | Evidence review required |
+| 684 | `p0684-q0001` | Stem: “The femoral nerve is formed from the anterior rami of:” Options: L2 - L4; L1 - L2; L1 - L4; L2 - L3; L3 - L4. | Index 0, L2 - L4 | Evidence review required |
+| 689 | `p0689-q0002` | Stem: “On their descent the ureters cross anteriorly to which of the following important structures:” Options: The origin of the superior mesenteric artery; The origin of the inferior mesenteric artery; The inferior epigastric artery; The bifurcation of the common iliac artery; The termination of the abdominal aorta. | No answer mark displayed. The blue outline identifies a user selection only and is not treated as a source key. | Restrict unless a marked key is recoverable from another original source page |

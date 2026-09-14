@@ -1,0 +1,408 @@
+{
+  "generatedAt": "2026-08-23T16:05:01.527Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0666-q0049",
+      "sourcePage": 666,
+      "before": {
+        "stem": "A75 year old man presents to ED complaining of abdominal pain radiating to his back, anorexia and weight loss. Imaging shows a large tumour of the neck of the pancreas. Which of the following structures is most likely compressed by the tumour:",
+        "options": [
+          "Inferior mesenteric artery",
+          "First part of the duodenum",
+          "Ureter",
+          "Coeliac trunk"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "A 75-year-old man presents to the ED with abdominal pain radiating to his back, anorexia, and weight loss. Imaging shows a large tumour of the neck of the pancreas. Which structure is most likely compressed?",
+        "options": [
+          "Inferior mesenteric artery",
+          "Portal vein",
+          "First part of the duodenum",
+          "Ureter",
+          "Coeliac trunk"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6428891/",
+        "externalFinding": "A peer-reviewed anatomy review places portal-vein formation posterior to the pancreatic neck."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0668-q0051",
+      "sourcePage": 668,
+      "before": {
+        "stem": "ww The iliacus muscle is innervated by which of the following:",
+        "options": [
+          "lliohypogastric nerve Bevin",
+          "Genitofemoral nerve 2%",
+          "Anterior rami of L1- L3 54%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The iliacus muscle is innervated by which of the following?",
+        "options": [
+          "Iliohypogastric nerve",
+          "Ilioinguinal nerve",
+          "Genitofemoral nerve",
+          "Femoral nerve",
+          "Anterior rami of L1-L3"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK556065/",
+        "externalFinding": "NCBI states that the femoral nerve supplies iliacus."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0669-q0052",
+      "sourcePage": 669,
+      "before": {
+        "stem": "ww The inferior vena cava is formed from the union of the two common iliac veins at which of the following vertebral levels:",
+        "options": [
+          "u 48%",
+          "IES) 6%",
+          "L4 25%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The inferior vena cava is formed from the union of the two common iliac veins at which vertebral level?",
+        "options": [
+          "L1",
+          "L2",
+          "L3",
+          "L4",
+          "L5"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482353/",
+        "externalFinding": "NCBI identifies the common-iliac confluence at the L5 level."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0670-q0053",
+      "sourcePage": 670,
+      "before": {
+        "stem": "ww Which of the following structures does NOT pass through the inguinal canal:",
+        "options": [
+          "Genital branch of genitofemoral nerve",
+          "llioinguinal nerve 5%",
+          "Spermatic cord 2%",
+          "Round ligament 6%",
+          "Inferior epigastric artery"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Which structure does NOT pass through the inguinal canal?",
+        "options": [
+          "Genital branch of genitofemoral nerve",
+          "Ilioinguinal nerve",
+          "Spermatic cord",
+          "Round ligament",
+          "Inferior epigastric artery"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470204/",
+        "externalFinding": "NCBI identifies the canal’s transmitted cord, round ligament, and nerve contents and places the deep ring lateral to epigastric vessels."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0671-q0054",
+      "sourcePage": 671,
+      "before": {
+        "stem": "w The spleen occupies which of the following abdominal regions:",
+        "options": [
+          "Right hypochondrium",
+          "Left hypochondrium",
+          "Epigastrium 1%",
+          "Left hypochondrium and epigastrium 10%",
+          "Left hypochondrium and left flank \"1%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The spleen occupies which abdominal region?",
+        "options": [
+          "Right hypochondrium",
+          "Left hypochondrium",
+          "Epigastrium",
+          "Left hypochondrium and epigastrium",
+          "Left hypochondrium and left flank"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482235/",
+        "externalFinding": "NCBI locates the spleen in the left hypochondriac region."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0672-q0055",
+      "sourcePage": 672,
+      "before": {
+        "stem": "The ejaculatory duct is formed by the union of which of the following structures:",
+        "options": [
+          "Ductus deferens and the prostatic urethra 4%",
+          "Ductus deferens and the epididymis 3%",
+          "Ductus deferens and prostatic ducts 171%",
+          "Ductus deferens and duct from the seminal vesicle",
+          "Prostatic ducts and duct from seminal vesicle 48%"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The ejaculatory duct is formed by the union of which structures?",
+        "options": [
+          "Ductus deferens and the prostatic urethra",
+          "Ductus deferens and the epididymis",
+          "Ductus deferens and prostatic ducts",
+          "Ductus deferens and duct from the seminal vesicle",
+          "Prostatic ducts and duct from seminal vesicle"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK499854/",
+        "externalFinding": "NCBI describes seminal-vesicle duct convergence with the vas-deferens ampulla to form the ejaculatory duct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0673-q0056",
+      "sourcePage": 673,
+      "before": {
+        "stem": "ww Regarding the female urethra, which of the following statements is CORRECT:",
+        "options": [
+          "The urethra is longer in women than it is in men. 1%",
+          "The urethra begins at the apex of the bladder. 10%",
+          "The urethra opens in the vestibule that lies between the labia minora.",
+          "The inferior aspect of the urethra is bound to the posterior surface of the vagina. 4%",
+          "The internal urethral sphincter surrounds the urethra as it passes through the pelvic floor. 13%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Regarding the female urethra, which statement is correct?",
+        "options": [
+          "The urethra is longer in women than it is in men.",
+          "The urethra begins at the apex of the bladder.",
+          "The urethra opens in the vestibule that lies between the labia minora.",
+          "The inferior aspect of the urethra is bound to the posterior surface of the vagina.",
+          "The internal urethral sphincter surrounds the urethra as it passes through the pelvic floor."
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK547703/",
+        "externalFinding": "NCBI describes the vestibule between the labia minora and the female urethral opening within it."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0674-q0057",
+      "sourcePage": 674,
+      "before": {
+        "stem": "The arterial supply of the duodenum is primarily derived from which of the following:",
+        "options": [
+          "Superior mesenteric and inferior mesenteric artery 7%",
+          "Inferior mesenteric artery 1%",
+          "Left gastric artery and splenic artery 13%",
+          "Left gastric and superior mesenteric artery 13%",
+          "Gastroduodenal and superior mesenteric artery"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The arterial supply of the duodenum is primarily derived from which arteries?",
+        "options": [
+          "Superior mesenteric and inferior mesenteric artery",
+          "Inferior mesenteric artery",
+          "Left gastric artery and splenic artery",
+          "Left gastric and superior mesenteric artery",
+          "Gastroduodenal and superior mesenteric artery"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482390/",
+        "externalFinding": "NCBI assigns proximal supply to gastroduodenal branches and distal supply to SMA branches."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0675-q0058",
+      "sourcePage": 675,
+      "before": {
+        "stem": "The union of the common bile duct and the pancreatic duct forms which of the following: Cystic duct (x) Hepatic duct Sphincter of Oddi Major papilla",
+        "options": [
+          "Ampulla of Vater"
+        ],
+        "correctOption": 0,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Fewer than two answer options were detected."
+        ]
+      },
+      "after": {
+        "stem": "The union of the common bile duct and the pancreatic duct forms which structure?",
+        "options": [
+          "Cystic duct",
+          "Hepatic duct",
+          "Sphincter of Oddi",
+          "Major papilla",
+          "Ampulla of Vater"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459246/",
+        "externalFinding": "NCBI defines the hepatopancreatic ampulla as the common-bile-duct and pancreatic-duct confluence."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0667-q0050",
+      "sourcePage": 667,
+      "before": {
+        "stem": "ww The termination of the abdominal aorta can be visualised on the anterior abdominal wall by a point:",
+        "options": [
+          "About 2.5 cm above the umbilicus 26%",
+          "About 2.5 cm below the umbilicus",
+          "Halfway between the xiphisternum and the umbilicus 3%",
+          "Halfway between the umbilicus and the pubic symphysis 8%",
+          "About 2.5 cm above the deep inguinal ring %"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The termination of the abdominal aorta can be visualised on the anterior abdominal wall by which point?",
+        "options": [
+          "About 2.5 cm above the umbilicus",
+          "About 2.5 cm below the umbilicus",
+          "Halfway between the xiphisternum and the umbilicus",
+          "Halfway between the umbilicus and the pubic symphysis",
+          "About 2.5 cm above the deep inguinal ring"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but the exact aortic-bifurcation surface measurement is not sufficiently corroborated by the evidence reviewed."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3924739/",
+        "externalFinding": "CT-based studies report substantial variation in aortic-bifurcation position relative to the umbilicus, so the source's fixed 2.5-cm surface landmark is not restored."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

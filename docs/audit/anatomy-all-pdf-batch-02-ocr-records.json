@@ -1,0 +1,334 @@
+{
+  "exportedAt": "2026-08-22T06:35:42.582Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-02",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      48,
+      54,
+      58,
+      63,
+      67,
+      73,
+      75,
+      78,
+      85,
+      89
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0048-q0012",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "w The kidneys are related posteriorly to all of the following structures EXCEPT for the:",
+      "options": [
+        "Diaphragm 10%",
+        "Psoas major muscle 4%",
+        "Quadratus lumborum muscle 4%",
+        "lliacus muscle"
+      ],
+      "correctOption": 3,
+      "explanation": "Posteriorly both kidneys are related superiorly to the diaphragm and ribs and inferiorly (moving from medial to lateral) the psoas major, quadratus lumborum and transversus abdominis muscles. The pleural sacs and the costodiaphragmatic recesses also extend posterior to the kidneys. ‘ : . Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 48,
+      "sourceQuestionNumber": 12
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0054-q0013",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Which of the following lies immediately medial to the second part of the duodenum:",
+      "options": [
+        "Transverse colon",
+        "Spleen (x) Right kidney 3%",
+        "Stomach"
+      ],
+      "correctOption": null,
+      "explanation": "The descending (second) part is just to the right of the midline, extending from the neck of the gallbladder to the lower border of vertebra L3 and lying lateral to the head of the pancreas. This part contains the major duodenal papilla which is the common entrance for the bile and pancreatic ducts. (| Ss eee] Py] Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 54,
+      "sourceQuestionNumber": 13
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0058-q0014",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A72 year old man presents to ED with severe abdominal pain and diarrhoea. Imaging shows occlusion of the inferior mesenteric artery. Which of the following structures is most likely affected:",
+      "options": [
+        "Ascending and descending colon",
+        "Ascending and transverse colon",
+        "Caecum and transverse colon"
+      ],
+      "correctOption": null,
+      "explanation": "The inferior mesenteric artery supplies the hindgut structures including the distal one-third of the transverse colon (and splenic flexure), the descending colon. sigmoid colon and rectum. <= ae] a Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 58,
+      "sourceQuestionNumber": 14
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0063-q0015",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The psoas major muscle attaches distally to which of the following: (x) Pubic tubercle 2%",
+      "options": [
+        "Greater trochanter of the femur 1%",
+        "Lesser trochanter of the femur",
+        "lliac crest 13%",
+        "Anterior superior iliac spine 4%"
+      ],
+      "correctOption": 1,
+      "explanation": "The psoas major originates from the lateral bodies of, the transverse processes of and the intervertebral discs between the T12 and L1 - L5 vertebrae, essentially covering the anterolateral surface of the bodies of the lumbar vertebrae and filling in the spaces between the vertebral bodies and the transverse processes. It passes inferiorly along the pelvic brim and continues into the anterior thigh to attach to the lesser trochanter of the femur. 7 Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 63,
+      "sourceQuestionNumber": 15
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0067-q0016",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The portal triad comprises all of the following structures EXCEPT for:",
+      "options": [
+        "Branches of the hepatic vein",
+        "Branches of the portal vein 9%",
+        "Branches of the hepatic artery 6%",
+        "Vagal parasympathetic nerve fibres 22%"
+      ],
+      "correctOption": 0,
+      "explanation": "Microscopically, hepatocytes are arranged into lobules which are the functional units of the liver. Each lobule is hexagonal-shaped, and is drained by a venule in its centre called a central vein (which drains to the hepatic vein). At the periphery of the hexagonal liver lobules are three structures collectively known as the portal triad, comprising a portal arteriole (a branch of the hepatic artery), a portal venule (a branch of the hepatic portal vein) and a bile duct. The portal triad also contains lymphatic vessels and vagal parasympathetic nerve fibres. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 67,
+      "sourceQuestionNumber": 16
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0073-q0017",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The ductus deferens is derived from which of the following structures:",
+      "options": [
+        "Tunica vaginalis",
+        "Ejaculatory ducts 4%",
+        "Seminal vesicle 8% () Epididymis 68%",
+        "Rete testis 3%"
+      ],
+      "correctOption": null,
+      "explanation": "The ductus deferens continues from the tail of the epididymis. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 73,
+      "sourceQuestionNumber": 17
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0075-q0018",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww McBurney's point, the surface projection of the base of the appendix is located at which of the following sites:",
+      "options": [
+        "At the junction of the lateral and middle one-thirds of a line extending from the anterior superior iliac spine to the umbilicus. (x) At the midpoint of a line extending from the anterior superior iliac spine to the umbilicus. 9% At the junction of the medial and middle one-thirds of a line extending from the anterior 14% superior iliac spine to the umbilicus. At the midpoint of a line extending from the anterior superior iliac spine to the pubic 6% symphysis.",
+        "At the midpoint of a line extending from the anterior superior iliac spine to the pubic tubercle. 2%"
+      ],
+      "correctOption": 0,
+      "explanation": "The surface projection of the base of the appendix is at the junction of the lateral and middle one-third of a line from the anterior superior iliac spine to the umbilicus (McBurney's point). People with appendicitis may describe pain at this location. ; v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 75,
+      "sourceQuestionNumber": 18
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0078-q0019",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The lower pole of the kidneys occurs around the level of:",
+      "options": [
+        "The disc between L3 and L4 vertebrae (x) The body of the L2 vertebra 4%",
+        "The body of the L4 vertebra",
+        "The disc between L2 and L3 vertebrae 20%",
+        "The disc between L4 and L5 vertebrae"
+      ],
+      "correctOption": 0,
+      "explanation": "The position of the kidneys varies with respiration and the position of the body. In the supine position, the kidneys extend from approximately vertebra T12 superiorly to vertebra L3 inferiorly. The inferior pole lies at the level of the intervertebral disc between the L3 and L4 vertebrae. <a Py] $$$ Fs —&—<—<— Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 78,
+      "sourceQuestionNumber": 19
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0085-q0020",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The genitofemoral nerve innervates which of the following muscles: External anal sphincter 5%",
+      "options": [
+        "Bulbospongiosus muscle (x) Superficial transverse perineal muscle 6%",
+        "Deep transverse perineal muscle"
+      ],
+      "correctOption": null,
+      "explanation": "The genitofemoral nerve is formed from the anterior rami of L1 and L2. Its genital branch innervates the male cremaster muscle and supplies skin over the genitalia and its femoral branch supplies skin of the upper anterior thigh. ae] Py] Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 85,
+      "sourceQuestionNumber": 20
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0089-q0021",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The floor of the inguinal canal is formed primarily by which of the following structures:",
+      "options": [
+        "Transversalis fascia 14%",
+        "Medial one-half of the inguinal ligament",
+        "Lateral one-half of the inguinal ligament 8%",
+        "Psoas major muscle 3%"
+      ],
+      "correctOption": 1,
+      "explanation": "The floor of the inguinal canal is formed by the medial one-half of the inguinal ligament, reinforced medially by the lacunar ligament. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 89,
+      "sourceQuestionNumber": 21
+    }
+  ]
+}

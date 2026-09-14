@@ -1,0 +1,655 @@
+{
+  "generatedAt": "2026-08-27T04:21:57.083Z",
+  "batch": "anatomy-all-pdf-batch-62",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1747-q0060",
+      "sourcePage": 1747,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1747-q0060",
+        "sourcePage": 1747,
+        "stem": "The hypoglossal nerve innervates all of the following muscles EXCEPT for the:",
+        "options": [
+          "Genioglossus",
+          "Intrinsic muscles of the tongue Jem",
+          "Styloglossus",
+          "Palatoglossus"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The hypoglossal nerve innervates all of the muscles of the tongue, except for the palatoglossus muscle innervated by the vagus nerve. . Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1747-q0060",
+        "sourcePage": 1747,
+        "stem": "The hypoglossal nerve innervates all of the following muscles EXCEPT for the:",
+        "options": [
+          "Genioglossus",
+          "Intrinsic muscles of the tongue",
+          "Hyoglossus",
+          "Styloglossus",
+          "Palatoglossus"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "CN XII supplies the intrinsic and extrinsic muscles of the tongue except palatoglossus, which is supplied by the vagus nerve.",
+        "learningNote": "CN XII supplies the intrinsic and extrinsic muscles of the tongue except palatoglossus, which is supplied by the vagus nerve.",
+        "highYieldNote": "CN XII supplies the intrinsic and extrinsic muscles of the tongue except palatoglossus, which is supplied by the vagus nerve.",
+        "mnemonic": "XII moves the tongue; X supplies palatoglossus.",
+        "memoryAid": {
+          "coreFact": "CN XII supplies the intrinsic and extrinsic muscles of the tongue except palatoglossus, which is supplied by the vagus nerve.",
+          "mnemonic": "XII moves the tongue; X supplies palatoglossus.",
+          "emojiCues": [
+            "XII",
+            "X",
+            "👅"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537167/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537167/",
+        "externalFinding": "Source page displays palatoglossus as the exception."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1748-q0061",
+      "sourcePage": 1748,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1748-q0061",
+        "sourcePage": 1748,
+        "stem": "Regarding the trigeminal nerve, which of the following statements is INCORRECT:",
+        "options": [
+          "The trigeminal nerve has both motor and sensory function. 3%",
+          "The trigeminal nerve is the afferent nerve for the corneal blink refiex. 9%",
+          "All three divisions of the trigeminal nerve have bilateral cortical representation. 13%",
+          "In a trigeminal nerve palsy, the jaw will deviate away from the affected side when open."
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "In a trigeminal nerve palsy, the jaw will deviate towards the paralysed side due to unopposed action of the opposite lateral pterygoid. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1748-q0061",
+        "sourcePage": 1748,
+        "stem": "Regarding the trigeminal nerve, which of the following statements is INCORRECT:",
+        "options": [
+          "The trigeminal nerve is the largest cranial nerve.",
+          "The trigeminal nerve has both motor and sensory function.",
+          "The trigeminal nerve is the afferent nerve for the corneal blink reflex.",
+          "All three divisions of the trigeminal nerve have bilateral cortical representation.",
+          "In a trigeminal nerve palsy, the jaw will deviate away from the affected side when open."
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "In a trigeminal motor palsy, the jaw deviates toward the affected side on opening because the opposite lateral pterygoid acts unopposed.",
+        "learningNote": "In a trigeminal motor palsy, the jaw deviates toward the affected side on opening because the opposite lateral pterygoid acts unopposed.",
+        "highYieldNote": "In a trigeminal motor palsy, the jaw deviates toward the affected side on opening because the opposite lateral pterygoid acts unopposed.",
+        "mnemonic": "Jaw deviates toward the weak pterygoid side.",
+        "memoryAid": {
+          "coreFact": "In a trigeminal motor palsy, the jaw deviates toward the affected side on opening because the opposite lateral pterygoid acts unopposed.",
+          "mnemonic": "Jaw deviates toward the weak pterygoid side.",
+          "emojiCues": [
+            "V",
+            "🦷",
+            "↔️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470353/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470353/",
+        "externalFinding": "Source page displays the away-from-affected-side statement as incorrect."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1749-q0062",
+      "sourcePage": 1749,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1749-q0062",
+        "sourcePage": 1749,
+        "stem": "The mandibular division of the trigeminal nerve exits the skull through the: Foramen rotundum 7% (x) Hypoglossal canal 2% Internal acoustic meatus 3%",
+        "options": [
+          "Jugular foramen"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Fewer than two answer options were detected.",
+          "No marked correct option was detected."
+        ],
+        "explanation": "The mandibular nerve exits the skull through the foramen ovale. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1749-q0062",
+        "sourcePage": 1749,
+        "stem": "The mandibular division of the trigeminal nerve exits the skull through the:",
+        "options": [
+          "Foramen rotundum",
+          "Foramen ovale",
+          "Hypoglossal canal",
+          "Internal acoustic meatus",
+          "Jugular foramen"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The mandibular division, V3, exits the skull through the foramen ovale.",
+        "learningNote": "The mandibular division, V3, exits the skull through the foramen ovale.",
+        "highYieldNote": "The mandibular division, V3, exits the skull through the foramen ovale.",
+        "mnemonic": "V2 uses rotundum; V3 uses ovale.",
+        "memoryAid": {
+          "coreFact": "The mandibular division, V3, exits the skull through the foramen ovale.",
+          "mnemonic": "V2 uses rotundum; V3 uses ovale.",
+          "emojiCues": [
+            "V2",
+            "V3",
+            "🕳️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470353/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470353/",
+        "externalFinding": "Source page displays foramen ovale as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1750-q0063",
+      "sourcePage": 1750,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1750-q0063",
+        "sourcePage": 1750,
+        "stem": "The auriculotemporal nerve carries general sensation from all of the following regions EXCEPT for the:",
+        "options": [
+          "Posterior temple 52%",
+          "Tympanic membrane 3%",
+          "Temporomandibular joint"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The auriculotemporal nerve carries general sensation from skin over a large area of the temple, the external ear, the external auditory meatus, the outer tympanic membrane and the temporomandibular joint. It also delivers postganglionic parasympathetic fibres from the glossopharyngeal nerve to the parotid gland. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1750-q0063",
+        "sourcePage": 1750,
+        "stem": "The auriculotemporal nerve carries general sensation from all of the following regions EXCEPT for the:",
+        "options": [
+          "Posterior temple",
+          "External ear",
+          "Upper lip",
+          "Tympanic membrane",
+          "Temporomandibular joint"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The auriculotemporal nerve supplies the temple, external ear, external auditory canal, outer tympanic membrane, and TMJ, not the upper lip.",
+        "learningNote": "The auriculotemporal nerve supplies the temple, external ear, external auditory canal, outer tympanic membrane, and TMJ, not the upper lip.",
+        "highYieldNote": "The auriculotemporal nerve supplies the temple, external ear, external auditory canal, outer tympanic membrane, and TMJ, not the upper lip.",
+        "mnemonic": "Auriculotemporal covers ear, temple, drum, and TMJ; V2 covers the upper lip.",
+        "memoryAid": {
+          "coreFact": "The auriculotemporal nerve supplies the temple, external ear, external auditory canal, outer tympanic membrane, and TMJ, not the upper lip.",
+          "mnemonic": "Auriculotemporal covers ear, temple, drum, and TMJ; V2 covers the upper lip.",
+          "emojiCues": [
+            "V3",
+            "V2",
+            "👂"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470353/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470353/",
+        "externalFinding": "Source page displays upper lip as the exception."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1751-q0064",
+      "sourcePage": 1751,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1751-q0064",
+        "sourcePage": 1751,
+        "stem": "Regarding the optic nerve, which of the following statements is CORRECT:",
+        "options": [
+          "The optic nerve is surrounded by the cranial meninges.",
+          "The optic nerve has both motor and sensory function. 4%",
+          "The optic nerve receives its blood supply primarily from branches of the external carotid artery. 6%",
+          "Visual acuity should be tested with Ishihara plates. 4%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The optic nerve is surrounded by the cranial meninges as far forwards as the eyeball which provides anatomical rationale for papilloedema seen in raised intracranial pressure. The optic nerve is a purely sensory nerve which leaves the orbit via the optic canal in the sphenoid bone. It receives its blood supply from the anterior cerebral artery, ophthalmic artery and central retinal artery, all branches of the internal carotid artery. Visual acuity is assessed with Snellen charts, Ishihara plates are used to assess colour vision. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1751-q0064",
+        "sourcePage": 1751,
+        "stem": "Regarding the optic nerve, which of the following statements is CORRECT:",
+        "options": [
+          "The optic nerve is surrounded by the cranial meninges.",
+          "The optic nerve leaves the orbit through the superior orbital fissure.",
+          "The optic nerve has both motor and sensory function.",
+          "The optic nerve receives its blood supply primarily from branches of the external carotid artery.",
+          "Visual acuity should be tested with Ishihara plates."
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The optic nerve is surrounded by cranial meninges. It passes through the optic canal, is sensory, and visual acuity is assessed with a Snellen chart rather than Ishihara plates.",
+        "learningNote": "The optic nerve is surrounded by cranial meninges. It passes through the optic canal, is sensory, and visual acuity is assessed with a Snellen chart rather than Ishihara plates.",
+        "highYieldNote": "The optic nerve is surrounded by cranial meninges. It passes through the optic canal, is sensory, and visual acuity is assessed with a Snellen chart rather than Ishihara plates.",
+        "mnemonic": "II carries meninges and vision; Snellen sees acuity, Ishihara sees colour.",
+        "memoryAid": {
+          "coreFact": "The optic nerve is surrounded by cranial meninges. It passes through the optic canal, is sensory, and visual acuity is assessed with a Snellen chart rather than Ishihara plates.",
+          "mnemonic": "II carries meninges and vision; Snellen sees acuity, Ishihara sees colour.",
+          "emojiCues": [
+            "II",
+            "👁️",
+            "📊"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK553213/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK553213/",
+        "externalFinding": "Source page displays meningeal investment as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1755-q0065",
+      "sourcePage": 1755,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1755-q0065",
+        "sourcePage": 1755,
+        "stem": "The glossopharyngeal nerve exits the skull through the:",
+        "options": [
+          "Foramen rotundum",
+          "Foramen ovale @ Hypoglossal canal ”",
+          "Internal acoustic meatus",
+          "Jugular foramen"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The glossopharyngeal nerve exits the skull through the jugular foramen. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1755-q0065",
+        "sourcePage": 1755,
+        "stem": "The glossopharyngeal nerve exits the skull through the:",
+        "options": [
+          "Foramen rotundum",
+          "Foramen ovale",
+          "Hypoglossal canal",
+          "Internal acoustic meatus",
+          "Jugular foramen"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The glossopharyngeal nerve exits the skull through the jugular foramen.",
+        "learningNote": "The glossopharyngeal nerve exits the skull through the jugular foramen.",
+        "highYieldNote": "The glossopharyngeal nerve exits the skull through the jugular foramen.",
+        "mnemonic": "IX, X, and XI travel through the jugular foramen.",
+        "memoryAid": {
+          "coreFact": "The glossopharyngeal nerve exits the skull through the jugular foramen.",
+          "mnemonic": "IX, X, and XI travel through the jugular foramen.",
+          "emojiCues": [
+            "IX",
+            "X",
+            "🕳️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK539877/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK539877/",
+        "externalFinding": "Source page displays jugular foramen as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1759-q0066",
+      "sourcePage": 1759,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1759-q0066",
+        "sourcePage": 1759,
+        "stem": "Which of the following nerves is the efferent pathway of the corneal blink reflex:",
+        "options": [
+          "Ophthalmic nerve",
+          "Oculomotor nerve Coens",
+          "Maxillary nerve"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The facial nerve is the efferent pathway of the corneal blink reflex. The ophthalmic division of the trigeminal nerve is the afferent pathway of the corneal blink reflex. . Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1759-q0066",
+        "sourcePage": 1759,
+        "stem": "Which of the following nerves is the efferent pathway of the corneal blink reflex:",
+        "options": [
+          "Ophthalmic nerve",
+          "Oculomotor nerve",
+          "Optic nerve",
+          "Facial nerve",
+          "Maxillary nerve"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The facial nerve is the efferent limb of the corneal blink reflex; V1 is the afferent limb.",
+        "learningNote": "The facial nerve is the efferent limb of the corneal blink reflex; V1 is the afferent limb.",
+        "highYieldNote": "The facial nerve is the efferent limb of the corneal blink reflex; V1 is the afferent limb.",
+        "mnemonic": "V1 feels the cornea; VII closes the lids.",
+        "memoryAid": {
+          "coreFact": "The facial nerve is the efferent limb of the corneal blink reflex; V1 is the afferent limb.",
+          "mnemonic": "V1 feels the cornea; VII closes the lids.",
+          "emojiCues": [
+            "V1",
+            "VII",
+            "👁️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK553213/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK553213/",
+        "externalFinding": "Source page displays facial nerve as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1760-q0067",
+      "sourcePage": 1760,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1760-q0067",
+        "sourcePage": 1760,
+        "stem": "A 64 year old man has sustained a penetrating injury to the submandibular triangle. On examination, his tongue is weak and when protruded deviates to the left. Which of the following nerves has most likely been injured:",
+        "options": [
+          "Left glossopharyngeal nerve",
+          "Right glossopharyngeal nerve",
+          "Right hypoglossal nerve",
+          "Right lingual nerve"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Damage to the hypoglossal nerve results in weakness of the tongue, with deviation of the tongue towards the weak side on protrusion. “css ease Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1760-q0067",
+        "sourcePage": 1760,
+        "stem": "A 64 year old man has sustained a penetrating injury to the submandibular triangle. On examination, his tongue is weak and when protruded deviates to the left. Which of the following nerves has most likely been injured:",
+        "options": [
+          "Left glossopharyngeal nerve",
+          "Right glossopharyngeal nerve",
+          "Left hypoglossal nerve",
+          "Right hypoglossal nerve",
+          "Right lingual nerve"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "An ipsilateral hypoglossal LMN injury causes the tongue to deviate toward the weak side on protrusion; left deviation indicates left CN XII injury.",
+        "learningNote": "An ipsilateral hypoglossal LMN injury causes the tongue to deviate toward the weak side on protrusion; left deviation indicates left CN XII injury.",
+        "highYieldNote": "An ipsilateral hypoglossal LMN injury causes the tongue to deviate toward the weak side on protrusion; left deviation indicates left CN XII injury.",
+        "mnemonic": "XII points toward the weak side.",
+        "memoryAid": {
+          "coreFact": "An ipsilateral hypoglossal LMN injury causes the tongue to deviate toward the weak side on protrusion; left deviation indicates left CN XII injury.",
+          "mnemonic": "XII points toward the weak side.",
+          "emojiCues": [
+            "XII",
+            "👅",
+            "⬅️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537167/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537167/",
+        "externalFinding": "Source page displays left hypoglossal nerve as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1761-q0068",
+      "sourcePage": 1761,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1761-q0068",
+        "sourcePage": 1761,
+        "stem": "w The inferior alveolar nerve supplies all of the following EXCEPT for the:",
+        "options": [
+          "Mylohyoid muscle",
+          "Anterior belly of the digastric muscle",
+          "Tensor veli palatini muscle",
+          "Sensation from skin over the chin",
+          "Sensation from the lower teeth"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The inferior alveolar nerve carries general sensation from the lower teeth and associated gingivae, mucosa and skin of the lower lip and skin of the chin and gives rise to a motor branch which innervates the mylohyoid muscle and the anterior belly of the digastric muscle. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1761-q0068",
+        "sourcePage": 1761,
+        "stem": "The inferior alveolar nerve supplies all of the following EXCEPT for the:",
+        "options": [
+          "Mylohyoid muscle",
+          "Anterior belly of the digastric muscle",
+          "Tensor veli palatini muscle",
+          "Sensation from skin over the chin",
+          "Sensation from the lower teeth"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The inferior alveolar nerve supplies lower teeth and chin sensation and gives the mylohyoid branch; tensor veli palatini is not supplied by it.",
+        "learningNote": "The inferior alveolar nerve supplies lower teeth and chin sensation and gives the mylohyoid branch; tensor veli palatini is not supplied by it.",
+        "highYieldNote": "The inferior alveolar nerve supplies lower teeth and chin sensation and gives the mylohyoid branch; tensor veli palatini is not supplied by it.",
+        "mnemonic": "Inferior alveolar supplies lower teeth, chin, and mylohyoid; tensor veli palatini is the exception.",
+        "memoryAid": {
+          "coreFact": "The inferior alveolar nerve supplies lower teeth and chin sensation and gives the mylohyoid branch; tensor veli palatini is not supplied by it.",
+          "mnemonic": "Inferior alveolar supplies lower teeth, chin, and mylohyoid; tensor veli palatini is the exception.",
+          "emojiCues": [
+            "V3",
+            "🦷",
+            "💪"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK545158/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK545158/",
+        "externalFinding": "Source page displays tensor veli palatini as the exception."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1762-q0069",
+      "sourcePage": 1762,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1762-q0069",
+        "sourcePage": 1762,
+        "stem": "te Which of the following is NOT a typical feature of an abducens nerve palsy:",
+        "options": [
+          "Convergent squint at rest",
+          "Horizontal diplopia © Loss of abduction 2%",
+          "Adducted eye at rest 4% (/ inability to look up 40%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "CN VI palsies result in a convergent squint at rest (eye turned inwards) with inability to abduct the eye because of unopposed action of the rectus medialis. The patient complains of horizontal diplopia when looking towards the affected side. With complete paralysis, the eye cannot abduct past the midline. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1762-q0069",
+        "sourcePage": 1762,
+        "stem": "Which of the following is NOT a typical feature of an abducens nerve palsy:",
+        "options": [
+          "Convergent squint at rest",
+          "Horizontal diplopia",
+          "Loss of abduction",
+          "Adducted eye at rest",
+          "Inability to look up"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "CN VI palsy causes a convergent squint, horizontal diplopia, an adducted eye, and loss of abduction; inability to look up is not typical.",
+        "learningNote": "CN VI palsy causes a convergent squint, horizontal diplopia, an adducted eye, and loss of abduction; inability to look up is not typical.",
+        "highYieldNote": "CN VI palsy causes a convergent squint, horizontal diplopia, an adducted eye, and loss of abduction; inability to look up is not typical.",
+        "mnemonic": "VI cannot look laterally; vertical upgaze is not its function.",
+        "memoryAid": {
+          "coreFact": "CN VI palsy causes a convergent squint, horizontal diplopia, an adducted eye, and loss of abduction; inability to look up is not typical.",
+          "mnemonic": "VI cannot look laterally; vertical upgaze is not its function.",
+          "emojiCues": [
+            "VI",
+            "👁️",
+            "⬆️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470353/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470353/",
+        "externalFinding": "Source page displays inability to look up as not typical."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

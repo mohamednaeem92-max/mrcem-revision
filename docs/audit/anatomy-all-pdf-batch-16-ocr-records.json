@@ -1,0 +1,341 @@
+{
+  "exportedAt": "2026-08-22T16:51:45.580Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-16",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      556,
+      557,
+      558,
+      561,
+      563,
+      566,
+      567,
+      571,
+      572,
+      573
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0556-q0156",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The right kidney is related anteriorly to all of the following structures EXCEPT for the:",
+      "options": [
+        "Right adrenal gland 19%",
+        "Liver 5%",
+        "Second part of the duodenum 9%",
+        "Hepatic flexure 6%"
+      ],
+      "correctOption": null,
+      "explanation": "The anterior surface of the right kidney is related to the (superiorly to inferiorly): e right adrenal gland medially e liver © second part of the duodenum medially, © right colic flexure laterally © asegment of small intestine medially 3 Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 556,
+      "sourceQuestionNumber": 156
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0557-q0157",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The ureters enter the bladder and end at the level of which of the following landmarks: CMe",
+      "options": [
+        "Pubic tubercle",
+        "Anterior superior iliac spine 14%",
+        "Inguinal ligament 4%",
+        "lliac crest 8%"
+      ],
+      "correctOption": 0,
+      "explanation": "The ureters enters obliquely through the base of the bladder at the level of the pubic tubercle. : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 557,
+      "sourceQuestionNumber": 157
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0558-q0158",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The oesophagus passes through the diaphragm at which vertebral level:",
+      "options": [
+        "T8 6%",
+        "19 2% () HO 86%",
+        "™m 3%",
+        "112 3%"
+      ],
+      "correctOption": null,
+      "explanation": "The abdominal oesophagus emerges through the oesophageal hiatus in the diaphragm at vertebral level T10. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 558,
+      "sourceQuestionNumber": 158
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0561-q0159",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww A direct inguinal hernia is due to weakness in which of the following layers:",
+      "options": [
+        "External oblique aponeurosis 14%",
+        "Transversalis fascia",
+        "Internal oblique muscle 5%",
+        "Lacunar ligament 1%"
+      ],
+      "correctOption": 1,
+      "explanation": "A direct inguinal hernia is due to weakness in the posterior wall of the inguinal canal which is formed mainly by the transversalis fascia. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 561,
+      "sourceQuestionNumber": 159
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0563-q0160",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The following structures are all found in the spermatic cord EXCEPT for the:",
+      "options": [
+        "Pampiniform plexus of veins 6%",
+        "Cremasteric artery 5%",
+        "Remnants of the processus vaginalis 6%",
+        "Pudendal nerve",
+        "Testicular artery 6%"
+      ],
+      "correctOption": 3,
+      "explanation": "The pudendal nerve is not a component of the spermatic cord. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 563,
+      "sourceQuestionNumber": 160
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0566-q0161",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "wy A565 year old woman presents to ED complaining of abdominal pain and profuse vomiting. Imaging shows part of the bowel is being compressed between the abdominal aorta and the superior mesenteric artery. Which part of the bowel is most likely being affected:",
+      "options": [
+        "First part of the duodenum 17% (/) Third part of the duodenum 48%",
+        "lleum 4%",
+        "Jejunum 7%"
+      ],
+      "correctOption": null,
+      "explanation": "The third part of the duodenum lies anterior to the abdominal aorta but posterior to the superior mesenteric artery and constriction between these structures can occur readily. : : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 566,
+      "sourceQuestionNumber": 161
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0567-q0162",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The inferior vena cava leaves the abdomen at which of the following vertebral levels:",
+      "options": [
+        "T6 16%",
+        "T10 49%",
+        "u 2%"
+      ],
+      "correctOption": null,
+      "explanation": "The inferior vena cava ascends through the posterior abdominal region anterior to the vertebral column immediately to the right of the abdominal aorta, and continues superiorly, leaving the abdomen by piercing the diaphragm at the level of vertebra T8. ; Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 567,
+      "sourceQuestionNumber": 162
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0571-q0163",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Abdomen A75 year old man presents to ED complaining of abdominal pain radiating to his back, anorexia and weight loss. Imaging shows a large tumour of the neck of the pancreas. Which of the following structures is most likely compressed by the tumour:",
+      "options": [
+        "Inferior mesenteric artery 7h",
+        "Ureter",
+        "Coeliac trunk 7h"
+      ],
+      "correctOption": null,
+      "explanation": "The portal vein is formed from the union of the superior mesenteric and splenic veins posterior to the neck of the pancreas and would most likely be compressed by a tumour at this location.",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 571,
+      "sourceQuestionNumber": 163
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0572-q0164",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Abdomen The following structures are all found in the spermatic cord except for the:",
+      "options": [
+        "Ductus deferens Branch of the inferior vesical artery 16% Cremasteric vein 2% Branch of the genitofemoral nerve Th"
+      ],
+      "correctOption": null,
+      "explanation": "The inferior epigastric artery is not a component of the spermatic cord. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "Fewer than two answer options were detected.",
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 572,
+      "sourceQuestionNumber": 164
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0573-q0165",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Abdomen The quadratus |umborum muscle is innervated by which of the following:",
+      "options": [
+        "lliohypogastric nerve",
+        "Anterior rami of L2 - L4",
+        "Anterior rami of T9 - 712"
+      ],
+      "correctOption": null,
+      "explanation": "The quadratus lumborum muscles are innervated by the anterior rami of T12 and L1 - L4. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 573,
+      "sourceQuestionNumber": 165
+    }
+  ]
+}

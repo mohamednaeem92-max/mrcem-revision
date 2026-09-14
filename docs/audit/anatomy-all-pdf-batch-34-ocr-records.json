@@ -1,0 +1,339 @@
+{
+  "exportedAt": "2026-08-23T17:25:55.331Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-34",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1067,
+      1071,
+      1076,
+      1079,
+      1082,
+      1083,
+      1088,
+      1092,
+      1095,
+      1100
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1067-q0097",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The inferior vena cava is formed from the union of the two common iliac veins at which of the following vertebral levels:",
+      "options": [
+        "u 48%",
+        "L3 6%",
+        "L4 25%"
+      ],
+      "correctOption": null,
+      "explanation": "It is formed from the union of the two common iliac veins at the level of vertebra LS, just to the right of the midline. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1067,
+      "sourceQuestionNumber": 97
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1071-q0098",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A patient with known inflammatory bowel disease presents to ED complaining of severe abdominal pain and diarrhoea. Imaging shows a flare up primarily affecting the rectum. Which of the following nerves is most likely responsible for transmission of pain from the rectum:",
+      "options": [
+        "Lumbar splanchnic nerves",
+        "Sacral splanchnic nerves",
+        "Vagus nerves Pudendal nerves 59%"
+      ],
+      "correctOption": null,
+      "explanation": "The visceral afferent innervation of the rectum is transmitted by way of the pelvic splanchnic nerves, which also provide parasympathetic supply. Sympathetic nervous supply to the rectum is from the lumbar splanchnic nerves (L1, L2) and the inferior mesenteric plexus (upper rectum) and hypogastric plexuses (middle and lower rectum). ae ] v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1071,
+      "sourceQuestionNumber": 98
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1076-q0099",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Ld Within the pelvic cavity in women, the ureter is crossed anteriorly by which of the following structures:",
+      "options": [
+        "Ovarian artery 8%",
+        "Internal iliac artery 7%",
+        "Round ligament 16%",
+        "Uterine artery",
+        "Inferior hypogastric artery 2%"
+      ],
+      "correctOption": 3,
+      "explanation": "Within the pelvic cavity, the ureters are crossed by the uterine artery lateral to the cervix in women, and by the ductus deferens just posterior to the bladder in men. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1076,
+      "sourceQuestionNumber": 99
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1079-q0100",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The ovaries are supplied by the ovarian arteries, branches of which of the following:",
+      "options": [
+        "Abdominal aorta",
+        "Internal iliac artery 21% (x) uperior mesenteric artery 3%",
+        "Coeliac trunk 2%",
+        "Inferior mesenteric artery"
+      ],
+      "correctOption": 0,
+      "explanation": "The arterial supply to the ovaries is from the ovarian arteries, direct branches from the anterolateral surfaces of the abdominal aorta. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1079,
+      "sourceQuestionNumber": 100
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1082-q0101",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Ad A55 year old woman presents to ED complaining of severe colicky loin to groin pain. Imaging shows renal calculi. At which of the following locations is the calculus likely to lodge: (x) Where the ureter is crossed by the uterine artery 13%",
+      "options": [
+        "Where the ureter is crossed by the vas deferens 5%",
+        "Where the ureter crosses the common iliac vessels",
+        "At the level the inferior mesenteric artery arises from the abdominal aorta 4%",
+        "Approximately 5 cm superior to the pelvic brim 14%"
+      ],
+      "correctOption": 1,
+      "explanation": "At three points along their course, the ureters are constricted denoting the most likely areas for renal calculi to lodge: e the first point is at the ureteropelvic junction (where the renal pelvis becomes continuous with the ureter) e the second point is where the ureter crosses the common iliac vessels at the pelvic brim e the third point is at the vesicoureteric junction (where the ureter enters the wall of the bladder) Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1082,
+      "sourceQuestionNumber": 101
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1083-q0102",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww A 49 year old man presents to ED with a few months history of abdominal pain, weight loss and jaundice. Imaging shows a tumour in the uncinate process of the pancreas. Which of the following structures is most likely compressed by this tumour:",
+      "options": [
+        "Cystic duct 19%",
+        "Superior mesenteric artery",
+        "Portal vein 16%",
+        "Splenic artery 6%"
+      ],
+      "correctOption": 1,
+      "explanation": "The uncinate process of the pancreas is a projection of the lower part of the head to the left behind the superior mesenteric vessels. s Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1083,
+      "sourceQuestionNumber": 102
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1088-q0103",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Posteriorly the spleen lies in the region of which of the following:",
+      "options": [
+        "Ribs 7 and 8 2%",
+        "Ribs 8 - 10 5%",
+        "Ribs 9 - 11",
+        "Ribs 10 - 12 56%",
+        "Below the costal margin 2%"
+      ],
+      "correctOption": 2,
+      "explanation": "The spleen projects onto the left side and back in the area of ribs 9 - 11. The spleen follows the contour of rib 10 and extends from the superior pole of the left kidney to just posterior to the midaxillary line. : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1088,
+      "sourceQuestionNumber": 103
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1092-q0104",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 65 year old man presents to ED complaining of abdominal pain, jaundice and weight loss. Imaging shows a tumour of the head of the pancreas. Which of the following structures is most likely compressed by this tumour:",
+      "options": [
+        "Common hepatic duct",
+        "Left hepatic duct 3%",
+        "Cystic duct 6%",
+        "Accessory pancreatic duct 6%"
+      ],
+      "correctOption": null,
+      "explanation": "The lower region of the common bile duct lies in a groove on the posterior surface of the head of the pancreas to the left of the second part of the duodenum. An obstruction at this site causes a backup of bile back through the common bile duct and hepatic ducts with resultant pain and jaundice. aoc Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1092,
+      "sourceQuestionNumber": 104
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1095-q0105",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The iliohypogastric nerve supplies skin over which of the following regions:",
+      "options": [
+        "Posterolateral gluteal region",
+        "Medial thigh 12%",
+        "Lateral thigh 4%",
+        "Posteromedial gluteal region 17%"
+      ],
+      "correctOption": 0,
+      "explanation": "The iliohypogastric nerve is formed from the anterior rami of L1. It innervates the internal oblique and the transversus abdominis muscles and supplies posterolateral gluteal skin and skin over the pubic region. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1095,
+      "sourceQuestionNumber": 105
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1100-q0106",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "wy? Which of the following nerves transmits the parasympathetic supply to the stomach: (x) Greater thoracic splanchnic nerves 6%",
+      "options": [
+        "Lesser thoracic splanchnic nerves 8%",
+        "Lumbar splanchnic nerves 5%",
+        "Pelvic splanchnic nerves 2%"
+      ],
+      "correctOption": null,
+      "explanation": "The parasympathetic supply to the stomach is carried by the vagus nerve. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1100,
+      "sourceQuestionNumber": 106
+    }
+  ]
+}

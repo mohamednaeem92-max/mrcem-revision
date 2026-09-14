@@ -1,0 +1,313 @@
+{
+  "generatedAt": "2026-08-23T17:14:36.809Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0990-q0076",
+      "sourcePage": 990,
+      "before": {
+        "stem": "A 64 year old man is brought to ED with profuse haematemesis. Endoscopy shows oesophageal varices which are most likely the result of anastomosis of the left gastric vein with which of the following vessels:",
+        "options": [
+          "Abdominal aorta",
+          "Inferior mesenteric vein Superior mesenteric vein 8%"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "A 64 year old man is brought to ED with profuse haematemesis. Endoscopy shows oesophageal varices which are most likely the result of anastomosis of the left gastric vein with which of the following vessels:",
+        "options": [
+          "Abdominal aorta",
+          "Azygos system of veins",
+          "Inferior mesenteric vein",
+          "Superior mesenteric vein",
+          "Portal vein"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3940321/",
+        "externalFinding": "Left gastric vein anastomoses with oesophageal veins draining to the azygos system."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0994-q0077",
+      "sourcePage": 994,
+      "before": {
+        "stem": "ww The psoas major muscle originates from which of the following:",
+        "options": [
+          "The T12 - LS vertebrae",
+          "The 11th and 12th rib 5%",
+          "The T11 - 112 vertebrae 10%",
+          "The sacrum 2%",
+          "The iliac crest 7%"
+        ],
+        "correctOption": 0
+      },
+      "after": {
+        "stem": "The psoas major muscle originates from which of the following:",
+        "options": [
+          "The T12 - L5 vertebrae",
+          "The 11th and 12th rib",
+          "The T11 - T12 vertebrae",
+          "The sacrum",
+          "The iliac crest"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK535418/",
+        "externalFinding": "Psoas major has proximal attachments from T12 through L5."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0998-q0078",
+      "sourcePage": 998,
+      "before": {
+        "stem": "Which of the following actions does NOT facilitate defaecation:",
+        "options": [
+          "Increased intra-abdominal pressure 53% (x) traction of rectal smooth muscle 5%",
+          "Relaxation of the internal anal sphincter 6%",
+          "Relaxation of the external anal sphincter"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "Which of the following actions does NOT facilitate defaecation:",
+        "options": [
+          "Increased intra-abdominal pressure",
+          "Contraction of rectal smooth muscle",
+          "Contraction of the puborectalis muscle",
+          "Relaxation of the internal anal sphincter",
+          "Relaxation of the external anal sphincter"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK539732/",
+        "externalFinding": "Puborectalis relaxes to straighten the anorectal angle for defaecation."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1002-q0079",
+      "sourcePage": 1002,
+      "before": {
+        "stem": "A 40 year old man is undergoing a vasectomy. During the procedure the various layers of the spermatic cord are separated to expose the ductus deferens. The internal spermatic fascia is derived from which of the following: External oblique aponeurosis 3%",
+        "options": [
+          "Internal oblique aponeurosis",
+          "Internal oblique muscle",
+          "Transversus abdominis muscle"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "A 40 year old man is undergoing a vasectomy. During the procedure the various layers of the spermatic cord are separated to expose the ductus deferens. The internal spermatic fascia is derived from which of the following:",
+        "options": [
+          "External oblique aponeurosis",
+          "Internal oblique aponeurosis",
+          "Transversalis fascia",
+          "Internal oblique muscle",
+          "Transversus abdominis muscle"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557763/",
+        "externalFinding": "Internal spermatic fascia derives from transversalis fascia."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1006-q0080",
+      "sourcePage": 1006,
+      "before": {
+        "stem": "ww The obturator nerve is formed from the anterior rami of:",
+        "options": [
+          "Eels",
+          "Ey-L2 5% Oe",
+          "L2-L3 1%",
+          "L3-L4 5%"
+        ],
+        "correctOption": 0
+      },
+      "after": {
+        "stem": "The obturator nerve is formed from the anterior rami of:",
+        "options": [
+          "L2 - L4",
+          "L1 - L2",
+          "L1 - L4",
+          "L2 - L3",
+          "L3 - L4"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK545137/",
+        "externalFinding": "Obturator nerve arises from anterior divisions of L2–L4."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1010-q0081",
+      "sourcePage": 1010,
+      "before": {
+        "stem": "w Which of the following best describes the relationship of the duodenum to the pancreas:",
+        "options": [
+          "The first part of the duodenum lies superior to the tail of the pancreas. 2% (x) [he second part of the duodenum lies medial to the head of the pancreas. 14%",
+          "The third part of the duodenum lies inferior to the pancreas.",
+          "The fourth part of the duodenum lies inferior to the head of the pancreas. 3%",
+          "The head of the pancreas lies posterior to the second part of the duodenum. 9%"
+        ],
+        "correctOption": 1
+      },
+      "after": {
+        "stem": "Which of the following best describes the relationship of the duodenum to the pancreas:",
+        "options": [
+          "The first part of the duodenum lies superior to the tail of the pancreas.",
+          "The second part of the duodenum lies medial to the head of the pancreas.",
+          "The third part of the duodenum lies inferior to the pancreas.",
+          "The fourth part of the duodenum lies inferior to the head of the pancreas.",
+          "The head of the pancreas lies posterior to the second part of the duodenum."
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482390/",
+        "externalFinding": "The horizontal third duodenal part lies inferior to the pancreatic region."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1014-q0082",
+      "sourcePage": 1014,
+      "before": {
+        "stem": "ww A 41 year old man presents to ED with a painful, infected abscess on the posterior aspect of the scrotum. Which of the following lymph nodes is most likely to be affected first:",
+        "options": [
+          "Internal iliac nodes 4%",
+          "External iliac nodes 2%",
+          "Superficial inguinal nodes",
+          "Deep inguinal nodes 9%"
+        ],
+        "correctOption": 2
+      },
+      "after": {
+        "stem": "A 41 year old man presents to ED with a painful, infected abscess on the posterior aspect of the scrotum. Which of the following lymph nodes is most likely to be affected first:",
+        "options": [
+          "Internal iliac nodes",
+          "External iliac nodes",
+          "Superficial inguinal nodes",
+          "Deep inguinal nodes",
+          "Para-aortic nodes"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK549893/",
+        "externalFinding": "Scrotal wall drains to superficial inguinal nodes."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1017-q0083",
+      "sourcePage": 1017,
+      "before": {
+        "stem": "The superior pole of the left kidney reaches as high as which of the following:",
+        "options": [
+          "Rib 8",
+          "Rib 9",
+          "Rib 10"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "The superior pole of the left kidney reaches as high as which of the following:",
+        "options": [
+          "Rib 8",
+          "Rib 9",
+          "Rib 10",
+          "Rib 11",
+          "Rib 12"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459339/",
+        "externalFinding": "The left renal superior margin is near the eleventh rib."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1023-q0084",
+      "sourcePage": 1023,
+      "before": {
+        "stem": "The stomach lies anterior to all of the following structures EXCEPT for the:",
+        "options": [
+          "Pancreas",
+          "Transverse mesocolon",
+          "Spleen"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "The stomach lies anterior to all of the following structures EXCEPT for the:",
+        "options": [
+          "Pancreas",
+          "Transverse mesocolon",
+          "Spleen",
+          "Left lobe of the liver",
+          "Left colic flexure"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482334/",
+        "externalFinding": "The left hepatic lobe lies anterior to the stomach."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1028-q0085",
+      "sourcePage": 1028,
+      "before": {
+        "stem": "Ld Which of the following parts of the male urethra passes through the urogenital diaphragm:",
+        "options": [
+          "Preprostatic urethra 10%",
+          "Prostatic urethra 9%",
+          "Membranous urethra",
+          "Spongy urethra 6% (x) Urethral crest 2%"
+        ],
+        "correctOption": 2
+      },
+      "after": {
+        "stem": "Which of the following parts of the male urethra passes through the urogenital diaphragm:",
+        "options": [
+          "Preprostatic urethra",
+          "Prostatic urethra",
+          "Membranous urethra",
+          "Spongy urethra",
+          "Urethral crest"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK542238/",
+        "externalFinding": "Membranous urethra traverses the deep perineal space and perineal membrane."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

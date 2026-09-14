@@ -1,0 +1,109 @@
+{
+  "generatedAt": "2026-08-21T22:28:14.951Z",
+  "applied": [
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0144-q0088",
+      "before": {
+        "options": [
+          "It is prospective.",
+          "It is observational. (x) The usual outcome measure is the relative risk. 12%",
+          "It is subject to loss to follow up bias.",
+          "It is useful for rare diseases."
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "warnings": []
+      },
+      "after": {
+        "options": [
+          "It is prospective.",
+          "It is observational.",
+          "The usual outcome measure is the relative risk.",
+          "It is subject to loss to follow up bias.",
+          "It is useful for rare diseases."
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "warnings": [
+          "Source-page verified option restoration; remains OCR draft pending full content review."
+        ]
+      },
+      "evidence": {
+        "sourcePage": 144,
+        "sourceFinding": "The fifth displayed option is marked correct for the INCORRECT stem.",
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2998589/",
+        "externalFinding": "Case-control studies are well suited to rare outcomes; cohort studies are particularly advantageous for rare exposures."
+      }
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0169-q0105",
+      "before": {
+        "options": [
+          "0.5%",
+          "2%",
+          "25%",
+          "50%"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "warnings": []
+      },
+      "after": {
+        "options": [
+          "0.5%",
+          "2%",
+          "4%",
+          "25%",
+          "50%"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "warnings": [
+          "Source-page verified option restoration; remains OCR draft pending full content review."
+        ]
+      },
+      "evidence": {
+        "sourcePage": 169,
+        "sourceFinding": "The fifth displayed option, 50%, is marked correct; the source table gives 20/1000 divided by 40/1000.",
+        "externalSource": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-06",
+        "externalFinding": "The Cochrane Handbook provides methods for calculating and interpreting effect measures."
+      }
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0171-q0105",
+      "before": {
+        "options": [
+          "0.5%",
+          "2%",
+          "25%",
+          "50%"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "warnings": []
+      },
+      "after": {
+        "options": [
+          "0.5%",
+          "2%",
+          "4%",
+          "25%",
+          "50%"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "warnings": [
+          "Source-page verified option restoration; remains OCR draft pending full content review."
+        ]
+      },
+      "evidence": {
+        "sourcePage": 171,
+        "sourceFinding": "Duplicate capture of question 105; the fifth displayed option, 50%, is marked correct.",
+        "externalSource": "https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-06",
+        "externalFinding": "The Cochrane Handbook provides methods for calculating and interpreting effect measures."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "newLearningAidsGenerated": 0
+}

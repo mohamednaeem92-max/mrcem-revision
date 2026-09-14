@@ -1,0 +1,340 @@
+{
+  "exportedAt": "2026-08-27T21:14:08.296Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-72",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1949,
+      1953,
+      1958,
+      1962,
+      1964,
+      1968,
+      1971,
+      1975,
+      1981,
+      1985
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1949-q0005",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "we Which of the following nerves is the afferent pathway of the gag reflex:",
+      "options": [
+        "Vagus nerve",
+        "Glossopharyngeal nerve",
+        "Trigeminal nerve 2%",
+        "Hypoglossal nerve",
+        "Facial nerve 0%"
+      ],
+      "correctOption": 1,
+      "explanation": "The glossopharyngeal nerve is the afferent pathway of the gag reflex. The vagus nerve is the efferent pathway of the gag reflex. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1949,
+      "sourceQuestionNumber": 5
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1953-q0006",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Ww A patient complains of headaches and dizziness. Imaging reveals a tumour at the cerebellopontine angle. Which of the following nerves will most likely be affected by this tumour:",
+      "options": [
+        "Vagus nerve",
+        "Hypoglossal nerve 3% (/) Vestibulocochlear nerve 83%",
+        "Oculomotor nerve"
+      ],
+      "correctOption": null,
+      "explanation": "The vestibulocochlear nerve and facial nerve both emerge from the brainstem at the cerebellopontine angle so are the nerves most likely to be affected by a tumour in this location. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1953,
+      "sourceQuestionNumber": 6
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1958-q0007",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Regarding the abducens nerve, which of the following statements is CORRECT:",
+      "options": [
+        "The abducens nerve innervates the inferior oblique muscle. (<7 Abducens nerve palsy results in a vertical diplopia. 4%",
+        "The abducens nerve originates in the medulla.",
+        "The abducens nerve enters the orbit through the inferior orbital fissure.",
+        "Abducens nerve palsy results in a convergent squint."
+      ],
+      "correctOption": 3,
+      "explanation": "The abducens nerve originates in the pons and enters the orbit through the superior orbital fissure to innervate the lateral rectus muscle. Abducens nerve palsy results in a convergent squint and horizontal diplopia. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1958,
+      "sourceQuestionNumber": 7
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1962-q0008",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "A 64 year old lady presents to ED with headaches. Imaging show a tumour compressing the structures in the internal auditory meatus. Which of the following structures are most likely affected:",
+      "options": [
+        "Facial and accessory nerve (x) bulocochlear nerve and trigeminal nerve 7%",
+        "Vestibulocochlear nerve and glossopharyngeal nerve",
+        "Internal jugular vein and trigeminal nerve"
+      ],
+      "correctOption": null,
+      "explanation": "The internal auditory meatus transmits the facial and vestibulocochlear nerves. P=] Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1962,
+      "sourceQuestionNumber": 8
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1964-q0009",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "A patient complains of diplopia and on examination is found to have a depressed and abducted eye with ptosis. Which of the following nerves is most likely to be affected:",
+      "options": [
+        "Trochlear nerve",
+        "Ophthalmic division of the trigeminal nerve"
+      ],
+      "correctOption": null,
+      "explanation": "Oculomotor (CN III) nerve palsy results in a depressed and abducted (down and out) eye, diplopia, ptosis and a fixed and dilated pupil. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1964,
+      "sourceQuestionNumber": 9
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1968-q0010",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "w The trochlear nerve innervates which of the following muscles:",
+      "options": [
+        "Inferior oblique",
+        "Superior oblique & Medial rectus 2%",
+        "Lateral rectus",
+        "Superior rectus"
+      ],
+      "correctOption": 1,
+      "explanation": "The trochlear nerve innervates the superior oblique muscle of the eye. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1968,
+      "sourceQuestionNumber": 10
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1971-q0011",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "w The spinal accessory nerve innervates which of the following muscles:",
+      "options": [
+        "Trapezius and anterior scalene",
+        "Sternocleidomastoid and anterior scalene",
+        "Sternocleidomastoid and trapezius",
+        "Trapezius and latissimus dorsi",
+        "Sternocleidomastoid"
+      ],
+      "correctOption": 2,
+      "explanation": "The accessory nerve innervates the sternocleidomastoid and the trapezius muscles. . Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1971,
+      "sourceQuestionNumber": 11
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1975-q0012",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "ww The facial nerve divides into its five terminal branches at which of the following sites: (/) within the parotid gland 81%",
+      "options": [
+        "At the lateral corner of the eye e Posterior to the parotid gland 18%",
+        "At the lower border of the mandible",
+        "Posterior to the submandibular gland"
+      ],
+      "correctOption": null,
+      "explanation": "The facial nerve divides into its five terminal branches within the parotid gland. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1975,
+      "sourceQuestionNumber": 12
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1981-q0013",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Ww Regarding the glossopharyngeal nerve, which of the following statements is INCORRECT:",
+      "options": [
+        "The glossopharyngeal nerve originates from the medulla. 4% (x) The glossopharyngeal nerve emerges from the cranial cavity via the jugular foramen. 4%",
+        "The glossopharyngeal nerve is the efferent nerve of the gag reflex.",
+        "The glossopharyngeal nerve innervates the stylopharyngeus muscle.",
+        "The glossopharyngeal nerve supplies parasympathetic fibres to the parotid gland. 9%"
+      ],
+      "correctOption": 1,
+      "explanation": "The glossopharyngeal nerve is the afferent pathway of the gag reflex. The vagus nerve is the efferent pathway of the gag reflex. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1981,
+      "sourceQuestionNumber": 13
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1985-q0014",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "A 64 year old man presents to ED complaining of diplopia. The image below shows the patient's eyes gazing straight ahead. Which of the following cranial nerves is affected:",
+      "options": [
+        "Trochlear nerve ba",
+        "Oculomotor nerve 1%",
+        "Optic nerve 0%",
+        "Ophthalmic division of the trigeminal nerve 2%"
+      ],
+      "correctOption": null,
+      "explanation": "Abducens nerve palsies result in a convergent squint at rest (eye turned inwards) with inability to abduct the eye because of unopposed action of the rectus medialis. The patient complains of horizontal diplopia when looking towards the affected side. With complete paralysis, the eye cannot abduct past the midline. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_image",
+      "askable": false,
+      "needsImage": true,
+      "warnings": [
+        "No marked correct option was detected.",
+        "Possible image-, figure-, table-, or ECG-dependent item."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1985,
+      "sourceQuestionNumber": 14
+    }
+  ]
+}

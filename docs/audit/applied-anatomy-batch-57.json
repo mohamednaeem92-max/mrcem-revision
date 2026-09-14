@@ -1,0 +1,655 @@
+{
+  "generatedAt": "2026-08-27T03:57:04.642Z",
+  "batch": "anatomy-all-pdf-batch-57",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1644-q0010",
+      "sourcePage": 1644,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1644-q0010",
+        "sourcePage": 1644,
+        "stem": "w The trochlear nerve innervates which of the following muscles:",
+        "options": [
+          "Inferior oblique",
+          "Superior oblique & Medial rectus 2%",
+          "Lateral rectus",
+          "Superior rectus"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The trochlear nerve innervates the superior oblique muscle of the eye. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1644-q0010",
+        "sourcePage": 1644,
+        "stem": "The trochlear nerve innervates which of the following muscles:",
+        "options": [
+          "Inferior oblique",
+          "Superior oblique",
+          "Medial rectus",
+          "Lateral rectus",
+          "Superior rectus"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The trochlear nerve innervates the superior oblique muscle.",
+        "learningNote": "The trochlear nerve innervates the superior oblique muscle.",
+        "highYieldNote": "The trochlear nerve innervates the superior oblique muscle.",
+        "mnemonic": "SO4: superior oblique is supplied by CN IV.",
+        "memoryAid": {
+          "coreFact": "The trochlear nerve innervates the superior oblique muscle.",
+          "mnemonic": "SO4: superior oblique is supplied by CN IV.",
+          "emojiCues": [
+            "👁️",
+            "⬇️",
+            "4️⃣"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470353/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470353/",
+        "externalFinding": "Source page displays superior oblique as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1647-q0011",
+      "sourcePage": 1647,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1647-q0011",
+        "sourcePage": 1647,
+        "stem": "w The spinal accessory nerve innervates which of the following muscles:",
+        "options": [
+          "Trapezius and anterior scalene",
+          "Sternocleidomastoid and anterior scalene",
+          "Sternocleidomastoid and trapezius",
+          "Trapezius and latissimus dorsi",
+          "Sternocleidomastoid"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The accessory nerve innervates the sternocleidomastoid and the trapezius muscles. . Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1647-q0011",
+        "sourcePage": 1647,
+        "stem": "The spinal accessory nerve innervates which of the following muscles:",
+        "options": [
+          "Trapezius and anterior scalene",
+          "Sternocleidomastoid and anterior scalene",
+          "Sternocleidomastoid and trapezius",
+          "Trapezius and latissimus dorsi",
+          "Sternocleidomastoid"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The spinal accessory nerve supplies the sternocleidomastoid and trapezius muscles.",
+        "learningNote": "The spinal accessory nerve supplies the sternocleidomastoid and trapezius muscles.",
+        "highYieldNote": "The spinal accessory nerve supplies the sternocleidomastoid and trapezius muscles.",
+        "mnemonic": "CN XI turns the head and shrugs the shoulders: SCM and trapezius.",
+        "memoryAid": {
+          "coreFact": "The spinal accessory nerve supplies the sternocleidomastoid and trapezius muscles.",
+          "mnemonic": "CN XI turns the head and shrugs the shoulders: SCM and trapezius.",
+          "emojiCues": [
+            "XI",
+            "↔️",
+            "💪"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+        "externalFinding": "Source page displays sternocleidomastoid and trapezius as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1651-q0012",
+      "sourcePage": 1651,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1651-q0012",
+        "sourcePage": 1651,
+        "stem": "ww The facial nerve divides into its five terminal branches at which of the following sites: (/) within the parotid gland 81%",
+        "options": [
+          "At the lateral corner of the eye e Posterior to the parotid gland 18%",
+          "At the lower border of the mandible",
+          "Posterior to the submandibular gland"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The facial nerve divides into its five terminal branches within the parotid gland. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1651-q0012",
+        "sourcePage": 1651,
+        "stem": "The facial nerve divides into its five terminal branches at which of the following sites:",
+        "options": [
+          "Within the parotid gland",
+          "At the lateral corner of the eye",
+          "Posterior to the parotid gland",
+          "At the lower border of the mandible",
+          "Posterior to the submandibular gland"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The facial nerve divides into its five terminal branches within the parotid gland.",
+        "learningNote": "The facial nerve divides into its five terminal branches within the parotid gland.",
+        "highYieldNote": "The facial nerve divides into its five terminal branches within the parotid gland.",
+        "mnemonic": "Inside the parotid, VII splits into five terminal branches.",
+        "memoryAid": {
+          "coreFact": "The facial nerve divides into its five terminal branches within the parotid gland.",
+          "mnemonic": "Inside the parotid, VII splits into five terminal branches.",
+          "emojiCues": [
+            "VII",
+            "🦋",
+            "5️⃣"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK554569/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK554569/",
+        "externalFinding": "Source page displays within the parotid gland as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1657-q0013",
+      "sourcePage": 1657,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1657-q0013",
+        "sourcePage": 1657,
+        "stem": "Ww Regarding the glossopharyngeal nerve, which of the following statements is INCORRECT:",
+        "options": [
+          "The glossopharyngeal nerve originates from the medulla. 4% (x) The glossopharyngeal nerve emerges from the cranial cavity via the jugular foramen. 4%",
+          "The glossopharyngeal nerve is the efferent nerve of the gag reflex.",
+          "The glossopharyngeal nerve innervates the stylopharyngeus muscle.",
+          "The glossopharyngeal nerve supplies parasympathetic fibres to the parotid gland. 9%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The glossopharyngeal nerve is the afferent pathway of the gag reflex. The vagus nerve is the efferent pathway of the gag reflex. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1657-q0013",
+        "sourcePage": 1657,
+        "stem": "Regarding the glossopharyngeal nerve, which of the following statements is INCORRECT:",
+        "options": [
+          "The glossopharyngeal nerve originates from the medulla.",
+          "The glossopharyngeal nerve emerges from the cranial cavity via the jugular foramen.",
+          "The glossopharyngeal nerve is the efferent nerve of the gag reflex.",
+          "The glossopharyngeal nerve innervates the stylopharyngeus muscle.",
+          "The glossopharyngeal nerve supplies parasympathetic fibres to the parotid gland."
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The glossopharyngeal nerve is the afferent limb of the gag reflex; the vagus nerve is the efferent limb. Therefore, the statement that CN IX is efferent is incorrect.",
+        "learningNote": "The glossopharyngeal nerve is the afferent limb of the gag reflex; the vagus nerve is the efferent limb. Therefore, the statement that CN IX is efferent is incorrect.",
+        "highYieldNote": "The glossopharyngeal nerve is the afferent limb of the gag reflex; the vagus nerve is the efferent limb. Therefore, the statement that CN IX is efferent is incorrect.",
+        "mnemonic": "IX in, X out: glossopharyngeal senses the gag and vagus contracts the pharynx.",
+        "memoryAid": {
+          "coreFact": "The glossopharyngeal nerve is the afferent limb of the gag reflex; the vagus nerve is the efferent limb. Therefore, the statement that CN IX is efferent is incorrect.",
+          "mnemonic": "IX in, X out: glossopharyngeal senses the gag and vagus contracts the pharynx.",
+          "emojiCues": [
+            "IX",
+            "➡️",
+            "X"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK539877/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK539877/",
+        "externalFinding": "Source page displays the third statement as the incorrect one."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1661-q0014",
+      "sourcePage": 1661,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1661-q0014",
+        "sourcePage": 1661,
+        "stem": "A 64 year old man presents to ED complaining of diplopia. The image below shows the patient's eyes gazing straight ahead. Which of the following cranial nerves is affected:",
+        "options": [
+          "Trochlear nerve ba",
+          "Oculomotor nerve 1%",
+          "Optic nerve 0%",
+          "Ophthalmic division of the trigeminal nerve 2%"
+        ],
+        "correctOption": null,
+        "status": "needs_image",
+        "askable": false,
+        "needsImage": true,
+        "warnings": [
+          "No marked correct option was detected.",
+          "Possible image-, figure-, table-, or ECG-dependent item."
+        ],
+        "explanation": "Abducens nerve palsies result in a convergent squint at rest (eye turned inwards) with inability to abduct the eye because of unopposed action of the rectus medialis. The patient complains of horizontal diplopia when looking towards the affected side. With complete paralysis, the eye cannot abduct past the midline. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1661-q0014",
+        "sourcePage": 1661,
+        "stem": "A 64 year old man presents to ED complaining of diplopia. The image below shows the patient's eyes gazing straight ahead. Which of the following cranial nerves is affected:",
+        "options": [
+          "Trochlear nerve",
+          "Abducens nerve",
+          "Oculomotor nerve",
+          "Optic nerve",
+          "Ophthalmic division of the trigeminal nerve"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Abducens nerve palsy causes a convergent squint, inability to abduct the eye, and horizontal diplopia.",
+        "learningNote": "Abducens nerve palsy causes a convergent squint, inability to abduct the eye, and horizontal diplopia.",
+        "highYieldNote": "Abducens nerve palsy causes a convergent squint, inability to abduct the eye, and horizontal diplopia.",
+        "mnemonic": "LR6: lateral rectus is supplied by CN VI; failure lets the eye turn in.",
+        "memoryAid": {
+          "coreFact": "Abducens nerve palsy causes a convergent squint, inability to abduct the eye, and horizontal diplopia.",
+          "mnemonic": "LR6: lateral rectus is supplied by CN VI; failure lets the eye turn in.",
+          "emojiCues": [
+            "👁️",
+            "↔️",
+            "6️⃣"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470353/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470353/",
+        "externalFinding": "Source page and explanation display abducens nerve as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1665-q0015",
+      "sourcePage": 1665,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1665-q0015",
+        "sourcePage": 1665,
+        "stem": "The facial nerve exits the posterior cranial fossa through which of the following:",
+        "options": [
+          "Foramen rotundum",
+          "Hypoglossal canal",
+          "Internal acoustic meatus",
+          "Jugular foramen"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The facial nerve arises in the pons, leaves the brainstem in the cerebellopontine angle and exits the posterior cranial fossa through the internal acoustic meatus in the temporal bone before entering the facial canal still within the temporal bone. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1665-q0015",
+        "sourcePage": 1665,
+        "stem": "The facial nerve exits the posterior cranial fossa through which of the following:",
+        "options": [
+          "Foramen rotundum",
+          "Hypoglossal canal",
+          "Foramen ovale",
+          "Internal acoustic meatus",
+          "Jugular foramen"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The facial nerve exits the posterior cranial fossa through the internal acoustic meatus before entering the facial canal.",
+        "learningNote": "The facial nerve exits the posterior cranial fossa through the internal acoustic meatus before entering the facial canal.",
+        "highYieldNote": "The facial nerve exits the posterior cranial fossa through the internal acoustic meatus before entering the facial canal.",
+        "mnemonic": "VII and VIII enter the temporal bone through the internal acoustic meatus.",
+        "memoryAid": {
+          "coreFact": "The facial nerve exits the posterior cranial fossa through the internal acoustic meatus before entering the facial canal.",
+          "mnemonic": "VII and VIII enter the temporal bone through the internal acoustic meatus.",
+          "emojiCues": [
+            "VII",
+            "VIII",
+            "👂"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK554569/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK554569/",
+        "externalFinding": "Source page displays internal acoustic meatus as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1671-q0016",
+      "sourcePage": 1671,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1671-q0016",
+        "sourcePage": 1671,
+        "stem": "A 54 year old man presents to ED complaining of difficulty chewing. On examination, you note he has loss of muscle bulk over the masseter muscle and loss of power opening the jaw. He also has loss of tactile sensation involving the anterior two thirds of the tongue. Which of the following cranial nerves is most likely affected:",
+        "options": [
+          "Facial nerve (x) orda tympani nerve 5%",
+          "Glossopharyngeal nerve",
+          "Maxillary nerve"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The muscles of mastication are innervated by the mandibular division of the trigeminal nerve, which also supplies tactile sensation to the anterior two-thirds of the tongue. The glossopharyngeal nerve supplies taste and general sensation to the posterior third of the tongue. The chorda tympani branch of the facial nerve supplies taste to the anterior two-thirds of the tongue. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1671-q0016",
+        "sourcePage": 1671,
+        "stem": "A 54 year old man presents to ED complaining of difficulty chewing. On examination, you note he has loss of muscle bulk over the masseter muscle and loss of power opening the jaw. He also has loss of tactile sensation involving the anterior two-thirds of the tongue. Which of the following cranial nerves is most likely affected:",
+        "options": [
+          "Facial nerve",
+          "Chorda tympani nerve",
+          "Glossopharyngeal nerve",
+          "Mandibular nerve",
+          "Maxillary nerve"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The mandibular division of the trigeminal nerve supplies the muscles of mastication and general sensation to the anterior two-thirds of the tongue via its lingual branch.",
+        "learningNote": "The mandibular division of the trigeminal nerve supplies the muscles of mastication and general sensation to the anterior two-thirds of the tongue via its lingual branch.",
+        "highYieldNote": "The mandibular division of the trigeminal nerve supplies the muscles of mastication and general sensation to the anterior two-thirds of the tongue via its lingual branch.",
+        "mnemonic": "V3 chews and feels: mastication plus anterior-tongue sensation.",
+        "memoryAid": {
+          "coreFact": "The mandibular division of the trigeminal nerve supplies the muscles of mastication and general sensation to the anterior two-thirds of the tongue via its lingual branch.",
+          "mnemonic": "V3 chews and feels: mastication plus anterior-tongue sensation.",
+          "emojiCues": [
+            "V3",
+            "🦷",
+            "👅"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK541027/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK541027/",
+        "externalFinding": "Source page displays mandibular nerve as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1676-q0017",
+      "sourcePage": 1676,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1676-q0017",
+        "sourcePage": 1676,
+        "stem": "Regarding the mandibular nerve, which of the following statements is INCORRECT: The mandibular nerve enters the infratemporal fossa between the tensor veli palatini muscle 5% and the lateral pterygoid muscle.",
+        "options": [
+          "The mandibular nerve exits the cranium through the foramen ovale. ie Nandibular nerve supplies sensation to the anterior two-thirds of the tongue. 16%",
+          "The mandibular nerve has both motor and sensory function."
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The orbicularis oculi, as a muscle of facial expression, is innervated by the facial nerve. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1676-q0017",
+        "sourcePage": 1676,
+        "stem": "Regarding the mandibular nerve, which of the following statements is INCORRECT:",
+        "options": [
+          "The mandibular nerve enters the infratemporal fossa between the tensor veli palatini muscle and the lateral pterygoid muscle.",
+          "The mandibular nerve exits the cranium through the foramen ovale.",
+          "The mandibular nerve supplies sensation to the anterior two-thirds of the tongue.",
+          "The mandibular nerve innervates the orbicularis oculi.",
+          "The mandibular nerve has both motor and sensory function."
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Orbicularis oculi is a muscle of facial expression supplied by the facial nerve, not the mandibular nerve.",
+        "learningNote": "Orbicularis oculi is a muscle of facial expression supplied by the facial nerve, not the mandibular nerve.",
+        "highYieldNote": "Orbicularis oculi is a muscle of facial expression supplied by the facial nerve, not the mandibular nerve.",
+        "mnemonic": "V3 is motor and sensory, but VII closes the eyelids.",
+        "memoryAid": {
+          "coreFact": "Orbicularis oculi is a muscle of facial expression supplied by the facial nerve, not the mandibular nerve.",
+          "mnemonic": "V3 is motor and sensory, but VII closes the eyelids.",
+          "emojiCues": [
+            "V3",
+            "VII",
+            "👁️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK541027/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK541027/",
+        "externalFinding": "Source page displays innervation of orbicularis oculi as the incorrect statement."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1677-q0018",
+      "sourcePage": 1677,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1677-q0018",
+        "sourcePage": 1677,
+        "stem": "Regarding the oculomotor nerve, which of the following statements is CORRECT:",
+        "options": [
+          "The oculomotor nerve has both motor and sensory function.",
+          "The oculomotor nerve innervates all of the extraocular muscles. ie The oculomotor ne! rve innervates the dilator pupillae muscle. 23%",
+          "The oculomotor nerve passes through the lateral part of the cavernous sinus.",
+          "The oculomotor nerve enters the orbit through the optic canal."
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The oculomotor nerve does travel through the lateral aspect of the cavernous sinus, together with CN IV and VI nerves and the ophthalmic division of CN V. It enters the orbit through the superior orbital fissure. It innervates only four out of six of the extraocular muscles, in addition to the sphincter pupillae muscle. The oculomotor nerve is a pure motor nerve; it has no sensory function. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1677-q0018",
+        "sourcePage": 1677,
+        "stem": "Regarding the oculomotor nerve, which of the following statements is CORRECT:",
+        "options": [
+          "The oculomotor nerve has both motor and sensory function.",
+          "The oculomotor nerve innervates all of the extraocular muscles.",
+          "The oculomotor nerve innervates the dilator pupillae muscle.",
+          "The oculomotor nerve passes through the lateral part of the cavernous sinus.",
+          "The oculomotor nerve enters the orbit through the optic canal."
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The oculomotor nerve travels in the lateral wall of the cavernous sinus and enters the orbit via the superior orbital fissure. It is a motor nerve and supplies sphincter pupillae through parasympathetic fibres, not dilator pupillae.",
+        "learningNote": "The oculomotor nerve travels in the lateral wall of the cavernous sinus and enters the orbit via the superior orbital fissure. It is a motor nerve and supplies sphincter pupillae through parasympathetic fibres, not dilator pupillae.",
+        "highYieldNote": "The oculomotor nerve travels in the lateral wall of the cavernous sinus and enters the orbit via the superior orbital fissure. It is a motor nerve and supplies sphincter pupillae through parasympathetic fibres, not dilator pupillae.",
+        "mnemonic": "III is motor, travels in the cavernous sinus, and enters through SOF.",
+        "memoryAid": {
+          "coreFact": "The oculomotor nerve travels in the lateral wall of the cavernous sinus and enters the orbit via the superior orbital fissure. It is a motor nerve and supplies sphincter pupillae through parasympathetic fibres, not dilator pupillae.",
+          "mnemonic": "III is motor, travels in the cavernous sinus, and enters through SOF.",
+          "emojiCues": [
+            "III",
+            "🧠",
+            "👁️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "PMC authoritative source",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9795710/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9795710/",
+        "externalFinding": "Source page displays passage through the lateral cavernous sinus as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1681-q0019",
+      "sourcePage": 1681,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1681-q0019",
+        "sourcePage": 1681,
+        "stem": "w A 29 year old man has sustained a significant head injury. On examination it is noted that his uvula is deviated to the right. Which of the following nerves is most likely affected:",
+        "options": [
+          "Right vagus nerve",
+          "Left vagus nerve",
+          "Right glossopharyngeal nerve & Left glossopharyngeal nerve 1%",
+          "Left hypoglossal nerve"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "In damage to the vagus nerve, there is paralysis of the soft palate with deviation of the uvula away from the affected side. This is because the vagus nerve innervates the musculus uvulae muscle that makes up the core of the uvula. If only one side is effectively innervated, contraction of the active muscle will pull the uvula towards it. } Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1681-q0019",
+        "sourcePage": 1681,
+        "stem": "A 29 year old man has sustained a significant head injury. On examination it is noted that his uvula is deviated to the right. Which of the following nerves is most likely affected:",
+        "options": [
+          "Right vagus nerve",
+          "Left vagus nerve",
+          "Right glossopharyngeal nerve",
+          "Left glossopharyngeal nerve",
+          "Left hypoglossal nerve"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "A unilateral vagus lesion causes the uvula to deviate away from the affected side. With left vagal weakness, the intact right side pulls the uvula rightward.",
+        "learningNote": "A unilateral vagus lesion causes the uvula to deviate away from the affected side. With left vagal weakness, the intact right side pulls the uvula rightward.",
+        "highYieldNote": "A unilateral vagus lesion causes the uvula to deviate away from the affected side. With left vagal weakness, the intact right side pulls the uvula rightward.",
+        "mnemonic": "Vagus weakness pulls the uvula away: left lesion, right deviation.",
+        "memoryAid": {
+          "coreFact": "A unilateral vagus lesion causes the uvula to deviate away from the affected side. With left vagal weakness, the intact right side pulls the uvula rightward.",
+          "mnemonic": "Vagus weakness pulls the uvula away: left lesion, right deviation.",
+          "emojiCues": [
+            "X",
+            "↗️",
+            "👅"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK539877/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK539877/",
+        "externalFinding": "Source page displays left vagus nerve as correct."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

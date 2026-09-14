@@ -1,0 +1,1406 @@
+{
+  "summary": {
+    "generatedAt": "2026-08-21T22:23:30.126542+00:00",
+    "sourceFile": "EBM-All.pdf",
+    "recordCount": 133,
+    "states": {
+      "confirmed_match": 2,
+      "no_reliable_source_marker": 103,
+      "possible_mismatch_manual_review_required": 6,
+      "source_marker_found_stored_key_missing": 22
+    },
+    "automaticCorrections": 0
+  },
+  "records": [
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0001-q0001",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 1,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0003-q0002",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 3,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0004-q0003",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 4,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0005-q0004",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 5,
+      "storedCorrectOption": 3,
+      "storedCorrectLetter": "D",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0008-q0005",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 8,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0011-q0006",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 11,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0016-q0007",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 16,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0019-q0008",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 19,
+      "storedCorrectOption": 0,
+      "storedCorrectLetter": "A",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0020-q0009",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 20,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0021-q0010",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 21,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0022-q0011",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 22,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0025-q0012",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 25,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "A"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0026-q0013",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 26,
+      "storedCorrectOption": 1,
+      "storedCorrectLetter": "B",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0027-q0014",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 27,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0032-q0015",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 32,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0034-q0016",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 34,
+      "storedCorrectOption": 3,
+      "storedCorrectLetter": "D",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0037-q0017",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 37,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0041-q0018",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 41,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0042-q0019",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 42,
+      "storedCorrectOption": 2,
+      "storedCorrectLetter": "C",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0043-q0020",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 43,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0048-q0021",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 48,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0050-q0022",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 50,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0051-q0023",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 51,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0053-q0024",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 53,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0054-q0025",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 54,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0055-q0026",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 55,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0056-q0027",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 56,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0057-q0028",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 57,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0058-q0028",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 58,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0059-q0029",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 59,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0060-q0030",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 60,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0063-q0031",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 63,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0064-q0032",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 64,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0065-q0032",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 65,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0066-q0033",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 66,
+      "storedCorrectOption": 0,
+      "storedCorrectLetter": "A",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0067-q0034",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 67,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0068-q0035",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 68,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0069-q0036",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 69,
+      "storedCorrectOption": 0,
+      "storedCorrectLetter": "A",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0070-q0037",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 70,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0071-q0038",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 71,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0077-q0039",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 77,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0078-q0040",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 78,
+      "storedCorrectOption": 2,
+      "storedCorrectLetter": "C",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0079-q0041",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 79,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0080-q0042",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 80,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0081-q0043",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 81,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0083-q0044",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 83,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0085-q0045",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 85,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0086-q0046",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 86,
+      "storedCorrectOption": 0,
+      "storedCorrectLetter": "A",
+      "sourceMarkerLetters": [
+        "A"
+      ],
+      "state": "confirmed_match",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0087-q0047",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 87,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0088-q0048",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 88,
+      "storedCorrectOption": 2,
+      "storedCorrectLetter": "C",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0089-q0049",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 89,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0090-q0050",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 90,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0093-q0051",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 93,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0096-q0052",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 96,
+      "storedCorrectOption": 2,
+      "storedCorrectLetter": "C",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0097-q0053",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 97,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0098-q0054",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 98,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0099-q0055",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 99,
+      "storedCorrectOption": 2,
+      "storedCorrectLetter": "C",
+      "sourceMarkerLetters": [
+        "A"
+      ],
+      "state": "possible_mismatch_manual_review_required",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0100-q0056",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 100,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0101-q0057",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 101,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0102-q0058",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 102,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0103-q0059",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 103,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0104-q0059",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 104,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0105-q0060",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 105,
+      "storedCorrectOption": 0,
+      "storedCorrectLetter": "A",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0106-q0061",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 106,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0107-q0062",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 107,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0108-q0063",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 108,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0114-q0064",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 114,
+      "storedCorrectOption": 2,
+      "storedCorrectLetter": "C",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0115-q0065",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 115,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "A"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0116-q0066",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 116,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "A"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0117-q0067",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 117,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0118-q0068",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 118,
+      "storedCorrectOption": 0,
+      "storedCorrectLetter": "A",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0119-q0069",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 119,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0120-q0070",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 120,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0121-q0071",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 121,
+      "storedCorrectOption": 2,
+      "storedCorrectLetter": "C",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0122-q0072",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 122,
+      "storedCorrectOption": 3,
+      "storedCorrectLetter": "D",
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "possible_mismatch_manual_review_required",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0124-q0073",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 124,
+      "storedCorrectOption": 1,
+      "storedCorrectLetter": "B",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0125-q0073",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 125,
+      "storedCorrectOption": 1,
+      "storedCorrectLetter": "B",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0126-q0074",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 126,
+      "storedCorrectOption": 3,
+      "storedCorrectLetter": "D",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0130-q0075",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 130,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0131-q0076",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 131,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0132-q0077",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 132,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0133-q0078",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 133,
+      "storedCorrectOption": 1,
+      "storedCorrectLetter": "B",
+      "sourceMarkerLetters": [
+        "A"
+      ],
+      "state": "possible_mismatch_manual_review_required",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0134-q0079",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 134,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0135-q0080",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 135,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0136-q0081",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 136,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0137-q0082",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 137,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "A"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0138-q0083",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 138,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0139-q0084",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 139,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0140-q0085",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 140,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0141-q0086",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 141,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0143-q0087",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 143,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0144-q0088",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 144,
+      "storedCorrectOption": 3,
+      "storedCorrectLetter": "D",
+      "sourceMarkerLetters": [
+        "A"
+      ],
+      "state": "possible_mismatch_manual_review_required",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0145-q0089",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 145,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0146-q0090",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 146,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0147-q0091",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 147,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0148-q0091",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 148,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0149-q0092",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 149,
+      "storedCorrectOption": 1,
+      "storedCorrectLetter": "B",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0150-q0093",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 150,
+      "storedCorrectOption": 0,
+      "storedCorrectLetter": "A",
+      "sourceMarkerLetters": [
+        "A"
+      ],
+      "state": "confirmed_match",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0151-q0094",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 151,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0152-q0095",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 152,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0155-q0096",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 155,
+      "storedCorrectOption": 0,
+      "storedCorrectLetter": "A",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0156-q0097",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 156,
+      "storedCorrectOption": 0,
+      "storedCorrectLetter": "A",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0159-q0098",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 159,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0161-q0099",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 161,
+      "storedCorrectOption": 3,
+      "storedCorrectLetter": "D",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0162-q0100",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 162,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0164-q0101",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 164,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0165-q0102",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 165,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0166-q0102",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 166,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0167-q0103",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 167,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0168-q0104",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 168,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0169-q0105",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 169,
+      "storedCorrectOption": 3,
+      "storedCorrectLetter": "D",
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "possible_mismatch_manual_review_required",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0171-q0105",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 171,
+      "storedCorrectOption": 3,
+      "storedCorrectLetter": "D",
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "possible_mismatch_manual_review_required",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0173-q0106",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 173,
+      "storedCorrectOption": 0,
+      "storedCorrectLetter": "A",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0174-q0107",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 174,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0175-q0108",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 175,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0176-q0109",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 176,
+      "storedCorrectOption": 0,
+      "storedCorrectLetter": "A",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0177-q0110",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 177,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0178-q0111",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 178,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0179-q0112",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 179,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "A"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0180-q0113",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 180,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0181-q0114",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 181,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0182-q0115",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 182,
+      "storedCorrectOption": 0,
+      "storedCorrectLetter": "A",
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0183-q0116",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 183,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0184-q0117",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 184,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0186-q0118",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 186,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0187-q0119",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 187,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0188-q0120",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 188,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0189-q0121",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 189,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0190-q0122",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 190,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "A"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0191-q0123",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 191,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [],
+      "state": "no_reliable_source_marker",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0194-q0124",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 194,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0196-q0125",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 196,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    },
+    {
+      "id": "evidence-based-medicine-ebm-all-pdf-p0197-q0125",
+      "sourceFile": "EBM-All.pdf",
+      "sourcePage": 197,
+      "storedCorrectOption": null,
+      "storedCorrectLetter": null,
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "source_marker_found_stored_key_missing",
+      "correctionApplied": false
+    }
+  ]
+}

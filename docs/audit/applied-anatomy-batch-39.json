@@ -1,0 +1,588 @@
+{
+  "generatedAt": "2026-08-23T18:26:33.681Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1229-q0148",
+      "sourcePage": 1229,
+      "before": {
+        "stem": "The renal arteries arise from the abdominal aorta at which of the following vertebral levels:",
+        "options": [
+          "TH/T12",
+          "T12/l1 oon",
+          "L3/L4"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The renal arteries arise from the abdominal aorta at the level of vertebrae L1/L2. (| ss eee] o Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The renal arteries arise from the abdominal aorta at which of the following vertebral levels:",
+        "options": [
+          "T11/T12",
+          "T12/L1",
+          "L1/L2",
+          "L2/L3",
+          "L3/L4"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The renal arteries typically arise from the lateral abdominal aorta at the L1/L2 intervertebral disc, just inferior to the superior mesenteric artery.",
+        "learningNote": "The renal arteries typically arise from the lateral abdominal aorta at the L1/L2 intervertebral disc, just inferior to the superior mesenteric artery.",
+        "highYieldNote": "The renal arteries typically arise from the lateral abdominal aorta at the L1/L2 intervertebral disc, just inferior to the superior mesenteric artery.",
+        "mnemonic": "Renal arteries: L1/L2 launch.",
+        "memoryAid": {
+          "coreFact": "Renal arteries usually arise at the L1/L2 intervertebral disc.",
+          "mnemonic": "Renal arteries: L1/L2 launch.",
+          "emojiCues": [
+            "1️⃣",
+            "2️⃣"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Renal Artery",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK459158/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459158/",
+        "externalFinding": "NCBI states that renal arteries typically arise from the abdominal aorta at the L1/L2 intervertebral disk."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1233-q0150",
+      "sourcePage": 1233,
+      "before": {
+        "stem": "ww The fourth part of the duodenum terminates at which of the following vertebral levels:",
+        "options": [
+          "12 3%",
+          "u 9%",
+          "BS: 13%",
+          "L4 4%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The ascending (fourth) part passes upwards on, or to the left of the aorta to approximately the upper border of vertebra L2 and terminates at the duodenojejunal flexure. : v",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The fourth part of the duodenum terminates at which of the following vertebral levels:",
+        "options": [
+          "T12",
+          "L1",
+          "L2",
+          "L3",
+          "L4"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The ascending fourth part of the duodenum passes upward to L2, where it ends at the duodenojejunal flexure.",
+        "learningNote": "The ascending fourth part of the duodenum passes upward to L2, where it ends at the duodenojejunal flexure.",
+        "highYieldNote": "The ascending fourth part of the duodenum passes upward to L2, where it ends at the duodenojejunal flexure.",
+        "mnemonic": "D4 rises to L2, then joins jejunum.",
+        "memoryAid": {
+          "coreFact": "The fourth part of the duodenum ascends to L2 and ends at the duodenojejunal flexure.",
+          "mnemonic": "D4 rises to L2, then joins jejunum.",
+          "emojiCues": [
+            "4️⃣",
+            "⬆️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "PMC: Duodenal anatomy review",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7315055/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7315055/",
+        "externalFinding": "A peer-reviewed review states that the fourth duodenal part passes upward to L2 and ends at the duodenojejunal flexure."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1234-q0151",
+      "sourcePage": 1234,
+      "before": {
+        "stem": "ww The linea alba is formed from which of the following:",
+        "options": [
+          "The aponeuroses of the three flat anterior abdominal muscles",
+          "The free edge of the external oblique aponeurosis 4%",
+          "The tendinous intersection of the rectus abdominis muscle 57%",
+          "The thoracolumbar fascia 0%",
+          "The tendon of the pyramidalis muscle 0%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The linea alba is formed at the midline from the aponeuroses of the external oblique, internal oblique and transversus abdominis muscles, and extends from the xiphoid process to the pubic symphysis. v",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The linea alba is formed from which of the following:",
+        "options": [
+          "The aponeuroses of the three flat anterior abdominal muscles",
+          "The free edge of the external oblique aponeurosis",
+          "The tendinous intersection of the rectus abdominis muscle",
+          "The thoracolumbar fascia",
+          "The tendon of the pyramidalis muscle"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The combined aponeuroses of external oblique, internal oblique, and transversus abdominis fuse in the midline to form the linea alba.",
+        "learningNote": "The combined aponeuroses of external oblique, internal oblique, and transversus abdominis fuse in the midline to form the linea alba.",
+        "highYieldNote": "The combined aponeuroses of external oblique, internal oblique, and transversus abdominis fuse in the midline to form the linea alba.",
+        "mnemonic": "Three flat layers meet as the linea alba.",
+        "memoryAid": {
+          "coreFact": "External oblique, internal oblique, and transversus abdominis aponeuroses fuse at the midline to form the linea alba.",
+          "mnemonic": "Three flat layers meet as the linea alba.",
+          "emojiCues": [
+            "3️⃣",
+            "🤝"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Abdominal Wall",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK551649/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK551649/",
+        "externalFinding": "NCBI states that the combined aponeuroses of the three flat muscles fuse in the midline to form the linea alba."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1235-q0152",
+      "sourcePage": 1235,
+      "before": {
+        "stem": "ww The kidneys extend between which of the following vertebral levels:",
+        "options": [
+          "19-112 os",
+          "12-1",
+          "RIES 9%",
+          "m2-13",
+          "2 = L5 3%"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The position of the kidneys varies with respiration and the position of the body. In the supine position, the kidneys extend from approximately vertebra T12 superiorly to vertebra L3 inferiorly. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The kidneys extend between which of the following vertebral levels:",
+        "options": [
+          "T9 - T12",
+          "T12 - L1",
+          "L1 - L3",
+          "T12 - L3",
+          "L2 - L5"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The paired kidneys are retroperitoneal and normally occupy the vertebral range from T12 to L3; the right kidney is usually slightly lower.",
+        "learningNote": "The paired kidneys are retroperitoneal and normally occupy the vertebral range from T12 to L3; the right kidney is usually slightly lower.",
+        "highYieldNote": "The paired kidneys are retroperitoneal and normally occupy the vertebral range from T12 to L3; the right kidney is usually slightly lower.",
+        "mnemonic": "Kidneys span T12 to L3.",
+        "memoryAid": {
+          "coreFact": "Kidneys are normally positioned between T12 and L3, with the right kidney slightly lower than the left.",
+          "mnemonic": "Kidneys span T12 to L3.",
+          "emojiCues": [
+            "🫘",
+            "📏"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Kidneys",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK482385/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482385/",
+        "externalFinding": "NCBI states that kidneys are located between T12 and L3 vertebrae."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1236-q0153",
+      "sourcePage": 1236,
+      "before": {
+        "stem": "ww Regarding the external oblique muscle, which of the following statements is INCORRECT:",
+        "options": [
+          "It is the largest and most superficial of the anterior abdominal muscles. 3%",
+          "Its aponeurosis forms the linea alba at the midline. 7%",
+          "It originates from the xiphoid process. (x) It inserts into the lateral lip of the iliac crest. 9%",
+          "The lower free border of the external oblique aponeurosis forms the inguinal ligament. 56%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The external oblique is the largest and most superficial of the anterior abdominal muscles, lying just deep to the superficial fascia. The external oblique originates from the outer surfaces of the lower eight ribs, its fibres running in an inferomedial direction before inserting onto the lateral lip of the iliac crest. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "Regarding the external oblique muscle, which of the following statements is INCORRECT:",
+        "options": [
+          "It is the largest and most superficial of the anterior abdominal muscles.",
+          "Its aponeurosis forms the linea alba at the midline.",
+          "It originates from the xiphoid process.",
+          "It inserts into the lateral lip of the iliac crest.",
+          "The lower free border of the external oblique aponeurosis forms the inguinal ligament."
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "External-oblique fibres arise from ribs 5–12, run inferomedially, and form an aponeurosis whose inferior border forms the inguinal ligament; therefore xiphoid origin is incorrect.",
+        "learningNote": "External-oblique fibres arise from ribs 5–12, run inferomedially, and form an aponeurosis whose inferior border forms the inguinal ligament; therefore xiphoid origin is incorrect.",
+        "highYieldNote": "External-oblique fibres arise from ribs 5–12, run inferomedially, and form an aponeurosis whose inferior border forms the inguinal ligament; therefore xiphoid origin is incorrect.",
+        "mnemonic": "External oblique starts at ribs 5–12, not xiphoid.",
+        "memoryAid": {
+          "coreFact": "External-oblique fibres arise from ribs 5–12, so a xiphoid-process origin is incorrect.",
+          "mnemonic": "External oblique starts at ribs 5–12, not xiphoid.",
+          "emojiCues": [
+            "🦴",
+            "❌"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Abdominal Wall",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK551649/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK551649/",
+        "externalFinding": "NCBI states that external-oblique fibres arise from the fifth through twelfth ribs."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1237-q0154",
+      "sourcePage": 1237,
+      "before": {
+        "stem": "The greater sac of the peritoneal cavity is divided into two compartments by which of the following structures:",
+        "options": [
+          "Liver",
+          "Stomach",
+          "Duodenum"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The greater sac accounts for most of the space in the peritoneal cavity, beginning superiorly at the diaphragm and continuing inferiorly in the pelvic cavity. It is further divided into two compartments by the transverse mesocolon, the supracolic and infracolic compartments. Cc | ss eer] Py] Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The greater sac of the peritoneal cavity is divided into two compartments by which of the following structures:",
+        "options": [
+          "Liver",
+          "Stomach",
+          "Transverse mesocolon",
+          "Duodenum",
+          "Mesentery"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The transverse mesocolon divides the peritoneal cavity into supramesocolic and inframesocolic compartments.",
+        "learningNote": "The transverse mesocolon divides the peritoneal cavity into supramesocolic and inframesocolic compartments.",
+        "highYieldNote": "The transverse mesocolon divides the peritoneal cavity into supramesocolic and inframesocolic compartments.",
+        "mnemonic": "Transverse mesocolon makes the above-and-below divide.",
+        "memoryAid": {
+          "coreFact": "The transverse mesocolon divides the peritoneal cavity into supramesocolic and inframesocolic compartments.",
+          "mnemonic": "Transverse mesocolon makes the above-and-below divide.",
+          "emojiCues": [
+            "↔️",
+            "✂️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "PMC: Peritoneal cavity anatomy",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4584112/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4584112/",
+        "externalFinding": "A peer-reviewed review states that the transverse mesocolon divides the peritoneal cavity into supramesocolic and inframesocolic compartments."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1238-q0155",
+      "sourcePage": 1238,
+      "before": {
+        "stem": "ww The jejunum predominantly occupies which region of the abdomen:",
+        "options": [
+          "Left upper quadrant",
+          "Right upper quadrant 56%",
+          "Right lower quadrant 6%",
+          "Suprapubic region 4%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The jejunum is mostly in the left upper quadrant of the abdomen. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The jejunum predominantly occupies which region of the abdomen:",
+        "options": [
+          "Left upper quadrant",
+          "Right upper quadrant",
+          "Left lower quadrant",
+          "Right lower quadrant",
+          "Suprapubic region"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The jejunum is located mainly in the left upper quadrant, whereas the ileum is mainly in the right lower quadrant.",
+        "learningNote": "The jejunum is located mainly in the left upper quadrant, whereas the ileum is mainly in the right lower quadrant.",
+        "highYieldNote": "The jejunum is located mainly in the left upper quadrant, whereas the ileum is mainly in the right lower quadrant.",
+        "mnemonic": "Jejunum keeps left and high.",
+        "memoryAid": {
+          "coreFact": "The jejunum is located mainly in the left upper quadrant.",
+          "mnemonic": "Jejunum keeps left and high.",
+          "emojiCues": [
+            "⬅️",
+            "⬆️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Physiology, Small Bowel",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK532263/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532263/",
+        "externalFinding": "NCBI states that the jejunum is located mainly in the left upper quadrant."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1239-q0156",
+      "sourcePage": 1239,
+      "before": {
+        "stem": "The right kidney is related anteriorly to all of the following structures EXCEPT for the:",
+        "options": [
+          "Right adrenal gland 19%",
+          "Liver 5%",
+          "Second part of the duodenum 9%",
+          "Hepatic flexure 6%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The anterior surface of the right kidney is related to the (superiorly to inferiorly): e right adrenal gland medially e liver © second part of the duodenum medially, © right colic flexure laterally © asegment of small intestine medially 3 Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The right kidney is related anteriorly to all of the following structures EXCEPT for the:",
+        "options": [
+          "Right adrenal gland",
+          "Liver",
+          "Second part of the duodenum",
+          "Hepatic flexure",
+          "Pancreas"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The right kidney relates to the right adrenal gland, liver, second part of the duodenum, hepatic flexure, and small intestine; pancreatic tail relates to the left kidney, so pancreas is the exception.",
+        "learningNote": "The right kidney relates to the right adrenal gland, liver, second part of the duodenum, hepatic flexure, and small intestine; pancreatic tail relates to the left kidney, so pancreas is the exception.",
+        "highYieldNote": "The right kidney relates to the right adrenal gland, liver, second part of the duodenum, hepatic flexure, and small intestine; pancreatic tail relates to the left kidney, so pancreas is the exception.",
+        "mnemonic": "Pancreas points left kidney, not right.",
+        "memoryAid": {
+          "coreFact": "The pancreas is not an anterior relation of the right kidney; the pancreatic tail may relate to the left kidney.",
+          "mnemonic": "Pancreas points left kidney, not right.",
+          "emojiCues": [
+            "⬅️",
+            "🫘"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Kidneys",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK482385/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482385/",
+        "externalFinding": "NCBI describes pancreatic tail relation to the left kidney and lists liver, duodenum, colon, and small intestine as right-kidney relations."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1230-q0149",
+      "sourcePage": 1230,
+      "before": {
+        "stem": "ww Pain from the ureters is usually referred to dermatomes supplied by:",
+        "options": [
+          "T10 - 112",
+          "™m-12",
+          "LIES: 57%",
+          "L2-L4 4%",
+          "T5-19 bs"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "Visceral afferent fibres from the ureters enter the spinal cord at T11 - L2, with ureteric pain (usually from ureteric distension) thus referred to the dermatomes supplied by T11 - L2; the posterior and lateral abdominal wall below the ribs and above the iliac crest, the pubic region, the scrotum in males, the labia majora in females and the proximal anterior aspect of the thigh (loin to groin pain). v",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "Pain from the ureters is usually referred to dermatomes supplied by:",
+        "options": [
+          "T10 - T12",
+          "T11 - L2",
+          "L1 - L3",
+          "L2 - L4",
+          "T5 - T9"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but an authoritative source gives ureteric referred pain as T12-L2 rather than the source's exact T11-L2 range; no answer is inferred."
+        ],
+        "explanation": "NCBI states that ureteral pain typically refers to T12-L2 dermatomes.",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532980/",
+        "externalFinding": "NCBI states that ureteral pain typically refers to T12-L2 dermatomes."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1240-q0157",
+      "sourcePage": 1240,
+      "before": {
+        "stem": "The ureters enter the bladder and end at the level of which of the following landmarks: CMe",
+        "options": [
+          "Pubic tubercle",
+          "Anterior superior iliac spine 14%",
+          "Inguinal ligament 4%",
+          "lliac crest 8%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The ureters enters obliquely through the base of the bladder at the level of the pubic tubercle. : Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The ureters enter the bladder and end at the level of which of the following landmarks:",
+        "options": [
+          "Pubic symphysis",
+          "Pubic tubercle",
+          "Anterior superior iliac spine",
+          "Inguinal ligament",
+          "Iliac crest"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but authoritative anatomy confirms posterolateral entry through the trigone and does not corroborate the source's exact pubic-tubercle surface landmark; no answer is inferred."
+        ],
+        "explanation": "NCBI states that ureters enter the bladder posterolaterally via the trigone and lack reliable anatomical landmarks beyond physiologic constrictions.",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532980/",
+        "externalFinding": "NCBI states that ureters enter the bladder posterolaterally via the trigone and lack reliable anatomical landmarks beyond physiologic constrictions."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

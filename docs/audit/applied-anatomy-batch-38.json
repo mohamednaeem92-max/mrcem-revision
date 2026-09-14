@@ -1,0 +1,507 @@
+{
+  "generatedAt": "2026-08-23T18:16:32.216Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1202-q0139",
+      "sourcePage": 1202,
+      "before": {
+        "stem": "Which of the following best describes the relationship of the psoas major and quadratus lumborum muscles:",
+        "options": [
+          "The psoas major muscle lies adjacent to the lateral border of the quadratus lumborum muscle.",
+          "The psoas major muscle overlaps the quadratus lumborum muscle medially.",
+          "The psoas major muscle originates inferior to the quadratus lumborum muscle.",
+          "The psoas major muscle lies deep to the quadratus lumborum muscle. 6%",
+          "The psoas major muscle lies superior to the quadratus lumborum muscle. 5%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "Which of the following best describes the relationship of the psoas major and quadratus lumborum muscles:",
+        "options": [
+          "The psoas major muscle lies adjacent to the lateral border of the quadratus lumborum muscle.",
+          "The psoas major muscle overlaps the quadratus lumborum muscle medially.",
+          "The psoas major muscle originates inferior to the quadratus lumborum muscle.",
+          "The psoas major muscle lies deep to the quadratus lumborum muscle.",
+          "The psoas major muscle lies superior to the quadratus lumborum muscle."
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "Quadratus lumborum is typically overlapped medially by psoas major.",
+          "mnemonic": "Psoas sits medial to quadratus.",
+          "emojiCues": [
+            "⬅️",
+            "💪"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "Journal of Pain Research: Psoas and Quadratus Lumborum",
+          "sourceUrl": "https://www.dovepress.com/a-dynamic-test-to-identify-the-potential-recess-between-the-psoas-majo-peer-reviewed-fulltext-article-JPR"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.dovepress.com/a-dynamic-test-to-identify-the-potential-recess-between-the-psoas-majo-peer-reviewed-fulltext-article-JPR",
+        "externalFinding": "A peer-reviewed article states that quadratus lumborum is typically overlapped medially by psoas major."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1203-q0140",
+      "sourcePage": 1203,
+      "before": {
+        "stem": "ww The ejaculatory duct is formed by the union of which of the following structures:",
+        "options": [
+          "Ductus deferens and the prostatic urethra 4%",
+          "Ductus deferens and the epididymis 3% (x) Ductus deferens and prostatic ducts bee () Ductus deferens and duct from the seminal vesicle 28%",
+          "Prostatic ducts and duct from seminal vesicle 48%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The ejaculatory duct is formed by the union of which of the following structures:",
+        "options": [
+          "Ductus deferens and the prostatic urethra",
+          "Ductus deferens and the epididymis",
+          "Ductus deferens and prostatic ducts",
+          "Ductus deferens and duct from the seminal vesicle",
+          "Prostatic ducts and duct from seminal vesicle"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The ejaculatory duct forms from the ductus deferens and duct of the seminal vesicle.",
+          "mnemonic": "Deferens plus seminal-vesicle duct makes the ejaculatory duct.",
+          "emojiCues": [
+            "➕",
+            "➡️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Seminal Vesicle",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK499854/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK499854/",
+        "externalFinding": "NCBI states that the seminal vesicle converges with the ampulla of the vas deferens to form the ejaculatory duct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1205-q0141",
+      "sourcePage": 1205,
+      "before": {
+        "stem": "ww The external anal sphincter is innervated by which of the following nerves:",
+        "options": [
+          "Genitofemoral nerve 3%",
+          "Pudendal nerve (x) Coccygeal nerve 6%",
+          "llioinguinal nerve 5%",
+          "lliohypogastric nerve 3%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The external anal sphincter is innervated by which of the following nerves:",
+        "options": [
+          "Genitofemoral nerve",
+          "Pudendal nerve",
+          "Coccygeal nerve",
+          "Ilioinguinal nerve",
+          "Iliohypogastric nerve"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The pudendal nerve, through its inferior rectal branch, supplies somatic motor fibres to the external anal sphincter.",
+          "mnemonic": "Pudendal powers the external anal sphincter.",
+          "emojiCues": [
+            "🔒",
+            "🧠"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Pudendal Nerve",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK554736/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK554736/",
+        "externalFinding": "NCBI states that the pudendal nerve and its inferior rectal branch innervate the external anal sphincter."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1209-q0142",
+      "sourcePage": 1209,
+      "before": {
+        "stem": "ww The inguinal ligament is formed from which of the following:",
+        "options": [
+          "The lower free border of the external oblique aponeurosis",
+          "The lower free border of the internal oblique aponeurosis 6%",
+          "The lower free border of the transversus abdominis aponeurosis 1%",
+          "The lower free border of the rectus abdominis aponeurosis 2%",
+          "The lower free border of the thoracolumbar fascia 1%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The inguinal ligament is formed from which of the following:",
+        "options": [
+          "The lower free border of the external oblique aponeurosis",
+          "The lower free border of the internal oblique aponeurosis",
+          "The lower free border of the transversus abdominis aponeurosis",
+          "The lower free border of the rectus abdominis aponeurosis",
+          "The lower free border of the thoracolumbar fascia"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The inguinal ligament forms when anteroinferior fibres of the external-oblique aponeurosis fold inward.",
+          "mnemonic": "External oblique folds to form the inguinal ligament.",
+          "emojiCues": [
+            "↩️",
+            "📐"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Inguinal Ligament",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK542321/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK542321/",
+        "externalFinding": "NCBI states that the anteroinferior fibres of the external-oblique aponeurosis fold inward to form the inguinal ligament."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1212-q0143",
+      "sourcePage": 1212,
+      "before": {
+        "stem": "ww The male bladder lies immediately anterior to which of the following structures:",
+        "options": [
+          "Anus 1%",
+          "Prostate gland 19%",
+          "Sigmoid colon 1%",
+          "Abdominal aorta 2%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The male bladder lies immediately anterior to which of the following structures:",
+        "options": [
+          "Anus",
+          "Prostate gland",
+          "Sigmoid colon",
+          "Abdominal aorta",
+          "Rectum"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "In males, the rectum lies posterior to the urinary bladder.",
+          "mnemonic": "Male bladder: rectum behind.",
+          "emojiCues": [
+            "⬅️",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Bladder",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK531465/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK531465/",
+        "externalFinding": "NCBI states that the rectum is located posterior to the male bladder."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1213-q0144",
+      "sourcePage": 1213,
+      "before": {
+        "stem": "ww The ileum predominantly occupies which region of the abdomen:",
+        "options": [
+          "Left upper quadrant 7%",
+          "Right upper quadrant 4%",
+          "Left lower quadrant 16%",
+          "Right lower quadrant"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The ileum predominantly occupies which region of the abdomen:",
+        "options": [
+          "Left upper quadrant",
+          "Right upper quadrant",
+          "Left lower quadrant",
+          "Right lower quadrant",
+          "Epigastric region"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The ileum is located mainly in the right lower quadrant.",
+          "mnemonic": "Ileum ends in the right lower quadrant.",
+          "emojiCues": [
+            "➡️",
+            "⬇️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Physiology, Small Bowel",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK532263/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532263/",
+        "externalFinding": "NCBI states that the ileum is located mainly in the right lower quadrant."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1216-q0145",
+      "sourcePage": 1216,
+      "before": {
+        "stem": "ww The greater omentum descends from which of the following structures:",
+        "options": [
+          "The quadrate lobe of the liver 1%",
+          "The lesser curvature of the stomach and first part of the duodenum 6%",
+          "The greater curvature of the stomach and first part of the duodenum",
+          "The transverse colon 6%",
+          "The duodenojejunal junction 2%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The greater omentum descends from which of the following structures:",
+        "options": [
+          "The quadrate lobe of the liver",
+          "The lesser curvature of the stomach and first part of the duodenum",
+          "The greater curvature of the stomach and first part of the duodenum",
+          "The transverse colon",
+          "The duodenojejunal junction"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The greater omentum hangs from the greater curvature of the stomach and descends over the anterior intestine.",
+          "mnemonic": "Greater curve gives the greater omentum.",
+          "emojiCues": [
+            "🧣",
+            "⬇️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Peritoneum",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK534788/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK534788/",
+        "externalFinding": "NCBI states that the greater omentum hangs from the greater curvature of the stomach and folds over the anterior intestine."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1224-q0147",
+      "sourcePage": 1224,
+      "before": {
+        "stem": "A patient presents following a fall. Imaging shows damage to the L1 nerve root. Which of the following muscles are most likely to be affected:",
+        "options": [
+          "Transversus abdominis and rectus abdominis muscles",
+          "Gluteus medius and minimus muscles",
+          "Transversus abdominis and internal oblique muscles",
+          "Internal and external oblique muscles"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "A patient presents following a fall. Imaging shows damage to the L1 nerve root. Which of the following muscles are most likely to be affected:",
+        "options": [
+          "Transversus abdominis and rectus abdominis muscles",
+          "Rectus abdominis and external oblique muscles",
+          "Gluteus medius and minimus muscles",
+          "Transversus abdominis and internal oblique muscles",
+          "Internal and external oblique muscles"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The ilioinguinal nerve has T12-L1 origin and supplies motor fibres to transversus abdominis and internal oblique.",
+          "mnemonic": "L1 via ilioinguinal serves internal oblique and transversus.",
+          "emojiCues": [
+            "1️⃣",
+            "💪"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Ilioinguinal Neuralgia",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK538256/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK538256/",
+        "externalFinding": "NCBI states that the ilioinguinal nerve arises from T12-L1 anterior rami and innervates transversus abdominis and internal oblique."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1201-q0138",
+      "sourcePage": 1201,
+      "before": {
+        "stem": "A 66 year old man presents to ED complaining of difficulty passing urine and nocturia. On examination you note the prostate is enlarged and you suspect BPH. Which of the following lobes of the prostate is most likely hypertrophied: Lateral lobe 5%",
+        "options": [
+          "Anterior lobe",
+          "Fibromuscular zone"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "A 66 year old man presents to ED complaining of difficulty passing urine and nocturia. On examination you note the prostate is enlarged and you suspect BPH. Which of the following lobes of the prostate is most likely hypertrophied:",
+        "options": [
+          "Lateral lobe",
+          "Posterior lobe",
+          "Anterior lobe",
+          "Median lobe",
+          "Fibromuscular zone"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but authoritative current anatomy describes BPH as tending to arise in the transition zone; the source's unqualified historic median-lobe formulation is not safely inferred."
+        ],
+        "memoryAid": null
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK540987/",
+        "externalFinding": "NCBI distinguishes historical lobes from zones and states that BPH tends to appear in the transition zone."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1220-q0146",
+      "sourcePage": 1220,
+      "before": {
+        "stem": "Regarding the male urethra, which of the following statements is CORRECT:",
+        "options": [
+          "The membranous urethra is the widest part.",
+          "The spongy urethra penetrates the urogenital diaphragm. 5%",
+          "The internal urethral sphincter is associated with the prostatic urethra. 58%",
+          "The prostatic urethra is the longest part. V) The spongy urethra (in the flaccid penis) bends twice in its course, first anteriorly and then 32%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "Regarding the male urethra, which of the following statements is CORRECT:",
+        "options": [
+          "The membranous urethra is the widest part.",
+          "The spongy urethra penetrates the urogenital diaphragm.",
+          "The internal urethral sphincter is associated with the prostatic urethra.",
+          "The prostatic urethra is the longest part.",
+          "The spongy urethra (in the flaccid penis) bends twice in its course, first anteriorly and then inferiorly."
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but accessible authoritative references did not directly corroborate the source's exact two-bend directional formulation of the flaccid spongy urethra; no answer is inferred."
+        ],
+        "memoryAid": null
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482236/",
+        "externalFinding": "NCBI confirms that the spongy urethra lies within the corpus spongiosum but does not directly establish the source's exact curvature wording."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

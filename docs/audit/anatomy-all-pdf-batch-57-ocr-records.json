@@ -1,0 +1,338 @@
+{
+  "exportedAt": "2026-08-27T03:53:26.772Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-57",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1644,
+      1647,
+      1651,
+      1657,
+      1661,
+      1665,
+      1671,
+      1676,
+      1677,
+      1681
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1644-q0010",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "w The trochlear nerve innervates which of the following muscles:",
+      "options": [
+        "Inferior oblique",
+        "Superior oblique & Medial rectus 2%",
+        "Lateral rectus",
+        "Superior rectus"
+      ],
+      "correctOption": 1,
+      "explanation": "The trochlear nerve innervates the superior oblique muscle of the eye. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1644,
+      "sourceQuestionNumber": 10
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1647-q0011",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "w The spinal accessory nerve innervates which of the following muscles:",
+      "options": [
+        "Trapezius and anterior scalene",
+        "Sternocleidomastoid and anterior scalene",
+        "Sternocleidomastoid and trapezius",
+        "Trapezius and latissimus dorsi",
+        "Sternocleidomastoid"
+      ],
+      "correctOption": 2,
+      "explanation": "The accessory nerve innervates the sternocleidomastoid and the trapezius muscles. . Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1647,
+      "sourceQuestionNumber": 11
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1651-q0012",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "ww The facial nerve divides into its five terminal branches at which of the following sites: (/) within the parotid gland 81%",
+      "options": [
+        "At the lateral corner of the eye e Posterior to the parotid gland 18%",
+        "At the lower border of the mandible",
+        "Posterior to the submandibular gland"
+      ],
+      "correctOption": null,
+      "explanation": "The facial nerve divides into its five terminal branches within the parotid gland. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1651,
+      "sourceQuestionNumber": 12
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1657-q0013",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Ww Regarding the glossopharyngeal nerve, which of the following statements is INCORRECT:",
+      "options": [
+        "The glossopharyngeal nerve originates from the medulla. 4% (x) The glossopharyngeal nerve emerges from the cranial cavity via the jugular foramen. 4%",
+        "The glossopharyngeal nerve is the efferent nerve of the gag reflex.",
+        "The glossopharyngeal nerve innervates the stylopharyngeus muscle.",
+        "The glossopharyngeal nerve supplies parasympathetic fibres to the parotid gland. 9%"
+      ],
+      "correctOption": 1,
+      "explanation": "The glossopharyngeal nerve is the afferent pathway of the gag reflex. The vagus nerve is the efferent pathway of the gag reflex. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1657,
+      "sourceQuestionNumber": 13
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1661-q0014",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "A 64 year old man presents to ED complaining of diplopia. The image below shows the patient's eyes gazing straight ahead. Which of the following cranial nerves is affected:",
+      "options": [
+        "Trochlear nerve ba",
+        "Oculomotor nerve 1%",
+        "Optic nerve 0%",
+        "Ophthalmic division of the trigeminal nerve 2%"
+      ],
+      "correctOption": null,
+      "explanation": "Abducens nerve palsies result in a convergent squint at rest (eye turned inwards) with inability to abduct the eye because of unopposed action of the rectus medialis. The patient complains of horizontal diplopia when looking towards the affected side. With complete paralysis, the eye cannot abduct past the midline. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_image",
+      "askable": false,
+      "needsImage": true,
+      "warnings": [
+        "No marked correct option was detected.",
+        "Possible image-, figure-, table-, or ECG-dependent item."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1661,
+      "sourceQuestionNumber": 14
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1665-q0015",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "The facial nerve exits the posterior cranial fossa through which of the following:",
+      "options": [
+        "Foramen rotundum",
+        "Hypoglossal canal",
+        "Internal acoustic meatus",
+        "Jugular foramen"
+      ],
+      "correctOption": 2,
+      "explanation": "The facial nerve arises in the pons, leaves the brainstem in the cerebellopontine angle and exits the posterior cranial fossa through the internal acoustic meatus in the temporal bone before entering the facial canal still within the temporal bone. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1665,
+      "sourceQuestionNumber": 15
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1671-q0016",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "A 54 year old man presents to ED complaining of difficulty chewing. On examination, you note he has loss of muscle bulk over the masseter muscle and loss of power opening the jaw. He also has loss of tactile sensation involving the anterior two thirds of the tongue. Which of the following cranial nerves is most likely affected:",
+      "options": [
+        "Facial nerve (x) orda tympani nerve 5%",
+        "Glossopharyngeal nerve",
+        "Maxillary nerve"
+      ],
+      "correctOption": null,
+      "explanation": "The muscles of mastication are innervated by the mandibular division of the trigeminal nerve, which also supplies tactile sensation to the anterior two-thirds of the tongue. The glossopharyngeal nerve supplies taste and general sensation to the posterior third of the tongue. The chorda tympani branch of the facial nerve supplies taste to the anterior two-thirds of the tongue. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1671,
+      "sourceQuestionNumber": 16
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1676-q0017",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Regarding the mandibular nerve, which of the following statements is INCORRECT: The mandibular nerve enters the infratemporal fossa between the tensor veli palatini muscle 5% and the lateral pterygoid muscle.",
+      "options": [
+        "The mandibular nerve exits the cranium through the foramen ovale. ie Nandibular nerve supplies sensation to the anterior two-thirds of the tongue. 16%",
+        "The mandibular nerve has both motor and sensory function."
+      ],
+      "correctOption": null,
+      "explanation": "The orbicularis oculi, as a muscle of facial expression, is innervated by the facial nerve. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1676,
+      "sourceQuestionNumber": 17
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1677-q0018",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Regarding the oculomotor nerve, which of the following statements is CORRECT:",
+      "options": [
+        "The oculomotor nerve has both motor and sensory function.",
+        "The oculomotor nerve innervates all of the extraocular muscles. ie The oculomotor ne! rve innervates the dilator pupillae muscle. 23%",
+        "The oculomotor nerve passes through the lateral part of the cavernous sinus.",
+        "The oculomotor nerve enters the orbit through the optic canal."
+      ],
+      "correctOption": 2,
+      "explanation": "The oculomotor nerve does travel through the lateral aspect of the cavernous sinus, together with CN IV and VI nerves and the ophthalmic division of CN V. It enters the orbit through the superior orbital fissure. It innervates only four out of six of the extraocular muscles, in addition to the sphincter pupillae muscle. The oculomotor nerve is a pure motor nerve; it has no sensory function. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1677,
+      "sourceQuestionNumber": 18
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1681-q0019",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "w A 29 year old man has sustained a significant head injury. On examination it is noted that his uvula is deviated to the right. Which of the following nerves is most likely affected:",
+      "options": [
+        "Right vagus nerve",
+        "Left vagus nerve",
+        "Right glossopharyngeal nerve & Left glossopharyngeal nerve 1%",
+        "Left hypoglossal nerve"
+      ],
+      "correctOption": 1,
+      "explanation": "In damage to the vagus nerve, there is paralysis of the soft palate with deviation of the uvula away from the affected side. This is because the vagus nerve innervates the musculus uvulae muscle that makes up the core of the uvula. If only one side is effectively innervated, contraction of the active muscle will pull the uvula towards it. } Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1681,
+      "sourceQuestionNumber": 19
+    }
+  ]
+}

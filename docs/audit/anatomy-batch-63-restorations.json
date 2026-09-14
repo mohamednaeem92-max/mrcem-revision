@@ -1,0 +1,232 @@
+[
+  {
+    "id": "anatomy-anatomy-all-pdf-p1763-q0070",
+    "page": 1763,
+    "stem": "The chorda tympani branch of the facial nerve carries which of the following:",
+    "options": [
+      "Taste from the posterior one-third of the tongue",
+      "Sensation from the posterior one-third of the tongue",
+      "Parasympathetic innervation of the parotid gland",
+      "Taste from the anterior two-thirds of the tongue",
+      "Sensation from the anterior two-thirds of the tongue"
+    ],
+    "correctOption": 3,
+    "fact": "Chorda tympani carries taste from the anterior two-thirds; V3 carries general sensation there and IX carries posterior taste and sensation.",
+    "mnemonic": "VII taste anterior; IX taste posterior.",
+    "emojiCues": [
+      "🧠",
+      "👁️",
+      "⚡"
+    ],
+    "sourceLabel": "NCBI authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK545236/",
+    "finding": "Displayed source key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1764-q0071",
+    "page": 1764,
+    "stem": "Regarding the hypoglossal nerve, which of the following statements is CORRECT:",
+    "options": [
+      "The hypoglossal nerve emerges from the cranial cavity via the jugular foramen.",
+      "The hypoglossal nerve innervates all of the muscles of the tongue.",
+      "In hypoglossal nerve palsy, the tongue deviates away from the affected side on protrusion.",
+      "Hypoglossal nerve palsy results in weakness of the ipsilateral tongue.",
+      "Hypoglossal nerve palsy results in loss of the gag reflex."
+    ],
+    "correctOption": 3,
+    "fact": "CN XII exits through the hypoglossal canal, supplies the tongue except palatoglossus, and causes ipsilateral weakness with deviation toward the affected side.",
+    "mnemonic": "XII points toward the weak side.",
+    "emojiCues": [
+      "🧠",
+      "👁️",
+      "⚡"
+    ],
+    "sourceLabel": "NCBI authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537167/",
+    "finding": "Displayed source key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1765-q0072",
+    "page": 1765,
+    "stem": "A patient presenting with nerve injury has sparing of the upper half of the orbicularis oculi muscle but not the lower half. The lower half of the orbicularis oculi is supplied by which branch of the facial nerve:",
+    "options": [
+      "Temporal branch",
+      "Cervical branch",
+      "Zygomatic branch",
+      "Buccal branch",
+      "Mandibular branch"
+    ],
+    "correctOption": 2,
+    "fact": "The zygomatic branch supplies the orbicularis oculi region; facial nerve terminal branches have distinct territories.",
+    "mnemonic": "Zygomatic closes the eye.",
+    "emojiCues": [
+      "🧠",
+      "👁️",
+      "⚡"
+    ],
+    "sourceLabel": "NCBI authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470353/",
+    "finding": "Displayed source key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1766-q0073",
+    "page": 1766,
+    "stem": "The maxillary division of the trigeminal nerve exits the skull through the:",
+    "options": [
+      "Foramen rotundum",
+      "Foramen ovale",
+      "Superior orbital fissure",
+      "Internal acoustic meatus",
+      "Jugular foramen"
+    ],
+    "correctOption": 0,
+    "fact": "The maxillary division, V2, exits through foramen rotundum.",
+    "mnemonic": "V2 rotundum; V3 ovale.",
+    "emojiCues": [
+      "🧠",
+      "👁️",
+      "⚡"
+    ],
+    "sourceLabel": "NCBI authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470353/",
+    "finding": "Displayed source key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1767-q0074",
+    "page": 1767,
+    "stem": "The glossopharyngeal nerve carries all of the following EXCEPT for:",
+    "options": [
+      "Visceral afferent fibres from the carotid body and sinus",
+      "Sensory afferent fibres from the posterior one-third of the tongue",
+      "Sensory afferent fibres from the lower teeth and associated gingivae",
+      "Afferent taste fibres from the posterior one-third of the tongue",
+      "Motor fibres to the stylopharyngeus muscle"
+    ],
+    "correctOption": 2,
+    "fact": "Lower-teeth and gingival sensation is carried by the mandibular division of the trigeminal nerve, not CN IX.",
+    "mnemonic": "IX: carotid, posterior tongue, taste, stylopharyngeus. V3: lower teeth.",
+    "emojiCues": [
+      "🧠",
+      "👁️",
+      "⚡"
+    ],
+    "sourceLabel": "NCBI authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470353/",
+    "finding": "Displayed source key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1768-q0075",
+    "page": 1768,
+    "stem": "Which of the following nerves is the efferent pathway of the pupillary light reflex:",
+    "options": [
+      "Facial nerve",
+      "Ophthalmic nerve",
+      "Optic nerve",
+      "Oculomotor nerve",
+      "Abducens nerve"
+    ],
+    "correctOption": 3,
+    "fact": "The optic nerve is afferent and the oculomotor nerve carries the efferent parasympathetic pathway.",
+    "mnemonic": "II in; III constricts.",
+    "emojiCues": [
+      "🧠",
+      "👁️",
+      "⚡"
+    ],
+    "sourceLabel": "NCBI authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK553169/",
+    "finding": "Displayed source key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1769-q0076",
+    "page": 1769,
+    "stem": "Which of the following muscles is NOT supplied by the facial nerve:",
+    "options": [
+      "Occipitofrontalis muscle",
+      "Posterior belly of the digastric muscle",
+      "Stapedius muscle",
+      "Stylohyoid muscle",
+      "Masseter muscle"
+    ],
+    "correctOption": 4,
+    "fact": "The facial nerve supplies the other listed muscles; masseter is supplied by V3.",
+    "mnemonic": "VII expresses; V3 chews.",
+    "emojiCues": [
+      "🧠",
+      "👁️",
+      "⚡"
+    ],
+    "sourceLabel": "NCBI authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470353/",
+    "finding": "Displayed source key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1770-q0077",
+    "page": 1770,
+    "stem": "A 28 year old male man is brought to ED having been hit in the head by a cricket ball. Imaging shows a fracture of the foramen rotundum. Which of the following nerves would most likely be injured:",
+    "options": [
+      "Ophthalmic nerve",
+      "Maxillary nerve",
+      "Mandibular nerve",
+      "Facial nerve",
+      "Glossopharyngeal nerve"
+    ],
+    "correctOption": 1,
+    "fact": "The maxillary nerve runs through foramen rotundum.",
+    "mnemonic": "V2 rotundum.",
+    "emojiCues": [
+      "🧠",
+      "👁️",
+      "⚡"
+    ],
+    "sourceLabel": "NCBI authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470353/",
+    "finding": "Displayed source key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1771-q0078",
+    "page": 1771,
+    "stem": "Which of the following is NOT a typical feature of trochlear nerve palsy:",
+    "options": [
+      "Patient head tilts to side of affected eye",
+      "Patient has weakness of downward gaze",
+      "Patient has vertical diplopia",
+      "Patient has difficulty walking downstairs",
+      "Eye is extorted and elevated"
+    ],
+    "correctOption": 0,
+    "fact": "Trochlear palsy causes weakness of downward gaze, vertical diplopia, difficulty downstairs, and an extorted/elevated eye; compensatory head tilt is away from the affected side.",
+    "mnemonic": "CN IV: down and in, with head tilt away.",
+    "emojiCues": [
+      "🧠",
+      "👁️",
+      "⚡"
+    ],
+    "sourceLabel": "NCBI authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK565850/",
+    "finding": "Displayed source key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1772-q0079",
+    "page": 1772,
+    "stem": "A 49 year old man presents to ED complaining of visual disturbance in his right eye. On examination you note when you shine a light in his right eye, neither his right or left pupil constricts. When you shine a light in his left eye, both his left and right pupil constrict. Which of the following nerves is most likely affected:",
+    "options": [
+      "Oculomotor nerve",
+      "Optic nerve",
+      "Trochlear nerve",
+      "Abducens nerve",
+      "Ophthalmic nerve"
+    ],
+    "correctOption": 1,
+    "fact": "A right optic-nerve afferent lesion abolishes direct and consensual responses to right-eye illumination while responses to left-eye illumination remain intact.",
+    "mnemonic": "II is the afferent limb; III is the efferent limb.",
+    "emojiCues": [
+      "🧠",
+      "👁️",
+      "⚡"
+    ],
+    "sourceLabel": "NCBI authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK553169/",
+    "finding": "Displayed source key and option order directly verified on the original rendered page."
+  }
+]

@@ -1,0 +1,336 @@
+{
+  "exportedAt": "2026-08-22T16:02:29.837Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-12",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      442,
+      446,
+      451,
+      454,
+      461,
+      465,
+      470,
+      473,
+      478,
+      481
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0442-q0115",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Which of the following best describes the relationship of the bladder and prostate gland:",
+      "options": [
+        "The prostate gland lies anterosuperior to the bladder.",
+        "The prostate gland lies posterosuperior to the bladder.",
+        "The prostate gland lies superior to the bladder. (x) e prostate gland lies posteroinferior to the bladder. 23%"
+      ],
+      "correctOption": null,
+      "explanation": "The prostate lies immediately inferior to the bladder and the internal urethral sphincter, superior to the external urethral sphincter (with the levator ani lying inferolaterally to the gland) and anterior to the rectum. Cocos DP Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 442,
+      "sourceQuestionNumber": 115
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0446-q0116",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The body of the pancreas lies at which of the following vertebral levels:",
+      "options": [
+        "™ 7%",
+        "L2 26%"
+      ],
+      "correctOption": null,
+      "explanation": "The body of the pancreas is elongated and extends from the neck to the tail of the pancreas in the transpyloric plane (at the level of vertebra L1) to lie behind the stomach and to the left of the superior mesenteric vessels. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 446,
+      "sourceQuestionNumber": 116
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0451-q0117",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The infraduodenal region of the common bile duct: (Vv) ins in a groove posterior to the head of the pancreas. 30%",
+      "options": [
+        "lies posterior to the inferior vena cava.",
+        "lies anterior to the left renal vein.",
+        "empties into the third part of the duodenum."
+      ],
+      "correctOption": null,
+      "explanation": "The infraduodenal region is the lower one-third of the common bile duct which lies in a groove on the posterior surface of the head of the pancreas, to the left of the second part of the duodenum and anterior to the right renal vein and inferior vena cava. ae a Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 451,
+      "sourceQuestionNumber": 117
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0454-q0118",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The inguinal ligament spans between which of the following two structures:",
+      "options": [
+        "Anterior superior iliac spine and pubic tubercle",
+        "Anterior superior iliac spine and pubic symphysis 58%",
+        "Iliac crest and pubic symphysis 1%",
+        "lliac crest and pubic tubercle 1%",
+        "Anterior superior iliac spine and pubic crest 1%"
+      ],
+      "correctOption": 0,
+      "explanation": "The lower free border of the external oblique aponeurosis forms the inguinal ligament on each side. The inguinal ligament runs between the anterior superior iliac spine laterally and the pubic tubercle medially. v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 454,
+      "sourceQuestionNumber": 118
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0461-q0120",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 65 year old lady presents to ED complaining of anal pain and bleeding. Examination reveals external haemorrhoids. Which of the following nerves carries pain sensation from the anus:",
+      "options": [
+        "Genitofemoral nerve 3%",
+        "Hypogastric nerve 2%",
+        "Pudendal nerve",
+        "Pelvic splanchnic nerve",
+        "llioinguinal nerve 2%"
+      ],
+      "correctOption": 2,
+      "explanation": "Below the pectinate line the anal canal and anus are innervated by the somatic fibres of the pudendal nerve (S2 - S4) which innervates the external anal sphincter and most of the skin over the perineum. v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 461,
+      "sourceQuestionNumber": 120
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0465-q0121",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The rectum starts at the rectosigmoid junction at which vertebral level: c",
+      "options": [
+        "S2 59%",
+        "S4 3%"
+      ],
+      "correctOption": null,
+      "explanation": "The rectum is continuous above with the sigmoid colon at the rectosigmoid junction at about the level of vertebra S3, where the sigmoid mesocolon ends. ; Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 465,
+      "sourceQuestionNumber": 121
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0470-q0122",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The sacrotuberous ligament spans between which of the following structures:",
+      "options": [
+        "Pubic ramus to the posterior iliac spine and the sacrum 51% (x) Ischial spine to the iliac crest 1%",
+        "Ischial tuberosity to the anterior superior iliac spine 4%",
+        "Ischial tuberosity to the posterior superior iliac spine and the sacrum",
+        "Ischial spine to the posterior superior iliac spine and the sacrum 4%"
+      ],
+      "correctOption": 2,
+      "explanation": "The sacrotuberous ligament is also triangular with its apex attached to the medial margin of the ischial tuberosity and its broad base attached to the posterior superior iliac spine of the pelvic bone along the dorsal aspect and lateral margin of the sacrum, and onto the dorsolateral surface of the coccyx. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 470,
+      "sourceQuestionNumber": 122
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0473-q0123",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The base of the bladder faces:",
+      "options": [
+        "Posteroinferiorly",
+        "Posterosuperiorly 10%",
+        "Anteroinferiorly 57%",
+        "Superiorly 4%"
+      ],
+      "correctOption": 0,
+      "explanation": "The apex of the bladder is directed towards the top of the pubic symphysis. The triangular-shaped base (or fundus) of the bladder faces posteroinferiorly. The two ureters enter the bladder at each of the upper corners of the base, and the urethra drains inferiorly from the lower corner of the base. ; Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 473,
+      "sourceQuestionNumber": 123
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0478-q0124",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The aorta enters the abdomen at which of the following vertebral levels:",
+      "options": [
+        "T8 54%",
+        "Ig 0%",
+        "r12",
+        "u 1%"
+      ],
+      "correctOption": 2,
+      "explanation": "The abdominal aorta begins at the aortic hiatus of the diaphragm, anterior to the lower border of vertebra 12; : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 478,
+      "sourceQuestionNumber": 124
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0481-q0125",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Ld A 36 year old male is brought into ED complaining of fever, abdominal pain and tenderness. Imaging shows that an abdominal infection has spread retroperitoneally. Which of the following structures is most likely affected:",
+      "options": [
+        "Jejunum 1%",
+        "Head of the pancreas",
+        "Transverse colon 4%",
+        "First part of duodenum 56%"
+      ],
+      "correctOption": 1,
+      "explanation": "The pancreas (except for a small part of the tail) is retroperitoneal. All the other structures are intraperitoneal. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 481,
+      "sourceQuestionNumber": 125
+    }
+  ]
+}

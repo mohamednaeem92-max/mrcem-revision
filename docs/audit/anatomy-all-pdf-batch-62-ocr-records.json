@@ -1,0 +1,338 @@
+{
+  "exportedAt": "2026-08-27T04:18:29.238Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-62",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1747,
+      1748,
+      1749,
+      1750,
+      1751,
+      1755,
+      1759,
+      1760,
+      1761,
+      1762
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1747-q0060",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "The hypoglossal nerve innervates all of the following muscles EXCEPT for the:",
+      "options": [
+        "Genioglossus",
+        "Intrinsic muscles of the tongue Jem",
+        "Styloglossus",
+        "Palatoglossus"
+      ],
+      "correctOption": 3,
+      "explanation": "The hypoglossal nerve innervates all of the muscles of the tongue, except for the palatoglossus muscle innervated by the vagus nerve. . Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1747,
+      "sourceQuestionNumber": 60
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1748-q0061",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Regarding the trigeminal nerve, which of the following statements is INCORRECT:",
+      "options": [
+        "The trigeminal nerve has both motor and sensory function. 3%",
+        "The trigeminal nerve is the afferent nerve for the corneal blink refiex. 9%",
+        "All three divisions of the trigeminal nerve have bilateral cortical representation. 13%",
+        "In a trigeminal nerve palsy, the jaw will deviate away from the affected side when open."
+      ],
+      "correctOption": 3,
+      "explanation": "In a trigeminal nerve palsy, the jaw will deviate towards the paralysed side due to unopposed action of the opposite lateral pterygoid. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1748,
+      "sourceQuestionNumber": 61
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1749-q0062",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "The mandibular division of the trigeminal nerve exits the skull through the: Foramen rotundum 7% (x) Hypoglossal canal 2% Internal acoustic meatus 3%",
+      "options": [
+        "Jugular foramen"
+      ],
+      "correctOption": null,
+      "explanation": "The mandibular nerve exits the skull through the foramen ovale. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "Fewer than two answer options were detected.",
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1749,
+      "sourceQuestionNumber": 62
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1750-q0063",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "The auriculotemporal nerve carries general sensation from all of the following regions EXCEPT for the:",
+      "options": [
+        "Posterior temple 52%",
+        "Tympanic membrane 3%",
+        "Temporomandibular joint"
+      ],
+      "correctOption": null,
+      "explanation": "The auriculotemporal nerve carries general sensation from skin over a large area of the temple, the external ear, the external auditory meatus, the outer tympanic membrane and the temporomandibular joint. It also delivers postganglionic parasympathetic fibres from the glossopharyngeal nerve to the parotid gland. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1750,
+      "sourceQuestionNumber": 63
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1751-q0064",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Regarding the optic nerve, which of the following statements is CORRECT:",
+      "options": [
+        "The optic nerve is surrounded by the cranial meninges.",
+        "The optic nerve has both motor and sensory function. 4%",
+        "The optic nerve receives its blood supply primarily from branches of the external carotid artery. 6%",
+        "Visual acuity should be tested with Ishihara plates. 4%"
+      ],
+      "correctOption": 0,
+      "explanation": "The optic nerve is surrounded by the cranial meninges as far forwards as the eyeball which provides anatomical rationale for papilloedema seen in raised intracranial pressure. The optic nerve is a purely sensory nerve which leaves the orbit via the optic canal in the sphenoid bone. It receives its blood supply from the anterior cerebral artery, ophthalmic artery and central retinal artery, all branches of the internal carotid artery. Visual acuity is assessed with Snellen charts, Ishihara plates are used to assess colour vision. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1751,
+      "sourceQuestionNumber": 64
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1755-q0065",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "The glossopharyngeal nerve exits the skull through the:",
+      "options": [
+        "Foramen rotundum",
+        "Foramen ovale @ Hypoglossal canal ”",
+        "Internal acoustic meatus",
+        "Jugular foramen"
+      ],
+      "correctOption": 3,
+      "explanation": "The glossopharyngeal nerve exits the skull through the jugular foramen. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1755,
+      "sourceQuestionNumber": 65
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1759-q0066",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Which of the following nerves is the efferent pathway of the corneal blink reflex:",
+      "options": [
+        "Ophthalmic nerve",
+        "Oculomotor nerve Coens",
+        "Maxillary nerve"
+      ],
+      "correctOption": null,
+      "explanation": "The facial nerve is the efferent pathway of the corneal blink reflex. The ophthalmic division of the trigeminal nerve is the afferent pathway of the corneal blink reflex. . Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1759,
+      "sourceQuestionNumber": 66
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1760-q0067",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "A 64 year old man has sustained a penetrating injury to the submandibular triangle. On examination, his tongue is weak and when protruded deviates to the left. Which of the following nerves has most likely been injured:",
+      "options": [
+        "Left glossopharyngeal nerve",
+        "Right glossopharyngeal nerve",
+        "Right hypoglossal nerve",
+        "Right lingual nerve"
+      ],
+      "correctOption": null,
+      "explanation": "Damage to the hypoglossal nerve results in weakness of the tongue, with deviation of the tongue towards the weak side on protrusion. “css ease Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1760,
+      "sourceQuestionNumber": 67
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1761-q0068",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "w The inferior alveolar nerve supplies all of the following EXCEPT for the:",
+      "options": [
+        "Mylohyoid muscle",
+        "Anterior belly of the digastric muscle",
+        "Tensor veli palatini muscle",
+        "Sensation from skin over the chin",
+        "Sensation from the lower teeth"
+      ],
+      "correctOption": 2,
+      "explanation": "The inferior alveolar nerve carries general sensation from the lower teeth and associated gingivae, mucosa and skin of the lower lip and skin of the chin and gives rise to a motor branch which innervates the mylohyoid muscle and the anterior belly of the digastric muscle. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1761,
+      "sourceQuestionNumber": 68
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1762-q0069",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "te Which of the following is NOT a typical feature of an abducens nerve palsy:",
+      "options": [
+        "Convergent squint at rest",
+        "Horizontal diplopia © Loss of abduction 2%",
+        "Adducted eye at rest 4% (/ inability to look up 40%"
+      ],
+      "correctOption": null,
+      "explanation": "CN VI palsies result in a convergent squint at rest (eye turned inwards) with inability to abduct the eye because of unopposed action of the rectus medialis. The patient complains of horizontal diplopia when looking towards the affected side. With complete paralysis, the eye cannot abduct past the midline. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1762,
+      "sourceQuestionNumber": 69
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "generatedAt": "2026-08-27T21:40:02.456Z",
+  "total": 4454,
+  "byRecordType": {
+    "approved_pilot": 4,
+    "ocr_draft": 4450
+  },
+  "byMechanicalState": {
+    "source_confirmation_required": 103,
+    "source_page_required": 4347,
+    "source_reviewed": 4
+  },
+  "bySubject": {
+    "Anatomy": 2408,
+    "Evidence-based medicine": 137,
+    "Microbiology": 291,
+    "Pathology": 257,
+    "Pharmacology": 503,
+    "Physiology": 858
+  },
+  "inRangeAnswerIndexes": 1197,
+  "noDetectedAnswerKey": 3257,
+  "withIntegrityFlags": 4347,
+  "withSourceTrace": 4454,
+  "correctionProposals": 0
+}

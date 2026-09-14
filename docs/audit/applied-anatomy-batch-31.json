@@ -1,0 +1,404 @@
+{
+  "generatedAt": "2026-08-23T17:06:43.250Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0952-q0066",
+      "sourcePage": 952,
+      "before": {
+        "stem": "ww A 21 year old man presents to ED complaining of a scrotal lump. Imaging demonstrates a testicular tumour. The lymphatic drainage of the testis is to which of the following:",
+        "options": [
+          "Internal iliac nodes 53%",
+          "External iliac nodes 1%",
+          "Superficial inguinal nodes 5%",
+          "Deep inguinal nodes",
+          "Para-aortic nodes"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "A 21 year old man presents to ED complaining of a scrotal lump. Imaging demonstrates a testicular tumour. The lymphatic drainage of the testis is to which of the following:",
+        "options": [
+          "Internal iliac nodes",
+          "External iliac nodes",
+          "Superficial inguinal nodes",
+          "Deep inguinal nodes",
+          "Para-aortic nodes"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557720/",
+        "externalFinding": "NCBI identifies para-aortic nodes as the principal lymphatic drainage of the testes."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0960-q0068",
+      "sourcePage": 960,
+      "before": {
+        "stem": "w The retroduodenal region of the common bile duct:",
+        "options": [
+          "lies left of the gastroduodenal artery. 3% (x) lies posterior to the portal vein. 4%",
+          "lies posterior to the first part of the duodenum",
+          "empties directly into the major duodenal papilla. 4%",
+          "lies posterior to the second part of the duodenum. 62%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The retroduodenal region of the common bile duct:",
+        "options": [
+          "lies left of the gastroduodenal artery.",
+          "lies posterior to the portal vein.",
+          "lies posterior to the first part of the duodenum.",
+          "empties directly into the major duodenal papilla.",
+          "lies posterior to the second part of the duodenum."
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8354732/",
+        "externalFinding": "Peer-reviewed biliary anatomy states that the common bile duct courses posterior to the first portion of the duodenum."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0963-q0069",
+      "sourcePage": 963,
+      "before": {
+        "stem": "ww Which of the following structures is NOT retroperitoneal:",
+        "options": [
+          "Rectum 6%",
+          "Ureters 4%",
+          "Tail of pancreas",
+          "Kidneys 1%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Which of the following structures is NOT retroperitoneal:",
+        "options": [
+          "Rectum",
+          "Inferior vena cava",
+          "Ureters",
+          "Tail of pancreas",
+          "Kidneys"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9986191/",
+        "externalFinding": "Peer-reviewed surgical anatomy places the pancreatic tail at the splenic hilum in the splenorenal ligament."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0971-q0071",
+      "sourcePage": 971,
+      "before": {
+        "stem": "ww In men, the internal urethral sphincter surrounds which of the following structures:",
+        "options": [
+          "Preprostatic urethra",
+          "Membranous urethra 60%",
+          "Spongy urethra 3%",
+          "Distal ureter 1%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "In men, the internal urethral sphincter surrounds which of the following structures:",
+        "options": [
+          "Preprostatic urethra",
+          "Prostatic urethra",
+          "Membranous urethra",
+          "Spongy urethra",
+          "Distal ureter"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11365459/",
+        "externalFinding": "Cadaveric anatomy identifies the preprostatic urethral segment as surrounded by the bladder/internal urethral sphincter."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0979-q0073",
+      "sourcePage": 979,
+      "before": {
+        "stem": "A 21 year old female presents to ED complaining of acute severe pelvic pain. She reports she has not had a period for 6 weeks which is not normal for her. A urine pregnancy test is positive. Which of the following is the most common site of an ectopic pregnancy:",
+        "options": [
+          "Cervix (x) The mesentery 1%",
+          "Vagina",
+          "Ovaries"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "A 21 year old female presents to ED complaining of acute severe pelvic pain. She reports she has not had a period for 6 weeks which is not normal for her. A urine pregnancy test is positive. Which of the following is the most common site of an ectopic pregnancy:",
+        "options": [
+          "Cervix",
+          "Uterine tubes",
+          "The mesentery",
+          "Vagina",
+          "Ovaries"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK539860/",
+        "externalFinding": "NCBI states that most ectopic pregnancies are tubal and the ampulla is the most frequent tubal location."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0982-q0074",
+      "sourcePage": 982,
+      "before": {
+        "stem": "Irritation of the central part of the diaphragmatic peritoneum is typically referred to:",
+        "options": [
+          "The jaw a",
+          "The epigastric region The periumbilical region 4% (x) The flanks 1%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "Irritation of the central part of the diaphragmatic peritoneum is typically referred to:",
+        "options": [
+          "The jaw",
+          "The shoulder tip",
+          "The epigastric region",
+          "The periumbilical region",
+          "The flanks"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK513325/",
+        "externalFinding": "NCBI describes C3–C5 phrenic sensory supply to the central diaphragm and shoulder-tip referral of diaphragmatic pain."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0985-q0075",
+      "sourcePage": 985,
+      "before": {
+        "stem": "The bladder receives its efferent parasympathetic fibres derived from spinal cord segments:",
+        "options": [
+          "L4-L5",
+          "$1-S2",
+          "L4-S2"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The bladder receives its efferent parasympathetic fibres derived from spinal cord segments:",
+        "options": [
+          "L4 - L5",
+          "S3 - S4",
+          "S2 - S4",
+          "S1 - S2",
+          "L4 - S2"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK531465/",
+        "externalFinding": "NCBI states that pelvic splanchnic parasympathetic fibres arise from S2–S4 and contract the detrusor for voiding."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0955-q0067",
+      "sourcePage": 955,
+      "before": {
+        "stem": "ww The ilioinguinal nerve is formed from the anterior rami of:",
+        "options": [
+          "u",
+          "{4 =L2 61%",
+          "L2 1% SE",
+          "L4 1%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The ilioinguinal nerve is formed from the anterior rami of:",
+        "options": [
+          "L1",
+          "L1 - L2",
+          "L2",
+          "L2 - L3",
+          "L4"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but authoritative sources describe a documented T12–L1 contribution as well as the standard L1 origin; the source's single-level formulation is not uniquely corroborated; no correct option is inferred."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK538256/",
+        "externalFinding": "NCBI describes ilioinguinal root contribution from T12 and L1, whereas the source question offers only a single-level standard formulation."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0966-q0070",
+      "sourcePage": 966,
+      "before": {
+        "stem": "Which of the following structures is NOT a posterior relation of the transverse colon:",
+        "options": [
+          "Second part of duodenum",
+          "Upper end of mesentery",
+          "Duodenojejunal flexure"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "Which of the following structures is NOT a posterior relation of the transverse colon:",
+        "options": [
+          "Second part of duodenum",
+          "Head of pancreas",
+          "Upper end of mesentery",
+          "Duodenojejunal flexure",
+          "Spleen"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but no authoritative source reviewed provides a complete posterior-relation list sufficient to test all source options exactly; no correct option is inferred."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2821589/",
+        "externalFinding": "Peer-reviewed peritoneal anatomy confirms relevant transverse-mesocolon connections but does not corroborate the complete source option set as an exact posterior-relation list."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0975-q0072",
+      "sourcePage": 975,
+      "before": {
+        "stem": "A 26 year old woman is brought to ED following a road traffic accident. Focussed assessment for sonography in trauma (FAST) on the supine patient demonstrates free intraperitoneal fluid. Which of the following spaces is most likely to be affected:",
+        "options": [
+          "Vesicouterine recess",
+          "Left paracolic gutter",
+          "Subphrenic recess"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "A 26 year old woman is brought to ED following a road traffic accident. Focussed assessment for sonography in trauma (FAST) on the supine patient demonstrates free intraperitoneal fluid. Which of the following spaces is most likely to be affected:",
+        "options": [
+          "Hepatorenal recess",
+          "Vesicouterine recess",
+          "Rectouterine recess",
+          "Left paracolic gutter",
+          "Subphrenic recess"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but authoritative FAST references support more than one dependent recess in a supine woman when no view or fluid volume is specified; no correct option is inferred."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.acep.org/sonoguide/basic/fast",
+        "externalFinding": "ACEP identifies the pouch of Douglas as a dependent peritoneal site in a supine woman, while NCBI identifies the hepatorenal recess in the RUQ FAST view; the broad stem is non-unique."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

@@ -1,0 +1,409 @@
+{
+  "generatedAt": "2026-08-23T17:24:35.119Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1033-q0086",
+      "sourcePage": 1033,
+      "before": {
+        "stem": "Which of the following structures is NOT retroperitoneal: (x) Abdominal oesophagus 9%",
+        "options": [
+          "Adrenal glands",
+          "Ascending colon",
+          "Descending colon"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "Which of the following structures is NOT retroperitoneal:",
+        "options": [
+          "Abdominal oesophagus",
+          "Adrenal glands",
+          "Ascending colon",
+          "Descending colon",
+          "Proximal duodenum"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482390/",
+        "externalFinding": "NCBI describes the first duodenal portion as the intraperitoneal exception."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1036-q0087",
+      "sourcePage": 1036,
+      "before": {
+        "stem": "The lumbar plexus is formed predominantly from the anterior rami of:",
+        "options": [
+          "L2-L3",
+          "L1-L2",
+          "Ee L5"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The lumbar plexus is formed predominantly from the anterior rami of:",
+        "options": [
+          "L2 - L3",
+          "L1 - L5",
+          "L1 - L4",
+          "L1 - L2",
+          "L2 - L5"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK564296/",
+        "externalFinding": "NCBI identifies L1–L4 anterior rami as the predominant lumbar-plexus roots."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1040-q0088",
+      "sourcePage": 1040,
+      "before": {
+        "stem": "ww In men, the external urethral sphincter surrounds which of the following structures:",
+        "options": [
+          "Preprostatic urethra 8%",
+          "Membranous urethra",
+          "Spongy urethra 16%",
+          "External urethral orifice 13%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "In men, the external urethral sphincter surrounds which of the following structures:",
+        "options": [
+          "Preprostatic urethra",
+          "Prostatic urethra",
+          "Membranous urethra",
+          "Spongy urethra",
+          "External urethral orifice"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK542238/",
+        "externalFinding": "NCBI describes skeletal external-sphincter muscle around the membranous urethra."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1044-q0089",
+      "sourcePage": 1044,
+      "before": {
+        "stem": "A 65 year old lady complains of faecal incontinence. Dysfunction of which of the following structures is most likely a contributing factor to her symptoms:",
+        "options": [
+          "Pectineus muscle",
+          "lliococcygeus muscle Sporeserimnde",
+          "Coccygeus muscle"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "A 65 year old lady complains of faecal incontinence. Dysfunction of which of the following structures is most likely a contributing factor to her symptoms:",
+        "options": [
+          "Pectineus muscle",
+          "Puborectalis muscle",
+          "Iliococcygeus muscle",
+          "Transverse perineal muscles",
+          "Coccygeus muscle"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459128/",
+        "externalFinding": "NCBI and peer-reviewed evidence identify puborectalis as a major continence mechanism."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1048-q0090",
+      "sourcePage": 1048,
+      "before": {
+        "stem": "A 29 year old rugby player presents to ED complaining of left flank pain. Imaging shows a fracture of the angle of the twelfth rib on the left side. Which of the following organs, based on surface anatomy, is most at risk for injury:",
+        "options": [
+          "Spleen",
+          "Pancreas",
+          "Stomach"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "A 29 year old rugby player presents to ED complaining of left flank pain. Imaging shows a fracture of the angle of the twelfth rib on the left side. Which of the following organs, based on surface anatomy, is most at risk for injury:",
+        "options": [
+          "Spleen",
+          "Left kidney",
+          "Pancreas",
+          "Stomach",
+          "Transverse colon"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482385/",
+        "externalFinding": "NCBI describes the superior renal pole as commonly crossed by the twelfth rib; the learning aid preserves this as a non-invariant surface relation."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1050-q0092",
+      "sourcePage": 1050,
+      "before": {
+        "stem": "A 65 year old woman presents to ED complaining of fever, right upper quadrant pain, and jaundice. Imaging shows an obstructing gallstone. Which of the following structures is most likely obstructed by the gallstone:",
+        "options": [
+          "Pancreatic duct",
+          "Cystic duct",
+          "Left hepatic duct (x) Right hepatic duct 1%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "A 65 year old woman presents to ED complaining of fever, right upper quadrant pain, and jaundice. Imaging shows an obstructing gallstone. Which of the following structures is most likely obstructed by the gallstone:",
+        "options": [
+          "Pancreatic duct",
+          "Cystic duct",
+          "Left hepatic duct",
+          "Common bile duct",
+          "Right hepatic duct"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK441961/",
+        "externalFinding": "NCBI identifies common-bile-duct stones and obstruction as causes of jaundice and cholangitis."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1053-q0093",
+      "sourcePage": 1053,
+      "before": {
+        "stem": "ww The deep inguinal ring is an ‘opening’ in which of the following structures:",
+        "options": [
+          "External oblique aponeurosis 10%",
+          "Internal oblique aponeurosis 7%",
+          "Transversus abdominis aponeurosis 1%",
+          "Rectus abdominis aponeurosis 2%",
+          "Transversalis fascia"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The deep inguinal ring is an 'opening' in which of the following structures:",
+        "options": [
+          "External oblique aponeurosis",
+          "Internal oblique aponeurosis",
+          "Transversus abdominis aponeurosis",
+          "Rectus abdominis aponeurosis",
+          "Transversalis fascia"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470204/",
+        "externalFinding": "NCBI identifies the deep inguinal ring as formed by transversalis fascia."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1060-q0095",
+      "sourcePage": 1060,
+      "before": {
+        "stem": "Pain in the jejunum and ileum is typically referred to which of the following regions:",
+        "options": [
+          "Flank 5",
+          "Epigastrium 1%",
+          "Left upper quadrant 8%",
+          "Right lower quadrant 9%",
+          "Umbilical region"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Pain in the jejunum and ileum is typically referred to which of the following regions:",
+        "options": [
+          "Flank",
+          "Epigastrium",
+          "Left upper quadrant",
+          "Right lower quadrant",
+          "Umbilical region"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK553104/",
+        "externalFinding": "NCBI and peer-reviewed peritoneal anatomy describe periumbilical referral from jejunal and ileal midgut pain."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1057-q0094",
+      "sourcePage": 1057,
+      "before": {
+        "stem": "ww The ureters arise at which of the following vertebral levels:",
+        "options": [
+          "T10 2%",
+          "™ oo",
+          "m2 55%",
+          "at ”"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The ureters arise at which of the following vertebral levels:",
+        "options": [
+          "T10",
+          "T11",
+          "T12",
+          "L1",
+          "L2"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but current authoritative ureter anatomy places the ureteropelvic junction roughly at L2 rather than the source's L1 key; no correct option is inferred."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532980/",
+        "externalFinding": "NCBI places the ureteropelvic junction, where renal pelvis transitions to ureter, roughly at L2."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1063-q0096",
+      "sourcePage": 1063,
+      "before": {
+        "stem": "The psoas major muscle is innervated by which of the following:",
+        "options": [
+          "lliohypogastric nerve",
+          "Femoral nerve 7h",
+          "Anterior rami of L2 - L4"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The psoas major muscle is innervated by which of the following:",
+        "options": [
+          "Iliohypogastric nerve",
+          "Ilioinguinal nerve",
+          "Anterior rami of L1 - L3",
+          "Femoral nerve",
+          "Anterior rami of L2 - L4"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but current authoritative sources conflict between L1–L3 and L1–L4 descriptions of psoas-major innervation; no correct option is inferred."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK535418/",
+        "externalFinding": "NCBI psoas-major and iliopsoas references give conflicting root ranges, so the exact isolated L1–L3 key is not restored."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

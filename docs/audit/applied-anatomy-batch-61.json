@@ -1,0 +1,650 @@
+{
+  "generatedAt": "2026-08-27T04:17:18.713Z",
+  "batch": "anatomy-all-pdf-batch-61",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1730-q0051",
+      "sourcePage": 1730,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1730-q0051",
+        "sourcePage": 1730,
+        "stem": "te A patient undergoes maxillofacial surgery, during which the surgeon accidentally injures the facial nerve. Which of the following muscles is affected:",
+        "options": [
+          "Masseter Stylopharyngeus",
+          "Buccinator Tensor tympani Mylohyoid v1 39% CO EEE"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected.",
+          "Explanation is missing or too short after OCR parsing."
+        ],
+        "explanation": "",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1730-q0051",
+        "sourcePage": 1730,
+        "stem": "A patient undergoes maxillofacial surgery, during which the surgeon accidentally injures the facial nerve. Which of the following muscles is affected:",
+        "options": [
+          "Masseter",
+          "Stylopharyngeus",
+          "Buccinator",
+          "Tensor tympani",
+          "Mylohyoid"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The buccinator is innervated by the facial nerve; the other listed muscles are supplied by V3 or IX.",
+        "learningNote": "The buccinator is innervated by the facial nerve; the other listed muscles are supplied by V3 or IX.",
+        "highYieldNote": "The buccinator is innervated by the facial nerve; the other listed muscles are supplied by V3 or IX.",
+        "mnemonic": "VII moves the cheek; V3 moves the jaw.",
+        "memoryAid": {
+          "coreFact": "The buccinator is innervated by the facial nerve; the other listed muscles are supplied by V3 or IX.",
+          "mnemonic": "VII moves the cheek; V3 moves the jaw.",
+          "emojiCues": [
+            "VII",
+            "👄",
+            "V3"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK554569/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK554569/",
+        "externalFinding": "Source answer page displays buccinator as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1731-q0051",
+      "sourcePage": 1731,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1731-q0051",
+        "sourcePage": 1731,
+        "stem": "A patient undergoes maxillofacial surgery, during which the surgeon accidentally injures the facial nerve. Which of the following muscles is affected:",
+        "options": [
+          "Masseter",
+          "Stylopharyngeus",
+          "Tensor tympani",
+          "Mylohyoid"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The buccinator muscle is innervated by the facial nerve. The masseter, mylohyoid and tensor tympani muscles are innervated by the mandibular nerve. The stylopharyngeus is innervated by the glossopharyngeal nerve. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1731-q0051",
+        "sourcePage": 1731,
+        "stem": "A patient undergoes maxillofacial surgery, during which the surgeon accidentally injures the facial nerve. Which of the following muscles is affected:",
+        "options": [
+          "Masseter",
+          "Stylopharyngeus",
+          "Buccinator",
+          "Tensor tympani",
+          "Mylohyoid"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The buccinator is innervated by the facial nerve; the other listed muscles are supplied by V3 or IX.",
+        "learningNote": "The buccinator is innervated by the facial nerve; the other listed muscles are supplied by V3 or IX.",
+        "highYieldNote": "The buccinator is innervated by the facial nerve; the other listed muscles are supplied by V3 or IX.",
+        "mnemonic": "VII moves the cheek; V3 moves the jaw.",
+        "memoryAid": {
+          "coreFact": "The buccinator is innervated by the facial nerve; the other listed muscles are supplied by V3 or IX.",
+          "mnemonic": "VII moves the cheek; V3 moves the jaw.",
+          "emojiCues": [
+            "VII",
+            "👄",
+            "V3"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK554569/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK554569/",
+        "externalFinding": "Source answer page displays buccinator as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1734-q0053",
+      "sourcePage": 1734,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1734-q0053",
+        "sourcePage": 1734,
+        "stem": "The oculomotor nerve supplies all of the following muscles EXCEPT for the: (x) Medial rectus 2%",
+        "options": [
+          "Lateral rectus",
+          "Superior rectus",
+          "Inferior rectus",
+          "Inferior oblique"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The oculomotor nerve supplies four extraocular muscles - the inferior oblique, superior rectus, inferior rectus and medial rectus muscles. The superior oblique muscle is innervated by the trochlear nerve, and the lateral rectus muscle by the abducens nerve. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1734-q0053",
+        "sourcePage": 1734,
+        "stem": "The oculomotor nerve supplies all of the following muscles EXCEPT for the:",
+        "options": [
+          "Medial rectus",
+          "Lateral rectus",
+          "Superior rectus",
+          "Inferior rectus",
+          "Inferior oblique"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "CN III supplies the listed muscles except lateral rectus, which is supplied by CN VI.",
+        "learningNote": "CN III supplies the listed muscles except lateral rectus, which is supplied by CN VI.",
+        "highYieldNote": "CN III supplies the listed muscles except lateral rectus, which is supplied by CN VI.",
+        "mnemonic": "LR6: lateral rectus is CN VI; most other eye muscles are III.",
+        "memoryAid": {
+          "coreFact": "CN III supplies the listed muscles except lateral rectus, which is supplied by CN VI.",
+          "mnemonic": "LR6: lateral rectus is CN VI; most other eye muscles are III.",
+          "emojiCues": [
+            "III",
+            "VI",
+            "👁️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470353/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470353/",
+        "externalFinding": "Source page displays lateral rectus as the exception."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1735-q0054",
+      "sourcePage": 1735,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1735-q0054",
+        "sourcePage": 1735,
+        "stem": "Ww The vagus nerve exits the skull through the:",
+        "options": [
+          "Foramen rotundum 1%",
+          "Hypoglossal canal 2%",
+          "Internal acoustic meatus 2%",
+          "Jugular foramen"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The vagus nerve exits the skull through the jugular foramen. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1735-q0054",
+        "sourcePage": 1735,
+        "stem": "The vagus nerve exits the skull through the:",
+        "options": [
+          "Foramen rotundum",
+          "Foramen ovale",
+          "Hypoglossal canal",
+          "Internal acoustic meatus",
+          "Jugular foramen"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The vagus nerve exits the skull through the jugular foramen.",
+        "learningNote": "The vagus nerve exits the skull through the jugular foramen.",
+        "highYieldNote": "The vagus nerve exits the skull through the jugular foramen.",
+        "mnemonic": "IX, X, XI travel through the jugular foramen.",
+        "memoryAid": {
+          "coreFact": "The vagus nerve exits the skull through the jugular foramen.",
+          "mnemonic": "IX, X, XI travel through the jugular foramen.",
+          "emojiCues": [
+            "X",
+            "🕳️",
+            "🦴"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK539877/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK539877/",
+        "externalFinding": "Source page displays jugular foramen as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1736-q0055",
+      "sourcePage": 1736,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1736-q0055",
+        "sourcePage": 1736,
+        "stem": "Regarding the olfactory nerve, which of the following statements is CORRECT: (x) The olfactory bulb lies in the posterior cranial fossa. 10% The olfactory nerve is the longest cranial nerve. 7%",
+        "options": [
+          "The olfactory nerve originates from the medulla oblongata.",
+          "The olfactory nerve carries crude touch sensation from the nasal cavity.",
+          "The olfactory tract runs inferiorly to the frontal lobe."
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The olfactory nerve is the shortest cranial nerve and originates from the cerebrum; it is one of two nerves that do not originate from the brainstem, the other being the optic nerve. Olfactory nerve fibres enter the skull via the cribriform plate of the ethmoid bone to enter to olfactory bulb in the anterior cranial fossa before passing into the olfactory tract which lies inferior to the frontal lobe. } Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1736-q0055",
+        "sourcePage": 1736,
+        "stem": "Regarding the olfactory nerve, which of the following statements is CORRECT:",
+        "options": [
+          "The olfactory bulb lies in the posterior cranial fossa.",
+          "The olfactory nerve is the longest cranial nerve.",
+          "The olfactory nerve originates from the medulla oblongata.",
+          "The olfactory nerve carries crude touch sensation from the nasal cavity.",
+          "The olfactory tract runs inferiorly to the frontal lobe."
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The olfactory tract lies inferior to the frontal lobe; CN I enters through the cribriform plate and the bulb lies in the anterior cranial fossa.",
+        "learningNote": "The olfactory tract lies inferior to the frontal lobe; CN I enters through the cribriform plate and the bulb lies in the anterior cranial fossa.",
+        "highYieldNote": "The olfactory tract lies inferior to the frontal lobe; CN I enters through the cribriform plate and the bulb lies in the anterior cranial fossa.",
+        "mnemonic": "I smells under the frontal lobe.",
+        "memoryAid": {
+          "coreFact": "The olfactory tract lies inferior to the frontal lobe; CN I enters through the cribriform plate and the bulb lies in the anterior cranial fossa.",
+          "mnemonic": "I smells under the frontal lobe.",
+          "emojiCues": [
+            "I",
+            "👃",
+            "🧠"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537143/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537143/",
+        "externalFinding": "Source page displays the inferior olfactory-tract course as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1740-q0056",
+      "sourcePage": 1740,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1740-q0056",
+        "sourcePage": 1740,
+        "stem": "Regarding the vagus nerve, which of the following statements is INCORRECT:",
+        "options": [
+          "The vagus nerve is a motor and sensory nerve. a The vagus nerve originates in the medulla. 4%",
+          "The vagus nerve exits the skull via the jugular foramen.",
+          "It is the afferent nerve of the gag reflex.",
+          "It innervates the palatoglossal muscle of the tongue."
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The vagus nerve is the efferent nerve of the gag reflex (the glossopharyngeal nerve is the afferent nerve). Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1740-q0056",
+        "sourcePage": 1740,
+        "stem": "Regarding the vagus nerve, which of the following statements is INCORRECT:",
+        "options": [
+          "The vagus nerve is a motor and sensory nerve.",
+          "The vagus nerve originates in the medulla.",
+          "The vagus nerve exits the skull via the jugular foramen.",
+          "It is the afferent nerve of the gag reflex.",
+          "It innervates the palatoglossal muscle of the tongue."
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "CN IX is the afferent limb and CN X is the efferent limb of the gag reflex; the other statements are compatible with the vagus nerve.",
+        "learningNote": "CN IX is the afferent limb and CN X is the efferent limb of the gag reflex; the other statements are compatible with the vagus nerve.",
+        "highYieldNote": "CN IX is the afferent limb and CN X is the efferent limb of the gag reflex; the other statements are compatible with the vagus nerve.",
+        "mnemonic": "IX detects, X reacts.",
+        "memoryAid": {
+          "coreFact": "CN IX is the afferent limb and CN X is the efferent limb of the gag reflex; the other statements are compatible with the vagus nerve.",
+          "mnemonic": "IX detects, X reacts.",
+          "emojiCues": [
+            "IX",
+            "X",
+            "🫢"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK539877/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK539877/",
+        "externalFinding": "Source page displays the afferent-gag statement as incorrect."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1741-q0057",
+      "sourcePage": 1741,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1741-q0057",
+        "sourcePage": 1741,
+        "stem": "Which of the following nerves is the afferent pathway of the corneal blink reflex:",
+        "options": [
+          "Optic nerve",
+          "Ophthalmic nerve",
+          "Oculomotor nerve",
+          "Facial nerve 48%",
+          "Maxillary nerve"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The ophthalmic division of the trigeminal nerve is the afferent pathway of the corneal blink reflex. The facial nerve is the efferent pathway of the corneal blink reflex. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1741-q0057",
+        "sourcePage": 1741,
+        "stem": "Which of the following nerves is the afferent pathway of the corneal blink reflex:",
+        "options": [
+          "Optic nerve",
+          "Ophthalmic nerve",
+          "Oculomotor nerve",
+          "Facial nerve",
+          "Maxillary nerve"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The ophthalmic division of the trigeminal nerve is the afferent limb of the corneal blink reflex; CN VII is efferent.",
+        "learningNote": "The ophthalmic division of the trigeminal nerve is the afferent limb of the corneal blink reflex; CN VII is efferent.",
+        "highYieldNote": "The ophthalmic division of the trigeminal nerve is the afferent limb of the corneal blink reflex; CN VII is efferent.",
+        "mnemonic": "V1 feels the cornea; VII closes the lids.",
+        "memoryAid": {
+          "coreFact": "The ophthalmic division of the trigeminal nerve is the afferent limb of the corneal blink reflex; CN VII is efferent.",
+          "mnemonic": "V1 feels the cornea; VII closes the lids.",
+          "emojiCues": [
+            "V1",
+            "VII",
+            "👁️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK553213/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK553213/",
+        "externalFinding": "Source page displays ophthalmic nerve as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1745-q0058",
+      "sourcePage": 1745,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1745-q0058",
+        "sourcePage": 1745,
+        "stem": "w Which of the following features is NOT typical of oculomotor (CN III) palsy:",
+        "options": [
+          "Ptosis",
+          "Pupillary dilatation x Accommodation deficit 6%",
+          "A depressed and abducted pupil (Inability to abduct the eyeball 69%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Loss of abduction results from paralysis of the lateral rectus muscle innervated by the abducens nerve. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1745-q0058",
+        "sourcePage": 1745,
+        "stem": "Which of the following features is NOT typical of oculomotor (CN III) palsy:",
+        "options": [
+          "Ptosis",
+          "Pupillary dilatation",
+          "Accommodation deficit",
+          "A depressed and abducted pupil",
+          "Inability to abduct the eyeball"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "CN III palsy causes ptosis, pupil dilation, accommodation impairment, and a down-and-out eye; inability to abduct is due to CN VI palsy.",
+        "learningNote": "CN III palsy causes ptosis, pupil dilation, accommodation impairment, and a down-and-out eye; inability to abduct is due to CN VI palsy.",
+        "highYieldNote": "CN III palsy causes ptosis, pupil dilation, accommodation impairment, and a down-and-out eye; inability to abduct is due to CN VI palsy.",
+        "mnemonic": "III palsy is down and out; VI palsy cannot look out.",
+        "memoryAid": {
+          "coreFact": "CN III palsy causes ptosis, pupil dilation, accommodation impairment, and a down-and-out eye; inability to abduct is due to CN VI palsy.",
+          "mnemonic": "III palsy is down and out; VI palsy cannot look out.",
+          "emojiCues": [
+            "III",
+            "VI",
+            "👁️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470353/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470353/",
+        "externalFinding": "Source page displays inability to abduct as not typical."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1746-q0059",
+      "sourcePage": 1746,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1746-q0059",
+        "sourcePage": 1746,
+        "stem": "A 64 year old man presents to ED with progressive hearing loss in his left ear, together with drooping of his left lip and complaints of food collecting in his left oral vestibule. Imaging shows a tumour compressing which of the following structures:",
+        "options": [
+          "Hypoglossal canal",
+          "Foramen rotundum",
+          "Jugular foramen"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The vestibular nerve and facial nerve pass through the internal acoustic meatus, which would account for loss of hearing and weakness of facial muscles respectively. Geo Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1746-q0059",
+        "sourcePage": 1746,
+        "stem": "A 64 year old man presents to ED with progressive hearing loss in his left ear, together with drooping of his left lip and complaints of food collecting in his left oral vestibule. Imaging shows a tumour compressing which of the following structures:",
+        "options": [
+          "Hypoglossal canal",
+          "Internal acoustic meatus",
+          "Foramen ovale",
+          "Foramen rotundum",
+          "Jugular foramen"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The facial and vestibulocochlear nerves pass through the internal acoustic meatus, explaining facial weakness with hearing loss.",
+        "learningNote": "The facial and vestibulocochlear nerves pass through the internal acoustic meatus, explaining facial weakness with hearing loss.",
+        "highYieldNote": "The facial and vestibulocochlear nerves pass through the internal acoustic meatus, explaining facial weakness with hearing loss.",
+        "mnemonic": "Internal acoustic meatus carries VII and VIII.",
+        "memoryAid": {
+          "coreFact": "The facial and vestibulocochlear nerves pass through the internal acoustic meatus, explaining facial weakness with hearing loss.",
+          "mnemonic": "Internal acoustic meatus carries VII and VIII.",
+          "emojiCues": [
+            "VII",
+            "VIII",
+            "👂"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK557736/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557736/",
+        "externalFinding": "Source page displays internal acoustic meatus as correct."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1732-q0052",
+      "sourcePage": 1732,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1732-q0052",
+        "sourcePage": 1732,
+        "stem": "You are teaching a group of medical students about cranial nerve examination. A colleague asks a patient with interesting clinical signs if he would mind being examined. The image below shows the patient after he has been asked to protrude his tongue. Which of the following cranial nerves has been affected: . ( ~aae igh ve a! > Ro TERRA \"Sty me * SER ¥* gee” * jae * j Mer SF pe : : “ gis: oF ak , os ‘ 7 os Sty % by fe SD) Hi a » . ; Sy, tao ¥at “4 1 ete e tl . Pr ity 3 ; 4 5 ; ‘ : é cae kel . fi a es ~ ; : ie a 4 Hypoglossal nerve",
+        "options": [],
+        "correctOption": null,
+        "status": "needs_image",
+        "askable": false,
+        "needsImage": true,
+        "warnings": [
+          "Fewer than two answer options were detected.",
+          "No marked correct option was detected.",
+          "Explanation is missing or too short after OCR parsing.",
+          "Possible image-, figure-, table-, or ECG-dependent item."
+        ],
+        "explanation": "",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1732-q0052",
+        "sourcePage": 1732,
+        "stem": "You are teaching a group of medical students about cranial nerve examination. A colleague asks a patient with interesting clinical signs if he would mind being examined. The image below shows the patient after he has been asked to protrude his tongue. Which of the following cranial nerves has been affected:",
+        "options": [],
+        "correctOption": null,
+        "status": "needs_image",
+        "askable": false,
+        "needsImage": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft.",
+          "Restricted: complete source option list and answer key unavailable; image-dependent item."
+        ],
+        "explanation": "The rendered source page is image-dependent and does not expose the complete option list or answer-page key in the queued source record. The visible hypoglossal pattern is not sufficient to reconstruct the missing source data safely.",
+        "learningNote": "The rendered source page is image-dependent and does not expose the complete option list or answer-page key in the queued source record. The visible hypoglossal pattern is not sufficient to reconstruct the missing source data safely.",
+        "highYieldNote": "The rendered source page is image-dependent and does not expose the complete option list or answer-page key in the queued source record. The visible hypoglossal pattern is not sufficient to reconstruct the missing source data safely.",
+        "mnemonic": "Restricted until the complete source answer view is available.",
+        "memoryAid": {
+          "coreFact": "The rendered source page is image-dependent and does not expose the complete option list or answer-page key in the queued source record. The visible hypoglossal pattern is not sufficient to reconstruct the missing source data safely.",
+          "mnemonic": "Restricted until the complete source answer view is available.",
+          "emojiCues": [
+            "XII",
+            "👅",
+            "⚠️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537167/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537167/",
+        "externalFinding": "Source image is retained; record is restricted rather than reconstructed."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

@@ -1,0 +1,657 @@
+{
+  "generatedAt": "2026-08-27T04:30:52.447Z",
+  "batch": "anatomy-all-pdf-batch-64",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1773-q0080",
+      "sourcePage": 1773,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1773-q0080",
+        "sourcePage": 1773,
+        "stem": "w A 54 year old man presents to ED with severe headaches and vomiting. Imaging shows a tumour causing compression at the jugular foramen. Which of the following clinical features would you most expect to see in this patient:",
+        "options": [
+          "Inability to close the eye",
+          "Loss of sensation over the face",
+          "Loss of gag reflex",
+          "Loss of hearing"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "Both the glossopharyngeal nerve (afferent pathway of gag reflex) and the vagus nerve (efferent pathway of gag reflex), together with the spinal accessory nerve exit the skull through the jugular foramen. Hearing is primarily a function of the vestibulocochlear nerve. Sensation of the face is supplied by the trigeminal nerve. Muscles of facial expression (including those responsible for closing the eye) are innervated by the facial nerve. Tongue movements are primarily a function of the hypoglossal nerve. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1773-q0080",
+        "sourcePage": 1773,
+        "stem": "A 54 year old man presents to ED with severe headaches and vomiting. Imaging shows a tumour causing compression at the jugular foramen. Which of the following clinical features would you most expect to see in this patient:",
+        "options": [
+          "Inability to close the eye",
+          "Loss of sensation over the face",
+          "Loss of tongue movements",
+          "Loss of gag reflex",
+          "Loss of hearing"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Jugular-foramen lesions affect IX and X, which contribute to the gag reflex.",
+        "learningNote": "Jugular-foramen lesions affect IX and X, which contribute to the gag reflex.",
+        "highYieldNote": "Jugular-foramen lesions affect IX and X, which contribute to the gag reflex.",
+        "mnemonic": "IX/X at the jugular foramen affect gag.",
+        "memoryAid": {
+          "coreFact": "Jugular-foramen lesions affect IX and X, which contribute to the gag reflex.",
+          "mnemonic": "IX/X at the jugular foramen affect gag.",
+          "emojiCues": [
+            "🧠",
+            "⚡",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK549871/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK549871/",
+        "externalFinding": "Displayed key and option order directly verified on the original rendered page."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1774-q0001",
+      "sourcePage": 1774,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1774-q0001",
+        "sourcePage": 1774,
+        "stem": "Which of the following best describes the position of the temporal lobe: (x) Posterior to the parieto-occipital sulcus 4%",
+        "options": [
+          "Anterior to the central sulcus and superior to the lateral sulcus",
+          "Posterior to the central sulcus and superior to the lateral sulcus",
+          "Inferior to the lateral sulcus",
+          "Inferior to the parieto-occipital sulcus"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The temporal lobe extends from the temporal pole to the occipital lobe and lies inferior to the lateral sulcus. v Temporal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1774-q0001",
+        "sourcePage": 1774,
+        "stem": "Which of the following best describes the position of the temporal lobe:",
+        "options": [
+          "Posterior to the parieto-occipital sulcus",
+          "Anterior to the central sulcus and superior to the lateral sulcus",
+          "Posterior to the central sulcus and superior to the lateral sulcus",
+          "Inferior to the lateral sulcus",
+          "Inferior to the parieto-occipital sulcus"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The temporal lobe lies inferior to the lateral sulcus.",
+        "learningNote": "The temporal lobe lies inferior to the lateral sulcus.",
+        "highYieldNote": "The temporal lobe lies inferior to the lateral sulcus.",
+        "mnemonic": "Temporal is below the lateral sulcus.",
+        "memoryAid": {
+          "coreFact": "The temporal lobe lies inferior to the lateral sulcus.",
+          "mnemonic": "Temporal is below the lateral sulcus.",
+          "emojiCues": [
+            "🧠",
+            "⚡",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+        "externalFinding": "Displayed key and option order directly verified on the original rendered page."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1780-q0002",
+      "sourcePage": 1780,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1780-q0002",
+        "sourcePage": 1780,
+        "stem": "ww A 31 year old male presents to ED with a head injury. Rhinorrhoea will most likely result from fracture of which of the following bones:",
+        "options": [
+          "Frontal",
+          "Lacrimal",
+          "ethmoia",
+          "Palatine"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "Rhinorrhoea will most likely result from a fracture of the cribriform plate of the ethmoid bone, which can tear the arachnoid membrane and result in leakage of CSF into the nasal cavity. Vv Cerebrospinal Fluid ANATOMY / CENTRAL NERVOUS SYSTEM 01 Ranemare",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1780-q0002",
+        "sourcePage": 1780,
+        "stem": "A 31 year old male presents to ED with a head injury. Rhinorrhoea will most likely result from fracture of which of the following bones:",
+        "options": [
+          "Frontal",
+          "Lacrimal",
+          "Nasal",
+          "Ethmoid",
+          "Palatine"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Cribriform-plate fracture of the ethmoid can cause CSF rhinorrhoea.",
+        "learningNote": "Cribriform-plate fracture of the ethmoid can cause CSF rhinorrhoea.",
+        "highYieldNote": "Cribriform-plate fracture of the ethmoid can cause CSF rhinorrhoea.",
+        "mnemonic": "Ethmoid cribriform plate leaks CSF.",
+        "memoryAid": {
+          "coreFact": "Cribriform-plate fracture of the ethmoid can cause CSF rhinorrhoea.",
+          "mnemonic": "Ethmoid cribriform plate leaks CSF.",
+          "emojiCues": [
+            "🧠",
+            "⚡",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK482119/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482119/",
+        "externalFinding": "Displayed key and option order directly verified on the original rendered page."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1783-q0003",
+      "sourcePage": 1783,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1783-q0003",
+        "sourcePage": 1783,
+        "stem": "ww The primary motor cortex is located in which of the following regions:",
+        "options": [
+          "Occipital lobe (x) Parietal lobe 5% (’) Frontal lobe 43%",
+          "Temporal lobe",
+          "Brainstem"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The primary motor cortex is located in the precentral gyrus of the frontal lobe and is responsible for voluntary movements of muscles of the opposite side of the body. Vv Frontal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1783-q0003",
+        "sourcePage": 1783,
+        "stem": "The primary motor cortex is located in which of the following regions:",
+        "options": [
+          "Occipital lobe",
+          "Parietal lobe",
+          "Frontal lobe",
+          "Temporal lobe",
+          "Brainstem"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The primary motor cortex lies in the precentral gyrus of the frontal lobe.",
+        "learningNote": "The primary motor cortex lies in the precentral gyrus of the frontal lobe.",
+        "highYieldNote": "The primary motor cortex lies in the precentral gyrus of the frontal lobe.",
+        "mnemonic": "Motor starts in frontal precentral gyrus.",
+        "memoryAid": {
+          "coreFact": "The primary motor cortex lies in the precentral gyrus of the frontal lobe.",
+          "mnemonic": "Motor starts in frontal precentral gyrus.",
+          "emojiCues": [
+            "🧠",
+            "⚡",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+        "externalFinding": "Displayed key and option order directly verified on the original rendered page."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1789-q0004",
+      "sourcePage": 1789,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1789-q0004",
+        "sourcePage": 1789,
+        "stem": "ww A74 year old man presents with a three month history of worsening left shoulder and arm pain. On examination there is weakness of shoulder abduction and reduced sensation over the deltoid. You suspect cervical radiculopathy. What level of the cervical spine is most likely to be affected:",
+        "options": [
+          "C3",
+          "G7",
+          "cs"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The C5 nerve root is most likely affected. : Vv Myotomes and Reflexes ANATOMY / CENTRAL NERVOUS SYSTEM / LOWER LIMB / INNERVATION OF LOWER LIMB /",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1789-q0004",
+        "sourcePage": 1789,
+        "stem": "A 74 year old man presents with a three month history of worsening left shoulder and arm pain. On examination there is weakness of shoulder abduction and reduced sensation over the deltoid. You suspect cervical radiculopathy. What level of the cervical spine is most likely to be affected:",
+        "options": [
+          "C1",
+          "C3",
+          "C5",
+          "C7",
+          "C8"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Deltoid weakness and sensory loss over the deltoid localize to C5.",
+        "learningNote": "Deltoid weakness and sensory loss over the deltoid localize to C5.",
+        "highYieldNote": "Deltoid weakness and sensory loss over the deltoid localize to C5.",
+        "mnemonic": "C5 drives the deltoid.",
+        "memoryAid": {
+          "coreFact": "Deltoid weakness and sensory loss over the deltoid localize to C5.",
+          "mnemonic": "C5 drives the deltoid.",
+          "emojiCues": [
+            "🧠",
+            "⚡",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+        "externalFinding": "Displayed key and option order directly verified on the original rendered page."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1792-q0005",
+      "sourcePage": 1792,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1792-q0005",
+        "sourcePage": 1792,
+        "stem": "w A 23 year old man is involved in a road traffic collision and sustains a lumbar fracture. On examination you note he is unable to extend his big toe. Which of the following spinal nerve roots has most likely been affected:",
+        "options": [
+          "L3 %",
+          "s1",
+          "s2 %"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The L5 nerve root has most likely been affected. v Myotomes and Reflexes ANATOMY / CENTRAL NERVOUS SYSTEM / LOWER LIMB / INNERVATION OF LOWER LIMB / UPPER LIMB / INNERVATION OF UPPER LIMB",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1792-q0005",
+        "sourcePage": 1792,
+        "stem": "A 23 year old man is involved in a road traffic collision and sustains a lumbar fracture. On examination you note he is unable to extend his big toe. Which of the following spinal nerve roots has most likely been affected:",
+        "options": [
+          "L3",
+          "L4",
+          "L5",
+          "S1",
+          "S2"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Great-toe extension is classically associated with the L5 root.",
+        "learningNote": "Great-toe extension is classically associated with the L5 root.",
+        "highYieldNote": "Great-toe extension is classically associated with the L5 root.",
+        "mnemonic": "L5 lifts the big toe.",
+        "memoryAid": {
+          "coreFact": "Great-toe extension is classically associated with the L5 root.",
+          "mnemonic": "L5 lifts the big toe.",
+          "emojiCues": [
+            "🧠",
+            "⚡",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+        "externalFinding": "Displayed key and option order directly verified on the original rendered page."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1795-q0006",
+      "sourcePage": 1795,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1795-q0006",
+        "sourcePage": 1795,
+        "stem": "ww The two cerebral hemispheres are connected by which of the following structures:",
+        "options": [
+          "Internal capsule (Vv) Corpus callosum 45%",
+          "Aqueduct",
+          "Medulla oblongata",
+          "Substantia nigra %"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The two cerebral hemispheres are connected by a white matter structure, called the corpus callosum. : / v Cerebral Hemispheres ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1795-q0006",
+        "sourcePage": 1795,
+        "stem": "The two cerebral hemispheres are connected by which of the following structures:",
+        "options": [
+          "Internal capsule",
+          "Corpus callosum",
+          "Aqueduct",
+          "Medulla oblongata",
+          "Substantia nigra"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The corpus callosum is the major commissural white-matter connection between the cerebral hemispheres.",
+        "learningNote": "The corpus callosum is the major commissural white-matter connection between the cerebral hemispheres.",
+        "highYieldNote": "The corpus callosum is the major commissural white-matter connection between the cerebral hemispheres.",
+        "mnemonic": "Callosal fibres connect cerebral halves.",
+        "memoryAid": {
+          "coreFact": "The corpus callosum is the major commissural white-matter connection between the cerebral hemispheres.",
+          "mnemonic": "Callosal fibres connect cerebral halves.",
+          "emojiCues": [
+            "🧠",
+            "⚡",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+        "externalFinding": "Displayed key and option order directly verified on the original rendered page."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1800-q0007",
+      "sourcePage": 1800,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1800-q0007",
+        "sourcePage": 1800,
+        "stem": "ww The Wernicke's speech area is located in which of the following regions:",
+        "options": [
+          "Occipital lobe",
+          "Frontal lobe Vv) Temporal lobe 78%",
+          "Brainstem"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The Wernicke's speech area, in the temporal lobe of the dominant hemisphere, is responsible for comprehension of written and spoken language. Damage to this area results in a receptive dysphasia. : : v Temporal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1800-q0007",
+        "sourcePage": 1800,
+        "stem": "The Wernicke's speech area is located in which of the following regions:",
+        "options": [
+          "Occipital lobe",
+          "Parietal lobe",
+          "Frontal lobe",
+          "Temporal lobe",
+          "Brainstem"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Wernicke area is classically located in the temporal lobe of the dominant hemisphere.",
+        "learningNote": "Wernicke area is classically located in the temporal lobe of the dominant hemisphere.",
+        "highYieldNote": "Wernicke area is classically located in the temporal lobe of the dominant hemisphere.",
+        "mnemonic": "Wernicke hears in temporal.",
+        "memoryAid": {
+          "coreFact": "Wernicke area is classically located in the temporal lobe of the dominant hemisphere.",
+          "mnemonic": "Wernicke hears in temporal.",
+          "emojiCues": [
+            "🧠",
+            "⚡",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+        "externalFinding": "Displayed key and option order directly verified on the original rendered page."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1806-q0008",
+      "sourcePage": 1806,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1806-q0008",
+        "sourcePage": 1806,
+        "stem": "w A 55 year old woman presents to ED complaining of headaches. On examination the patient is found to have weakness of the left side of her body and her eyes are deviated towards the right hand side. The lesion is most likely to be in the: (Vv) Frontal lobe 35%",
+        "options": [
+          "Temporal lobe",
+          "Parietal lobe",
+          "Cerebellum"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Contralateral weakness of the body results from damage to the primary motor cortex, in this case the right side. Conjugate eye deviation towards the side of the lesion results from damage to the frontal eye field. v Frontal Lobe",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1806-q0008",
+        "sourcePage": 1806,
+        "stem": "A 55 year old woman presents to ED complaining of headaches. On examination the patient is found to have weakness of the left side of her body and her eyes are deviated towards the right hand side. The lesion is most likely to be in the:",
+        "options": [
+          "Frontal lobe",
+          "Occipital lobe",
+          "Temporal lobe",
+          "Parietal lobe",
+          "Cerebellum"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "A right frontal lesion can cause left-sided weakness and gaze deviation toward the lesion.",
+        "learningNote": "A right frontal lesion can cause left-sided weakness and gaze deviation toward the lesion.",
+        "highYieldNote": "A right frontal lesion can cause left-sided weakness and gaze deviation toward the lesion.",
+        "mnemonic": "Frontal fields look toward the lesion.",
+        "memoryAid": {
+          "coreFact": "A right frontal lesion can cause left-sided weakness and gaze deviation toward the lesion.",
+          "mnemonic": "Frontal fields look toward the lesion.",
+          "emojiCues": [
+            "🧠",
+            "⚡",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+        "externalFinding": "Displayed key and option order directly verified on the original rendered page."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1812-q0009",
+      "sourcePage": 1812,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1812-q0009",
+        "sourcePage": 1812,
+        "stem": "ww Which of the following is NOT a typical cerebellar sign:",
+        "options": [
+          "Dysdiadochokinesia",
+          "Nystagmus",
+          "Intention tremor",
+          "Hypertonia",
+          "Scanning/staccato speech N%"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "Hypotonia is characteristic of cerebellar dysfunction. : / v Cerebellum ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1812-q0009",
+        "sourcePage": 1812,
+        "stem": "Which of the following is NOT a typical cerebellar sign:",
+        "options": [
+          "Dysdiadochokinesia",
+          "Nystagmus",
+          "Intention tremor",
+          "Hypertonia",
+          "Scanning/staccato speech"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Cerebellar dysfunction is associated with hypotonia rather than hypertonia.",
+        "learningNote": "Cerebellar dysfunction is associated with hypotonia rather than hypertonia.",
+        "highYieldNote": "Cerebellar dysfunction is associated with hypotonia rather than hypertonia.",
+        "mnemonic": "Cerebellar tone is low.",
+        "memoryAid": {
+          "coreFact": "Cerebellar dysfunction is associated with hypotonia rather than hypertonia.",
+          "mnemonic": "Cerebellar tone is low.",
+          "emojiCues": [
+            "🧠",
+            "⚡",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK549871/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK549871/",
+        "externalFinding": "Displayed key and option order directly verified on the original rendered page."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

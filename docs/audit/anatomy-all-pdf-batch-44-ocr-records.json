@@ -1,0 +1,342 @@
+{
+  "exportedAt": "2026-08-26T04:16:22.541Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-44",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1309,
+      1310,
+      1311,
+      1312,
+      1313,
+      1314,
+      1315,
+      1316,
+      1317,
+      1321
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1309-q0021",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The uterine visceral afferent fibres usually follow sympathetic efferents to which of the following spinal cord segments:",
+      "options": [
+        "bits:",
+        "L2-L4",
+        "15-19"
+      ],
+      "correctOption": null,
+      "explanation": "The uterus receives its sympathetic supply primarily from the inferior hypogastric plexus and its parasympathetic supply from the pelvic splanchnic nerves (S2 - S4), with visceral afferent fibres usually following the sympathetic fibres to enter the spinal cord via T10 - T12 and L1 nerve fibres. Cc | ss eer] Py] Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1309,
+      "sourceQuestionNumber": 21
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1310-q0022",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Which of the following parts of the pancreas is intraperitoneal:",
+      "options": [
+        "Head 12%",
+        "Neck 2%",
+        "Body 4%",
+        "Uncinate process 4%"
+      ],
+      "correctOption": null,
+      "explanation": "The pancreas is a retroperitoneal organ (except for a small part of its tail) and consists of a head, uncinate process, neck, body and tail. The tail passes between layers of the splenorenal ligament. v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1310,
+      "sourceQuestionNumber": 22
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1311-q0023",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The abdominal aorta lies posterior to which of the following parts of the duodenum:",
+      "options": [
+        "First part 5%",
+        "Second part 56%",
+        "First and second parts 6%",
+        "Second and third parts 1% (/) Third and fourth parts 22%"
+      ],
+      "correctOption": null,
+      "explanation": "The inferior (third) part of the duodenum is the longest section, crossing the inferior vena cava, the aorta and the vertebral column at the level of vertebra L3 and lying inferior to the pancreas. The ascending (fourth) part passes upwards on, or to the left of the aorta to approximately the upper border of vertebra L2 and terminates at the duodenojejunal flexure. v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1311,
+      "sourceQuestionNumber": 23
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1312-q0024",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "wy The ureters enter the bladder and end at the level of which of the following landmarks:",
+      "options": [
+        "Pubic tubercle",
+        "Anterior superior iliac spine 14%",
+        "Inguinal ligament 4%",
+        "lliac crest 8%"
+      ],
+      "correctOption": 0,
+      "explanation": "The ureters enters obliquely through the base of the bladder at the level of the pubic tubercle. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1312,
+      "sourceQuestionNumber": 24
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1313-q0025",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The rectus sheath is formed by which of the following:",
+      "options": [
+        "the thoracolumbar fascia 1%",
+        "the aponeuroses of the external and internal oblique 8%",
+        "the aponeuroses of the external oblique, internal oblique and transversus abdominis",
+        "the transversalis fascia 5%",
+        "the tendinous intersections of the rectus abdominis 5%"
+      ],
+      "correctOption": 2,
+      "explanation": "The rectus sheath is formed by the aponeuroses of the three flat anterior abdominal wall muscles. The anterior wall of the sheath is formed by the aponeurosis of the external oblique and half of the aponeurosis of the internal oblique (which splits at the lateral margin of the rectus abdominis). The posterior wall of the sheath is formed by the other half of the aponeurosis of the internal oblique and by the aponeurosis of the transversus abdominis. 7 v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1313,
+      "sourceQuestionNumber": 25
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1314-q0026",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The renal arteries arise from the abdominal aorta just posterior to which of the following structures:",
+      "options": [
+        "Stomach",
+        "Spleen",
+        "Duodenum"
+      ],
+      "correctOption": null,
+      "explanation": "The renal artery arises from the abdominal aorta just inferior to the origin of the superior mesenteric artery just between vertebrae L1 and L2 and posterior to the pancreas. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1314,
+      "sourceQuestionNumber": 26
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1315-q0027",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "wy Which of the following best describes the location of the omental bursa:",
+      "options": [
+        "Inferior to the transverse mesocolon 6%",
+        "To the right of the oblique attachment of the mesentery 54%",
+        "Posterior to the stomach and liver",
+        "Posterior to the pancreas",
+        "Anterior to the stomach and liver 8%"
+      ],
+      "correctOption": 2,
+      "explanation": "The omental bursa (lesser sac) is a smaller subdivision of the peritoneal cavity posterior to the stomach and liver and anterior to the pancreas, and is continuous with the greater sac through the epiploic foramen. ° “ v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1315,
+      "sourceQuestionNumber": 27
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1316-q0028",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The infraduodenal region of the common bile duct:",
+      "options": [
+        "runs in a groove posterior to the head of the pancreas.",
+        "lies posterior to the first part of the duodenum. 60% (x) lies posterior to the inferior vena cava. 4%",
+        "lies anterior to the left renal vein. 3%",
+        "empties into the third part of the duodenum. 4%"
+      ],
+      "correctOption": 0,
+      "explanation": "The infraduodenal region is the lower one-third of the common bile duct which lies in a groove on the posterior surface of the head of the pancreas, to the left of the second part of the duodenum and anterior to the right renal vein and inferior vena cava. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1316,
+      "sourceQuestionNumber": 28
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1317-q0029",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Which of the following structures is NOT a posterior relation of the transverse colon:",
+      "options": [
+        "Second part of duodenum 7%",
+        "Head of pancreas 7% (x) pper end of mesentery 8%",
+        "Duodenojejunal flexure 57% (/) spleen 21%"
+      ],
+      "correctOption": null,
+      "explanation": "The transverse colon is related posteriorly to the second part of duodenum, the head of pancreas, the upper end of the mesentery, the duodenojejunal flexure and coils of jejunum and ileum. The spleen lies superior to the left colic flexure. ; , Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1317,
+      "sourceQuestionNumber": 29
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1321-q0030",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The abdominal aorta terminates as which of the following:",
+      "options": [
+        "Internal and external iliac arteries",
+        "External iliac and femoral artery 2%",
+        "Right and left common iliac arteries",
+        "Superior and inferior epigastric arteries 0%",
+        "Internal iliac and femoral artery 2%"
+      ],
+      "correctOption": 2,
+      "explanation": "The main terminal branches of the abdominal aorta are the two common iliac arteries. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1321,
+      "sourceQuestionNumber": 30
+    }
+  ]
+}

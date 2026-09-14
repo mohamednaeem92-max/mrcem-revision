@@ -1,0 +1,348 @@
+{
+  "generatedAt": "2026-08-22T16:00:35.400Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0412-q0105",
+      "sourcePage": 412,
+      "before": {
+        "stem": "The iliohypogastric nerve supplies skin over which of the following regions:",
+        "options": [
+          "Posterolateral gluteal region",
+          "Medial thigh 12%",
+          "Lateral thigh 4%",
+          "Posteromedial gluteal region 17%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The iliohypogastric nerve supplies skin over which region?",
+        "options": [
+          "Posterolateral gluteal region",
+          "Medial thigh",
+          "Lateral thigh",
+          "Posteromedial gluteal region",
+          "Upper anterior thigh"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557605/",
+        "externalFinding": "Iliohypogastric sensory innervation includes the lateral gluteal and suprapubic regions."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0417-q0106",
+      "sourcePage": 417,
+      "before": {
+        "stem": "wy? Which of the following nerves transmits the parasympathetic supply to the stomach: (x) Greater thoracic splanchnic nerves 6%",
+        "options": [
+          "Lesser thoracic splanchnic nerves 8%",
+          "Lumbar splanchnic nerves 5%",
+          "Pelvic splanchnic nerves 2%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "Which nerves transmit the parasympathetic supply to the stomach?",
+        "options": [
+          "Greater thoracic splanchnic nerves",
+          "Lesser thoracic splanchnic nerves",
+          "Lumbar splanchnic nerves",
+          "Pelvic splanchnic nerves",
+          "Vagus nerves"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK560504/",
+        "externalFinding": "Foregut parasympathetic innervation is provided by the vagus nerve."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0422-q0107",
+      "sourcePage": 422,
+      "before": {
+        "stem": "A 29 year patient presents to ED complaining of a painless lump in his scrotum. Imaging shows a tumour affecting the scrotum but sparing the testis. Where would the lymph from this area of pathology drain to initially:",
+        "options": [
+          "Deep inguinal nodes Internal iliac nodes 1%",
+          "Lumbar nodes Qrmnenncmeme"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "A 29-year-old man has a painless scrotal lump. Imaging shows a tumour affecting the scrotum but sparing the testis. Where does lymph from this pathology initially drain?",
+        "options": [
+          "Deep inguinal nodes",
+          "Superficial inguinal nodes",
+          "Internal iliac nodes",
+          "Lumbar nodes",
+          "Inferior mesenteric lymph nodes"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557720/",
+        "externalFinding": "Superficial inguinal nodes receive lymph from the scrotum; lumbar para-aortic nodes drain the testes."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0425-q0108",
+      "sourcePage": 425,
+      "before": {
+        "stem": "The roof of the inguinal canal is formed primarily by which of the following structures:",
+        "options": [
+          "Transversus abdominis and internal oblique muscles",
+          "External oblique muscle",
+          "External oblique aponeurosis",
+          "Transversalis fascia",
+          "Rectus abdominis muscle"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The roof of the inguinal canal is formed primarily by which structures?",
+        "options": [
+          "Transversus abdominis and internal oblique muscles",
+          "External oblique muscle",
+          "External oblique aponeurosis",
+          "Transversalis fascia",
+          "Rectus abdominis muscle"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470204/",
+        "externalFinding": "The inguinal-canal roof is made by combined internal-oblique and transversus-abdominis fibers."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0426-q0109",
+      "sourcePage": 426,
+      "before": {
+        "stem": "ww The abdominal aorta begins at which vertebral level:",
+        "options": [
+          "™ 4% (v 112 70% E a]",
+          "L2 2%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "At which vertebral level does the abdominal aorta begin?",
+        "options": [
+          "T10",
+          "T11",
+          "T12",
+          "L1",
+          "L2"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532972/",
+        "externalFinding": "The aorta passes the aortic hiatus at T12."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0433-q0112",
+      "sourcePage": 433,
+      "before": {
+        "stem": "Which of the following structures does NOT pass through the inguinal canal:",
+        "options": [
+          "Genital branch of genitofemoral nerve 4%",
+          "llioinguinal nerve 5%",
+          "Spermatic cord 2%",
+          "Round ligament 6%",
+          "Inferior epigastric artery"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "Which structure does not pass through the inguinal canal?",
+        "options": [
+          "Genital branch of genitofemoral nerve",
+          "Ilioinguinal nerve",
+          "Spermatic cord",
+          "Round ligament",
+          "Inferior epigastric artery"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470204/",
+        "externalFinding": "The deep inguinal ring is lateral to epigastric vessels, whereas the canal transmits cord or round-ligament structures and named nerves."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0437-q0113",
+      "sourcePage": 437,
+      "before": {
+        "stem": "ww The superficial inguinal ring is an ‘opening’ in which of the following structures:",
+        "options": [
+          "External oblique aponeurosis",
+          "Internal oblique aponeurosis 5%",
+          "Transversus abdominis aponeurosis 5%",
+          "Rectus abdominis aponeurosis 2%",
+          "Transversalis fascia 1%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The superficial inguinal ring is an opening in which structure?",
+        "options": [
+          "External oblique aponeurosis",
+          "Internal oblique aponeurosis",
+          "Transversus abdominis aponeurosis",
+          "Rectus abdominis aponeurosis",
+          "Transversalis fascia"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470204/",
+        "externalFinding": "The superficial ring is triangular and formed by fibers of external oblique."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0438-q0114",
+      "sourcePage": 438,
+      "before": {
+        "stem": "ww The sacrum articulates with which of the following structures:",
+        "options": [
+          "Pubis of the pelvic bone 4%",
+          "Ischium of the pelvic bone 19% () ium of the pelvic bone 69%",
+          "Ischial tuberosity 4%",
+          "Pubic ramus 4%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "The sacrum articulates with which structure?",
+        "options": [
+          "Pubis of the pelvic bone",
+          "Ischium of the pelvic bone",
+          "Ilium of the pelvic bone",
+          "Ischial tuberosity",
+          "Pubic ramus"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK507801/",
+        "externalFinding": "The sacroiliac joint articulates surfaces of the sacrum and ilium."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0429-q0110",
+      "sourcePage": 429,
+      "before": {
+        "stem": "The rectus sheath encloses all of the following structures except the:",
+        "options": [
+          "Lower thoracic intercostal nerves",
+          "Superior epigastric artery",
+          "Inferior epigastric artery"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The rectus sheath encloses all of the following structures except which?",
+        "options": [
+          "Transversus abdominis muscle",
+          "Pyramidalis muscle",
+          "Lower thoracic intercostal nerves",
+          "Superior epigastric artery",
+          "Inferior epigastric artery"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected.",
+          "Source page reviewed, but the categorical exclusion of transversus abdominis from the rectus sheath was not precisely corroborated by authoritative external evidence. This record remains excluded from answer learning."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537153/",
+        "externalFinding": "A reviewed reference notes transversus abdominis muscle within the rectus sheath superiorly near the costal margin."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0432-q0111",
+      "sourcePage": 432,
+      "before": {
+        "stem": "Ad The iliohypogastric nerve is formed from the anterior rami of:",
+        "options": [
+          "11-12 18% c a",
+          "ets i"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The iliohypogastric nerve is formed from the anterior rami of which roots?",
+        "options": [
+          "L1",
+          "L1-L2",
+          "L2",
+          "L2-L3",
+          "L4"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected.",
+          "Source page reviewed, but the source-marked isolated L1 origin of the iliohypogastric nerve was not precisely corroborated by authoritative external evidence. This record remains excluded from answer learning."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557605/",
+        "externalFinding": "The iliohypogastric nerve is described as arising from T12-L1."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

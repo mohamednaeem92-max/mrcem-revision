@@ -1,0 +1,517 @@
+{
+  "generatedAt": "2026-08-23T17:34:03.030Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1067-q0097",
+      "sourcePage": 1067,
+      "before": {
+        "stem": "ww The inferior vena cava is formed from the union of the two common iliac veins at which of the following vertebral levels:",
+        "options": [
+          "u 48%",
+          "L3 6%",
+          "L4 25%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The inferior vena cava is formed from the union of the two common iliac veins at which of the following vertebral levels:",
+        "options": [
+          "L1",
+          "L2",
+          "L3",
+          "L4",
+          "L5"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The inferior vena cava begins where the common iliac veins unite at L5.",
+          "mnemonic": "Iliac veins meet at L5.",
+          "emojiCues": [
+            "🩸",
+            "5️⃣"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Inferior Vena Cava",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK482353/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482353/",
+        "externalFinding": "NCBI describes the inferior vena cava as the union of the common iliac veins at L5."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1076-q0099",
+      "sourcePage": 1076,
+      "before": {
+        "stem": "Ld Within the pelvic cavity in women, the ureter is crossed anteriorly by which of the following structures:",
+        "options": [
+          "Ovarian artery 8%",
+          "Internal iliac artery 7%",
+          "Round ligament 16%",
+          "Uterine artery",
+          "Inferior hypogastric artery 2%"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "Within the pelvic cavity in women, the ureter is crossed anteriorly by which of the following structures:",
+        "options": [
+          "Ovarian artery",
+          "Internal iliac artery",
+          "Round ligament",
+          "Uterine artery",
+          "Inferior hypogastric artery"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The uterine artery crosses anterior to the distal ureter in the female pelvis.",
+          "mnemonic": "Uterine artery over ureter.",
+          "emojiCues": [
+            "🌉",
+            "💧"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Uterine Arteries",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK482267/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482267/",
+        "externalFinding": "NCBI states that the uterine artery passes anterior to the distal ureter."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1079-q0100",
+      "sourcePage": 1079,
+      "before": {
+        "stem": "The ovaries are supplied by the ovarian arteries, branches of which of the following:",
+        "options": [
+          "Abdominal aorta",
+          "Internal iliac artery 21% (x) uperior mesenteric artery 3%",
+          "Coeliac trunk 2%",
+          "Inferior mesenteric artery"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The ovaries are supplied by the ovarian arteries, branches of which of the following:",
+        "options": [
+          "Abdominal aorta",
+          "Internal iliac artery",
+          "Superior mesenteric artery",
+          "Coeliac trunk",
+          "Inferior mesenteric artery"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "Ovarian arteries are paired direct branches of the abdominal aorta, usually near L2.",
+          "mnemonic": "Ovarian arteries come straight from the aorta.",
+          "emojiCues": [
+            "🩸",
+            "2️⃣"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Ovary",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK545187/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK545187/",
+        "externalFinding": "NCBI identifies the ovarian artery as a paired direct branch of the abdominal aorta."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1082-q0101",
+      "sourcePage": 1082,
+      "before": {
+        "stem": "Ad A55 year old woman presents to ED complaining of severe colicky loin to groin pain. Imaging shows renal calculi. At which of the following locations is the calculus likely to lodge: (x) Where the ureter is crossed by the uterine artery 13%",
+        "options": [
+          "Where the ureter is crossed by the vas deferens 5%",
+          "Where the ureter crosses the common iliac vessels",
+          "At the level the inferior mesenteric artery arises from the abdominal aorta 4%",
+          "Approximately 5 cm superior to the pelvic brim 14%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "A 55 year old woman presents to ED complaining of severe colicky loin to groin pain. Imaging shows renal calculi. At which of the following locations is the calculus likely to lodge:",
+        "options": [
+          "Where the ureter is crossed by the uterine artery",
+          "Where the ureter is crossed by the vas deferens",
+          "Where the ureter crosses the common iliac vessels",
+          "At the level the inferior mesenteric artery arises from the abdominal aorta",
+          "Approximately 5 cm superior to the pelvic brim"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The pelvic brim where the ureter crosses the iliac vessels is a common ureteric-stone impaction site.",
+          "mnemonic": "UPJ, pelvic brim, UVJ: three stone stops.",
+          "emojiCues": [
+            "🪨",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Ureterolithiasis",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK560674/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK560674/",
+        "externalFinding": "NCBI identifies the pelvic brim, along with UPJ and UVJ, as a common ureteric-stone impaction site."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1083-q0102",
+      "sourcePage": 1083,
+      "before": {
+        "stem": "ww A 49 year old man presents to ED with a few months history of abdominal pain, weight loss and jaundice. Imaging shows a tumour in the uncinate process of the pancreas. Which of the following structures is most likely compressed by this tumour:",
+        "options": [
+          "Cystic duct 19%",
+          "Superior mesenteric artery",
+          "Portal vein 16%",
+          "Splenic artery 6%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "A 49 year old man presents to ED with a few months history of abdominal pain, weight loss and jaundice. Imaging shows a tumour in the uncinate process of the pancreas. Which of the following structures is most likely compressed by this tumour:",
+        "options": [
+          "Cystic duct",
+          "Main pancreatic duct",
+          "Superior mesenteric artery",
+          "Portal vein",
+          "Splenic artery"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The pancreatic uncinate process lies posterior to the superior mesenteric artery and vessels.",
+          "mnemonic": "Uncinate sits behind the SMA.",
+          "emojiCues": [
+            "🌀",
+            "🩸"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Superior Mesenteric Artery",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK519560/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK519560/",
+        "externalFinding": "NCBI places the uncinate process posterior to the superior mesenteric artery."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1088-q0103",
+      "sourcePage": 1088,
+      "before": {
+        "stem": "ww Posteriorly the spleen lies in the region of which of the following:",
+        "options": [
+          "Ribs 7 and 8 2%",
+          "Ribs 8 - 10 5%",
+          "Ribs 9 - 11",
+          "Ribs 10 - 12 56%",
+          "Below the costal margin 2%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "Posteriorly the spleen lies in the region of which of the following:",
+        "options": [
+          "Ribs 7 and 8",
+          "Ribs 8 - 10",
+          "Ribs 9 - 11",
+          "Ribs 10 - 12",
+          "Below the costal margin"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The spleen typically spans the ninth through eleventh ribs in the left hypochondrium.",
+          "mnemonic": "Spleen spans nine through eleven.",
+          "emojiCues": [
+            "🫀",
+            "9️⃣",
+            "1️⃣1️⃣"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Spleen",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK482235/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482235/",
+        "externalFinding": "NCBI describes the spleen as typically spanning ribs 9 through 11."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1092-q0104",
+      "sourcePage": 1092,
+      "before": {
+        "stem": "A 65 year old man presents to ED complaining of abdominal pain, jaundice and weight loss. Imaging shows a tumour of the head of the pancreas. Which of the following structures is most likely compressed by this tumour:",
+        "options": [
+          "Common hepatic duct",
+          "Left hepatic duct 3%",
+          "Cystic duct 6%",
+          "Accessory pancreatic duct 6%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "A 65 year old man presents to ED complaining of abdominal pain, jaundice and weight loss. Imaging shows a tumour of the head of the pancreas. Which of the following structures is most likely compressed by this tumour:",
+        "options": [
+          "Common hepatic duct",
+          "Left hepatic duct",
+          "Cystic duct",
+          "Accessory pancreatic duct",
+          "Common bile duct"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "Pancreatic-head tumours commonly obstruct the distal common bile duct and cause obstructive jaundice.",
+          "mnemonic": "Pancreatic head blocks the common bile duct.",
+          "emojiCues": [
+            "🟡",
+            "🚧"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Pancreatic Cancer",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK518996/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK518996/",
+        "externalFinding": "NCBI identifies common-bile-duct obstruction from pancreatic-head tumour as a usual cause of painless jaundice."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1095-q0105",
+      "sourcePage": 1095,
+      "before": {
+        "stem": "The iliohypogastric nerve supplies skin over which of the following regions:",
+        "options": [
+          "Posterolateral gluteal region",
+          "Medial thigh 12%",
+          "Lateral thigh 4%",
+          "Posteromedial gluteal region 17%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The iliohypogastric nerve supplies skin over which of the following regions:",
+        "options": [
+          "Posterolateral gluteal region",
+          "Medial thigh",
+          "Lateral thigh",
+          "Posteromedial gluteal region",
+          "Upper anterior thigh"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The iliohypogastric nerve supplies posterolateral gluteal skin through its lateral cutaneous branch.",
+          "mnemonic": "Iliohypogastric reaches the posterolateral gluteal skin.",
+          "emojiCues": [
+            "📍",
+            "🍑"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Lumbar Plexus",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK545137/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK545137/",
+        "externalFinding": "NCBI identifies lateral gluteal sensory input from iliohypogastric nerve; peer-reviewed anatomy specifies posterior gluteal skin."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1100-q0106",
+      "sourcePage": 1100,
+      "before": {
+        "stem": "wy? Which of the following nerves transmits the parasympathetic supply to the stomach: (x) Greater thoracic splanchnic nerves 6%",
+        "options": [
+          "Lesser thoracic splanchnic nerves 8%",
+          "Lumbar splanchnic nerves 5%",
+          "Pelvic splanchnic nerves 2%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "Which of the following nerves transmits the parasympathetic supply to the stomach:",
+        "options": [
+          "Greater thoracic splanchnic nerves",
+          "Lesser thoracic splanchnic nerves",
+          "Lumbar splanchnic nerves",
+          "Pelvic splanchnic nerves",
+          "Vagus nerves"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The vagus nerves provide parasympathetic innervation to the stomach through anterior and posterior vagal fibres.",
+          "mnemonic": "Vagus gives the stomach its parasympathetic supply.",
+          "emojiCues": [
+            "🧠",
+            "🍽️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Stomach",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK482334/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482334/",
+        "externalFinding": "NCBI identifies anterior and posterior vagal fibres as the stomach’s parasympathetic supply."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1071-q0098",
+      "sourcePage": 1071,
+      "before": {
+        "stem": "A patient with known inflammatory bowel disease presents to ED complaining of severe abdominal pain and diarrhoea. Imaging shows a flare up primarily affecting the rectum. Which of the following nerves is most likely responsible for transmission of pain from the rectum:",
+        "options": [
+          "Lumbar splanchnic nerves",
+          "Sacral splanchnic nerves",
+          "Vagus nerves Pudendal nerves 59%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "A patient with known inflammatory bowel disease presents to ED complaining of severe abdominal pain and diarrhoea. Imaging shows a flare up primarily affecting the rectum. Which of the following nerves is most likely responsible for transmission of pain from the rectum:",
+        "options": [
+          "Pelvic splanchnic nerves",
+          "Lumbar splanchnic nerves",
+          "Sacral splanchnic nerves",
+          "Vagus nerves",
+          "Pudendal nerves"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but the generic rectal-pain stem does not localize the visceral-afferent pathway sufficiently to make the displayed pelvic-splanchnic key unique; no correct option is inferred."
+        ],
+        "memoryAid": null
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK560504/",
+        "externalFinding": "Authoritative sources describe rectal visceral afferents through more than one splanchnic pathway depending on rectal region and context."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

@@ -1,0 +1,389 @@
+{
+  "generatedAt": "2026-08-22T18:00:39.989Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0624-q0019",
+      "sourcePage": 624,
+      "before": {
+        "stem": "ww The uterus receives its blood supply primarily from which of the following blood vessels:",
+        "options": [
+          "Uterine branches of the ovarian artery 6%",
+          "Uterine artery from the internal iliac artery",
+          "Uterine branches from the internal pudendal artery 53%",
+          "Uterine branches from the umbilical artery 1%",
+          "Uterine branches from the median sacral artery"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The uterus receives its primary blood supply from which vessel?",
+        "options": [
+          "Uterine branches of the ovarian artery",
+          "Uterine artery from the internal iliac artery",
+          "Uterine branches from the internal pudendal artery",
+          "Uterine branches from the umbilical artery",
+          "Uterine branches from the median sacral artery"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482267/",
+        "externalFinding": "NCBI identifies uterine arteries as the main uterine blood vessels and branches of the internal iliac arteries."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0625-q0020",
+      "sourcePage": 625,
+      "before": {
+        "stem": "ww The pancreas occupies which of the following abdominal regions:",
+        "options": [
+          "Left hypochondrium and left flank",
+          "Left hypochondrium 2%",
+          "Right hypochondrium and epigastrium 56%",
+          "Left hypochondrium and epigastrium",
+          "Epigastrium and umbilicus 4%"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Which abdominal regions does the pancreas occupy?",
+        "options": [
+          "Left hypochondrium and left flank",
+          "Left hypochondrium",
+          "Right hypochondrium and epigastrium",
+          "Left hypochondrium and epigastrium",
+          "Epigastrium and umbilicus"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK553104/",
+        "externalFinding": "NCBI lists pancreas in the epigastrium and left hypochondrium."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0626-q0021",
+      "sourcePage": 626,
+      "before": {
+        "stem": "The uterine visceral afferent fibres usually follow sympathetic efferents to which of the following spinal cord segments:",
+        "options": [
+          "bits:",
+          "L2-L4",
+          "15-19"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "Uterine visceral afferent fibres usually follow sympathetic efferents to which spinal cord segments?",
+        "options": [
+          "T10–L1",
+          "T9–T12",
+          "L1–L3",
+          "L2–L4",
+          "T5–T9"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4119661/",
+        "externalFinding": "A peer-reviewed review describes T10–L1 uterine visceral pain fibres and also reports hypogastric uterine axons terminating in T10–L2."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0627-q0022",
+      "sourcePage": 627,
+      "before": {
+        "stem": "Which of the following parts of the pancreas is intraperitoneal:",
+        "options": [
+          "Head 12%",
+          "Neck 2%",
+          "Body 4%",
+          "Uncinate process 4%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "Which part of the pancreas is intraperitoneal?",
+        "options": [
+          "Head",
+          "Neck",
+          "Body",
+          "Uncinate process",
+          "Tail"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK553104/",
+        "externalFinding": "NCBI lists the pancreatic tail in the true abdominal cavity while the pancreatic head and body are retroperitoneal."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0630-q0025",
+      "sourcePage": 630,
+      "before": {
+        "stem": "ww The rectus sheath is formed by which of the following:",
+        "options": [
+          "the thoracolumbar fascia 1%",
+          "the aponeuroses of the external and internal oblique 8%",
+          "the aponeuroses of the external oblique, internal oblique and transversus abdominis",
+          "the transversalis fascia 5%",
+          "the tendinous intersections of the rectus abdominis 5%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The rectus sheath is formed by which structures?",
+        "options": [
+          "Thoracolumbar fascia",
+          "Aponeuroses of external and internal oblique",
+          "Aponeuroses of external oblique, internal oblique, and transversus abdominis",
+          "Transversalis fascia",
+          "Tendinous intersections of rectus abdominis"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537153/",
+        "externalFinding": "NCBI states that external oblique, internal oblique, and transversus abdominis fascial coverings comprise rectus sheath."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0632-q0027",
+      "sourcePage": 632,
+      "before": {
+        "stem": "wy Which of the following best describes the location of the omental bursa:",
+        "options": [
+          "Inferior to the transverse mesocolon 6%",
+          "To the right of the oblique attachment of the mesentery 54%",
+          "Posterior to the stomach and liver",
+          "Posterior to the pancreas",
+          "Anterior to the stomach and liver 8%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Which statement best describes the location of the omental bursa?",
+        "options": [
+          "Inferior to the transverse mesocolon",
+          "To the right of the oblique attachment of the mesentery",
+          "Posterior to the stomach and liver",
+          "Posterior to the pancreas",
+          "Anterior to the stomach and liver"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482186/",
+        "externalFinding": "NCBI describes the omental bursa as posterior to the stomach and liver and anterior to the pancreas."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0633-q0028",
+      "sourcePage": 633,
+      "before": {
+        "stem": "ww The infraduodenal region of the common bile duct:",
+        "options": [
+          "runs in a groove posterior to the head of the pancreas.",
+          "lies posterior to the first part of the duodenum. 60% (x) lies posterior to the inferior vena cava. 4%",
+          "lies anterior to the left renal vein. 3%",
+          "empties into the third part of the duodenum. 4%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Which statement about the infraduodenal region of the common bile duct is correct?",
+        "options": [
+          "It runs in a groove posterior to the head of the pancreas.",
+          "It lies posterior to the first part of the duodenum.",
+          "It lies posterior to the inferior vena cava.",
+          "It lies anterior to the left renal vein.",
+          "It empties into the third part of the duodenum."
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532912/",
+        "externalFinding": "NCBI states that the bile duct lies in a groove on the posterosuperior pancreatic head or is embedded within it."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0628-q0023",
+      "sourcePage": 628,
+      "before": {
+        "stem": "The abdominal aorta lies posterior to which of the following parts of the duodenum:",
+        "options": [
+          "First part 5%",
+          "Second part 56%",
+          "First and second parts 6%",
+          "Second and third parts 1% (/) Third and fourth parts 22%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The abdominal aorta lies posterior to which parts of the duodenum?",
+        "options": [
+          "First part",
+          "Second part",
+          "First and second parts",
+          "Second and third parts",
+          "Third and fourth parts"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "Source page reviewed, but external evidence does not uniquely corroborate the source key's combined third-and-fourth duodenal relation. This record remains excluded from answer learning."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482390/",
+        "externalFinding": "NCBI states that the third duodenal segment courses anterior to the aorta and IVC but does not establish the combined third-and-fourth statement."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0629-q0024",
+      "sourcePage": 629,
+      "before": {
+        "stem": "wy The ureters enter the bladder and end at the level of which of the following landmarks:",
+        "options": [
+          "Pubic tubercle",
+          "Anterior superior iliac spine 14%",
+          "Inguinal ligament 4%",
+          "lliac crest 8%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The ureters enter the bladder and end at the level of which landmark?",
+        "options": [
+          "Pubic symphysis",
+          "Pubic tubercle",
+          "Anterior superior iliac spine",
+          "Inguinal ligament",
+          "Iliac crest"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "Source page reviewed, but the exact pubic-tubercle landmark for ureteric entry is not externally corroborated. This record remains excluded from answer learning."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532980/",
+        "externalFinding": "NCBI confirms ureteric entry at the ureterovesical junction without supporting the exact pubic-tubercle surface landmark."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0631-q0026",
+      "sourcePage": 631,
+      "before": {
+        "stem": "ww The renal arteries arise from the abdominal aorta just posterior to which of the following structures:",
+        "options": [
+          "Stomach",
+          "Spleen",
+          "Duodenum"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The renal arteries arise from the abdominal aorta just posterior to which structure?",
+        "options": [
+          "Stomach",
+          "Spleen",
+          "Pancreas",
+          "Duodenum",
+          "Transverse colon"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "Source page reviewed, but external evidence does not precisely corroborate the generic posterior-to-pancreas formulation. This record remains excluded from answer learning."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532972/",
+        "externalFinding": "NCBI confirms renal arteries arise from the aorta but does not state the source's exact generic posterior-to-pancreas relation."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

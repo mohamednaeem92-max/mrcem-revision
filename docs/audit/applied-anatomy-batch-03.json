@@ -1,0 +1,308 @@
+{
+  "generatedAt": "2026-08-22T09:16:14.363Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0093-q0022",
+      "sourcePage": 93,
+      "before": {
+        "stem": "wy Which of the following is the functional unit of the liver:",
+        "options": [
+          "Hepatocyte 22%",
+          "Lobule",
+          "Portal triad 55%",
+          "Lobe 0%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "Which of the following is the functional unit of the liver?",
+        "options": [
+          "Hepatocyte",
+          "Lobule",
+          "Portal triad",
+          "Lobe",
+          "Acinus"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK500014/",
+        "externalFinding": "Hepatocytes are arranged into lobules, the functional units of the liver."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0099-q0023",
+      "sourcePage": 99,
+      "before": {
+        "stem": "A70 year old undergoes radical prostatectomy for prostate cancer. Postoperatively he complains of urinary incontinence due to paralysis of the external urethral sphincter. Which of the following nerves was most likely injured during surgery:",
+        "options": [
+          "Genitofemoral nerve",
+          "Coccygeal nerve Cie",
+          "lliohypogastric nerve"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "A 70-year-old man undergoes radical prostatectomy for prostate cancer. Postoperatively, he has urinary incontinence due to paralysis of the external urethral sphincter. Which nerve was most likely injured?",
+        "options": [
+          "Genitofemoral nerve",
+          "Pudendal nerve",
+          "Coccygeal nerve",
+          "Ilioinguinal nerve",
+          "Iliohypogastric nerve"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK554736/",
+        "externalFinding": "The deep perineal branch innervates the external urethral sphincter."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0104-q0024",
+      "sourcePage": 104,
+      "before": {
+        "stem": "w The abdominal aorta bifurcates into its terminal branches at which of the following vertebral levels:",
+        "options": [
+          "112 1%",
+          "(Les 8%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "The abdominal aorta bifurcates into its terminal branches at which vertebral level?",
+        "options": [
+          "T12",
+          "L1",
+          "L2",
+          "L3",
+          "L4"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532972/",
+        "externalFinding": "The abdominal aorta bifurcates at L4."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0108-q0025",
+      "sourcePage": 108,
+      "before": {
+        "stem": "A 49 year old female patient undergoes surgery for uterine cancer. Whilst attempting to ligate the uterine artery, the surgeon accidentally ligates the structure that the uterine artery crosses anteriorly as it passes from the internal iliac artery to the uterus. Which of the following structures has most likely been injured:",
+        "options": [
+          "Ovarian artery",
+          "Ovarian ligament",
+          "Fallopian tube",
+          "Round ligament of uterus"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "A 49-year-old woman undergoes surgery for uterine cancer. During uterine-artery ligation, the surgeon injures the structure that the artery crosses anteriorly. Which structure was injured?",
+        "options": [
+          "Ovarian artery",
+          "Ovarian ligament",
+          "Ureter",
+          "Uterine tube",
+          "Round ligament of uterus"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557575/",
+        "externalFinding": "The uterine artery crosses the ureter 1 cm lateral to the internal os."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0112-q0026",
+      "sourcePage": 112,
+      "before": {
+        "stem": "Sensation to the skin over the penis is primarily supplied by which of the following nerves:",
+        "options": [
+          "Coccygeal nerve",
+          "llioinguinal nerve",
+          "lliohypogastric nerve"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "Sensation from the skin of the penile shaft and glans is primarily supplied by which nerve?",
+        "options": [
+          "Genitofemoral nerve",
+          "Pudendal nerve",
+          "Coccygeal nerve",
+          "Ilioinguinal nerve",
+          "Iliohypogastric nerve"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK554736/",
+        "externalFinding": "The dorsal nerve is a solely cutaneous pudendal branch supplying shaft and glans."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0119-q0029",
+      "sourcePage": 119,
+      "before": {
+        "stem": "ww The rectus sheath is formed by which of the following:",
+        "options": [
+          "the thoracolumbar fascia 1%",
+          "the aponeuroses of the external and internal oblique 8%",
+          "the aponeuroses of the external oblique, internal oblique and transversus abdominis",
+          "the transversalis fascia 5%",
+          "the tendinous intersections of the rectus abdominis 5%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The rectus sheath is formed by which structures?",
+        "options": [
+          "Thoracolumbar fascia",
+          "Aponeuroses of external and internal oblique only",
+          "Aponeuroses of external oblique, internal oblique, and transversus abdominis",
+          "Transversalis fascia",
+          "Tendinous intersections of rectus abdominis"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537153/",
+        "externalFinding": "The three lateral abdominal-wall fascial coverings comprise the rectus sheath."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0122-q0030",
+      "sourcePage": 122,
+      "before": {
+        "stem": "A75 year old man presents to ED in acute urinary retention. On examination you note the prostate feels hard and craggy. You suspect prostate cancer. Which structure is most likely affected: (x) Anterior lobe of prostate 2%",
+        "options": [
+          "Fibromuscular zone of prostate",
+          "Lateral lobe of prostate",
+          "Transitional zone of prostate"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "A 75-year-old man presents with acute urinary retention. On examination, his prostate feels hard and irregular; prostate cancer is suspected. Which structure is most likely affected?",
+        "options": [
+          "Anterior lobe of prostate",
+          "Fibromuscular zone of prostate",
+          "Lateral lobe of prostate",
+          "Posterior lobe of prostate",
+          "Transitional zone of prostate"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK540987/",
+        "externalFinding": "Most carcinomas develop in the peripheral zone; BPH tends to appear in the transitional zone."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0134-q0033",
+      "sourcePage": 134,
+      "before": {
+        "stem": "ww The gallbladder occupies which of the following regions of the abdomen:",
+        "options": [
+          "Left hypochondrium 1%",
+          "Right hypochondrium",
+          "Right hypochondrium and right flank 4%",
+          "Right hypochondrium and epigastric region 17%",
+          "Epigastric region and umbilicus 1%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The gallbladder occupies which abdominal region?",
+        "options": [
+          "Left hypochondrium",
+          "Right hypochondrium",
+          "Right hypochondrium and right flank",
+          "Right hypochondrium and epigastric region",
+          "Epigastric and umbilical regions"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK553104/",
+        "externalFinding": "The gallbladder is located in the right hypochondrium."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0126-q0031",
+      "sourcePage": 126,
+      "before": {
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected.",
+          "Source page reviewed, but mechanism-specific handlebar trauma evidence does not support a universal spleen answer. Remains unresolved and excluded from answer learning."
+        ]
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0130-q0032",
+      "sourcePage": 130,
+      "before": {
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected.",
+          "Source page reviewed, but authoritative anatomy places the deep inguinal ring above the midpoint of the inguinal ligament rather than the source-marked mid-inguinal point. Remains unresolved and excluded from answer learning."
+        ]
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

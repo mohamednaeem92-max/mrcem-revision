@@ -1,0 +1,661 @@
+{
+  "generatedAt": "2026-08-27T03:30:44.302Z",
+  "batch": "anatomy-all-pdf-batch-52",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1557-q0037",
+      "sourcePage": 1557,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1557-q0037",
+        "sourcePage": 1557,
+        "stem": "ww A71 year old man walks into ED following a fall. He is complaining of neck pain and weakness affecting his upper limbs only. Which of the following spinal cord lesions is most likely:",
+        "options": [
+          "Complete cord transection (x) Brown-Sequard syndrome 4% Vv) Central cord syndrome 28%",
+          "Anterior cord syndrome",
+          "Lateral cord syndrome"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Central cord syndrome (CCS) is marked by a disproportionately greater impairment of motor function in the upper extremities than in the lower ones, as well as by bladder dysfunction and a variable amount of sensory loss below the injury level. Vv Spinal Cord Tracts",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1557-q0037",
+        "sourcePage": 1557,
+        "stem": "A 71 year old man walks into ED following a fall. He is complaining of neck pain and weakness affecting his upper limbs only. Which of the following spinal cord lesions is most likely:",
+        "options": [
+          "Complete cord transection",
+          "Brown-Sequard syndrome",
+          "Central cord syndrome",
+          "Anterior cord syndrome",
+          "Lateral cord syndrome"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Central cord syndrome classically causes disproportionately greater motor impairment in the upper extremities after cervical injury.",
+        "learningNote": "Central cord syndrome classically causes disproportionately greater motor impairment in the upper extremities after cervical injury.",
+        "highYieldNote": "Central cord syndrome classically causes disproportionately greater motor impairment in the upper extremities after cervical injury.",
+        "mnemonic": "Central cord: arms affected more than legs.",
+        "memoryAid": {
+          "coreFact": "Central cord syndrome classically causes disproportionately greater motor impairment in the upper extremities after cervical injury.",
+          "mnemonic": "Central cord: arms affected more than legs.",
+          "emojiCues": [
+            "🦴",
+            "💪",
+            "⬆️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "Source-confirmed anatomy fact",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK560872/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK560872/",
+        "externalFinding": "Clinical neuroanatomy supports the displayed key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1558-q0038",
+      "sourcePage": 1558,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1558-q0038",
+        "sourcePage": 1558,
+        "stem": "ww The thalamus surrounds which of the following structures:",
+        "options": [
+          "Lateral ventricles (/) Third ventricle a",
+          "Fourth ventricle",
+          "Pons"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The thalamus is a wedge-shaped structure surrounding the third ventricle and made up of at least 50 thalamic nuclei. Vv Thalamus ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1558-q0038",
+        "sourcePage": 1558,
+        "stem": "The thalamus surrounds which of the following structures:",
+        "options": [
+          "Lateral ventricles",
+          "Cerebellum",
+          "Third ventricle",
+          "Fourth ventricle",
+          "Pons"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The paired thalami form the lateral walls of the third ventricle.",
+        "learningNote": "The paired thalami form the lateral walls of the third ventricle.",
+        "highYieldNote": "The paired thalami form the lateral walls of the third ventricle.",
+        "mnemonic": "Thalamus borders the third ventricle.",
+        "memoryAid": {
+          "coreFact": "The paired thalami form the lateral walls of the third ventricle.",
+          "mnemonic": "Thalamus borders the third ventricle.",
+          "emojiCues": [
+            "🧠",
+            "3️⃣",
+            "↔️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK542179/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK542179/",
+        "externalFinding": "NCBI anatomy supports the displayed key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1561-q0039",
+      "sourcePage": 1561,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1561-q0039",
+        "sourcePage": 1561,
+        "stem": "ww The primary auditory cortex is located in which of the following regions:",
+        "options": [
+          "Occipital lobe",
+          "Frontal lobe (Vv) Temporal lobe 83%",
+          "Brainstem"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The primary auditory cortex is located in the temporal lobe. The primary auditory cortex and auditory association area are important for perception and recognition of auditory stimuli. v Temporal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1561-q0039",
+        "sourcePage": 1561,
+        "stem": "The primary auditory cortex is located in which of the following regions:",
+        "options": [
+          "Occipital lobe",
+          "Parietal lobe",
+          "Frontal lobe",
+          "Temporal lobe",
+          "Brainstem"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The primary auditory cortex is located in the temporal lobe, on the transverse temporal gyri.",
+        "learningNote": "The primary auditory cortex is located in the temporal lobe, on the transverse temporal gyri.",
+        "highYieldNote": "The primary auditory cortex is located in the temporal lobe, on the transverse temporal gyri.",
+        "mnemonic": "Temporal hears.",
+        "memoryAid": {
+          "coreFact": "The primary auditory cortex is located in the temporal lobe, on the transverse temporal gyri.",
+          "mnemonic": "Temporal hears.",
+          "emojiCues": [
+            "👂",
+            "🧠",
+            "T"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK554521/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK554521/",
+        "externalFinding": "NCBI supports the displayed key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1562-q0040",
+      "sourcePage": 1562,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1562-q0040",
+        "sourcePage": 1562,
+        "stem": "ww The primary somatosensory cortex is located in which of the following regions:",
+        "options": [
+          "Occipital lobe",
+          "Parietal lobe",
+          "Frontal lobe",
+          "Temporal lobe",
+          "Brainstem"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The primary somatosensory cortex is located in the postcentral gyrus of the parietal lobe and is concerned with perceiving complex somatosensory stimuli from the contralateral side of the face and body. Together with the somatosensory association cortex, these areas are responsible for sensation and proprioception, and visuo-spatial perception. ; Vv Parietal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1562-q0040",
+        "sourcePage": 1562,
+        "stem": "The primary somatosensory cortex is located in which of the following regions:",
+        "options": [
+          "Occipital lobe",
+          "Parietal lobe",
+          "Frontal lobe",
+          "Temporal lobe",
+          "Brainstem"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The primary somatosensory cortex lies in the postcentral gyrus of the parietal lobe.",
+        "learningNote": "The primary somatosensory cortex lies in the postcentral gyrus of the parietal lobe.",
+        "highYieldNote": "The primary somatosensory cortex lies in the postcentral gyrus of the parietal lobe.",
+        "mnemonic": "Parietal perceives.",
+        "memoryAid": {
+          "coreFact": "The primary somatosensory cortex lies in the postcentral gyrus of the parietal lobe.",
+          "mnemonic": "Parietal perceives.",
+          "emojiCues": [
+            "✋",
+            "🧠",
+            "P"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK555915/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK555915/",
+        "externalFinding": "NCBI supports the displayed key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1563-q0041",
+      "sourcePage": 1563,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1563-q0041",
+        "sourcePage": 1563,
+        "stem": "ww Which of the following best describes the position of the frontal lobe:",
+        "options": [
+          "Anterior to the parieto-occipital sulcus (Vv) Anterior to the central sulcus and superior to the lateral sulcus 46%",
+          "Posterior to the central sulcus and superior to the lateral sulcus",
+          "Anterior to the central sulcus and inferior to the lateral sulcus",
+          "Posterior to the central sulcus and inferior to the lateral sulcus"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The frontal lobe extends from the central sulcus to the frontal pole and lies anterior to the central sulcus and superior to the lateral sulcus. . Vv Frontal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1563-q0041",
+        "sourcePage": 1563,
+        "stem": "Which of the following best describes the position of the frontal lobe:",
+        "options": [
+          "Anterior to the parieto-occipital sulcus",
+          "Anterior to the central sulcus and superior to the lateral sulcus",
+          "Posterior to the central sulcus and superior to the lateral sulcus",
+          "Anterior to the central sulcus and inferior to the lateral sulcus",
+          "Posterior to the central sulcus and inferior to the lateral sulcus"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The frontal lobe lies anterior to the central sulcus and superior to the lateral sulcus.",
+        "learningNote": "The frontal lobe lies anterior to the central sulcus and superior to the lateral sulcus.",
+        "highYieldNote": "The frontal lobe lies anterior to the central sulcus and superior to the lateral sulcus.",
+        "mnemonic": "Frontal is front and above the lateral sulcus.",
+        "memoryAid": {
+          "coreFact": "The frontal lobe lies anterior to the central sulcus and superior to the lateral sulcus.",
+          "mnemonic": "Frontal is front and above the lateral sulcus.",
+          "emojiCues": [
+            "⬅️",
+            "⬆️",
+            "🧠"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "Source-confirmed anatomy fact",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537247/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537247/",
+        "externalFinding": "Standard cortical surface anatomy supports the displayed key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1564-q0042",
+      "sourcePage": 1564,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1564-q0042",
+        "sourcePage": 1564,
+        "stem": "ww Which of the following best describes the position of the parietal lobe:",
+        "options": [
+          "Posterior to the parieto-occipital sulcus",
+          "Anterior to the central sulcus and superior to the lateral sulcus (Vv) Posterior to the central sulcus and superior to the lateral sulcus 82%",
+          "Anterior to the central sulcus and inferior to the lateral sulcus",
+          "Posterior to the central sulcus and inferior to the lateral sulcus"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The parietal lobe extends from the central sulcus to the occipital lobe and lies posterior to the central sulcus and superior to the lateral sulcus and the temporal lobe. . Vv Parietal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1564-q0042",
+        "sourcePage": 1564,
+        "stem": "Which of the following best describes the position of the parietal lobe:",
+        "options": [
+          "Posterior to the parieto-occipital sulcus",
+          "Anterior to the central sulcus and superior to the lateral sulcus",
+          "Posterior to the central sulcus and superior to the lateral sulcus",
+          "Anterior to the central sulcus and inferior to the lateral sulcus",
+          "Posterior to the central sulcus and inferior to the lateral sulcus"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The parietal lobe lies posterior to the central sulcus and superior to the lateral sulcus.",
+        "learningNote": "The parietal lobe lies posterior to the central sulcus and superior to the lateral sulcus.",
+        "highYieldNote": "The parietal lobe lies posterior to the central sulcus and superior to the lateral sulcus.",
+        "mnemonic": "Parietal is posterior and superior to the lateral sulcus.",
+        "memoryAid": {
+          "coreFact": "The parietal lobe lies posterior to the central sulcus and superior to the lateral sulcus.",
+          "mnemonic": "Parietal is posterior and superior to the lateral sulcus.",
+          "emojiCues": [
+            "⬅️",
+            "⬆️",
+            "🧠"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "Source-confirmed anatomy fact",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537247/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537247/",
+        "externalFinding": "Standard cortical surface anatomy supports the displayed key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1565-q0043",
+      "sourcePage": 1565,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1565-q0043",
+        "sourcePage": 1565,
+        "stem": "ww The blood supply to the frontal lobe is primarily supplied by which of the following arteries:",
+        "options": [
+          "Anterior cerebral artery (x) Middle cerebral artery 4%",
+          "Posterior cerebral artery (Vv) Anterior and middle cerebral artery 31%",
+          "Basilar artery"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The blood supply to the frontal lobe is from the anterior cerebral artery (supplying the medial surface of the primary motor cortex which controls the lower limb) and the middle cerebral artery (supplying the lateral surface of the primary motor cortex which controls the face and upper limb). : Vv Frontal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1565-q0043",
+        "sourcePage": 1565,
+        "stem": "The blood supply to the frontal lobe is primarily supplied by which of the following arteries:",
+        "options": [
+          "Anterior cerebral artery",
+          "Middle cerebral artery",
+          "Posterior cerebral artery",
+          "Anterior and middle cerebral artery",
+          "Basilar artery"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The frontal lobe receives major cortical supply from both the anterior cerebral artery medially and the middle cerebral artery laterally.",
+        "learningNote": "The frontal lobe receives major cortical supply from both the anterior cerebral artery medially and the middle cerebral artery laterally.",
+        "highYieldNote": "The frontal lobe receives major cortical supply from both the anterior cerebral artery medially and the middle cerebral artery laterally.",
+        "mnemonic": "ACA medial, MCA lateral.",
+        "memoryAid": {
+          "coreFact": "The frontal lobe receives major cortical supply from both the anterior cerebral artery medially and the middle cerebral artery laterally.",
+          "mnemonic": "ACA medial, MCA lateral.",
+          "emojiCues": [
+            "🩸",
+            "🧠",
+            "A+M"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "PMC authoritative source",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8446242/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8446242/",
+        "externalFinding": "The circulation review supports the combined ACA and MCA key; the broad source wording is retained."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1566-q0044",
+      "sourcePage": 1566,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1566-q0044",
+        "sourcePage": 1566,
+        "stem": "ww The sensation produced by touching the arm with cotton wool during a neurological examination is mediated by which of the following spinal tracts:",
+        "options": [
+          "Anterior spinothalamic tract",
+          "Lateral spinothalamic tract (x) Anterior corticospinal tract 4% (Vv) Posterior column 24%",
+          "Anterior spinocerebellar tract"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Fine-touch, proprioception and vibration sensation are mediated by the posterior column-medial lemniscus pathway. , Vv Spinal Cord Tracts ANATOMY / CENTRAL NERVOUS SYSTEM 11 Ranimart",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1566-q0044",
+        "sourcePage": 1566,
+        "stem": "The sensation produced by touching the arm with cotton wool during a neurological examination is mediated by which of the following spinal tracts:",
+        "options": [
+          "Anterior spinothalamic tract",
+          "Lateral spinothalamic tract",
+          "Anterior corticospinal tract",
+          "Posterior column",
+          "Anterior spinocerebellar tract"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Fine touch is conveyed through the posterior-column medial-lemniscus pathway.",
+        "learningNote": "Fine touch is conveyed through the posterior-column medial-lemniscus pathway.",
+        "highYieldNote": "Fine touch is conveyed through the posterior-column medial-lemniscus pathway.",
+        "mnemonic": "Posterior columns carry fine touch, vibration, and proprioception.",
+        "memoryAid": {
+          "coreFact": "Fine touch is conveyed through the posterior-column medial-lemniscus pathway.",
+          "mnemonic": "Posterior columns carry fine touch, vibration, and proprioception.",
+          "emojiCues": [
+            "🧵",
+            "✋",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK507888/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK507888/",
+        "externalFinding": "NCBI supports the displayed key and source explanation."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1567-q0045",
+      "sourcePage": 1567,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1567-q0045",
+        "sourcePage": 1567,
+        "stem": "pit. A 69 year old patient is brought to ED with acute onset facial weakness on the right side, and difficulty with speech. He is able to respond to questions appropriately by nodding or shaking his head, but his words are jumbled and don't make sense. Which of the following lobes has been affected:",
+        "options": [
+          "Left parietal lobe",
+          "Left temporal lobe () Lett frontal lobe 30%",
+          "Right frontal lobe"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Right sided facial weakness and expressive dysphasia is most likely caused by a lesion to the left frontal lobe, due to damage to the primary motor cortex and the Broca speech area respectively. Vv Frontal Lobe",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1567-q0045",
+        "sourcePage": 1567,
+        "stem": "A 69 year old patient is brought to ED with acute onset facial weakness on the right side, and difficulty with speech. He is able to respond to questions appropriately by nodding or shaking his head, but his words are jumbled and don't make sense. Which of the following lobes has been affected:",
+        "options": [
+          "Left parietal lobe",
+          "Right parietal lobe",
+          "Left temporal lobe",
+          "Left frontal lobe",
+          "Right frontal lobe"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "A dominant left frontal lesion involving the primary motor cortex and Broca area can cause right facial weakness with expressive dysphasia.",
+        "learningNote": "A dominant left frontal lesion involving the primary motor cortex and Broca area can cause right facial weakness with expressive dysphasia.",
+        "highYieldNote": "A dominant left frontal lesion involving the primary motor cortex and Broca area can cause right facial weakness with expressive dysphasia.",
+        "mnemonic": "Broca and face: dominant frontal lobe.",
+        "memoryAid": {
+          "coreFact": "A dominant left frontal lesion involving the primary motor cortex and Broca area can cause right facial weakness with expressive dysphasia.",
+          "mnemonic": "Broca and face: dominant frontal lobe.",
+          "emojiCues": [
+            "🗣️",
+            "🙂",
+            "⬅️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK526096/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK526096/",
+        "externalFinding": "NCBI Broca-area anatomy supports the displayed key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1568-q0046",
+      "sourcePage": 1568,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1568-q0046",
+        "sourcePage": 1568,
+        "stem": "ww Which of the following best describes the position of the occipital lobe:",
+        "options": [
+          "Anterior to the parieto-occipital sulcus (x) Posterior to the central sulcus and inferior to the lateral sulcus 11%",
+          "Posterior to the central sulcus and superior to the lateral sulcus",
+          "Inferior to the lateral sulcus (Vv) Inferior to the parieto-occipital sulcus 76%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The occipital lobe lies inferior to the parieto-occipital sulcus. , ; Vv Occipital Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1568-q0046",
+        "sourcePage": 1568,
+        "stem": "Which of the following best describes the position of the occipital lobe:",
+        "options": [
+          "Anterior to the parieto-occipital sulcus",
+          "Posterior to the central sulcus and inferior to the lateral sulcus",
+          "Posterior to the central sulcus and superior to the lateral sulcus",
+          "Inferior to the lateral sulcus",
+          "Inferior to the parieto-occipital sulcus"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The occipital lobe lies posterior to the parietal and temporal lobes and inferior to the parieto-occipital sulcus in the source description.",
+        "learningNote": "The occipital lobe lies posterior to the parietal and temporal lobes and inferior to the parieto-occipital sulcus in the source description.",
+        "highYieldNote": "The occipital lobe lies posterior to the parietal and temporal lobes and inferior to the parieto-occipital sulcus in the source description.",
+        "mnemonic": "Occipital is at the back, below the parieto-occipital sulcus.",
+        "memoryAid": {
+          "coreFact": "The occipital lobe lies posterior to the parietal and temporal lobes and inferior to the parieto-occipital sulcus in the source description.",
+          "mnemonic": "Occipital is at the back, below the parieto-occipital sulcus.",
+          "emojiCues": [
+            "👁️",
+            "⬇️",
+            "🧠"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK544320/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK544320/",
+        "externalFinding": "NCBI occipital-lobe anatomy supports the displayed key."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

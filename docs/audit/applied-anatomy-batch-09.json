@@ -1,0 +1,343 @@
+{
+  "generatedAt": "2026-08-22T15:37:27.869Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0340-q0084",
+      "sourcePage": 340,
+      "before": {
+        "stem": "The stomach lies anterior to all of the following structures EXCEPT for the:",
+        "options": [
+          "Pancreas",
+          "Transverse mesocolon",
+          "Spleen"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "The stomach lies anterior to all of the following structures except which?",
+        "options": [
+          "Pancreas",
+          "Transverse mesocolon",
+          "Spleen",
+          "Left lobe of the liver",
+          "Left colic flexure"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482334/",
+        "externalFinding": "The left hepatic lobe is anterior to the stomach."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0350-q0086",
+      "sourcePage": 350,
+      "before": {
+        "stem": "Which of the following structures is NOT retroperitoneal: (x) Abdominal oesophagus 9%",
+        "options": [
+          "Adrenal glands",
+          "Ascending colon",
+          "Descending colon"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "Which structure is not retroperitoneal?",
+        "options": [
+          "Abdominal oesophagus",
+          "Adrenal glands",
+          "Ascending colon",
+          "Descending colon",
+          "Proximal duodenum"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482390/",
+        "externalFinding": "Except for its first segment, the duodenum is retroperitoneal."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0357-q0088",
+      "sourcePage": 357,
+      "before": {
+        "stem": "ww In men, the external urethral sphincter surrounds which of the following structures:",
+        "options": [
+          "Preprostatic urethra 8%",
+          "Membranous urethra",
+          "Spongy urethra 16%",
+          "External urethral orifice 13%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "In men, the external urethral sphincter surrounds which structure?",
+        "options": [
+          "Preprostatic urethra",
+          "Prostatic urethra",
+          "Membranous urethra",
+          "Spongy urethra",
+          "External urethral orifice"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482438/",
+        "externalFinding": "The male external urethral sphincter is at the same level as the membranous urethra."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0365-q0090",
+      "sourcePage": 365,
+      "before": {
+        "stem": "A 29 year old rugby player presents to ED complaining of left flank pain. Imaging shows a fracture of the angle of the twelfth rib on the left side. Which of the following organs, based on surface anatomy, is most at risk for injury:",
+        "options": [
+          "Spleen",
+          "Pancreas",
+          "Stomach"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "A player has a fracture at the angle of the left twelfth rib. Which organ is most at risk based on surface anatomy?",
+        "options": [
+          "Spleen",
+          "Left kidney",
+          "Pancreas",
+          "Stomach",
+          "Transverse colon"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482385/",
+        "externalFinding": "Kidneys span T12-L3, upper poles are frequently crossed by rib 12, and the left lies higher."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0367-q0092",
+      "sourcePage": 367,
+      "before": {
+        "stem": "A 65 year old woman presents to ED complaining of fever, right upper quadrant pain, and jaundice. Imaging shows an obstructing gallstone. Which of the following structures is most likely obstructed by the gallstone:",
+        "options": [
+          "Pancreatic duct",
+          "Cystic duct",
+          "Left hepatic duct (x) Right hepatic duct 1%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "A woman has fever, right-upper-quadrant pain, jaundice, and an obstructing gallstone. Which structure is most likely obstructed?",
+        "options": [
+          "Pancreatic duct",
+          "Cystic duct",
+          "Left hepatic duct",
+          "Common bile duct",
+          "Right hepatic duct"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK539698/",
+        "externalFinding": "Gallstones causing common-bile-duct obstruction manifest with pain and jaundice."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0370-q0093",
+      "sourcePage": 370,
+      "before": {
+        "stem": "ww The deep inguinal ring is an ‘opening’ in which of the following structures:",
+        "options": [
+          "External oblique aponeurosis 10%",
+          "Internal oblique aponeurosis 7%",
+          "Transversus abdominis aponeurosis 1%",
+          "Rectus abdominis aponeurosis 2%",
+          "Transversalis fascia"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The deep inguinal ring is an opening in which structure?",
+        "options": [
+          "External oblique aponeurosis",
+          "Internal oblique aponeurosis",
+          "Transversus abdominis aponeurosis",
+          "Rectus abdominis aponeurosis",
+          "Transversalis fascia"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470204/",
+        "externalFinding": "The deep inguinal ring is formed by transversalis fascia."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0345-q0085",
+      "sourcePage": 345,
+      "before": {
+        "stem": "Ld Which of the following parts of the male urethra passes through the urogenital diaphragm:",
+        "options": [
+          "Preprostatic urethra 10%",
+          "Prostatic urethra 9%",
+          "Membranous urethra",
+          "Spongy urethra 6% (x) Urethral crest 2%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Which part of the male urethra passes through the urogenital diaphragm?",
+        "options": [
+          "Preprostatic urethra",
+          "Prostatic urethra",
+          "Membranous urethra",
+          "Spongy urethra",
+          "Urethral crest"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "Source page reviewed, but the exact source urogenital-diaphragm formulation was not directly corroborated by an authoritative external source. This record remains excluded from answer learning."
+        ]
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0353-q0087",
+      "sourcePage": 353,
+      "before": {
+        "stem": "The lumbar plexus is formed predominantly from the anterior rami of:",
+        "options": [
+          "L2-L3",
+          "L1-L2",
+          "Ee L5"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The lumbar plexus is formed predominantly from the anterior rami of which roots?",
+        "options": [
+          "L2-L3",
+          "L1-L5",
+          "L1-L4",
+          "L1-L2",
+          "L2-L5"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected.",
+          "Source page reviewed, but the exact source-marked L1-L4 lumbar-plexus formulation was not directly corroborated by an authoritative external source. This record remains excluded from answer learning."
+        ]
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0361-q0089",
+      "sourcePage": 361,
+      "before": {
+        "stem": "A 65 year old lady complains of faecal incontinence. Dysfunction of which of the following structures is most likely a contributing factor to her symptoms:",
+        "options": [
+          "Pectineus muscle",
+          "lliococcygeus muscle Sporeserimnde",
+          "Coccygeus muscle"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "A 65-year-old woman has faecal incontinence. Dysfunction of which structure is most likely to contribute?",
+        "options": [
+          "Pectineus muscle",
+          "Puborectalis muscle",
+          "Iliococcygeus muscle",
+          "Transverse perineal muscles",
+          "Coccygeus muscle"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected.",
+          "Source page reviewed, but the source's exact puborectalis-incontinence clinical inference was not directly corroborated by an authoritative external source. This record remains excluded from answer learning."
+        ]
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0374-q0094",
+      "sourcePage": 374,
+      "before": {
+        "stem": "ww The ureters arise at which of the following vertebral levels:",
+        "options": [
+          "T10 2%",
+          "™ oo",
+          "m2 55%",
+          "at ”"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "At which vertebral level do the ureters arise?",
+        "options": [
+          "T10",
+          "T11",
+          "T12",
+          "L1",
+          "L2"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected.",
+          "Source page reviewed, but the exact source-marked L1 ureter-origin level was not directly corroborated by an authoritative external source. This record remains excluded from answer learning."
+        ]
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

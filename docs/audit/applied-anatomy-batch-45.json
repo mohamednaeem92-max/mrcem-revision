@@ -1,0 +1,659 @@
+{
+  "generatedAt": "2026-08-26T04:25:34.260Z",
+  "batch": "anatomy-all-pdf-batch-45",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1322-q0031",
+      "sourcePage": 1322,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1322-q0031",
+        "sourcePage": 1322,
+        "stem": "ww A79 year old patient, with a history of AF, presents to ED complaining of sudden onset severe abdominal pain. Imaging shows occlusion of the superior mesenteric artery. Which of the following structures is most likely affected:",
+        "options": [
+          "Stomach 1% (x) First part of the duodenum 10%",
+          "Jejunum and ileum",
+          "Splenic flexure 7%",
+          "Rectum 1%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The superior mesenteric artery supplies midgut structures including the duodenum (after the major duodenal papilla in the second part), the jejunum, the ileum, the caecum and appendix, the ascending colon and the proximal two-thirds of the transverse colon. Occlusion of the superior mesenteric artery restricts blood flow to these structures resulting in intestinal ischaemia. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1322-q0031",
+        "sourcePage": 1322,
+        "stem": "A 79 year old patient, with a history of AF, presents to ED complaining of sudden onset severe abdominal pain. Imaging shows occlusion of the superior mesenteric artery. Which of the following structures is most likely affected:",
+        "options": [
+          "Stomach",
+          "First part of the duodenum",
+          "Jejunum and ileum",
+          "Splenic flexure",
+          "Rectum"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The SMA supplies the midgut, including jejunum and ileum.",
+        "learningNote": "The SMA supplies the midgut, including jejunum and ileum.",
+        "highYieldNote": "The SMA supplies the midgut, including jejunum and ileum.",
+        "mnemonic": "SMA feeds the midgut.",
+        "memoryAid": {
+          "coreFact": "The SMA supplies the midgut, including jejunum and ileum.",
+          "mnemonic": "SMA feeds the midgut.",
+          "emojiCues": [
+            "🩸",
+            "➡️",
+            "🌀"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/sites/books/NBK519560/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/sites/books/NBK519560/",
+        "externalFinding": "NCBI confirms jejunal and ileal supply by SMA."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1323-q0032",
+      "sourcePage": 1323,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1323-q0032",
+        "sourcePage": 1323,
+        "stem": "wy Posteriorly the spleen lies in the region of which of the following:",
+        "options": [
+          "Ribs 7 and 8 2%",
+          "Ribs 8 - 10 5% (v Ribs 9-11 35%",
+          "Ribs 10 - 12",
+          "Below the costal margin 2%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The spleen projects onto the left side and back in the area of ribs 9 - 11. The spleen follows the contour of rib 10 and extends from the superior pole of the left kidney to just posterior to the midaxillary line. v",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1323-q0032",
+        "sourcePage": 1323,
+        "stem": "Posteriorly the spleen lies in the region of which of the following:",
+        "options": [
+          "Ribs 7 and 8",
+          "Ribs 8 - 10",
+          "Ribs 9 - 11",
+          "Ribs 10 - 12",
+          "Below the costal margin"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The spleen projects posteriorly over ribs 9–11 and follows the contour of rib 10.",
+        "learningNote": "The spleen projects posteriorly over ribs 9–11 and follows the contour of rib 10.",
+        "highYieldNote": "The spleen projects posteriorly over ribs 9–11 and follows the contour of rib 10.",
+        "mnemonic": "Spleen: ribs 9 to 11.",
+        "memoryAid": {
+          "coreFact": "The spleen projects posteriorly over ribs 9–11 and follows the contour of rib 10.",
+          "mnemonic": "Spleen: ribs 9 to 11.",
+          "emojiCues": [
+            "🫁",
+            "9️⃣",
+            "1️⃣1️⃣"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "Source-confirmed anatomy fact",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK553104/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK553104/",
+        "externalFinding": "Source explanation and standard surface anatomy support ribs 9–11."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1324-q0033",
+      "sourcePage": 1324,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1324-q0033",
+        "sourcePage": 1324,
+        "stem": "wy The ductus deferens is derived from which of the following structures:",
+        "options": [
+          "Tunica vaginalis 17%",
+          "Ejaculatory ducts 4%",
+          "Seminal vesicle 8% (/) Epididymis fe",
+          "Rete testis 3%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The ductus deferens continues from the tail of the epididymis. . : Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1324-q0033",
+        "sourcePage": 1324,
+        "stem": "The ductus deferens is derived from which of the following structures:",
+        "options": [
+          "Tunica vaginalis",
+          "Ejaculatory ducts",
+          "Seminal vesicle",
+          "Epididymis",
+          "Rete testis"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The ductus deferens continues from the tail of the epididymis.",
+        "learningNote": "The ductus deferens continues from the tail of the epididymis.",
+        "highYieldNote": "The ductus deferens continues from the tail of the epididymis.",
+        "mnemonic": "Epididymis continues as vas deferens.",
+        "memoryAid": {
+          "coreFact": "The ductus deferens continues from the tail of the epididymis.",
+          "mnemonic": "Epididymis continues as vas deferens.",
+          "emojiCues": [
+            "🔗",
+            "➡️",
+            "🧬"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK562291/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK562291/",
+        "externalFinding": "NCBI supports the epididymis-to-vas pathway."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1326-q0034",
+      "sourcePage": 1326,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1326-q0034",
+        "sourcePage": 1326,
+        "stem": "hd A patient presents following a fall. Imaging shows damage to the L1 nerve root. Which of the following muscles are most likely to be affected:",
+        "options": [
+          "Transversus abdominis and rectus abdominis muscles 5%",
+          "Rectus abdominis and external oblique muscles 55%",
+          "Gluteus medius and minimus muscles 71%",
+          "Transversus abdominis and internal oblique muscles",
+          "Internal and external oblique muscles"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The ilioinguinal nerve is formed from the anterior rami of L1. It innervates the internal oblique and transversus abdominis muscles and supplies skin over the upper medial thigh and the external genitalia. . Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1326-q0034",
+        "sourcePage": 1326,
+        "stem": "A patient presents following a fall. Imaging shows damage to the L1 nerve root. Which of the following muscles are most likely to be affected:",
+        "options": [
+          "Transversus abdominis and rectus abdominis muscles",
+          "Rectus abdominis and external oblique muscles",
+          "Gluteus medius and minimus muscles",
+          "Transversus abdominis and internal oblique muscles",
+          "Internal and external oblique muscles"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The ilioinguinal nerve from L1 contributes motor supply to transversus abdominis and internal oblique.",
+        "learningNote": "The ilioinguinal nerve from L1 contributes motor supply to transversus abdominis and internal oblique.",
+        "highYieldNote": "The ilioinguinal nerve from L1 contributes motor supply to transversus abdominis and internal oblique.",
+        "mnemonic": "L1 ilioinguinal: internal oblique and transversus.",
+        "memoryAid": {
+          "coreFact": "The ilioinguinal nerve from L1 contributes motor supply to transversus abdominis and internal oblique.",
+          "mnemonic": "L1 ilioinguinal: internal oblique and transversus.",
+          "emojiCues": [
+            "L1",
+            "💪",
+            "↔️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/sites/books/NBK556034/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/sites/books/NBK556034/",
+        "externalFinding": "NCBI confirms origin and motor distribution."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1327-q0035",
+      "sourcePage": 1327,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1327-q0035",
+        "sourcePage": 1327,
+        "stem": "ww The cutaneous supply of the scrotum is derived primarily from which of the following spinal nerve roots.",
+        "options": [
+          "m0 - 11 6%",
+          "L2-L4 9%",
+          "$1-S4 12%",
+          "i4,s2-s3 se"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The scrotum is innervated by nerves derived primarily from spinal roots L1 and S2 - S3: e anterolaterally by the genital branch of the genitofemoral nerve (L1 - L2) e anteriorly by scrotal branches of the ilioinguinal nerve (L1) ® posteriorly by scrotal branches of the perineal nerve of the pudendal nerve (S3) e inferiorly by perineal branches of the posterior femoral cutaneous nerve (S2) Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1327-q0035",
+        "sourcePage": 1327,
+        "stem": "The cutaneous supply of the scrotum is derived primarily from which of the following spinal nerve roots.",
+        "options": [
+          "T10 - L1",
+          "L5, S1",
+          "L2 - L4",
+          "S1 - S4",
+          "L1, S2 - S3"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Scrotal sensation has mixed roots, primarily L1 and S2–S3 in the source explanation.",
+        "learningNote": "Scrotal sensation has mixed roots, primarily L1 and S2–S3 in the source explanation.",
+        "highYieldNote": "Scrotal sensation has mixed roots, primarily L1 and S2–S3 in the source explanation.",
+        "mnemonic": "Scrotum: L1 anterior, S2–S3 posterior/inferior.",
+        "memoryAid": {
+          "coreFact": "Scrotal sensation has mixed roots, primarily L1 and S2–S3 in the source explanation.",
+          "mnemonic": "Scrotum: L1 anterior, S2–S3 posterior/inferior.",
+          "emojiCues": [
+            "L1",
+            "S2",
+            "S3"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/sites/books/NBK556034/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/sites/books/NBK556034/",
+        "externalFinding": "NCBI confirms L1 ilioinguinal contribution; the source explains S2–S3 contributions. Mixed-root caveat retained."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1330-q0036",
+      "sourcePage": 1330,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1330-q0036",
+        "sourcePage": 1330,
+        "stem": "The kidneys extend between which of the following vertebral levels:",
+        "options": [
+          "19-112 os",
+          "12-1",
+          "LIES 9%",
+          "m2-13",
+          "L2-L5 ig"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The position of the kidneys varies with respiration and the position of the body. In the supine position, the kidneys extend from approximately vertebra T12 superiorly to vertebra L3 inferiorly. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1330-q0036",
+        "sourcePage": 1330,
+        "stem": "The kidneys extend between which of the following vertebral levels:",
+        "options": [
+          "T9 - T12",
+          "T12 - L1",
+          "L1 - L3",
+          "T12 - L3",
+          "L2 - L5"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "In the supine position, kidneys extend approximately from T12 to L3, with variation from respiration and position.",
+        "learningNote": "In the supine position, kidneys extend approximately from T12 to L3, with variation from respiration and position.",
+        "highYieldNote": "In the supine position, kidneys extend approximately from T12 to L3, with variation from respiration and position.",
+        "mnemonic": "Kidneys: T12 to L3.",
+        "memoryAid": {
+          "coreFact": "In the supine position, kidneys extend approximately from T12 to L3, with variation from respiration and position.",
+          "mnemonic": "Kidneys: T12 to L3.",
+          "emojiCues": [
+            "🫘",
+            "T12",
+            "L3"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK562291/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK562291/",
+        "externalFinding": "NCBI supports the approximate T12–L3 range."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1331-q0037",
+      "sourcePage": 1331,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1331-q0037",
+        "sourcePage": 1331,
+        "stem": "ww The body of the pancreas lies at which of the following vertebral levels:",
+        "options": [
+          "112 ms",
+          "e 26%",
+          "L3 3%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The body of the pancreas is elongated and extends from the neck to the tail of the pancreas in the transpyloric plane (at the level of vertebra L1) to lie behind the stomach and to the left of the superior mesenteric vessels. ; , Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1331-q0037",
+        "sourcePage": 1331,
+        "stem": "The body of the pancreas lies at which of the following vertebral levels:",
+        "options": [
+          "T11",
+          "T12",
+          "L1",
+          "L2",
+          "L3"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The pancreatic body lies in the transpyloric plane at vertebra L1.",
+        "learningNote": "The pancreatic body lies in the transpyloric plane at vertebra L1.",
+        "highYieldNote": "The pancreatic body lies in the transpyloric plane at vertebra L1.",
+        "mnemonic": "Pancreas body: L1 transpyloric plane.",
+        "memoryAid": {
+          "coreFact": "The pancreatic body lies in the transpyloric plane at vertebra L1.",
+          "mnemonic": "Pancreas body: L1 transpyloric plane.",
+          "emojiCues": [
+            "🟡",
+            "L1",
+            "📏"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "Source-confirmed anatomy fact",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK532912/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532912/",
+        "externalFinding": "Source explanation and NCBI pancreatic anatomy support L1."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1332-q0038",
+      "sourcePage": 1332,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1332-q0038",
+        "sourcePage": 1332,
+        "stem": "ww Regarding the uterine tubes, which of the following statements is CORRECT:",
+        "options": [
+          "The uterine tubes open into the peritoneal cavity lateral to the ovaries.",
+          "Each uterine tube is approximately 5 cm long. 4%",
+          "The opening of the uterine tube is formed by the ampulla. 56%",
+          "The infundibulum is the narrowest part of the uterine tube. 9%",
+          "Ectopic pregnancies occur most commonly in the isthmus of the uterine tube. 8%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "Uterine tubes project laterally from the superior uterus, extending to the lateral pelvic wall, passing superior to the ovaries and opening into the peritoneal cavity immediately lateral to the ovaries. Each tube is about 10 - 12 cm long and divided into four parts. The isthmus is the narrowest part. The infundibulum is the funnel-shaped opening which curves around the superolateral pole of the ovary which opens into the peritoneal cavity. Ectopic pregnancies most commonly occur in the ampulla, the elongated part of the uterine tube. 7 : : Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1332-q0038",
+        "sourcePage": 1332,
+        "stem": "Regarding the uterine tubes, which of the following statements is CORRECT:",
+        "options": [
+          "The uterine tubes open into the peritoneal cavity lateral to the ovaries.",
+          "Each uterine tube is approximately 5 cm long.",
+          "The opening of the uterine tube is formed by the ampulla.",
+          "The infundibulum is the narrowest part of the uterine tube.",
+          "Ectopic pregnancies occur most commonly in the isthmus of the uterine tube."
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Uterine tubes open into the peritoneal cavity lateral to the ovaries; the source gives 10–12 cm length, isthmus as narrowest, and ampulla as commonest ectopic site.",
+        "learningNote": "Uterine tubes open into the peritoneal cavity lateral to the ovaries; the source gives 10–12 cm length, isthmus as narrowest, and ampulla as commonest ectopic site.",
+        "highYieldNote": "Uterine tubes open into the peritoneal cavity lateral to the ovaries; the source gives 10–12 cm length, isthmus as narrowest, and ampulla as commonest ectopic site.",
+        "mnemonic": "Tube opens laterally; ampulla is the common ectopic site.",
+        "memoryAid": {
+          "coreFact": "Uterine tubes open into the peritoneal cavity lateral to the ovaries; the source gives 10–12 cm length, isthmus as narrowest, and ampulla as commonest ectopic site.",
+          "mnemonic": "Tube opens laterally; ampulla is the common ectopic site.",
+          "emojiCues": [
+            "♀️",
+            "↔️",
+            "⭕"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470297/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470297/",
+        "externalFinding": "NCBI supports fallopian-tube anatomy; source-specific teaching retained."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1333-q0039",
+      "sourcePage": 1333,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1333-q0039",
+        "sourcePage": 1333,
+        "stem": "Ad A79 year old man presents to ED complaining of fever and left sided abdominal and back pain. Imaging reveals a large perinephric abscess. Which of the following most likely describes the fluid location:",
+        "options": [
+          "Between the renal cortex and the renal capsule",
+          "Between the renal capsule and the perinephric fat 31%",
+          "Between the renal capsule and the renal fascia",
+          "Between the renal fascia and the paranephric fat 13%",
+          "Within the paranephric fat 3%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "Immediately external to the renal capsule is the perinephric fat completely surrounding the kidney. Surrounding the perinephric fat is the renal fascia, and external to the renal fascia is the paranephric fat. Aperinephric abscess is located in the perinephric fat between the renal capsule and the renal fascia. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1333-q0039",
+        "sourcePage": 1333,
+        "stem": "A 79 year old man presents to ED complaining of fever and left sided abdominal and back pain. Imaging reveals a large perinephric abscess. Which of the following most likely describes the fluid location:",
+        "options": [
+          "Between the renal cortex and the renal capsule",
+          "Between the renal capsule and the perinephric fat",
+          "Between the renal capsule and the renal fascia",
+          "Between the renal fascia and the paranephric fat",
+          "Within the paranephric fat"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Perinephric fat lies between the renal capsule and renal fascia; a perinephric abscess occupies this compartment.",
+        "learningNote": "Perinephric fat lies between the renal capsule and renal fascia; a perinephric abscess occupies this compartment.",
+        "highYieldNote": "Perinephric fat lies between the renal capsule and renal fascia; a perinephric abscess occupies this compartment.",
+        "mnemonic": "Perinephric = between capsule and fascia.",
+        "memoryAid": {
+          "coreFact": "Perinephric fat lies between the renal capsule and renal fascia; a perinephric abscess occupies this compartment.",
+          "mnemonic": "Perinephric = between capsule and fascia.",
+          "emojiCues": [
+            "🫘",
+            "🫧",
+            "🛡️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "Source-confirmed anatomy fact",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK553104/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK553104/",
+        "externalFinding": "Source explanation directly defines the compartment."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1334-q0040",
+      "sourcePage": 1334,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1334-q0040",
+        "sourcePage": 1334,
+        "stem": "we A patient is brought to ED following abdominal trauma. Your consultant performs a FAST scan in the department and identifies fluid in Morison's pouch. Where is Morison's pouch located:",
+        "options": [
+          "Left perinepatic space",
+          "Left subphrenic space 7%",
+          "Right subphrenic space 14%",
+          "Right subhepatic space",
+          "Left infracolic space 2%"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The supracolic compartment lies above the transverse mesocolon and contains the stomach, liver and spleen. It lies largely under cover of the costal limits of the thoracic cage. The supracolic space can be arbitrarily divided into right and left supracolic spaces and subspaces. The posterior right subhepatic space (Morrison's pouch) separates the liver from the right kidney. Fluid (e.g. ascites or haemoperitoneum) accumulates here as it is the lowest dependant spaces of the peritoneal cavity from a wide range of causes. It is also a preferential site for metastases and abscesses. : 4 v",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1334-q0040",
+        "sourcePage": 1334,
+        "stem": "A patient is brought to ED following abdominal trauma. Your consultant performs a FAST scan in the department and identifies fluid in Morison's pouch. Where is Morison's pouch located:",
+        "options": [
+          "Left perihepatic space",
+          "Left subphrenic space",
+          "Right subphrenic space",
+          "Right subhepatic space",
+          "Left infracolic space"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Morison's pouch is the posterior right subhepatic space between the liver and right kidney and is a dependent peritoneal recess.",
+        "learningNote": "Morison's pouch is the posterior right subhepatic space between the liver and right kidney and is a dependent peritoneal recess.",
+        "highYieldNote": "Morison's pouch is the posterior right subhepatic space between the liver and right kidney and is a dependent peritoneal recess.",
+        "mnemonic": "Morison: right liver-kidney recess.",
+        "memoryAid": {
+          "coreFact": "Morison's pouch is the posterior right subhepatic space between the liver and right kidney and is a dependent peritoneal recess.",
+          "mnemonic": "Morison: right liver-kidney recess.",
+          "emojiCues": [
+            "FAST",
+            "➡️",
+            "🫘"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK534788/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK534788/",
+        "externalFinding": "NCBI supports the hepatorenal recess as a dependent peritoneal space; source explanation supplies exact relation."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

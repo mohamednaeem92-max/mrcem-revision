@@ -1,0 +1,14 @@
+{
+  "generatedAt": "2026-08-27T21:40:02.647Z",
+  "total": 4454,
+  "byState": {
+    "blocked_pending_source_page_review": 3780,
+    "complete_source_linked": 4,
+    "source_page_and_external_evidence_verified_ocr_draft": 670
+  },
+  "completeSourceLinked": 4,
+  "sourceVerifiedDraftLearningAids": 670,
+  "structuredMemoryAids": 676,
+  "blockedPendingSourcePageReview": 3780,
+  "newLearningAidsGenerated": 670
+}

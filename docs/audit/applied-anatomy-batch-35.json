@@ -1,0 +1,496 @@
+{
+  "generatedAt": "2026-08-23T17:43:34.821Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1105-q0107",
+      "sourcePage": 1105,
+      "before": {
+        "stem": "A 29 year patient presents to ED complaining of a painless lump in his scrotum. Imaging shows a tumour affecting the scrotum but sparing the testis. Where would the lymph from this area of pathology drain to initially:",
+        "options": [
+          "Deep inguinal nodes Internal iliac nodes 1%",
+          "Lumbar nodes Qrmnenncmeme"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "A 29 year patient presents to ED complaining of a painless lump in his scrotum. Imaging shows a tumour affecting the scrotum but sparing the testis. Where would the lymph from this area of pathology drain to initially:",
+        "options": [
+          "Deep inguinal nodes",
+          "Superficial inguinal nodes",
+          "Internal iliac nodes",
+          "Lumbar nodes",
+          "Inferior mesenteric lymph nodes"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The scrotal wall drains first to superficial inguinal nodes, whereas the testes drain to lumbar nodes.",
+          "mnemonic": "Scrotum superficial; testis travels to lumbar.",
+          "emojiCues": [
+            "🩲",
+            "🧭"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Scrotal Masses",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK549893/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK549893/",
+        "externalFinding": "NCBI distinguishes superficial-inguinal drainage of the scrotal wall from lumbar drainage of scrotal contents."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1108-q0108",
+      "sourcePage": 1108,
+      "before": {
+        "stem": "The roof of the inguinal canal is formed primarily by which of the following structures:",
+        "options": [
+          "Transversus abdominis and internal oblique muscles",
+          "External oblique muscle",
+          "External oblique aponeurosis",
+          "Transversalis fascia",
+          "Rectus abdominis muscle"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The roof of the inguinal canal is formed primarily by which of the following structures:",
+        "options": [
+          "Transversus abdominis and internal oblique muscles",
+          "External oblique muscle",
+          "External oblique aponeurosis",
+          "Transversalis fascia",
+          "Rectus abdominis muscle"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The inguinal-canal roof is formed by the arching fibres of transversus abdominis and internal oblique.",
+          "mnemonic": "Roof: transverse plus internal oblique arches.",
+          "emojiCues": [
+            "🏠",
+            "🧵"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Inguinal Canal",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470204/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470204/",
+        "externalFinding": "NCBI describes the canal roof as arching fibres of internal oblique and transversus abdominis."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1109-q0109",
+      "sourcePage": 1109,
+      "before": {
+        "stem": "ww The abdominal aorta begins at which vertebral level:",
+        "options": [
+          "™ 4% (v 112 70% E a]",
+          "L2 2%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The abdominal aorta begins at which vertebral level:",
+        "options": [
+          "T10",
+          "T11",
+          "T12",
+          "L1",
+          "L2"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The abdominal aorta begins at the aortic hiatus at the T12 level.",
+          "mnemonic": "Aortic hiatus at T12 starts the abdominal aorta.",
+          "emojiCues": [
+            "🩸",
+            "1️⃣2️⃣"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Aortic Hiatus",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK532972/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532972/",
+        "externalFinding": "NCBI places the aortic hiatus at T12 where the descending aorta continues as the abdominal aorta."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1116-q0112",
+      "sourcePage": 1116,
+      "before": {
+        "stem": "Which of the following structures does NOT pass through the inguinal canal:",
+        "options": [
+          "Genital branch of genitofemoral nerve 4%",
+          "llioinguinal nerve 5%",
+          "Spermatic cord 2%",
+          "Round ligament 6%",
+          "Inferior epigastric artery"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "Which of the following structures does NOT pass through the inguinal canal:",
+        "options": [
+          "Genital branch of genitofemoral nerve",
+          "Ilioinguinal nerve",
+          "Spermatic cord",
+          "Round ligament",
+          "Inferior epigastric artery"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The inferior epigastric artery lies at the deep-ring margin and does not pass through the inguinal canal.",
+          "mnemonic": "Canal carries cord, round ligament, and nerves, not epigastric artery.",
+          "emojiCues": [
+            "🚇",
+            "🚫"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Inguinal Canal",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470204/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470204/",
+        "externalFinding": "NCBI lists canal contents and locates the inferior epigastric vessels at the deep-ring margin rather than within the canal."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1120-q0113",
+      "sourcePage": 1120,
+      "before": {
+        "stem": "ww The superficial inguinal ring is an ‘opening’ in which of the following structures:",
+        "options": [
+          "External oblique aponeurosis",
+          "Internal oblique aponeurosis 5%",
+          "Transversus abdominis aponeurosis 5%",
+          "Rectus abdominis aponeurosis 2%",
+          "Transversalis fascia 1%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The superficial inguinal ring is an 'opening' in which of the following structures:",
+        "options": [
+          "External oblique aponeurosis",
+          "Internal oblique aponeurosis",
+          "Transversus abdominis aponeurosis",
+          "Rectus abdominis aponeurosis",
+          "Transversalis fascia"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The superficial inguinal ring is a triangular opening in the external oblique aponeurosis.",
+          "mnemonic": "Superficial ring equals external oblique opening.",
+          "emojiCues": [
+            "🔺",
+            "🚪"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Inguinal Canal",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470204/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470204/",
+        "externalFinding": "NCBI describes the superficial inguinal ring as the terminal triangular opening in external oblique aponeurosis."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1121-q0114",
+      "sourcePage": 1121,
+      "before": {
+        "stem": "ww The sacrum articulates with which of the following structures:",
+        "options": [
+          "Pubis of the pelvic bone 4%",
+          "Ischium of the pelvic bone 19% () ium of the pelvic bone 69%",
+          "Ischial tuberosity 4%",
+          "Pubic ramus 4%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The sacrum articulates with which of the following structures:",
+        "options": [
+          "Pubis of the pelvic bone",
+          "Ischium of the pelvic bone",
+          "Ilium of the pelvic bone",
+          "Ischial tuberosity",
+          "Pubic ramus"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The sacral alae articulate with the ilia bilaterally at the sacroiliac joints.",
+          "mnemonic": "Sacrum plus ilium forms the SI joint.",
+          "emojiCues": [
+            "🦴",
+            "↔️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Sacral Vertebrae",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK551653/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK551653/",
+        "externalFinding": "NCBI states that the sacral alae articulate bilaterally with the ilia at sacroiliac joints."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1125-q0115",
+      "sourcePage": 1125,
+      "before": {
+        "stem": "Which of the following best describes the relationship of the bladder and prostate gland:",
+        "options": [
+          "The prostate gland lies anterosuperior to the bladder.",
+          "The prostate gland lies posterosuperior to the bladder.",
+          "The prostate gland lies superior to the bladder. (x) e prostate gland lies posteroinferior to the bladder. 23%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "Which of the following best describes the relationship of the bladder and prostate gland:",
+        "options": [
+          "The prostate gland lies anterosuperior to the bladder.",
+          "The prostate gland lies posterosuperior to the bladder.",
+          "The prostate gland lies superior to the bladder.",
+          "The prostate gland lies inferior to the bladder.",
+          "The prostate gland lies posteroinferior to the bladder."
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The prostate lies directly inferior to the bladder and surrounds the proximal urethra.",
+          "mnemonic": "Prostate sits below the bladder.",
+          "emojiCues": [
+            "⬇️",
+            "💧"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Prostate",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK540987/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK540987/",
+        "externalFinding": "NCBI directly places the prostate inferior to the bladder in the lesser pelvis."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1112-q0110",
+      "sourcePage": 1112,
+      "before": {
+        "stem": "The rectus sheath encloses all of the following structures except the:",
+        "options": [
+          "Lower thoracic intercostal nerves",
+          "Superior epigastric artery",
+          "Inferior epigastric artery"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The rectus sheath encloses all of the following structures except the:",
+        "options": [
+          "Transversus abdominis muscle",
+          "Pyramidalis muscle",
+          "Lower thoracic intercostal nerves",
+          "Superior epigastric artery",
+          "Inferior epigastric artery"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but current anatomy evidence documents transversus abdominis muscle within the rectus sheath near the costal margin; the stem's absolute exclusion is not safely inferred."
+        ],
+        "memoryAid": null
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537153/",
+        "externalFinding": "NCBI records a study finding transversus abdominis muscle within the rectus sheath near the costal margin, so the absolute exclusion wording is not stable."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1115-q0111",
+      "sourcePage": 1115,
+      "before": {
+        "stem": "Ad The iliohypogastric nerve is formed from the anterior rami of:",
+        "options": [
+          "11-12 18% c a",
+          "ets i"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The iliohypogastric nerve is formed from the anterior rami of:",
+        "options": [
+          "L1",
+          "L1 - L2",
+          "L2",
+          "L2 - L3",
+          "L4"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but NCBI and systematic-review evidence document T12 contributions and variable iliohypogastric roots; the unqualified L1-only key is not safely inferred."
+        ],
+        "memoryAid": null
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK545137/",
+        "externalFinding": "NCBI describes the iliohypogastric nerve as T12-L1, and a systematic review documents substantial variation, including T12-L1 origins."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1129-q0116",
+      "sourcePage": 1129,
+      "before": {
+        "stem": "ww The body of the pancreas lies at which of the following vertebral levels:",
+        "options": [
+          "™ 7%",
+          "L2 26%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The body of the pancreas lies at which of the following vertebral levels:",
+        "options": [
+          "T11",
+          "T12",
+          "L1",
+          "L2",
+          "L3"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but current references place the pancreas across L1-L2 and its body over L2; the displayed singular L1 body-level key is not safely inferred."
+        ],
+        "memoryAid": null
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532912/",
+        "externalFinding": "Current NCBI material places the pancreas across L1-L2 and specifically describes the body as passing over L2, conflicting with the singular L1 formulation."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

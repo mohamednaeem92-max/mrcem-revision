@@ -1,0 +1,656 @@
+{
+  "generatedAt": "2026-08-26T04:34:45.533Z",
+  "batch": "anatomy-all-pdf-batch-47",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1351-q0051",
+      "sourcePage": 1351,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1351-q0051",
+        "sourcePage": 1351,
+        "stem": "ww The iliacus muscle is innervated by which of the following:",
+        "options": [
+          "lliohypogastric nerve Bevin",
+          "Genitofemoral nerve 2%",
+          "Anterior rami of L1- L3 54%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The iliacus muscle is innervated by branches of the femoral nerve. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1351-q0051",
+        "sourcePage": 1351,
+        "stem": "The iliacus muscle is innervated by which of the following:",
+        "options": [
+          "Iliohypogastric nerve",
+          "Ilioinguinal nerve",
+          "Genitofemoral nerve",
+          "Femoral nerve",
+          "Anterior rami of L1 - L3"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The iliacus muscle is innervated by branches of the femoral nerve.",
+        "learningNote": "The iliacus muscle is innervated by branches of the femoral nerve.",
+        "highYieldNote": "The iliacus muscle is innervated by branches of the femoral nerve.",
+        "mnemonic": "Iliacus joins iliopsoas and follows femoral nerve supply.",
+        "memoryAid": {
+          "coreFact": "The iliacus muscle is innervated by branches of the femoral nerve.",
+          "mnemonic": "Iliacus joins iliopsoas and follows femoral nerve supply.",
+          "emojiCues": [
+            "🦵",
+            "🧠",
+            "➡️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "Source-confirmed anatomy fact",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK557644/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557644/",
+        "externalFinding": "Source explanation identifies femoral-nerve branches."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1352-q0052",
+      "sourcePage": 1352,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1352-q0052",
+        "sourcePage": 1352,
+        "stem": "ww The inferior vena cava is formed from the union of the two common iliac veins at which of the following vertebral levels:",
+        "options": [
+          "u 48%",
+          "IES) 6%",
+          "L4 25%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "It is formed from the union of the two common iliac veins at the level of vertebra L5, just to the right of the midline. i . v",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1352-q0052",
+        "sourcePage": 1352,
+        "stem": "The inferior vena cava is formed from the union of the two common iliac veins at which of the following vertebral levels:",
+        "options": [
+          "L1",
+          "L2",
+          "L3",
+          "L4",
+          "L5"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The inferior vena cava is formed by confluence of the common iliac veins at approximately L5.",
+        "learningNote": "The inferior vena cava is formed by confluence of the common iliac veins at approximately L5.",
+        "highYieldNote": "The inferior vena cava is formed by confluence of the common iliac veins at approximately L5.",
+        "mnemonic": "IVC begins low: common iliacs meet at L5.",
+        "memoryAid": {
+          "coreFact": "The inferior vena cava is formed by confluence of the common iliac veins at approximately L5.",
+          "mnemonic": "IVC begins low: common iliacs meet at L5.",
+          "emojiCues": [
+            "L5",
+            "🔗",
+            "🩸"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK482353/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482353/",
+        "externalFinding": "NCBI supports the L5 level."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1353-q0053",
+      "sourcePage": 1353,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1353-q0053",
+        "sourcePage": 1353,
+        "stem": "ww Which of the following structures does NOT pass through the inguinal canal:",
+        "options": [
+          "Genital branch of genitofemoral nerve",
+          "llioinguinal nerve 5%",
+          "Spermatic cord 2%",
+          "Round ligament 6%",
+          "Inferior epigastric artery"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The inferior epigastric artery does not pass through the inguinal canal. The inguinal canal contains: e the genital branch of the genitofemoral nerve (within the spermatic cord in men) e the spermatic cord in men e the round ligament in women e the ilioinguinal nerve (passes through part of the canal, exiting the superficial inguinal ring with the other contents) . / Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1353-q0053",
+        "sourcePage": 1353,
+        "stem": "Which of the following structures does NOT pass through the inguinal canal:",
+        "options": [
+          "Genital branch of genitofemoral nerve",
+          "Ilioinguinal nerve",
+          "Spermatic cord",
+          "Round ligament",
+          "Inferior epigastric artery"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The inferior epigastric artery does not pass through the inguinal canal; the other listed structures are contents or traverse part of it.",
+        "learningNote": "The inferior epigastric artery does not pass through the inguinal canal; the other listed structures are contents or traverse part of it.",
+        "highYieldNote": "The inferior epigastric artery does not pass through the inguinal canal; the other listed structures are contents or traverse part of it.",
+        "mnemonic": "Inferior epigastrics form the landmark, not a canal content.",
+        "memoryAid": {
+          "coreFact": "The inferior epigastric artery does not pass through the inguinal canal; the other listed structures are contents or traverse part of it.",
+          "mnemonic": "Inferior epigastrics form the landmark, not a canal content.",
+          "emojiCues": [
+            "🩸",
+            "🚫",
+            "↔️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "Source-confirmed anatomy fact",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK430685/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK430685/",
+        "externalFinding": "Source explanation identifies the inferior epigastric artery as the exception."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1354-q0054",
+      "sourcePage": 1354,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1354-q0054",
+        "sourcePage": 1354,
+        "stem": "w The spleen occupies which of the following abdominal regions:",
+        "options": [
+          "Right hypochondrium",
+          "Left hypochondrium",
+          "Epigastrium 1%",
+          "Left hypochondrium and epigastrium 10%",
+          "Left hypochondrium and left flank \"1%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The spleen lies in the left hypochondrium of the abdomen. . Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1354-q0054",
+        "sourcePage": 1354,
+        "stem": "The spleen occupies which of the following abdominal regions:",
+        "options": [
+          "Right hypochondrium",
+          "Left hypochondrium",
+          "Epigastrium",
+          "Left hypochondrium and epigastrium",
+          "Left hypochondrium and left flank"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The spleen lies in the left hypochondrium.",
+        "learningNote": "The spleen lies in the left hypochondrium.",
+        "highYieldNote": "The spleen lies in the left hypochondrium.",
+        "mnemonic": "Spleen sits on the left under the ribs.",
+        "memoryAid": {
+          "coreFact": "The spleen lies in the left hypochondrium.",
+          "mnemonic": "Spleen sits on the left under the ribs.",
+          "emojiCues": [
+            "⬅️",
+            "🫀",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK482235/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482235/",
+        "externalFinding": "NCBI places the spleen in the left hypochondriac region."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1355-q0055",
+      "sourcePage": 1355,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1355-q0055",
+        "sourcePage": 1355,
+        "stem": "The ejaculatory duct is formed by the union of which of the following structures:",
+        "options": [
+          "Ductus deferens and the prostatic urethra 4%",
+          "Ductus deferens and the epididymis 3%",
+          "Ductus deferens and prostatic ducts 171%",
+          "Ductus deferens and duct from the seminal vesicle",
+          "Prostatic ducts and duct from seminal vesicle 48%"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The ejaculatory duct is formed where the duct from the seminal vesicle joins the ductus deferens. The ejaculatory duct penetrates through the prostate gland to connect with the prostatic urethra. v",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1355-q0055",
+        "sourcePage": 1355,
+        "stem": "The ejaculatory duct is formed by the union of which of the following structures:",
+        "options": [
+          "Ductus deferens and the prostatic urethra",
+          "Ductus deferens and the epididymis",
+          "Ductus deferens and prostatic ducts",
+          "Ductus deferens and duct from the seminal vesicle",
+          "Prostatic ducts and duct from seminal vesicle"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The ejaculatory duct forms where the duct from the seminal vesicle joins the ductus deferens.",
+        "learningNote": "The ejaculatory duct forms where the duct from the seminal vesicle joins the ductus deferens.",
+        "highYieldNote": "The ejaculatory duct forms where the duct from the seminal vesicle joins the ductus deferens.",
+        "mnemonic": "Vas plus seminal vesicle makes ejaculatory duct.",
+        "memoryAid": {
+          "coreFact": "The ejaculatory duct forms where the duct from the seminal vesicle joins the ductus deferens.",
+          "mnemonic": "Vas plus seminal vesicle makes ejaculatory duct.",
+          "emojiCues": [
+            "🔗",
+            "🧬",
+            "➡️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK562291/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK562291/",
+        "externalFinding": "Standard male reproductive anatomy supports the displayed key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1356-q0056",
+      "sourcePage": 1356,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1356-q0056",
+        "sourcePage": 1356,
+        "stem": "ww Regarding the female urethra, which of the following statements is CORRECT:",
+        "options": [
+          "The urethra is longer in women than it is in men. 1%",
+          "The urethra begins at the apex of the bladder. 10%",
+          "The urethra opens in the vestibule that lies between the labia minora.",
+          "The inferior aspect of the urethra is bound to the posterior surface of the vagina. 4%",
+          "The internal urethral sphincter surrounds the urethra as it passes through the pelvic floor. 13%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "In women the urethra is short (about 4 cm long), beginning at the base of the bladder. It passes inferiorly through the urogenital diaphragm into the perineum before opening in the vestibule that lies between the labia minora. The inferior aspect of the urethra is bound to the anterior surface of the vagina and the urethral opening is anterior to the vaginal opening in the vestibule. The external urethral sphincter surrounds the urethra as it passes through the pelvic floor. 7 v",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1356-q0056",
+        "sourcePage": 1356,
+        "stem": "Regarding the female urethra, which of the following statements is CORRECT:",
+        "options": [
+          "The urethra is longer in women than it is in men.",
+          "The urethra begins at the apex of the bladder.",
+          "The urethra opens in the vestibule that lies between the labia minora.",
+          "The inferior aspect of the urethra is bound to the posterior surface of the vagina.",
+          "The internal urethral sphincter surrounds the urethra as it passes through the pelvic floor."
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The short female urethra opens into the vestibule between the labia minora; its inferior aspect is related to the anterior, not posterior, vaginal surface.",
+        "learningNote": "The short female urethra opens into the vestibule between the labia minora; its inferior aspect is related to the anterior, not posterior, vaginal surface.",
+        "highYieldNote": "The short female urethra opens into the vestibule between the labia minora; its inferior aspect is related to the anterior, not posterior, vaginal surface.",
+        "mnemonic": "Female urethra: short and vestibular.",
+        "memoryAid": {
+          "coreFact": "The short female urethra opens into the vestibule between the labia minora; its inferior aspect is related to the anterior, not posterior, vaginal surface.",
+          "mnemonic": "Female urethra: short and vestibular.",
+          "emojiCues": [
+            "♀️",
+            "⬇️",
+            "⭕"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK554601/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK554601/",
+        "externalFinding": "NCBI female genital anatomy supports the source statement."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1357-q0057",
+      "sourcePage": 1357,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1357-q0057",
+        "sourcePage": 1357,
+        "stem": "The arterial supply of the duodenum is primarily derived from which of the following:",
+        "options": [
+          "Superior mesenteric and inferior mesenteric artery 7%",
+          "Inferior mesenteric artery 1%",
+          "Left gastric artery and splenic artery 13%",
+          "Left gastric and superior mesenteric artery 13%",
+          "Gastroduodenal and superior mesenteric artery"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The arterial supply of the duodenum is primarily from the pancreaticoduodenal arteries, branches of the superior mesenteric artery and the gastroduodenal artery (branch of the common hepatic artery from the coeliac trunk). ° “ v",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1357-q0057",
+        "sourcePage": 1357,
+        "stem": "The arterial supply of the duodenum is primarily derived from which of the following:",
+        "options": [
+          "Superior mesenteric and inferior mesenteric artery",
+          "Inferior mesenteric artery",
+          "Left gastric artery and splenic artery",
+          "Left gastric and superior mesenteric artery",
+          "Gastroduodenal and superior mesenteric artery"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The duodenum receives pancreaticoduodenal branches from the gastroduodenal artery and the superior mesenteric artery.",
+        "learningNote": "The duodenum receives pancreaticoduodenal branches from the gastroduodenal artery and the superior mesenteric artery.",
+        "highYieldNote": "The duodenum receives pancreaticoduodenal branches from the gastroduodenal artery and the superior mesenteric artery.",
+        "mnemonic": "Duodenum spans coeliac and SMA territories.",
+        "memoryAid": {
+          "coreFact": "The duodenum receives pancreaticoduodenal branches from the gastroduodenal artery and the superior mesenteric artery.",
+          "mnemonic": "Duodenum spans coeliac and SMA territories.",
+          "emojiCues": [
+            "🩸",
+            "↔️",
+            "🌀"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK482390/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482390/",
+        "externalFinding": "NCBI supports gastroduodenal and SMA contributions."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1358-q0058",
+      "sourcePage": 1358,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1358-q0058",
+        "sourcePage": 1358,
+        "stem": "The union of the common bile duct and the pancreatic duct forms which of the following: Cystic duct (x) Hepatic duct Sphincter of Oddi Major papilla",
+        "options": [
+          "Ampulla of Vater"
+        ],
+        "correctOption": 0,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Fewer than two answer options were detected."
+        ],
+        "explanation": "As the common bile duct descends, it passes posterior to the first part of the duodenum before joining with the pancreatic duct from the pancreas, forming the hepatopancreatic ampulla (ampulla of Vater) at the major duodenal papilla, located in the second part of the duodenum.",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1358-q0058",
+        "sourcePage": 1358,
+        "stem": "The union of the common bile duct and the pancreatic duct forms which of the following:",
+        "options": [
+          "Cystic duct",
+          "Hepatic duct",
+          "Sphincter of Oddi",
+          "Major papilla",
+          "Ampulla of Vater"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The common bile duct and pancreatic duct unite to form the hepatopancreatic ampulla, or ampulla of Vater.",
+        "learningNote": "The common bile duct and pancreatic duct unite to form the hepatopancreatic ampulla, or ampulla of Vater.",
+        "highYieldNote": "The common bile duct and pancreatic duct unite to form the hepatopancreatic ampulla, or ampulla of Vater.",
+        "mnemonic": "Bile plus pancreatic duct equals Vater's ampulla.",
+        "memoryAid": {
+          "coreFact": "The common bile duct and pancreatic duct unite to form the hepatopancreatic ampulla, or ampulla of Vater.",
+          "mnemonic": "Bile plus pancreatic duct equals Vater's ampulla.",
+          "emojiCues": [
+            "🟡",
+            "🔗",
+            "⭕"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK532912/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532912/",
+        "externalFinding": "Standard pancreaticobiliary anatomy supports ampulla of Vater."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1359-q0059",
+      "sourcePage": 1359,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1359-q0059",
+        "sourcePage": 1359,
+        "stem": "A 29 year old man presents to ED with a painful lump in his left groin. Which of the following structures can be used to differentiate between a direct and an indirect inguinal hernia:",
+        "options": [
+          "Inguinal ligament 58% rove",
+          "Inferior epigastric vessels",
+          "Pubic symphysis 3%",
+          "Femoral artery 2%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "A direct inguinal hernia (in contrast to an indirect inguinal hernia) does not pass through the deep inguinal ring but directly through the posterior wall of the inguinal canal, through the lower portion of the inguinal triangle which is bordered laterally by the inferior epigastric vessels. Therefore an indirect inguinal hernia is lateral to the inferior epigastric vessels, but a direct inguinal hernia is medial to these vessels. , Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1359-q0059",
+        "sourcePage": 1359,
+        "stem": "A 29 year old man presents to ED with a painful lump in his left groin. Which of the following structures can be used to differentiate between a direct and an indirect inguinal hernia:",
+        "options": [
+          "Inguinal ligament",
+          "Femoral canal",
+          "Inferior epigastric vessels",
+          "Pubic symphysis",
+          "Femoral artery"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Indirect hernias lie lateral to the inferior epigastric vessels, whereas direct hernias lie medial to them.",
+        "learningNote": "Indirect hernias lie lateral to the inferior epigastric vessels, whereas direct hernias lie medial to them.",
+        "highYieldNote": "Indirect hernias lie lateral to the inferior epigastric vessels, whereas direct hernias lie medial to them.",
+        "mnemonic": "Indirect is lateral; direct is medial to epigastrics.",
+        "memoryAid": {
+          "coreFact": "Indirect hernias lie lateral to the inferior epigastric vessels, whereas direct hernias lie medial to them.",
+          "mnemonic": "Indirect is lateral; direct is medial to epigastrics.",
+          "emojiCues": [
+            "↔️",
+            "🩸",
+            "🚑"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "Source-confirmed anatomy fact",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK430685/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK430685/",
+        "externalFinding": "Source explanation directly supports the inferior epigastric landmark."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1360-q0060",
+      "sourcePage": 1360,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1360-q0060",
+        "sourcePage": 1360,
+        "stem": "ww The inferior vena cava lies posterior to which of the following parts of the duodenum:",
+        "options": [
+          "Second part (x) hird and fourth parts 1% (v’) First and third parts 20%",
+          "First and second parts 6%",
+          "Second and third parts 57%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The superior (first) part extends from the pyloric orifice of the stomach to the neck of the gallbladder, lies just to the right of the body of vertebra L1, and passes anterior to the inferior vena cava and superior to the head of the pancreas. The inferior (third) part is the longest section, crossing the inferior vena cava, the aorta and the vertebral column at the level of vertebra L3 and lying inferior to the pancreas. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1360-q0060",
+        "sourcePage": 1360,
+        "stem": "The inferior vena cava lies posterior to which of the following parts of the duodenum:",
+        "options": [
+          "Second part",
+          "Third and fourth parts",
+          "First and third parts",
+          "First and second parts",
+          "Second and third parts"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The first part of the duodenum passes anterior to the IVC and the third part crosses anterior to it, so the IVC lies posterior to the first and third parts in the source formulation.",
+        "learningNote": "The first part of the duodenum passes anterior to the IVC and the third part crosses anterior to it, so the IVC lies posterior to the first and third parts in the source formulation.",
+        "highYieldNote": "The first part of the duodenum passes anterior to the IVC and the third part crosses anterior to it, so the IVC lies posterior to the first and third parts in the source formulation.",
+        "mnemonic": "Duodenum: first and third cross in front of the IVC.",
+        "memoryAid": {
+          "coreFact": "The first part of the duodenum passes anterior to the IVC and the third part crosses anterior to it, so the IVC lies posterior to the first and third parts in the source formulation.",
+          "mnemonic": "Duodenum: first and third cross in front of the IVC.",
+          "emojiCues": [
+            "1️⃣",
+            "3️⃣",
+            "🩸"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "Source-confirmed anatomy fact",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK482390/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482390/",
+        "externalFinding": "Source explanation supports the displayed first-and-third formulation; wording retained exactly."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

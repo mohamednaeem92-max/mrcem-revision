@@ -1,0 +1,660 @@
+{
+  "generatedAt": "2026-08-27T20:40:59.239Z",
+  "batch": "anatomy-all-pdf-batch-67",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1876-q0032",
+      "sourcePage": 1876,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1876-q0032",
+        "sourcePage": 1876,
+        "stem": "ww Which of the following is most likely to cause a homonymous hemianopia:",
+        "options": [
+          "Pituitary adenoma (Vv) Posterior cerebral artery stroke 70%",
+          "Craniopharyngioma",
+          "Optic glioma"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "A posterior cerebral stroke will most likely result in a contralateral homonymous hemianopia with macular sparing. : : v Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1876-q0032",
+        "sourcePage": 1876,
+        "stem": "Which of the following is most likely to cause a homonymous hemianopia:",
+        "options": [
+          "Pituitary adenoma",
+          "Posterior cerebral artery stroke",
+          "Optic neuritis",
+          "Craniopharyngioma",
+          "Optic glioma"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "A posterior cerebral artery stroke affecting the occipital visual cortex can cause a contralateral homonymous hemianopia, often with macular sparing.",
+        "learningNote": "A posterior cerebral artery stroke affecting the occipital visual cortex can cause a contralateral homonymous hemianopia, often with macular sparing.",
+        "highYieldNote": "A posterior cerebral artery stroke affecting the occipital visual cortex can cause a contralateral homonymous hemianopia, often with macular sparing.",
+        "mnemonic": "PCA = Posterior Cortical Area: think contralateral field loss.",
+        "memoryAid": {
+          "coreFact": "A posterior cerebral artery stroke affecting the occipital visual cortex can cause a contralateral homonymous hemianopia, often with macular sparing.",
+          "mnemonic": "PCA = Posterior Cortical Area: think contralateral field loss.",
+          "emojiCues": [
+            "🧠",
+            "👁️",
+            "↔️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "Peer-reviewed PMC visual-pathway review",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8053434/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8053434/",
+        "externalFinding": "The review localizes homonymous hemianopia with macular sparing to the contralateral occipital lobe, supplied predominantly by the posterior cerebral artery."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1877-q0033",
+      "sourcePage": 1877,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1877-q0033",
+        "sourcePage": 1877,
+        "stem": "ww The right and left cerebral hemispheres are partially separated by which of the following structures:",
+        "options": [
+          "Precentral gyrus",
+          "Internal capsule (Vv) Longitudinal fissure 33% CMe",
+          "Lateral sulcus"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The left and right hemispheres are partially separated by a deep longitudinal fissure (and the falx cerebri of the dura mater which extends into the fissure). : ? Vv Cerebral Hemispheres ANATOMY / CENTRAL NERVOUS SYSTEM 01 Ranemare",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1877-q0033",
+        "sourcePage": 1877,
+        "stem": "The right and left cerebral hemispheres are partially separated by which of the following structures:",
+        "options": [
+          "Precentral gyrus",
+          "Internal capsule",
+          "Longitudinal fissure",
+          "Central sulcus",
+          "Lateral sulcus"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The median longitudinal fissure separates the right and left cerebral hemispheres; the falx cerebri occupies the fissure.",
+        "learningNote": "The median longitudinal fissure separates the right and left cerebral hemispheres; the falx cerebri occupies the fissure.",
+        "highYieldNote": "The median longitudinal fissure separates the right and left cerebral hemispheres; the falx cerebri occupies the fissure.",
+        "mnemonic": "Longitudinal = runs between the two long cerebral halves.",
+        "memoryAid": {
+          "coreFact": "The median longitudinal fissure separates the right and left cerebral hemispheres; the falx cerebri occupies the fissure.",
+          "mnemonic": "Longitudinal = runs between the two long cerebral halves.",
+          "emojiCues": [
+            "🧠",
+            "↔️",
+            "🪓"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf cerebral hemisphere anatomy",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK549789/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK549789/",
+        "externalFinding": "The deep longitudinal fissure separates the cerebral hemispheres, which remain connected by the corpus callosum."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1878-q0034",
+      "sourcePage": 1878,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1878-q0034",
+        "sourcePage": 1878,
+        "stem": "ww What type of visual field defect are you most likely to see in a lesion of the optic tract:",
+        "options": [
+          "Bitemporal hemianopia (x) Contralateral homonymous inferior quadrantanopia 1% (Vv) Contralateral homonymous hemianopia 80%",
+          "Contralateral homonymous superior quadrantanopia",
+          "Homonymous hemianopia with macular sparing"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "A lesion of the optic tract will result in a contralateral homonymous hemianopia. , Vv Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1878-q0034",
+        "sourcePage": 1878,
+        "stem": "What type of visual field defect are you most likely to see in a lesion of the optic tract:",
+        "options": [
+          "Bitemporal hemianopia",
+          "Contralateral homonymous inferior quadrantanopia",
+          "Contralateral homonymous hemianopia",
+          "Contralateral homonymous superior quadrantanopia",
+          "Homonymous hemianopia with macular sparing"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Each optic tract carries information from the contralateral visual field of both eyes, so an optic-tract lesion causes contralateral homonymous hemianopia.",
+        "learningNote": "Each optic tract carries information from the contralateral visual field of both eyes, so an optic-tract lesion causes contralateral homonymous hemianopia.",
+        "highYieldNote": "Each optic tract carries information from the contralateral visual field of both eyes, so an optic-tract lesion causes contralateral homonymous hemianopia.",
+        "mnemonic": "Tract takes the opposite track: optic tract = opposite homonymous loss.",
+        "memoryAid": {
+          "coreFact": "Each optic tract carries information from the contralateral visual field of both eyes, so an optic-tract lesion causes contralateral homonymous hemianopia.",
+          "mnemonic": "Tract takes the opposite track: optic tract = opposite homonymous loss.",
+          "emojiCues": [
+            "👁️",
+            "🛣️",
+            "↔️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "Peer-reviewed PMC visual-pathway review",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8053434/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8053434/",
+        "externalFinding": "The review’s localization table maps homonymous hemianopia to a contralateral optic-tract lesion."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1879-q0035",
+      "sourcePage": 1879,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1879-q0035",
+        "sourcePage": 1879,
+        "stem": "w Which of the following spinal tracts conveys nociceptive input from the contralateral side of the body: (Vv) Lateral spinothalamic tract 53%",
+        "options": [
+          "Posterior column (x) Posterior spinocerebellar tract 9%",
+          "Posterior corticospinal tract",
+          "Lateral corticospinal tract"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The lateral spinothalamic tract transmits pain and temperature sensation from the contralateral side of the body. Vv Spinal Cord Tracts ANATOMY / CENTRAL NERVOUS SYSTEM The spinal cord has numerous groups of nerve fibers going towards and coming from the brain. These",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1879-q0035",
+        "sourcePage": 1879,
+        "stem": "Which of the following spinal tracts conveys nociceptive input from the contralateral side of the body:",
+        "options": [
+          "Lateral spinothalamic tract",
+          "Posterior column",
+          "Posterior spinocerebellar tract",
+          "Posterior corticospinal tract",
+          "Lateral corticospinal tract"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The lateral spinothalamic tract carries pain and temperature information after the pathway crosses to the contralateral side of the spinal cord.",
+        "learningNote": "The lateral spinothalamic tract carries pain and temperature information after the pathway crosses to the contralateral side of the spinal cord.",
+        "highYieldNote": "The lateral spinothalamic tract carries pain and temperature information after the pathway crosses to the contralateral side of the spinal cord.",
+        "mnemonic": "Lateral STT = Lateral Sensation of Temperature and pain.",
+        "memoryAid": {
+          "coreFact": "The lateral spinothalamic tract carries pain and temperature information after the pathway crosses to the contralateral side of the spinal cord.",
+          "mnemonic": "Lateral STT = Lateral Sensation of Temperature and pain.",
+          "emojiCues": [
+            "🔥",
+            "❄️",
+            "🧵"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf spinothalamic tract review",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK507824/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK507824/",
+        "externalFinding": "The lateral spinothalamic pathway carries pain and temperature; these pathways cross and ascend contralaterally."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1880-q0036",
+      "sourcePage": 1880,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1880-q0036",
+        "sourcePage": 1880,
+        "stem": "ww Which of the following best describes the function of the foramen of Monro:",
+        "options": [
+          "Major site of production of CSF (Vv) Connects the lateral ventricles to the third ventricle 65% (x)oi ains CSF into the subarachnoid cisterns 9%",
+          "Connects the third ventricle to the fourth ventricle",
+          "Connects the right and left lateral ventricles"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The lateral ventricles are connected to the third ventricle by the interventricular foramen (of Monro). , ; Vv Cerebral Ventricles ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1880-q0036",
+        "sourcePage": 1880,
+        "stem": "Which of the following best describes the function of the foramen of Monro:",
+        "options": [
+          "Major site of production of CSF",
+          "Connects the lateral ventricles to the third ventricle",
+          "Drains CSF into the subarachnoid cisterns",
+          "Connects the third ventricle to the fourth ventricle",
+          "Connects the right and left lateral ventricles"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The interventricular foramina of Monro connect each lateral ventricle with the third ventricle and allow CSF to pass between them.",
+        "learningNote": "The interventricular foramina of Monro connect each lateral ventricle with the third ventricle and allow CSF to pass between them.",
+        "highYieldNote": "The interventricular foramina of Monro connect each lateral ventricle with the third ventricle and allow CSF to pass between them.",
+        "mnemonic": "Monro means ‘moves’ CSF from lateral ventricles to the midline third ventricle.",
+        "memoryAid": {
+          "coreFact": "The interventricular foramina of Monro connect each lateral ventricle with the third ventricle and allow CSF to pass between them.",
+          "mnemonic": "Monro means ‘moves’ CSF from lateral ventricles to the midline third ventricle.",
+          "emojiCues": [
+            "💧",
+            "➡️",
+            "🧠"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf ventricular-system anatomy",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+        "externalFinding": "The ventricular-system reference states that each lateral ventricle communicates with the third ventricle through the interventricular foramen of Monro."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1881-q0037",
+      "sourcePage": 1881,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1881-q0037",
+        "sourcePage": 1881,
+        "stem": "ww A71 year old man walks into ED following a fall. He is complaining of neck pain and weakness affecting his upper limbs only. Which of the following spinal cord lesions is most likely:",
+        "options": [
+          "Complete cord transection (x) Brown-Sequard syndrome 4% Vv) Central cord syndrome 28%",
+          "Anterior cord syndrome",
+          "Lateral cord syndrome"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Central cord syndrome (CCS) is marked by a disproportionately greater impairment of motor function in the upper extremities than in the lower ones, as well as by bladder dysfunction and a variable amount of sensory loss below the injury level. Vv Spinal Cord Tracts",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1881-q0037",
+        "sourcePage": 1881,
+        "stem": "A 71 year old man walks into ED following a fall. He is complaining of neck pain and weakness affecting his upper limbs only. Which of the following spinal cord lesions is most likely:",
+        "options": [
+          "Complete cord transection",
+          "Brown-Sequard syndrome",
+          "Central cord syndrome",
+          "Anterior cord syndrome",
+          "Lateral cord syndrome"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Central cord syndrome typically follows cervical hyperextension in an older patient and causes motor weakness that is greater in the upper than the lower limbs, often with bladder dysfunction.",
+        "learningNote": "Central cord syndrome typically follows cervical hyperextension in an older patient and causes motor weakness that is greater in the upper than the lower limbs, often with bladder dysfunction.",
+        "highYieldNote": "Central cord syndrome typically follows cervical hyperextension in an older patient and causes motor weakness that is greater in the upper than the lower limbs, often with bladder dysfunction.",
+        "mnemonic": "Central cord: hands are hit harder than legs.",
+        "memoryAid": {
+          "coreFact": "Central cord syndrome typically follows cervical hyperextension in an older patient and causes motor weakness that is greater in the upper than the lower limbs, often with bladder dysfunction.",
+          "mnemonic": "Central cord: hands are hit harder than legs.",
+          "emojiCues": [
+            "🧓",
+            "↩️",
+            "✋"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf central cord syndrome review",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK441932/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK441932/",
+        "externalFinding": "The reference describes older adults after low-energy cervical hyperextension with disproportionately greater upper-extremity motor deficits."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1882-q0038",
+      "sourcePage": 1882,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1882-q0038",
+        "sourcePage": 1882,
+        "stem": "ww The thalamus surrounds which of the following structures:",
+        "options": [
+          "Lateral ventricles (/) Third ventricle a",
+          "Fourth ventricle",
+          "Pons"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The thalamus is a wedge-shaped structure surrounding the third ventricle and made up of at least 50 thalamic nuclei. Vv Thalamus ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1882-q0038",
+        "sourcePage": 1882,
+        "stem": "The thalamus surrounds which of the following structures:",
+        "options": [
+          "Lateral ventricles",
+          "Cerebellum",
+          "Third ventricle",
+          "Fourth ventricle",
+          "Pons"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The paired thalami form the upper and lateral walls around the third ventricle.",
+        "learningNote": "The paired thalami form the upper and lateral walls around the third ventricle.",
+        "highYieldNote": "The paired thalami form the upper and lateral walls around the third ventricle.",
+        "mnemonic": "Third is between the two thalami: thalamus hugs the third ventricle.",
+        "memoryAid": {
+          "coreFact": "The paired thalami form the upper and lateral walls around the third ventricle.",
+          "mnemonic": "Third is between the two thalami: thalamus hugs the third ventricle.",
+          "emojiCues": [
+            "🧠",
+            "🫂",
+            "3️⃣"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf thalamic anatomy",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK542184/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK542184/",
+        "externalFinding": "The thalamus reference states that the thalamus forms the upper and lateral walls of the third ventricle."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1885-q0039",
+      "sourcePage": 1885,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1885-q0039",
+        "sourcePage": 1885,
+        "stem": "ww The primary auditory cortex is located in which of the following regions:",
+        "options": [
+          "Occipital lobe",
+          "Frontal lobe (Vv) Temporal lobe 83%",
+          "Brainstem"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The primary auditory cortex is located in the temporal lobe. The primary auditory cortex and auditory association area are important for perception and recognition of auditory stimuli. v Temporal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1885-q0039",
+        "sourcePage": 1885,
+        "stem": "The primary auditory cortex is located in which of the following regions:",
+        "options": [
+          "Occipital lobe",
+          "Parietal lobe",
+          "Frontal lobe",
+          "Temporal lobe",
+          "Brainstem"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The primary auditory cortex is located in the superior temporal gyrus of the temporal lobe.",
+        "learningNote": "The primary auditory cortex is located in the superior temporal gyrus of the temporal lobe.",
+        "highYieldNote": "The primary auditory cortex is located in the superior temporal gyrus of the temporal lobe.",
+        "mnemonic": "Temporal = time and tone: hearing belongs to the temporal lobe.",
+        "memoryAid": {
+          "coreFact": "The primary auditory cortex is located in the superior temporal gyrus of the temporal lobe.",
+          "mnemonic": "Temporal = time and tone: hearing belongs to the temporal lobe.",
+          "emojiCues": [
+            "👂",
+            "⏱️",
+            "🎵"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf cerebral hemisphere anatomy",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK549789/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK549789/",
+        "externalFinding": "The cerebral-hemisphere reference locates the primary auditory cortex in the superior temporal gyrus."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1886-q0040",
+      "sourcePage": 1886,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1886-q0040",
+        "sourcePage": 1886,
+        "stem": "ww The primary somatosensory cortex is located in which of the following regions:",
+        "options": [
+          "Occipital lobe",
+          "Parietal lobe",
+          "Frontal lobe",
+          "Temporal lobe",
+          "Brainstem"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The primary somatosensory cortex is located in the postcentral gyrus of the parietal lobe and is concerned with perceiving complex somatosensory stimuli from the contralateral side of the face and body. Together with the somatosensory association cortex, these areas are responsible for sensation and proprioception, and visuo-spatial perception. ; Vv Parietal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1886-q0040",
+        "sourcePage": 1886,
+        "stem": "The primary somatosensory cortex is located in which of the following regions:",
+        "options": [
+          "Occipital lobe",
+          "Parietal lobe",
+          "Frontal lobe",
+          "Temporal lobe",
+          "Brainstem"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The primary somatosensory cortex lies in the postcentral gyrus of the parietal lobe and processes somatic sensation from the contralateral body.",
+        "learningNote": "The primary somatosensory cortex lies in the postcentral gyrus of the parietal lobe and processes somatic sensation from the contralateral body.",
+        "highYieldNote": "The primary somatosensory cortex lies in the postcentral gyrus of the parietal lobe and processes somatic sensation from the contralateral body.",
+        "mnemonic": "POSTcentral = sensory; it is posterior in the parietal lobe.",
+        "memoryAid": {
+          "coreFact": "The primary somatosensory cortex lies in the postcentral gyrus of the parietal lobe and processes somatic sensation from the contralateral body.",
+          "mnemonic": "POSTcentral = sensory; it is posterior in the parietal lobe.",
+          "emojiCues": [
+            "✋",
+            "🧠",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf cerebral hemisphere anatomy",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK549789/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK549789/",
+        "externalFinding": "The reference locates the primary somatosensory cortex in the postcentral gyrus immediately posterior to the central sulcus, within the parietal lobe."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1887-q0041",
+      "sourcePage": 1887,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1887-q0041",
+        "sourcePage": 1887,
+        "stem": "ww Which of the following best describes the position of the frontal lobe:",
+        "options": [
+          "Anterior to the parieto-occipital sulcus (Vv) Anterior to the central sulcus and superior to the lateral sulcus 46%",
+          "Posterior to the central sulcus and superior to the lateral sulcus",
+          "Anterior to the central sulcus and inferior to the lateral sulcus",
+          "Posterior to the central sulcus and inferior to the lateral sulcus"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The frontal lobe extends from the central sulcus to the frontal pole and lies anterior to the central sulcus and superior to the lateral sulcus. . Vv Frontal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1887-q0041",
+        "sourcePage": 1887,
+        "stem": "Which of the following best describes the position of the frontal lobe:",
+        "options": [
+          "Anterior to the parieto-occipital sulcus",
+          "Anterior to the central sulcus and superior to the lateral sulcus",
+          "Posterior to the central sulcus and superior to the lateral sulcus",
+          "Anterior to the central sulcus and inferior to the lateral sulcus",
+          "Posterior to the central sulcus and inferior to the lateral sulcus"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The frontal lobe lies anterior to the central sulcus and superior to the lateral sulcus (lateral fissure).",
+        "learningNote": "The frontal lobe lies anterior to the central sulcus and superior to the lateral sulcus (lateral fissure).",
+        "highYieldNote": "The frontal lobe lies anterior to the central sulcus and superior to the lateral sulcus (lateral fissure).",
+        "mnemonic": "Frontal is in front of central and above lateral.",
+        "memoryAid": {
+          "coreFact": "The frontal lobe lies anterior to the central sulcus and superior to the lateral sulcus (lateral fissure).",
+          "mnemonic": "Frontal is in front of central and above lateral.",
+          "emojiCues": [
+            "⬆️",
+            "➡️",
+            "🧠"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf cerebral cortex anatomy",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK575742/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK575742/",
+        "externalFinding": "The anatomy chapter states that the frontal lobe lies anterior to the central sulcus and above the lateral sulcus."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

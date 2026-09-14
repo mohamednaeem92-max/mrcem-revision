@@ -1,0 +1,340 @@
+{
+  "exportedAt": "2026-08-27T04:27:57.945Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-64",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1773,
+      1774,
+      1780,
+      1783,
+      1789,
+      1792,
+      1795,
+      1800,
+      1806,
+      1812
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1773-q0080",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "w A 54 year old man presents to ED with severe headaches and vomiting. Imaging shows a tumour causing compression at the jugular foramen. Which of the following clinical features would you most expect to see in this patient:",
+      "options": [
+        "Inability to close the eye",
+        "Loss of sensation over the face",
+        "Loss of gag reflex",
+        "Loss of hearing"
+      ],
+      "correctOption": 2,
+      "explanation": "Both the glossopharyngeal nerve (afferent pathway of gag reflex) and the vagus nerve (efferent pathway of gag reflex), together with the spinal accessory nerve exit the skull through the jugular foramen. Hearing is primarily a function of the vestibulocochlear nerve. Sensation of the face is supplied by the trigeminal nerve. Muscles of facial expression (including those responsible for closing the eye) are innervated by the facial nerve. Tongue movements are primarily a function of the hypoglossal nerve. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1773,
+      "sourceQuestionNumber": 80
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1774-q0001",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "Which of the following best describes the position of the temporal lobe: (x) Posterior to the parieto-occipital sulcus 4%",
+      "options": [
+        "Anterior to the central sulcus and superior to the lateral sulcus",
+        "Posterior to the central sulcus and superior to the lateral sulcus",
+        "Inferior to the lateral sulcus",
+        "Inferior to the parieto-occipital sulcus"
+      ],
+      "correctOption": 2,
+      "explanation": "The temporal lobe extends from the temporal pole to the occipital lobe and lies inferior to the lateral sulcus. v Temporal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1774,
+      "sourceQuestionNumber": 1
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1780-q0002",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww A 31 year old male presents to ED with a head injury. Rhinorrhoea will most likely result from fracture of which of the following bones:",
+      "options": [
+        "Frontal",
+        "Lacrimal",
+        "ethmoia",
+        "Palatine"
+      ],
+      "correctOption": 2,
+      "explanation": "Rhinorrhoea will most likely result from a fracture of the cribriform plate of the ethmoid bone, which can tear the arachnoid membrane and result in leakage of CSF into the nasal cavity. Vv Cerebrospinal Fluid ANATOMY / CENTRAL NERVOUS SYSTEM 01 Ranemare",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1780,
+      "sourceQuestionNumber": 2
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1783-q0003",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The primary motor cortex is located in which of the following regions:",
+      "options": [
+        "Occipital lobe (x) Parietal lobe 5% (’) Frontal lobe 43%",
+        "Temporal lobe",
+        "Brainstem"
+      ],
+      "correctOption": null,
+      "explanation": "The primary motor cortex is located in the precentral gyrus of the frontal lobe and is responsible for voluntary movements of muscles of the opposite side of the body. Vv Frontal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1783,
+      "sourceQuestionNumber": 3
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1789-q0004",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww A74 year old man presents with a three month history of worsening left shoulder and arm pain. On examination there is weakness of shoulder abduction and reduced sensation over the deltoid. You suspect cervical radiculopathy. What level of the cervical spine is most likely to be affected:",
+      "options": [
+        "C3",
+        "G7",
+        "cs"
+      ],
+      "correctOption": null,
+      "explanation": "The C5 nerve root is most likely affected. : Vv Myotomes and Reflexes ANATOMY / CENTRAL NERVOUS SYSTEM / LOWER LIMB / INNERVATION OF LOWER LIMB /",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1789,
+      "sourceQuestionNumber": 4
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1792-q0005",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "w A 23 year old man is involved in a road traffic collision and sustains a lumbar fracture. On examination you note he is unable to extend his big toe. Which of the following spinal nerve roots has most likely been affected:",
+      "options": [
+        "L3 %",
+        "s1",
+        "s2 %"
+      ],
+      "correctOption": null,
+      "explanation": "The L5 nerve root has most likely been affected. v Myotomes and Reflexes ANATOMY / CENTRAL NERVOUS SYSTEM / LOWER LIMB / INNERVATION OF LOWER LIMB / UPPER LIMB / INNERVATION OF UPPER LIMB",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1792,
+      "sourceQuestionNumber": 5
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1795-q0006",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The two cerebral hemispheres are connected by which of the following structures:",
+      "options": [
+        "Internal capsule (Vv) Corpus callosum 45%",
+        "Aqueduct",
+        "Medulla oblongata",
+        "Substantia nigra %"
+      ],
+      "correctOption": null,
+      "explanation": "The two cerebral hemispheres are connected by a white matter structure, called the corpus callosum. : / v Cerebral Hemispheres ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1795,
+      "sourceQuestionNumber": 6
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1800-q0007",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The Wernicke's speech area is located in which of the following regions:",
+      "options": [
+        "Occipital lobe",
+        "Frontal lobe Vv) Temporal lobe 78%",
+        "Brainstem"
+      ],
+      "correctOption": null,
+      "explanation": "The Wernicke's speech area, in the temporal lobe of the dominant hemisphere, is responsible for comprehension of written and spoken language. Damage to this area results in a receptive dysphasia. : : v Temporal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1800,
+      "sourceQuestionNumber": 7
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1806-q0008",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "w A 55 year old woman presents to ED complaining of headaches. On examination the patient is found to have weakness of the left side of her body and her eyes are deviated towards the right hand side. The lesion is most likely to be in the: (Vv) Frontal lobe 35%",
+      "options": [
+        "Temporal lobe",
+        "Parietal lobe",
+        "Cerebellum"
+      ],
+      "correctOption": null,
+      "explanation": "Contralateral weakness of the body results from damage to the primary motor cortex, in this case the right side. Conjugate eye deviation towards the side of the lesion results from damage to the frontal eye field. v Frontal Lobe",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1806,
+      "sourceQuestionNumber": 8
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1812-q0009",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following is NOT a typical cerebellar sign:",
+      "options": [
+        "Dysdiadochokinesia",
+        "Nystagmus",
+        "Intention tremor",
+        "Hypertonia",
+        "Scanning/staccato speech N%"
+      ],
+      "correctOption": 3,
+      "explanation": "Hypotonia is characteristic of cerebellar dysfunction. : / v Cerebellum ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1812,
+      "sourceQuestionNumber": 9
+    }
+  ]
+}

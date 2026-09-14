@@ -1,0 +1,404 @@
+{
+  "generatedAt": "2026-08-23T16:18:19.432Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0696-q0004",
+      "sourcePage": 696,
+      "before": {
+        "stem": "Which of the following best describes the relationship of the prostate gland and rectum: (x) e prostate gland lies superior to the rectum. 5%",
+        "options": [
+          "The prostate gland lies inferior to the rectum.",
+          "The prostate gland lies posterior to the rectum.",
+          "The prostate gland is not in relation to the rectum."
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "Which of the following best describes the relationship of the prostate gland and rectum?",
+        "options": [
+          "The prostate gland lies superior to the rectum.",
+          "The prostate gland lies inferior to the rectum.",
+          "The prostate gland lies anterior to the rectum.",
+          "The prostate gland lies posterior to the rectum.",
+          "The prostate gland is not in relation to the rectum."
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK540987/",
+        "externalFinding": "NCBI describes the rectum as a posterior relation of the prostate, separated by Denonvilliers fascia."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0700-q0005",
+      "sourcePage": 700,
+      "before": {
+        "stem": "Ad The parasympathetic supply to the rectum is from which of the following:",
+        "options": [
+          "Superior hypogastric plexus 2%",
+          "Pelvic splanchnic nerves",
+          "Lumbar splanchnic nerves 13% Cee rowvemne",
+          "Sacral splanchnic nerves 19%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The parasympathetic supply to the rectum is from which nerves?",
+        "options": [
+          "Superior hypogastric plexus",
+          "Pelvic splanchnic nerves",
+          "Lumbar splanchnic nerves",
+          "Inferior hypogastric nerves",
+          "Sacral splanchnic nerves"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK560504/",
+        "externalFinding": "NCBI identifies pelvic splanchnic nerves as parasympathetic nerves supplying the rectum and other pelvic viscera."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0710-q0007",
+      "sourcePage": 710,
+      "before": {
+        "stem": "we Regarding the rectum, which of the following statements is CORRECT:",
+        "options": [
+          "The rectum is continuous with the rectosigmoid junction at the level of vertebra S2. (x) The rectum is connected to the posterior abdominal wall by the sigmoid mesocolon. 5%",
+          "The rectum is the most posterior viscera in the pelvic cavity.",
+          "The rectum lies immediately posterior to the bladder in women. 4%",
+          "The rectum is an intraperitoneal structure. 55%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Regarding the rectum, which statement is correct?",
+        "options": [
+          "The rectum is continuous with the rectosigmoid junction at the level of vertebra S2.",
+          "The rectum is connected to the posterior abdominal wall by the sigmoid mesocolon.",
+          "The rectum is the most posterior viscera in the pelvic cavity.",
+          "The rectum lies immediately posterior to the bladder in women.",
+          "The rectum is an intraperitoneal structure."
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537245/",
+        "externalFinding": "NCBI explicitly identifies the rectum as the most posterior visceral organ in the pelvic cavity."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0715-q0008",
+      "sourcePage": 715,
+      "before": {
+        "stem": "The uterine visceral afferent fibres usually follow sympathetic efferents to which of the following spinal cord segments:",
+        "options": [
+          "m10-11",
+          "T9-T12 Be",
+          "Li-L3 19%",
+          "L2-L4 20%",
+          "T5-19 we"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Uterine visceral afferent fibres usually follow sympathetic efferents to which spinal cord segments?",
+        "options": [
+          "T10–L1",
+          "T9–T12",
+          "L1–L3",
+          "L2–L4",
+          "T5–T9"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4119661/",
+        "externalFinding": "A peer-reviewed review identifies T10-L1 visceral pain afferents for the uterus, adnexa, and cervix."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0719-q0009",
+      "sourcePage": 719,
+      "before": {
+        "stem": "The posterior wall of the inguinal canal is formed primarily by which of the following structures:",
+        "options": [
+          "Transversus abdominis muscle",
+          "External oblique aponeurosis 8%",
+          "Transversalis fascia 7A%",
+          "External oblique muscle 2%",
+          "Internal oblique muscle 6%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The posterior wall of the inguinal canal is formed primarily by which structure?",
+        "options": [
+          "Transversus abdominis muscle",
+          "External oblique aponeurosis",
+          "Transversalis fascia",
+          "External oblique muscle",
+          "Internal oblique muscle"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470204/",
+        "externalFinding": "NCBI identifies the posterior inguinal-canal wall as transversalis fascia with medial conjoint-tendon reinforcement."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0692-q0003",
+      "sourcePage": 692,
+      "before": {
+        "stem": "The arterial supply to the jejunum and ileum is derived predominantly from which of the following: Coeliac trunk Superior mesenteric artery Inferior mesenteric artery Renal artery Lumbar artery a Py v2 OX OO —CSsSC“‘(CS",
+        "options": [],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Fewer than two answer options were detected.",
+          "No marked correct option was detected.",
+          "Explanation is missing or too short after OCR parsing."
+        ]
+      },
+      "after": {
+        "stem": "The arterial supply to the jejunum and ileum is derived predominantly from which artery?",
+        "options": [
+          "Coeliac trunk",
+          "Superior mesenteric artery",
+          "Inferior mesenteric artery",
+          "Renal artery",
+          "Lumbar artery"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but no marked answer is displayed; no correct option is inferred."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532972/",
+        "externalFinding": "The source screenshot shows no answer mark; no source key is inferred even though external anatomy describes superior-mesenteric supply to the jejunum and ileum."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0705-q0006",
+      "sourcePage": 705,
+      "before": {
+        "stem": "The ureters enter the bladder through which of the following:",
+        "options": [
+          "Superior surface",
+          "Inferolateral surface",
+          "Apex",
+          "Inferior base"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The ureters enter the bladder through which part?",
+        "options": [
+          "Superior surface",
+          "Inferolateral surface",
+          "Apex",
+          "Superior base",
+          "Inferior base"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but the exact answer label “superior base” is not sufficiently corroborated by the evidence reviewed."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK531465/",
+        "externalFinding": "NCBI describes the bladder base as posteroinferior and the ureterovesical junction, but does not validate the source option wording “superior base.”"
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0723-q0010",
+      "sourcePage": 723,
+      "before": {
+        "stem": "ww The arterial supply to the pancreas is mainly derived from which of the following: oO",
+        "options": [
+          "Splenic artery",
+          "Hepatic artery 4%",
+          "Renal artery 1%",
+          "Inferior mesenteric artery 52%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The arterial supply to the pancreas is mainly derived from which artery?",
+        "options": [
+          "Gastric artery",
+          "Splenic artery",
+          "Hepatic artery",
+          "Renal artery",
+          "Inferior mesenteric artery"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but external evidence describes multi-arterial pancreatic supply and does not sufficiently corroborate the isolated source formulation."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532912/",
+        "externalFinding": "NCBI identifies pancreatic branches from the splenic artery, superior mesenteric artery, and common hepatic artery; the exact isolated main-source formulation is not restored."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0731-q0012",
+      "sourcePage": 731,
+      "before": {
+        "stem": "w The kidneys are related posteriorly to all of the following structures EXCEPT for the:",
+        "options": [
+          "Diaphragm 10%",
+          "Psoas major muscle 4%",
+          "Quadratus lumborum muscle 4%",
+          "lliacus muscle"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The kidneys are related posteriorly to all of the following structures except which?",
+        "options": [
+          "Diaphragm",
+          "Psoas major muscle",
+          "Quadratus lumborum muscle",
+          "Transversus abdominis muscle",
+          "Iliacus muscle"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but the full exact all-except relation is not sufficiently corroborated by the evidence reviewed."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482385/",
+        "externalFinding": "NCBI corroborates several posterior kidney relations but does not directly establish the source’s full all-except formulation with iliacus."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0737-q0013",
+      "sourcePage": 737,
+      "before": {
+        "stem": "Which of the following lies immediately medial to the second part of the duodenum:",
+        "options": [
+          "Transverse colon",
+          "Spleen (x) Right kidney 3%",
+          "Stomach"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "Which structure lies immediately medial to the second part of the duodenum?",
+        "options": [
+          "Transverse colon",
+          "Spleen",
+          "Right kidney",
+          "Head of the pancreas",
+          "Stomach"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but no marked answer is displayed; no correct option is inferred."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532912/",
+        "externalFinding": "The source screenshot shows no answer mark; the head of the pancreas is not restored as a key despite external anatomic support."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

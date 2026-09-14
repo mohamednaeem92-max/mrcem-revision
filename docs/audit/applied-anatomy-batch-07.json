@@ -1,0 +1,340 @@
+{
+  "generatedAt": "2026-08-22T15:11:31.725Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0262-q0064",
+      "sourcePage": 262,
+      "before": {
+        "stem": "we A311 year old man is brought to ED following a road traffic accident in which he was wearing his seatbelt. Imaging shows a fracture of the left ninth and tenth rib with intra-abdominal bleeding. Which of the following organs is most likely injured:",
+        "options": [
+          "Liver 2%",
+          "Pancreas 0% (v’) Spleen 94%",
+          "Left kidney 3%",
+          "Left colic flexure 1%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "An adult man has left ninth- and tenth-rib fractures after a road-traffic collision with intra-abdominal bleeding. Which organ is most likely injured?",
+        "options": [
+          "Liver",
+          "Pancreas",
+          "Spleen",
+          "Left kidney",
+          "Left colic flexure"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482235/",
+        "externalFinding": "The spleen typically spans ribs 9-11 and left rib fracture can precipitate splenic injury."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0266-q0065",
+      "sourcePage": 266,
+      "before": {
+        "stem": "Regarding the internal oblique muscle, which of the following statements is CORRECT:",
+        "options": [
+          "The lower free border of the internal oblique aponeurosis forms the inguinal ligament. 8%",
+          "The internal oblique lies deep to the transversus abdominis muscle. 5% (x) its fibres run in a inferomedial direction. Ws",
+          "It originates from the medial third of the inguinal ligament. 5%",
+          "It inserts onto the lower 3 - 4 ribs and the pubic crest."
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "Regarding the internal oblique muscle, which statement is correct?",
+        "options": [
+          "The lower free border of the internal-oblique aponeurosis forms the inguinal ligament.",
+          "The internal oblique lies deep to transversus abdominis.",
+          "Its fibres run inferomedially.",
+          "It originates from the medial third of the inguinal ligament.",
+          "It inserts onto the lower 3-4 ribs and the pubic crest."
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK525975/",
+        "externalFinding": "Internal oblique courses superomedially and inserts on lower-rib cartilage and pubic tubercle."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0269-q0066",
+      "sourcePage": 269,
+      "before": {
+        "stem": "ww A 21 year old man presents to ED complaining of a scrotal lump. Imaging demonstrates a testicular tumour. The lymphatic drainage of the testis is to which of the following:",
+        "options": [
+          "Internal iliac nodes 53%",
+          "External iliac nodes 1%",
+          "Superficial inguinal nodes 5%",
+          "Deep inguinal nodes",
+          "Para-aortic nodes"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "A man has a testicular tumour. To which lymph nodes does the testis primarily drain?",
+        "options": [
+          "Internal iliac nodes",
+          "External iliac nodes",
+          "Superficial inguinal nodes",
+          "Deep inguinal nodes",
+          "Para-aortic nodes"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557720/",
+        "externalFinding": "Para-aortic nodes drain the testes, whereas superficial inguinal nodes drain the scrotum."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0272-q0067",
+      "sourcePage": 272,
+      "before": {
+        "stem": "ww The ilioinguinal nerve is formed from the anterior rami of:",
+        "options": [
+          "u",
+          "{4 =L2 61%",
+          "L2 1% SE",
+          "L4 1%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The ilioinguinal nerve is formed from the anterior ramus of which spinal nerve?",
+        "options": [
+          "L1",
+          "L1-L2",
+          "L2",
+          "L2-L3",
+          "L4"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470204/",
+        "externalFinding": "The ilioinguinal nerve is a branch of L1."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0277-q0068",
+      "sourcePage": 277,
+      "before": {
+        "stem": "w The retroduodenal region of the common bile duct:",
+        "options": [
+          "lies left of the gastroduodenal artery. 3% (x) lies posterior to the portal vein. 4%",
+          "lies posterior to the first part of the duodenum",
+          "empties directly into the major duodenal papilla. 4%",
+          "lies posterior to the second part of the duodenum. 62%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The retroduodenal part of the common bile duct has which relation?",
+        "options": [
+          "It lies left of the gastroduodenal artery.",
+          "It lies posterior to the portal vein.",
+          "It lies posterior to the first part of the duodenum.",
+          "It empties directly into the major duodenal papilla.",
+          "It lies posterior to the second part of the duodenum."
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4244820/",
+        "externalFinding": "The retroduodenal CBD passes behind the superior duodenum, right of the GDA and anterior to portal vein."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0280-q0069",
+      "sourcePage": 280,
+      "before": {
+        "stem": "ww Which of the following structures is NOT retroperitoneal:",
+        "options": [
+          "Rectum 6%",
+          "Ureters 4%",
+          "Tail of pancreas",
+          "Kidneys 1%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "Which listed structure is not retroperitoneal?",
+        "options": [
+          "Rectum",
+          "Inferior vena cava",
+          "Ureters",
+          "Tail of pancreas",
+          "Kidneys"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK545243/",
+        "externalFinding": "The pancreatic tail enters the peritoneum near the splenic hilum and is intraperitoneal."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0292-q0072",
+      "sourcePage": 292,
+      "before": {
+        "stem": "A 26 year old woman is brought to ED following a road traffic accident. Focussed assessment for sonography in trauma (FAST) on the supine patient demonstrates free intraperitoneal fluid. Which of the following spaces is most likely to be affected:",
+        "options": [
+          "Vesicouterine recess",
+          "Left paracolic gutter",
+          "Subphrenic recess"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "A supine patient has free intraperitoneal fluid on FAST after trauma. Which listed space is most likely involved?",
+        "options": [
+          "Hepatorenal recess",
+          "Vesicouterine recess",
+          "Rectouterine recess",
+          "Left paracolic gutter",
+          "Subphrenic recess"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9968550/",
+        "externalFinding": "Morison's pouch is the dependent hepatorenal space assessed in the eFAST right-upper-quadrant view."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0296-q0073",
+      "sourcePage": 296,
+      "before": {
+        "stem": "A 21 year old female presents to ED complaining of acute severe pelvic pain. She reports she has not had a period for 6 weeks which is not normal for her. A urine pregnancy test is positive. Which of the following is the most common site of an ectopic pregnancy:",
+        "options": [
+          "Cervix (x) The mesentery 1%",
+          "Vagina",
+          "Ovaries"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "A woman with acute pelvic pain, amenorrhoea, and a positive pregnancy test is suspected to have an ectopic pregnancy. What is the most common site?",
+        "options": [
+          "Cervix",
+          "Uterine tubes",
+          "Mesentery",
+          "Vagina",
+          "Ovaries"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK547660/",
+        "externalFinding": "The ampulla of the uterine tube is the most common ectopic-pregnancy site."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0283-q0070",
+      "sourcePage": 283,
+      "before": {
+        "stem": "Which of the following structures is NOT a posterior relation of the transverse colon:",
+        "options": [
+          "Second part of duodenum",
+          "Upper end of mesentery",
+          "Duodenojejunal flexure"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "Which structure is not a posterior relation of the transverse colon?",
+        "options": [
+          "Second part of duodenum",
+          "Head of pancreas",
+          "Upper end of mesentery",
+          "Duodenojejunal flexure",
+          "Spleen"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected.",
+          "Source page reviewed, but the exact full posterior-relation set for the transverse colon was not directly corroborated by an authoritative external source. This source-marked record remains excluded from answer learning."
+        ]
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0288-q0071",
+      "sourcePage": 288,
+      "before": {
+        "stem": "ww In men, the internal urethral sphincter surrounds which of the following structures:",
+        "options": [
+          "Preprostatic urethra",
+          "Membranous urethra 60%",
+          "Spongy urethra 3%",
+          "Distal ureter 1%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "In men, the internal urethral sphincter surrounds which structure?",
+        "options": [
+          "Preprostatic urethra",
+          "Prostatic urethra",
+          "Membranous urethra",
+          "Spongy urethra",
+          "Distal ureter"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "Source page reviewed, but the available authoritative source confirms the internal urethral sphincter at the bladder neck without directly corroborating the source's exact preprostatic-segment wording. This record remains excluded from answer learning."
+        ]
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

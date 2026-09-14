@@ -1,0 +1,316 @@
+[
+  {
+    "id": "anatomy-anatomy-all-pdf-p0001-q0001",
+    "subject": "Anatomy",
+    "topic": "Anatomy · General",
+    "stem": "The femoral nerve is formed from the anterior rami of:",
+    "options": [
+      "L2-L4",
+      "£1 - L2",
+      "Li-L4 ac",
+      "E2=L3.",
+      "L3-L4"
+    ],
+    "correctOption": 0,
+    "explanation": "The femoral nerve is formed from the anterior rami of L2 to L4. It innervates the iliacus, pectineus, sartorius and muscles in the anterior compartment of the thigh and supplies skin on the anterior thigh and medial surface of leg. Py Vv",
+    "learningNote": "",
+    "tags": [
+      "Anatomy",
+      "General"
+    ],
+    "status": "ocr_draft",
+    "askable": true,
+    "needsImage": false,
+    "warnings": [],
+    "source": {
+      "markdownFile": "folder__Anatomy-All.md",
+      "sourceFile": "Anatomy-All.pdf",
+      "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+      "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+    },
+    "sourcePage": 1,
+    "sourceQuestionNumber": 1
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p0006-q0002",
+    "subject": "Anatomy",
+    "topic": "Anatomy · Abdomen",
+    "stem": "On their descent the ureters cross anteriorly to which of the following important structures: The origin of the superior mesenteric artery The origin of the inferior mesenteric artery The inferior epigastric artery The bifurcation of the common iliac artery The termination of the abdominal aorta C< |e ] see",
+    "options": [],
+    "correctOption": null,
+    "explanation": "ESE",
+    "learningNote": "",
+    "tags": [
+      "Anatomy",
+      "Abdomen"
+    ],
+    "status": "needs_review",
+    "askable": false,
+    "needsImage": false,
+    "warnings": [
+      "Fewer than two answer options were detected.",
+      "No marked correct option was detected.",
+      "Explanation is missing or too short after OCR parsing."
+    ],
+    "source": {
+      "markdownFile": "folder__Anatomy-All.md",
+      "sourceFile": "Anatomy-All.pdf",
+      "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+      "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+    },
+    "sourcePage": 6,
+    "sourceQuestionNumber": 2
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p0009-q0003",
+    "subject": "Anatomy",
+    "topic": "Anatomy · Abdomen",
+    "stem": "The arterial supply to the jejunum and ileum is derived predominantly from which of the following: Coeliac trunk Superior mesenteric artery Inferior mesenteric artery Renal artery Lumbar artery a Py v2 OX OO —CSsSC“‘(CS",
+    "options": [],
+    "correctOption": null,
+    "explanation": "",
+    "learningNote": "",
+    "tags": [
+      "Anatomy",
+      "Abdomen"
+    ],
+    "status": "needs_review",
+    "askable": false,
+    "needsImage": false,
+    "warnings": [
+      "Fewer than two answer options were detected.",
+      "No marked correct option was detected.",
+      "Explanation is missing or too short after OCR parsing."
+    ],
+    "source": {
+      "markdownFile": "folder__Anatomy-All.md",
+      "sourceFile": "Anatomy-All.pdf",
+      "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+      "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+    },
+    "sourcePage": 9,
+    "sourceQuestionNumber": 3
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p0013-q0004",
+    "subject": "Anatomy",
+    "topic": "Anatomy · Abdomen",
+    "stem": "Which of the following best describes the relationship of the prostate gland and rectum: (x) e prostate gland lies superior to the rectum. 5%",
+    "options": [
+      "The prostate gland lies inferior to the rectum.",
+      "The prostate gland lies posterior to the rectum.",
+      "The prostate gland is not in relation to the rectum."
+    ],
+    "correctOption": null,
+    "explanation": "The prostate lies immediately inferior to the bladder and the internal urethral sphincter, superior to the external urethral sphincter (with the levator ani lying inferolaterally to the gland) and anterior to the rectum. “<r ] o Vv",
+    "learningNote": "",
+    "tags": [
+      "Anatomy",
+      "Abdomen"
+    ],
+    "status": "needs_review",
+    "askable": false,
+    "needsImage": false,
+    "warnings": [
+      "No marked correct option was detected."
+    ],
+    "source": {
+      "markdownFile": "folder__Anatomy-All.md",
+      "sourceFile": "Anatomy-All.pdf",
+      "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+      "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+    },
+    "sourcePage": 13,
+    "sourceQuestionNumber": 4
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p0017-q0005",
+    "subject": "Anatomy",
+    "topic": "Anatomy · Abdomen",
+    "stem": "Ad The parasympathetic supply to the rectum is from which of the following:",
+    "options": [
+      "Superior hypogastric plexus 2%",
+      "Pelvic splanchnic nerves",
+      "Lumbar splanchnic nerves 13% Cee rowvemne",
+      "Sacral splanchnic nerves 19%"
+    ],
+    "correctOption": 1,
+    "explanation": "Parasympathetic supply is from the pelvic splanchnic nerves (S2 - S4) and inferior hypogastric plexus. Vv",
+    "learningNote": "",
+    "tags": [
+      "Anatomy",
+      "Abdomen"
+    ],
+    "status": "ocr_draft",
+    "askable": true,
+    "needsImage": false,
+    "warnings": [],
+    "source": {
+      "markdownFile": "folder__Anatomy-All.md",
+      "sourceFile": "Anatomy-All.pdf",
+      "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+      "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+    },
+    "sourcePage": 17,
+    "sourceQuestionNumber": 5
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p0022-q0006",
+    "subject": "Anatomy",
+    "topic": "Anatomy · Abdomen",
+    "stem": "The ureters enter the bladder through which of the following:",
+    "options": [
+      "Superior surface",
+      "Inferolateral surface",
+      "Apex",
+      "Inferior base"
+    ],
+    "correctOption": null,
+    "explanation": "The triangular-shaped base (or fundus) of the bladder faces posteroinferiorly. The two ureters enter the bladder at each of the upper corners of the base, and the urethra drains inferiorly from the lower corner of the base. e] a Vv",
+    "learningNote": "",
+    "tags": [
+      "Anatomy",
+      "Abdomen"
+    ],
+    "status": "needs_review",
+    "askable": false,
+    "needsImage": false,
+    "warnings": [
+      "No marked correct option was detected."
+    ],
+    "source": {
+      "markdownFile": "folder__Anatomy-All.md",
+      "sourceFile": "Anatomy-All.pdf",
+      "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+      "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+    },
+    "sourcePage": 22,
+    "sourceQuestionNumber": 6
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p0027-q0007",
+    "subject": "Anatomy",
+    "topic": "Anatomy · Abdomen",
+    "stem": "we Regarding the rectum, which of the following statements is CORRECT:",
+    "options": [
+      "The rectum is continuous with the rectosigmoid junction at the level of vertebra S2. (x) The rectum is connected to the posterior abdominal wall by the sigmoid mesocolon. 5%",
+      "The rectum is the most posterior viscera in the pelvic cavity.",
+      "The rectum lies immediately posterior to the bladder in women. 4%",
+      "The rectum is an intraperitoneal structure. 55%"
+    ],
+    "correctOption": 1,
+    "explanation": "The rectum is a retroperitoneal structure and the most posterior viscera in the pelvic cavity. : ? Vv",
+    "learningNote": "",
+    "tags": [
+      "Anatomy",
+      "Abdomen"
+    ],
+    "status": "ocr_draft",
+    "askable": true,
+    "needsImage": false,
+    "warnings": [],
+    "source": {
+      "markdownFile": "folder__Anatomy-All.md",
+      "sourceFile": "Anatomy-All.pdf",
+      "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+      "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+    },
+    "sourcePage": 27,
+    "sourceQuestionNumber": 7
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p0032-q0008",
+    "subject": "Anatomy",
+    "topic": "Anatomy · Abdomen",
+    "stem": "The uterine visceral afferent fibres usually follow sympathetic efferents to which of the following spinal cord segments:",
+    "options": [
+      "m10-11",
+      "T9-T12 Be",
+      "Li-L3 19%",
+      "L2-L4 20%",
+      "T5-19 we"
+    ],
+    "correctOption": 0,
+    "explanation": "The uterus receives its sympathetic supply primarily from the inferior hypogastric plexus and its parasympathetic supply from the pelvic splanchnic nerves (S2 - $4), with visceral afferent fibres usually following the sympathetic fibres to enter the spinal cord via T10 - T12 and L1 nerve fibres. Vv",
+    "learningNote": "",
+    "tags": [
+      "Anatomy",
+      "Abdomen"
+    ],
+    "status": "ocr_draft",
+    "askable": true,
+    "needsImage": false,
+    "warnings": [],
+    "source": {
+      "markdownFile": "folder__Anatomy-All.md",
+      "sourceFile": "Anatomy-All.pdf",
+      "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+      "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+    },
+    "sourcePage": 32,
+    "sourceQuestionNumber": 8
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p0036-q0009",
+    "subject": "Anatomy",
+    "topic": "Anatomy · Abdomen",
+    "stem": "The posterior wall of the inguinal canal is formed primarily by which of the following structures:",
+    "options": [
+      "Transversus abdominis muscle",
+      "External oblique aponeurosis 8%",
+      "Transversalis fascia 7A%",
+      "External oblique muscle 2%",
+      "Internal oblique muscle 6%"
+    ],
+    "correctOption": 2,
+    "explanation": "The posterior wall of the inguinal canal is formed along its entire length by the transversalis fascia and reinforced by the conjoint tendon medially. Vv",
+    "learningNote": "",
+    "tags": [
+      "Anatomy",
+      "Abdomen"
+    ],
+    "status": "ocr_draft",
+    "askable": true,
+    "needsImage": false,
+    "warnings": [],
+    "source": {
+      "markdownFile": "folder__Anatomy-All.md",
+      "sourceFile": "Anatomy-All.pdf",
+      "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+      "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+    },
+    "sourcePage": 36,
+    "sourceQuestionNumber": 9
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p0040-q0010",
+    "subject": "Anatomy",
+    "topic": "Anatomy · Abdomen",
+    "stem": "ww The arterial supply to the pancreas is mainly derived from which of the following: oO",
+    "options": [
+      "Splenic artery",
+      "Hepatic artery 4%",
+      "Renal artery 1%",
+      "Inferior mesenteric artery 52%"
+    ],
+    "correctOption": 0,
+    "explanation": "The arterial supply to the pancreas is primarily derived from the splenic artery from the coeliac trunk, assisted by branches from the gastroduodenal artery (from the common hepatic artery from the coeliac trunk), and from the superior mesenteric artery. ; , Vv",
+    "learningNote": "",
+    "tags": [
+      "Anatomy",
+      "Abdomen"
+    ],
+    "status": "ocr_draft",
+    "askable": true,
+    "needsImage": false,
+    "warnings": [],
+    "source": {
+      "markdownFile": "folder__Anatomy-All.md",
+      "sourceFile": "Anatomy-All.pdf",
+      "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+      "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+    },
+    "sourcePage": 40,
+    "sourceQuestionNumber": 10
+  }
+]

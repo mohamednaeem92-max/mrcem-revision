@@ -1,0 +1,344 @@
+{
+  "exportedAt": "2026-08-27T21:04:02.497Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-71",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1925,
+      1926,
+      1927,
+      1928,
+      1929,
+      1930,
+      1931,
+      1935,
+      1941,
+      1945
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1925-q0071",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Transection of the anterolateral tract of the spinal cord results in which of the following clinical features:",
+      "options": [
+        "Cerebellar incoordination (Vv) Loss of pain and temperature sensation 1%",
+        "Loss of proprioception",
+        "Loss of vibration and fine-touch sensation",
+        "Complete flaccid paralysis"
+      ],
+      "correctOption": null,
+      "explanation": "Transection of the anterolateral tract results in contralateral loss of pain and temperature sensations, starting one segment below the lesion. . v Spinal Cord Tracts ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1925,
+      "sourceQuestionNumber": 71
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1926-q0072",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww A 65 year old lady presents to ED complaining of sudden onset visual loss. On examination you demonstrate visual loss on the right side of the vertical midline with macular sparing in both eyes. Which of the following blood vessels is most likely occluded:",
+      "options": [
+        "Posterior communicating artery",
+        "Posterior inferior cerebellar artery",
+        "Posterior cerebral artery",
+        "Anterior cerebral artery",
+        "Middle cerebral artery"
+      ],
+      "correctOption": 2,
+      "explanation": "The posterior cerebral artery supplies blood to the visual cortex in the occipital lobe. A lesion to this area will result in a contralateral homonymous hemianopia with macular sparing. . Vv Arterial Supply of Brain",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1926,
+      "sourceQuestionNumber": 72
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1927-q0073",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww A 65 year old lady , with a history of hypertension and diabetes mellitus, presents to ED with a 1 hour history of sudden onset of weakness and numbness solely in her left leg and foot. She is placed on the stroke pathway. Which of the following blood vessels has most likely been occluded:",
+      "options": [
+        "Middle cerebral artery",
+        "Anterior cerebral artery (x) Posterior cerebral artery 4%",
+        "Vertebral artery",
+        "Anterior choroidal artery"
+      ],
+      "correctOption": 1,
+      "explanation": "The anterior cerebral artery supplies the medial cerebral hemisphere including the paracentral lobule which is formed from portions of the frontal and parietal lobes, and responsible for the motor and sensory function of the lower limb. v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1927,
+      "sourceQuestionNumber": 73
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1928-q0074",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww You are performing a full neurological examination on a patient who has presented to the ED department with generalised weakness. You note she has a unilateral absence of her triceps reflex. Which spinal nerve is primarily responsible for this reflex:",
+      "options": [
+        "cs",
+        "cs",
+        "1"
+      ],
+      "correctOption": null,
+      "explanation": "The triceps tendon reflex tap predominantly tests spinal cord segment C7. Vv Myotomes and Reflexes ANATOMY / CENTRAL NERVOUS SYSTEM / LOWER LIMB / INNERVATION OF LOWER LIMB /",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1928,
+      "sourceQuestionNumber": 74
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1929-q0075",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The primary visual cortex is located in which of the following regions: (/) Occipital lobe 89% (x) Parietal lobe 2%",
+      "options": [
+        "Frontal lobe",
+        "Temporal lobe",
+        "Brainstem"
+      ],
+      "correctOption": null,
+      "explanation": "The primary visual cortex is located within the occipital lobe and together with the visual association cortex is responsible for vision. ‘ . Vv Occipital Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1929,
+      "sourceQuestionNumber": 75
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1930-q0076",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "w What type of visual field defect are you likely to see in a lesion of the visual cortex:",
+      "options": [
+        "Bitemporal hemianopia",
+        "Contralateral homonymous inferior quadrantanopia",
+        "Monocular blindness (Vv) Contralateral homonymous hemianopia with macular sparing 41%"
+      ],
+      "correctOption": null,
+      "explanation": "A lesion of the visual cortex will result in a contralateral homonymous hemianopia with macular sparing. . Vv Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1930,
+      "sourceQuestionNumber": 76
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1931-q0001",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "Ww A patient complains of diplopia on reading or walking downstairs, which of the following cranial nerves is most likely to be affected: & Trochlear nerve 70%",
+      "options": [
+        "Abducens nerve 9%",
+        "Oculomotor nerve 17%",
+        "Optic nerve 2%",
+        "Ophthalmic division of the trigeminal nerve 2%"
+      ],
+      "correctOption": null,
+      "explanation": "Trochlear nerve palsy causes weakness of downward gaze. The patient complains of difficulty reading or walking downstairs and of vertical diplopia. The eye is extorted and may be elevated and the patient may head tilt to the opposite side of the palsy to compensate. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1931,
+      "sourceQuestionNumber": 1
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1935-q0002",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "A 64 year old lady complains of a sore right eye. On examination, you note a normal corneal blink reflex on her left side but no consensual blink reflex on her right side. A lesion in which of the following structures is most likely to cause this clinical picture:",
+      "options": [
+        "Ophthalmic nerve",
+        "Oculomotor nerve",
+        "Trigeminal nerve"
+      ],
+      "correctOption": null,
+      "explanation": "The corneal blink reflex is an involuntary blinking of the eyelids, mediated by the orbicularis oculi muscle, and elicited by stimulation of the cornea. The afferent pathway is the ophthalmic division of the trigeminal nerve, and the efferent pathway is the facial nerve. Loss of the consensual corneal blink reflex suggests loss of the efferent pathway on this side. ls > Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1935,
+      "sourceQuestionNumber": 2
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1941-q0003",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Oculomotor (CN Ill) palsy with sparing of the pupillary reflex is most likely caused by which of the following:",
+      "options": [
+        "Aneurysm of the posterior communicating artery",
+        "Brainstem metastases",
+        "Cavernous sinus disease",
+        "Subdural haematoma"
+      ],
+      "correctOption": null,
+      "explanation": "Compressive causes of CN III palsy cause early pupillary dilatation because the parasympathetic fibres run peripherally in the nerve and are easily compressed. In diabetes mellitus the lesions are ischaemic rather than compressive and therefore typically affect the central fibres resulting in pupillary sparing. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1941,
+      "sourceQuestionNumber": 3
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1945-q0004",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Which of the following clinical features would you most expect to see in a glossopharyngeal nerve palsy:",
+      "options": [
+        "Tongue fasciculations 4%",
+        "Loss of jaw jerk 2% Loss of gag reflex 81%",
+        "Hoarseness 2%"
+      ],
+      "correctOption": null,
+      "explanation": "The glossopharyngeal nerve is the afferent pathway of the gag reflex. Tongue weakness and fasciculations may be seen in hypoglossal nerve palsy. Loss of jaw jerk may be seen in palsy of the mandibular division of the trigeminal nerve. Hoarseness and uvular deviation may been seen in vagus nerve palsy. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1945,
+      "sourceQuestionNumber": 4
+    }
+  ]
+}

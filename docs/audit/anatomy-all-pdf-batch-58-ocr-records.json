@@ -1,0 +1,338 @@
+{
+  "exportedAt": "2026-08-27T03:58:37.296Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-58",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1686,
+      1687,
+      1688,
+      1691,
+      1693,
+      1694,
+      1695,
+      1696,
+      1697,
+      1699
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1686-q0020",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "The mandibular division of the trigeminal nerve supplies general sensation to all of the following regions EXCEPT for the:",
+      "options": [
+        "Anterior two-thirds of the tongue",
+        "Temple",
+        "External ear",
+        "Cranial dura mater"
+      ],
+      "correctOption": null,
+      "explanation": "The upper lip is supplied by branches of the maxillary division of the trigeminal nerve. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1686,
+      "sourceQuestionNumber": 20
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1687-q0021",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Regarding the vagus nerve, which of the following statements is CORRECT:",
+      "options": [
+        "It exits the skull through the foramen ovale.",
+        "It carries general sensation from the oropharynx.",
+        "It carries visceral afferent fibres from the aortic arch baroreceptors.",
+        "It carries parasympathetic fibres to the parotid gland.",
+        "It is the afferent nerve of the gag reflex."
+      ],
+      "correctOption": 2,
+      "explanation": "The vagus nerve carries visceral afferent fibres from the .aortic arch baroreceptors. The glossopharyngeal nerve supplies parasympathetic fibres to the parotid gland, and general sensation to the oropharynx. The vagus nerve is the efferent pathway of the gag reflex, the glossopharyngeal nerve being the afferent pathway. The vagus nerve exits the skull through the jugular foramen. 3 Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1687,
+      "sourceQuestionNumber": 21
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1688-q0022",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "The maxillary nerve supplies general sensation to all of the following regions EXCEPT for the:",
+      "options": [
+        "Mucosa of the hard palate",
+        "Nasopharynx (x) Upper teeth and associated gingiva 6%",
+        "External ear",
+        "Skin over the temple"
+      ],
+      "correctOption": 2,
+      "explanation": "The maxillary nerve does not supply skin over the external ear. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1688,
+      "sourceQuestionNumber": 22
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1691-q0023",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "w A 45 year old lady presents to ED with right sided facial weakness. Your consultant suspects a facial nerve palsy. Which of the following clinical features would you most likely see ON examination:",
+      "options": [
+        "Ptosis",
+        "Loss of tactile sensation to anterior two-thirds of tongue cs Loss of sensation to right side of the face 10%",
+        "Hyperacusis",
+        "Ophthalmoplegia"
+      ],
+      "correctOption": 2,
+      "explanation": "Hyperacusis is increased acuity of hearing with hypersensitivity to low tones resulting from paralysis of the stapedius muscle, innervated by the facial nerve. General sensation to the face and to the anterior two-thirds of the tongue is carried by the divisions of the trigeminal nerve (although taste to the anterior two-thirds of the tongue is supplied by the facial nerve). Eye movements are mediated by the oculomotor, trochlear and abducens nerve. Ptosis results from paralysis of the levator palpebrae superioris, innervated by the oculomotor nerve, or the superior tarsal muscle, innervated by the sympathetic chain. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1691,
+      "sourceQuestionNumber": 23
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1693-q0024",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "w A 56 year old female presents to ED complaining of loss of sensation over the anterior two-thirds of her tongue. Taste and salivation are intact. Which of the following nerves is most likely affected:",
+      "options": [
+        "Glossopharyngeal nerve",
+        "Hypoglossal nerve 4%",
+        "Inferior alveolar nerve"
+      ],
+      "correctOption": null,
+      "explanation": "General sensation to the anterior two-thirds of the tongue is carried by the lingual nerve, branch of the mandibular nerve. Taste to the anterior two-thirds of the tongue (and secretomotor innervation to the submandibular and sublingual glands) is carried by the chorda tympani, branch of the facial nerve. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1693,
+      "sourceQuestionNumber": 24
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1694-q0025",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Which of the following clinical features is NOT typical of a facial nerve palsy:",
+      "options": [
+        "Hyperacusis",
+        "Reduced salivation ie Reduced lacrimal fluid production 8%",
+        "Impaired sense of taste",
+        "Inability to raise the eyelid"
+      ],
+      "correctOption": 3,
+      "explanation": "Facial nerve palsy can result in inability to close the eye due to paralysis of the orbicularis oculi muscle. Elevation of the eyelid in eye opening is a function of the levator palpebrae superioris muscle and the superior tarsal muscle, innervated by the oculomotor nerve and the sympathetic chain respectively. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1694,
+      "sourceQuestionNumber": 25
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1695-q0026",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "w Which of the following clinical features is NOT typical for a vagal nerve palsy:",
+      "options": [
+        "Uvula deviation away from the affected side",
+        "Tongue deviation towards the affected side",
+        "Loss of gag reflex",
+        "Dysphagia"
+      ],
+      "correctOption": 1,
+      "explanation": "The hypoglossal nerve, not the vagus nerve, innervates most of the muscles of the tongue and if damaged may result in tongue deviation on protrusion towards the affected side. . Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1695,
+      "sourceQuestionNumber": 26
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1696-q0027",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Regarding the glossopharyngeal nerve, which of the following statements is CORRECT:",
+      "options": [
+        "It is the efferent nerve of the gag reflex. 7% (#) t emerges from the cranial cavity through the hypoglossal canal. 4%",
+        "It carries taste from the anterior two-thirds of the tongue. 53%",
+        "It innervates the tensor veli palatini muscle. 9% Cv ) It provides parasympatheti secretomotor fibres to the parotid gland. 28%"
+      ],
+      "correctOption": null,
+      "explanation": "The glossopharyngeal nerve supplies parasympathetic secretomotor fibres to the parotid gland, motor fibres to the stylopharyngeus muscle and taste fibres to the posterior one-third of the tongue. It is the afferent pathway of the gag reflex, and exits the skull through the jugular foramen. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1696,
+      "sourceQuestionNumber": 27
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1697-q0028",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Regarding the facial nerve, which of the following statements is INCORRECT:",
+      "options": [
+        "Forehead sparing in facial nerve palsy is indicative of a lower motor neuron lesion. (x) The facial nerve supplies taste to the anterior two-thirds of the tongue. 5%",
+        "The facial nerve carries parasympathetic fibres to the lacrimal glands.",
+        "The facial nerve leaves the brainstem at the cerebellopontine angle.",
+        "The facial nerve exits the skull via the stylomastoid foramen."
+      ],
+      "correctOption": 0,
+      "explanation": "In facial nerve palsy, if the damage is peripheral (LMN), the forehead will be involved and there will be an inability to close the eyes or raise the eyebrows due to paralysis of the orbicularis oculi and occipitofrontalis muscle respectively. If the damage is central (UMN), there is forehead sparing as the occipitofrontalis and orbicularis oculi muscles have bilateral cortical representation. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1697,
+      "sourceQuestionNumber": 28
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1699-q0030",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Which of the following nerves is the afferent pathway of the pupillary light reflex:",
+      "options": [
+        "Ophthalmic nerve",
+        "Oculomotor nerve",
+        "Trochlear nerve"
+      ],
+      "correctOption": null,
+      "explanation": "The optic nerve is the afferent pathway of the pupillary light reflex. The oculomotor nerve is the efferent pathway of the pupillary light reflex. . Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1699,
+      "sourceQuestionNumber": 30
+    }
+  ]
+}

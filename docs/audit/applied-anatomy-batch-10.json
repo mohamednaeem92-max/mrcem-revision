@@ -1,0 +1,338 @@
+{
+  "generatedAt": "2026-08-22T15:49:43.025Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0377-q0095",
+      "sourcePage": 377,
+      "before": {
+        "stem": "Pain in the jejunum and ileum is typically referred to which of the following regions:",
+        "options": [
+          "Flank 5",
+          "Epigastrium 1%",
+          "Left upper quadrant 8%",
+          "Right lower quadrant 9%",
+          "Umbilical region"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "Pain from the jejunum and ileum is typically referred to which region?",
+        "options": [
+          "Flank",
+          "Epigastrium",
+          "Left upper quadrant",
+          "Right lower quadrant",
+          "Umbilical region"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK553104/",
+        "externalFinding": "Midgut pain is referred to the umbilicus."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0380-q0096",
+      "sourcePage": 380,
+      "before": {
+        "stem": "The psoas major muscle is innervated by which of the following:",
+        "options": [
+          "lliohypogastric nerve",
+          "Femoral nerve 7h",
+          "Anterior rami of L2 - L4"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "The psoas major muscle is innervated by which of the following?",
+        "options": [
+          "Iliohypogastric nerve",
+          "Ilioinguinal nerve",
+          "Anterior rami of L1-L3",
+          "Femoral nerve",
+          "Anterior rami of L2-L4"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK531508/",
+        "externalFinding": "Short collateral branches L1-L3 innervate psoas major."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0384-q0097",
+      "sourcePage": 384,
+      "before": {
+        "stem": "ww The inferior vena cava is formed from the union of the two common iliac veins at which of the following vertebral levels:",
+        "options": [
+          "u 48%",
+          "L3 6%",
+          "L4 25%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "At which vertebral level is the inferior vena cava formed by union of the common iliac veins?",
+        "options": [
+          "L1",
+          "L2",
+          "L3",
+          "L4",
+          "L5"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482353/",
+        "externalFinding": "The common iliac veins form the IVC at L5."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0388-q0098",
+      "sourcePage": 388,
+      "before": {
+        "stem": "A patient with known inflammatory bowel disease presents to ED complaining of severe abdominal pain and diarrhoea. Imaging shows a flare up primarily affecting the rectum. Which of the following nerves is most likely responsible for transmission of pain from the rectum:",
+        "options": [
+          "Lumbar splanchnic nerves",
+          "Sacral splanchnic nerves",
+          "Vagus nerves Pudendal nerves 59%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "A patient has an inflammatory-bowel-disease flare affecting the rectum. Which nerves are most likely responsible for visceral pain transmission from the rectum?",
+        "options": [
+          "Pelvic splanchnic nerves",
+          "Lumbar splanchnic nerves",
+          "Sacral splanchnic nerves",
+          "Vagus nerves",
+          "Pudendal nerves"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK560504/",
+        "externalFinding": "Pelvic splanchnic nerves carry visceral afferents supplying the rectum."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0393-q0099",
+      "sourcePage": 393,
+      "before": {
+        "stem": "Ld Within the pelvic cavity in women, the ureter is crossed anteriorly by which of the following structures:",
+        "options": [
+          "Ovarian artery 8%",
+          "Internal iliac artery 7%",
+          "Round ligament 16%",
+          "Uterine artery",
+          "Inferior hypogastric artery 2%"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "Within the female pelvic cavity, the ureter is crossed anteriorly by which structure?",
+        "options": [
+          "Ovarian artery",
+          "Internal iliac artery",
+          "Round ligament",
+          "Uterine artery",
+          "Inferior hypogastric artery"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482267/",
+        "externalFinding": "The uterine artery passes anterior to the distal ureter."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0396-q0100",
+      "sourcePage": 396,
+      "before": {
+        "stem": "The ovaries are supplied by the ovarian arteries, branches of which of the following:",
+        "options": [
+          "Abdominal aorta",
+          "Internal iliac artery 21% (x) uperior mesenteric artery 3%",
+          "Coeliac trunk 2%",
+          "Inferior mesenteric artery"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The ovaries are supplied by ovarian arteries, which are branches of which vessel?",
+        "options": [
+          "Abdominal aorta",
+          "Internal iliac artery",
+          "Superior mesenteric artery",
+          "Coeliac trunk",
+          "Inferior mesenteric artery"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482267/",
+        "externalFinding": "The ovarian artery is a direct branch of the abdominal aorta."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0399-q0101",
+      "sourcePage": 399,
+      "before": {
+        "stem": "Ad A55 year old woman presents to ED complaining of severe colicky loin to groin pain. Imaging shows renal calculi. At which of the following locations is the calculus likely to lodge: (x) Where the ureter is crossed by the uterine artery 13%",
+        "options": [
+          "Where the ureter is crossed by the vas deferens 5%",
+          "Where the ureter crosses the common iliac vessels",
+          "At the level the inferior mesenteric artery arises from the abdominal aorta 4%",
+          "Approximately 5 cm superior to the pelvic brim 14%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "A 55-year-old woman has severe colicky loin-to-groin pain and renal calculi. At which location is a calculus likely to lodge?",
+        "options": [
+          "Where the ureter is crossed by the uterine artery",
+          "Where the ureter is crossed by the vas deferens",
+          "Where the ureter crosses the common iliac vessels",
+          "At the level the inferior mesenteric artery arises from the abdominal aorta",
+          "Approximately 5 cm superior to the pelvic brim"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532980/",
+        "externalFinding": "At the pelvic brim, the ureter crosses the iliac vessels and forms a clinically important stone-passage site."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0400-q0102",
+      "sourcePage": 400,
+      "before": {
+        "stem": "ww A 49 year old man presents to ED with a few months history of abdominal pain, weight loss and jaundice. Imaging shows a tumour in the uncinate process of the pancreas. Which of the following structures is most likely compressed by this tumour:",
+        "options": [
+          "Cystic duct 19%",
+          "Superior mesenteric artery",
+          "Portal vein 16%",
+          "Splenic artery 6%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "A 49-year-old man has abdominal pain, weight loss, and jaundice. Imaging shows a tumour in the pancreatic uncinate process. Which structure is most likely compressed?",
+        "options": [
+          "Cystic duct",
+          "Main pancreatic duct",
+          "Superior mesenteric artery",
+          "Portal vein",
+          "Splenic artery"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7522846/",
+        "externalFinding": "The uncinate process is dorsal to the SMA and hooks posteriorly to superior mesenteric vessels."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0405-q0103",
+      "sourcePage": 405,
+      "before": {
+        "stem": "ww Posteriorly the spleen lies in the region of which of the following:",
+        "options": [
+          "Ribs 7 and 8 2%",
+          "Ribs 8 - 10 5%",
+          "Ribs 9 - 11",
+          "Ribs 10 - 12 56%",
+          "Below the costal margin 2%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "Posteriorly, the spleen lies in the region of which ribs?",
+        "options": [
+          "Ribs 7 and 8",
+          "Ribs 8-10",
+          "Ribs 9-11",
+          "Ribs 10-12",
+          "Below the costal margin"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482235/",
+        "externalFinding": "The spleen typically spans the ninth to eleventh ribs."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0409-q0104",
+      "sourcePage": 409,
+      "before": {
+        "stem": "A 65 year old man presents to ED complaining of abdominal pain, jaundice and weight loss. Imaging shows a tumour of the head of the pancreas. Which of the following structures is most likely compressed by this tumour:",
+        "options": [
+          "Common hepatic duct",
+          "Left hepatic duct 3%",
+          "Cystic duct 6%",
+          "Accessory pancreatic duct 6%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "A 65-year-old man has abdominal pain, jaundice, and weight loss. Imaging shows a tumour of the pancreatic head. Which structure is most likely compressed?",
+        "options": [
+          "Common hepatic duct",
+          "Left hepatic duct",
+          "Cystic duct",
+          "Accessory pancreatic duct",
+          "Common bile duct"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532912/",
+        "externalFinding": "The bile duct lies in a groove on the posterosuperior surface of the pancreatic head."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

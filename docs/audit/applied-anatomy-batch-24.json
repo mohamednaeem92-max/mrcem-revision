@@ -1,0 +1,403 @@
+{
+  "generatedAt": "2026-08-23T16:12:28.325Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0676-q0059",
+      "sourcePage": 676,
+      "before": {
+        "stem": "A 29 year old man presents to ED with a painful lump in his left groin. Which of the following structures can be used to differentiate between a direct and an indirect inguinal hernia:",
+        "options": [
+          "Inguinal ligament 58% rove",
+          "Inferior epigastric vessels",
+          "Pubic symphysis 3%",
+          "Femoral artery 2%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "A 29-year-old man presents to the ED with a painful lump in his left groin. Which structure differentiates a direct from an indirect inguinal hernia?",
+        "options": [
+          "Inguinal ligament",
+          "Femoral canal",
+          "Inferior epigastric vessels",
+          "Pubic symphysis",
+          "Femoral artery"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459309/",
+        "externalFinding": "NCBI states that direct and indirect inguinal hernias are medial and lateral, respectively, to the inferior epigastric vessels."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0678-q0061",
+      "sourcePage": 678,
+      "before": {
+        "stem": "ww The lymphatic drainage of the liver primarily drains into:",
+        "options": [
+          "Superior mesenteric lymph nodes 15%",
+          "Inferior mesenteric lymph nodes 5%",
+          "Coeliac lymph nodes",
+          "Lumbar lymph nodes 3% (x) ateral aortic lymph nodes 5%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The lymphatic drainage of the liver primarily drains into which nodes?",
+        "options": [
+          "Superior mesenteric lymph nodes",
+          "Inferior mesenteric lymph nodes",
+          "Coeliac lymph nodes",
+          "Lumbar lymph nodes",
+          "Lateral aortic lymph nodes"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9748447/",
+        "externalFinding": "A peer-reviewed anatomy review describes deep hepatic drainage through hepatic and hepatoduodenal-ligament nodes to coeliac nodes."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0680-q0063",
+      "sourcePage": 680,
+      "before": {
+        "stem": "ww The ilioinguinal nerve supplies skin over which of the following regions: (x) Posterolateral gluteal region as",
+        "options": [
+          "Upper medial thigh",
+          "Lateral thigh 4%",
+          "Posteromedial gluteal region 12%",
+          "Posterior thigh 2%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The ilioinguinal nerve supplies skin over which region?",
+        "options": [
+          "Posterolateral gluteal region",
+          "Upper medial thigh",
+          "Lateral thigh",
+          "Posteromedial gluteal region",
+          "Posterior thigh"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557605/",
+        "externalFinding": "NCBI assigns ilioinguinal cutaneous sensation to the anteromedial thigh and external genitalia."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0681-q0064",
+      "sourcePage": 681,
+      "before": {
+        "stem": "ww The greater sac of the peritoneal cavity is divided into two compartments by which of the following structures:",
+        "options": [
+          "Liver 1%",
+          "Stomach 4%",
+          "Duodenum 2%",
+          "Mesentery"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The greater sac of the peritoneal cavity is divided into two compartments by which structure?",
+        "options": [
+          "Liver",
+          "Stomach",
+          "Transverse mesocolon",
+          "Duodenum",
+          "Mesentery"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4584112/",
+        "externalFinding": "A peer-reviewed anatomy review states that the transverse mesocolon divides the peritoneal cavity into supramesocolic and inframesocolic compartments."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0682-q0065",
+      "sourcePage": 682,
+      "before": {
+        "stem": "Which of the following areas of the prostate gland is the most commonly involved in prostatic hyperplasia:",
+        "options": [
+          "Central zone",
+          "Anterior lobe",
+          "Isthmus"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "Which prostate zone is most commonly involved in benign prostatic hyperplasia?",
+        "options": [
+          "Central zone",
+          "Transitional zone",
+          "Peripheral zone",
+          "Anterior lobe",
+          "Isthmus"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK567721/",
+        "externalFinding": "NCBI identifies the transition zone as the typical site of benign prostatic hyperplasia."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0683-q0066",
+      "sourcePage": 683,
+      "before": {
+        "stem": "ww The ilioinguinal nerve innervates which of the following muscles:",
+        "options": [
+          "Internal and external oblique muscles 9%",
+          "Internal oblique and transversus abdominis muscles (x) Transversus abdominis and rectus abdominis muscles 9%",
+          "Psoas major and minor muscles 10%",
+          "Quadratus lumborum 5%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The ilioinguinal nerve innervates which muscles?",
+        "options": [
+          "Internal and external oblique muscles",
+          "Internal oblique and transversus abdominis muscles",
+          "Transversus abdominis and rectus abdominis muscles",
+          "Psoas major and minor muscles",
+          "Quadratus lumborum"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557605/",
+        "externalFinding": "NCBI identifies internal oblique and transversus abdominis as ilioinguinal motor targets."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0684-q0001",
+      "sourcePage": 684,
+      "before": {
+        "stem": "The femoral nerve is formed from the anterior rami of:",
+        "options": [
+          "L2-L4",
+          "£1 - L2",
+          "Li-L4 ac",
+          "E2=L3.",
+          "L3-L4"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The femoral nerve is formed from which anterior rami?",
+        "options": [
+          "L2–L4",
+          "L1–L2",
+          "L1–L4",
+          "L2–L3",
+          "L3–L4"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557605/",
+        "externalFinding": "NCBI identifies the femoral nerve as a posterior-division branch of L2-L4 ventral rami."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0677-q0060",
+      "sourcePage": 677,
+      "before": {
+        "stem": "ww The inferior vena cava lies posterior to which of the following parts of the duodenum:",
+        "options": [
+          "Second part (x) hird and fourth parts 1% (v’) First and third parts 20%",
+          "First and second parts 6%",
+          "Second and third parts 57%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The inferior vena cava lies posterior to which parts of the duodenum?",
+        "options": [
+          "Second part",
+          "Third and fourth parts",
+          "First and third parts",
+          "First and second parts",
+          "Second and third parts"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but external evidence identifies both the second and third duodenal parts as anterior to the inferior vena cava; the displayed key is not restored."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482390/",
+        "externalFinding": "NCBI describes both the second and third duodenal parts as lying anterior to the IVC, which conflicts with the source key of first and third parts."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0679-q0062",
+      "sourcePage": 679,
+      "before": {
+        "stem": "ww The rectus sheath encloses all of the following structures except the:",
+        "options": [
+          "Transversus abdominis muscle",
+          "Pyramidalis muscle 1%",
+          "Superior epigastric artery 8%",
+          "Inferior epigastric artery"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The rectus sheath encloses all of the following structures except which?",
+        "options": [
+          "Transversus abdominis muscle",
+          "Pyramidalis muscle",
+          "Lower thoracic intercostal nerves",
+          "Superior epigastric artery",
+          "Inferior epigastric artery"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but reported transversus-abdominis variation within the rectus sheath makes the unqualified source formulation insufficiently exact."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537153/",
+        "externalFinding": "NCBI describes the usual rectus-sheath contents but also notes published evidence of transversus abdominis muscle within the sheath near the costal margin."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0689-q0002",
+      "sourcePage": 689,
+      "before": {
+        "stem": "On their descent the ureters cross anteriorly to which of the following important structures: The origin of the superior mesenteric artery The origin of the inferior mesenteric artery The inferior epigastric artery The bifurcation of the common iliac artery The termination of the abdominal aorta C< |e ] see",
+        "options": [],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Fewer than two answer options were detected.",
+          "No marked correct option was detected.",
+          "Explanation is missing or too short after OCR parsing."
+        ]
+      },
+      "after": {
+        "stem": "On their descent, the ureters cross anteriorly to which important structure?",
+        "options": [
+          "The origin of the superior mesenteric artery",
+          "The origin of the inferior mesenteric artery",
+          "The inferior epigastric artery",
+          "The bifurcation of the common iliac artery",
+          "The termination of the abdominal aorta"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but no marked answer is displayed; no correct option is inferred from the blue user selection."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK534788/",
+        "externalFinding": "The original source page has no answer marker; its blue outline is a user selection and is not treated as a source key."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

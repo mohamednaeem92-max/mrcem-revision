@@ -1,0 +1,387 @@
+{
+  "generatedAt": "2026-08-22T16:49:50.501Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0537-q0146",
+      "sourcePage": 537,
+      "before": {
+        "stem": "Regarding the male urethra, which of the following statements is CORRECT:",
+        "options": [
+          "The membranous urethra is the widest part.",
+          "The spongy urethra penetrates the urogenital diaphragm. 5%",
+          "The internal urethral sphincter is associated with the prostatic urethra. 58%",
+          "The prostatic urethra is the longest part. V) The spongy urethra (in the flaccid penis) bends twice in its course, first anteriorly and then 32%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "Regarding the male urethra, which statement is correct?",
+        "options": [
+          "The membranous urethra is the widest part",
+          "The spongy urethra penetrates the urogenital diaphragm",
+          "The internal urethral sphincter is associated with the prostatic urethra",
+          "The prostatic urethra is the longest part",
+          "The spongy urethra in the flaccid penis bends twice, first anteriorly and then inferiorly"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://emedicine.medscape.com/article/1972482-overview",
+        "externalFinding": "Male urethra forms an S curve in an upright flaccid position."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0541-q0147",
+      "sourcePage": 541,
+      "before": {
+        "stem": "A patient presents following a fall. Imaging shows damage to the L1 nerve root. Which of the following muscles are most likely to be affected:",
+        "options": [
+          "Transversus abdominis and rectus abdominis muscles",
+          "Gluteus medius and minimus muscles",
+          "Transversus abdominis and internal oblique muscles",
+          "Internal and external oblique muscles"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "A patient has damage to the L1 nerve root. Which muscles are most likely to be affected?",
+        "options": [
+          "Transversus abdominis and rectus abdominis",
+          "Rectus abdominis and external oblique",
+          "Gluteus medius and minimus",
+          "Transversus abdominis and internal oblique",
+          "Internal and external oblique"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK538256/",
+        "externalFinding": "Ilioinguinal nerve with T12-L1 origin supplies transversus abdominis and internal oblique."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0546-q0148",
+      "sourcePage": 546,
+      "before": {
+        "stem": "The renal arteries arise from the abdominal aorta at which of the following vertebral levels:",
+        "options": [
+          "TH/T12",
+          "T12/l1 oon",
+          "L3/L4"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "At which vertebral level do the renal arteries typically arise from the abdominal aorta?",
+        "options": [
+          "T11/T12",
+          "T12/L1",
+          "L1/L2",
+          "L2/L3",
+          "L3/L4"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459158/",
+        "externalFinding": "Renal arteries typically arise from the abdominal aorta at the L1/L2 intervertebral disc."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0547-q0149",
+      "sourcePage": 547,
+      "before": {
+        "stem": "ww Pain from the ureters is usually referred to dermatomes supplied by:",
+        "options": [
+          "T10 - 112",
+          "™m-12",
+          "LIES: 57%",
+          "L2-L4 4%",
+          "T5-19 bs"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Pain from the ureters is usually referred to dermatomes supplied by which spinal segments?",
+        "options": [
+          "T10–T12",
+          "T11–L2",
+          "L1–L3",
+          "L2–L4",
+          "T5–T9"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482385/",
+        "externalFinding": "Visceral afferent pain pathways reach T11-L2 segments."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0550-q0150",
+      "sourcePage": 550,
+      "before": {
+        "stem": "ww The fourth part of the duodenum terminates at which of the following vertebral levels:",
+        "options": [
+          "12 3%",
+          "u 9%",
+          "BS: 13%",
+          "L4 4%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "At which vertebral level does the fourth part of the duodenum terminate?",
+        "options": [
+          "T12",
+          "L1",
+          "L2",
+          "L3",
+          "L4"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://emedicine.medscape.com/article/1898874-overview",
+        "externalFinding": "Fourth duodenal part reaches superior L2 and turns at the duodenojejunal flexure."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0551-q0151",
+      "sourcePage": 551,
+      "before": {
+        "stem": "ww The linea alba is formed from which of the following:",
+        "options": [
+          "The aponeuroses of the three flat anterior abdominal muscles",
+          "The free edge of the external oblique aponeurosis 4%",
+          "The tendinous intersection of the rectus abdominis muscle 57%",
+          "The thoracolumbar fascia 0%",
+          "The tendon of the pyramidalis muscle 0%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The linea alba is formed from which structure?",
+        "options": [
+          "Aponeuroses of the three flat anterior abdominal muscles",
+          "Free edge of external-oblique aponeurosis",
+          "Tendinous intersection of rectus abdominis",
+          "Thoracolumbar fascia",
+          "Tendon of pyramidalis"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK551649/",
+        "externalFinding": "Combined aponeuroses of three flat muscles fuse in midline to form linea alba."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0552-q0152",
+      "sourcePage": 552,
+      "before": {
+        "stem": "ww The kidneys extend between which of the following vertebral levels:",
+        "options": [
+          "19-112 os",
+          "12-1",
+          "RIES 9%",
+          "m2-13",
+          "2 = L5 3%"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Between which vertebral levels do the kidneys usually extend?",
+        "options": [
+          "T9–T12",
+          "T12–L1",
+          "L1–L3",
+          "T12–L3",
+          "L2–L5"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482385/",
+        "externalFinding": "Kidneys are positioned between T12 and L3 vertebrae."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0553-q0153",
+      "sourcePage": 553,
+      "before": {
+        "stem": "ww Regarding the external oblique muscle, which of the following statements is INCORRECT:",
+        "options": [
+          "It is the largest and most superficial of the anterior abdominal muscles. 3%",
+          "Its aponeurosis forms the linea alba at the midline. 7%",
+          "It originates from the xiphoid process. (x) It inserts into the lateral lip of the iliac crest. 9%",
+          "The lower free border of the external oblique aponeurosis forms the inguinal ligament. 56%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Regarding the external oblique muscle, which statement is incorrect?",
+        "options": [
+          "It is the largest and most superficial anterior abdominal muscle",
+          "Its aponeurosis contributes to the linea alba at the midline",
+          "It originates from the xiphoid process",
+          "It inserts into the lateral lip of the iliac crest",
+          "Its lower free aponeurotic border forms the inguinal ligament"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK551649/",
+        "externalFinding": "External oblique arises from ribs 5-12, is superficial, and its inferior border forms the inguinal ligament."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0554-q0154",
+      "sourcePage": 554,
+      "before": {
+        "stem": "The greater sac of the peritoneal cavity is divided into two compartments by which of the following structures:",
+        "options": [
+          "Liver",
+          "Stomach",
+          "Duodenum"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "Which structure divides the greater sac of the peritoneal cavity into two compartments?",
+        "options": [
+          "Liver",
+          "Stomach",
+          "Transverse mesocolon",
+          "Duodenum",
+          "Mesentery"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4584112/",
+        "externalFinding": "Transverse mesocolon divides the peritoneal cavity into supramesocolic and inframesocolic compartments."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0555-q0155",
+      "sourcePage": 555,
+      "before": {
+        "stem": "ww The jejunum predominantly occupies which region of the abdomen:",
+        "options": [
+          "Left upper quadrant",
+          "Right upper quadrant 56%",
+          "Right lower quadrant 6%",
+          "Suprapubic region 4%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The jejunum predominantly occupies which region of the abdomen?",
+        "options": [
+          "Left upper quadrant",
+          "Right upper quadrant",
+          "Left lower quadrant",
+          "Right lower quadrant",
+          "Suprapubic region"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532263/",
+        "externalFinding": "Jejunum is located mainly in the left upper quadrant."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

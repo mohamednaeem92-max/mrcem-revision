@@ -1,0 +1,18 @@
+# Anatomy Batch 40 External Evidence Notes
+
+Original source pages determine literal stems, option order, and displayed keys. The sources below only corroborate whether a source-confirmed key can be restored. A source-confirmed restoration remains an unapproved `ocr_draft` and is mock-ineligible.
+
+| Record | Authoritative evidence | Provisional decision |
+|---|---|---|
+| `p1241-q0158` | NCBI states that the oesophagus passes through the oesophageal hiatus, formed by the right diaphragmatic crus, at approximately the T10 vertebral level. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK482513/) | Restore candidate. |
+| `p1244-q0159` | NCBI identifies the posterior wall of the inguinal canal with the transversalis layer and describes direct hernia through posterior-wall weakness. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK470204/) | Restore candidate. |
+| `p1246-q0160` | NCBI describes the pudendal nerve as an S2–S4 sacral-plexus nerve that exits the pelvis and traverses the pudendal canal in the perineum, supporting its exclusion from the spermatic cord. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK554736/) | Restore candidate. |
+| `p1249-q0161` | NCBI states that superior mesenteric artery syndrome compresses the third part of the duodenum between the abdominal aorta posteriorly and the superior mesenteric artery anteriorly. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK482209/) | Restore candidate. |
+| `p1250-q0162` | NCBI states that the inferior vena cava passes through the central diaphragmatic tendon around the T8 vertebral level. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK482353/) | Restore candidate. |
+| `p1254-q0163` | A peer-reviewed review states that the portal vein forms behind the neck of the pancreas from the splenic and superior mesenteric veins. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4062210/) | Restore candidate. |
+| `p1255-q0164` | NCBI states that the deferential and cremasteric arteries are branches of the inferior vesical and inferior epigastric arteries, respectively, and that vascular structures, vas deferens, and nerves are bound within the spermatic cord. This supports the inferior epigastric artery itself as the exception. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK470335/) | Restore candidate. |
+| `p1256-q0165` | The source key gives a broad T12–L4 anterior-ramus range, but NCBI names the 12th thoracic intercostal, iliohypogastric, and ilioinguinal nerves as quadratus-lumborum innervation. The exact displayed range is not uniquely corroborated. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK535407/) | Restrict: exact innervation-range conflict. |
+| `p1257-q0166` | NCBI gives a T6–T10 sympathetic pathway, but a pancreas-specialist review places spinal afferent pancreatic-neuron cell bodies at T6–L2 dorsal-root ganglia. This conflicts with the source's unqualified T6–T10 visceral-afferent formulation. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK532912/) [Pancreapedia](https://pancreapedia.org/reviews/neural-control-of-pancreas) | Restrict: exact visceral-afferent range is not uniquely corroborated. |
+| `p1258-q0167` | NCBI states that the sacrospinous ligament has a broad base on the lower sacrum and upper coccyx and narrows laterally to attach to the ischial spine. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK493215/) | Restore candidate. |
+
+**Final decision:** eight restorations (`p1241`, `p1244`, `p1246`, `p1249`, `p1250`, `p1254`, `p1255`, `p1258`), two conservative restrictions (`p1256`, `p1257`), and zero approvals.

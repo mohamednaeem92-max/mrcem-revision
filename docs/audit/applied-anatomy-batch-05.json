@@ -1,0 +1,325 @@
+{
+  "generatedAt": "2026-08-22T14:44:14.926Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0175-q0044",
+      "sourcePage": 175,
+      "before": {
+        "stem": "A 65 year old man presents to ED complaining of abdominal pain and weight loss. Imaging shows a tumour anterior to the inferior vena cava. Which of the following structures is most likely to be compressed by this tumour:",
+        "options": [
+          "Cisterna chyli 6%",
+          "Third part of the duodenum",
+          "Right kidney 54% (x) Ascending colon 2%",
+          "Right sympathetic trunk 4%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "A 65-year-old man presents to the ED with abdominal pain and weight loss. Imaging shows a tumour anterior to the inferior vena cava. Which listed structure is most likely to be compressed?",
+        "options": [
+          "Cisterna chyli",
+          "Third part of the duodenum",
+          "Right kidney",
+          "Ascending colon",
+          "Right sympathetic trunk"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482390/",
+        "externalFinding": "The third duodenal segment courses anterior to the aorta and inferior vena cava."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0179-q0045",
+      "sourcePage": 179,
+      "before": {
+        "stem": "ww The ilioinguinal nerve innervates which of the following muscles:",
+        "options": [
+          "Internal and external oblique muscles 9%",
+          "Internal oblique and transversus abdominis muscles",
+          "Transversus abdominis and rectus abdominis muscles 8%",
+          "Psoas major and minor muscles 10%",
+          "Quadratus lumborum 5%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The ilioinguinal nerve innervates which muscles?",
+        "options": [
+          "Internal and external oblique muscles",
+          "Internal oblique and transversus abdominis muscles",
+          "Transversus abdominis and rectus abdominis muscles",
+          "Psoas major and minor muscles",
+          "Quadratus lumborum"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK538256/",
+        "externalFinding": "The ilioinguinal nerve gives motor innervation to transversus abdominis and internal oblique muscles."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0183-q0046",
+      "sourcePage": 183,
+      "before": {
+        "stem": "ww The gallbladder is located on which of the following aspects of the liver:",
+        "options": [
+          "Right lobe",
+          "Left lobe 4%",
+          "Quadrate lobe 7% CJ",
+          "Diaphragmatic surface 4%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The gallbladder is located on which aspect of the liver?",
+        "options": [
+          "Right lobe",
+          "Left lobe",
+          "Quadrate lobe",
+          "Caudate lobe",
+          "Diaphragmatic surface"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459288/",
+        "externalFinding": "The gallbladder attaches to the visceral liver surface in a fossa between hepatic segments IV and V."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0186-q0047",
+      "sourcePage": 186,
+      "before": {
+        "stem": "wv Control of bile and pancreatic fluid entering the duodenum is regulated by the:",
+        "options": [
+          "Ampulla of Vater",
+          "Major duodenal papilla 3%",
+          "External biliary sphincter 2%",
+          "Internal biliary sphincter 0%",
+          "Sphincter of Oddi"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "Control of bile and pancreatic fluid entering the duodenum is regulated by which structure?",
+        "options": [
+          "Ampulla of Vater",
+          "Major duodenal papilla",
+          "External biliary sphincter",
+          "Internal biliary sphincter",
+          "Sphincter of Oddi"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459288/",
+        "externalFinding": "The sphincter of Oddi regulates bile and pancreatic-secretory flow into the duodenum and prevents reflux."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0194-q0049",
+      "sourcePage": 194,
+      "before": {
+        "stem": "The infracolic compartment is divided into right and left spaces by which of the following structures:",
+        "options": [
+          "Jejunum",
+          "lleum",
+          "Sigmoid mesocolon"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "The infracolic compartment is divided into right and left spaces by which structure?",
+        "options": [
+          "Jejunum",
+          "Ileum",
+          "Mesentery",
+          "Transverse mesocolon",
+          "Sigmoid mesocolon"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://europepmc.org/articles/PMC6590000",
+        "externalFinding": "The root of the small-bowel mesentery divides the infracolic compartment into right and left infracolic spaces."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0198-q0050",
+      "sourcePage": 198,
+      "before": {
+        "stem": "The stomach receives its blood supply primarily from which of the following arteries:",
+        "options": [
+          "Inferior mesenteric artery Renal artery 0%",
+          "Suprarenal artery"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "The stomach receives its blood supply primarily from which artery?",
+        "options": [
+          "Superior mesenteric artery",
+          "Inferior mesenteric artery",
+          "Coeliac trunk",
+          "Renal artery",
+          "Suprarenal artery"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459241/",
+        "externalFinding": "The coeliac trunk provides primary supply to foregut organs including the stomach through left gastric, splenic, and common hepatic branches."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0203-q0051",
+      "sourcePage": 203,
+      "before": {
+        "stem": "Visceral afferent fibres from the ascending colon and proximal transverse colon travel to which of the following spinal cord segments:",
+        "options": [
+          "T6-18",
+          "T8- 110 N%",
+          "110 - T11",
+          "Lie 58% (x) L3-L4 2%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "Visceral afferent fibres from the ascending colon and proximal transverse colon travel to which spinal cord segments?",
+        "options": [
+          "T6-T8",
+          "T8-T10",
+          "T10-T11",
+          "L1-L2",
+          "L3-L4"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK560504/",
+        "externalFinding": "Lesser splanchnic nerves arise from T10-T11 and reach midgut perivascular plexuses."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0208-q0052",
+      "sourcePage": 208,
+      "before": {
+        "stem": "The lateral cutaneous nerve of the thigh is formed from the anterior rami of:",
+        "options": [
+          "u",
+          "LI-L2 a",
+          "L2",
+          "L3-L4"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "The lateral cutaneous nerve of the thigh is formed from which anterior rami?",
+        "options": [
+          "L1",
+          "L1-L2",
+          "L2",
+          "L2-L3",
+          "L3-L4"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532301/",
+        "externalFinding": "The lateral femoral cutaneous nerve typically arises from dorsal divisions of L2 and L3 ventral rami."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0212-q0053",
+      "sourcePage": 212,
+      "before": {
+        "stem": "ww Regarding the large intestine, which of the following parts is not described correctly:",
+        "options": [
+          "Caecum - Intraperitoneal",
+          "Ascending colon - Retroperitoneal 6%",
+          "Transverse colon - Intraperitoneal 5%",
+          "Descending colon - Retroperitoneal 3%",
+          "Sigmoid colon - Retroperitoneal"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "Regarding the large intestine, which statement is not described correctly?",
+        "options": [
+          "Caecum - Intraperitoneal",
+          "Ascending colon - Retroperitoneal",
+          "Transverse colon - Intraperitoneal",
+          "Descending colon - Retroperitoneal",
+          "Sigmoid colon - Retroperitoneal"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470577/",
+        "externalFinding": "The caecum and transverse and sigmoid colon are intraperitoneal; ascending and descending colon are retroperitoneal."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0189-q0048",
+      "sourcePage": 189,
+      "before": {
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected.",
+          "Source page reviewed, but authoritative anatomy confirms multi-vessel pancreatic supply and does not establish the source's single-primary-artery wording for the whole pancreas. The record remains unresolved and excluded from answer learning."
+        ]
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

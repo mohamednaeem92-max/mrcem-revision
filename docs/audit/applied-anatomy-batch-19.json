@@ -1,0 +1,385 @@
+{
+  "generatedAt": "2026-08-22T17:50:41.087Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0614-q0009",
+      "sourcePage": 614,
+      "before": {
+        "stem": "iv p ww Which of the following muscles lies adjacent to the lateral border of the quadratus lumborum muscle:",
+        "options": [
+          "Rectus abdominis muscle 3% ml (x) lliacus muscle 16%",
+          "Psoas major muscle 34%",
+          "Transversus abdominis muscle",
+          "Psoas minor muscle 3%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Which muscle lies adjacent to the lateral border of quadratus lumborum?",
+        "options": [
+          "Rectus abdominis",
+          "Iliacus",
+          "Psoas major",
+          "Transversus abdominis",
+          "Psoas minor"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557605/",
+        "externalFinding": "NCBI states that quadratus lumborum is present between medial psoas and lateral transversus abdominis."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0615-q0010",
+      "sourcePage": 615,
+      "before": {
+        "stem": "ww Which of the following nerves transmits the parasympathetic supply to the stomach:",
+        "options": [
+          "Greater thoracic splanchnic nerves 6%",
+          "Lesser thoracic splanchnic nerves 7%",
+          "Lumbar splanchnic nerves 5%",
+          "Pelvic splanchnic nerves 2%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "Which nerves transmit parasympathetic supply to the stomach?",
+        "options": [
+          "Greater thoracic splanchnic nerves",
+          "Lesser thoracic splanchnic nerves",
+          "Lumbar splanchnic nerves",
+          "Pelvic splanchnic nerves",
+          "Vagus nerves"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482334/",
+        "externalFinding": "NCBI states that the vagus supplies gastric parasympathetic innervation via anterior and posterior vagal fibres."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0616-q0011",
+      "sourcePage": 616,
+      "before": {
+        "stem": "ww The jejunum predominantly occupies which region of the abdomen:",
+        "options": [
+          "Left upper quadrant",
+          "Left lower quadrant 8%",
+          "Right lower quadrant 6%",
+          "Suprapubic region 4%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Which abdominal quadrant does the jejunum predominantly occupy?",
+        "options": [
+          "Left upper quadrant",
+          "Right upper quadrant",
+          "Left lower quadrant",
+          "Right lower quadrant",
+          "Suprapubic region"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532263/",
+        "externalFinding": "NCBI states that the jejunum is located mainly in the left upper quadrant."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0617-q0012",
+      "sourcePage": 617,
+      "before": {
+        "stem": "ww A 64 year old man is brought to ED with profuse haematemesis. Endoscopy shows oesophageal varices which are most likely the result of anastomosis of the left gastric vein with which of the following vessels:",
+        "options": [
+          "Abdominal aorta",
+          "Azygos system of veins",
+          "Inferior mesenteric vein 2%",
+          "Superior mesenteric vein 8%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "A man has oesophageal varices from left gastric vein anastomosis. Which vessels form the systemic side of this collateral?",
+        "options": [
+          "Abdominal aorta",
+          "Azygos system of veins",
+          "Inferior mesenteric vein",
+          "Superior mesenteric vein",
+          "Portal vein"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://europepmc.org/articles/PMC3940321",
+        "externalFinding": "A peer-reviewed review states that the left gastric vein anastomoses with oesophageal veins, which drain into the azygos vein."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0618-q0013",
+      "sourcePage": 618,
+      "before": {
+        "stem": "ww The superficial inguinal ring is an ‘opening’ in which of the following structures:",
+        "options": [
+          "External oblique aponeurosis",
+          "Internal oblique aponeurosis 5%",
+          "Transversus abdominis aponeurosis 5%",
+          "Rectus abdominis aponeurosis 2%",
+          "Transversalis fascia 1%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The superficial inguinal ring is an opening in which structure?",
+        "options": [
+          "External oblique aponeurosis",
+          "Internal oblique aponeurosis",
+          "Transversus abdominis aponeurosis",
+          "Rectus abdominis aponeurosis",
+          "Transversalis fascia"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470204/",
+        "externalFinding": "NCBI identifies the superficial ring as a triangular structure formed by fibres of the external oblique."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0619-q0014",
+      "sourcePage": 619,
+      "before": {
+        "stem": "ww The supraduodenal region of the common bile duct:",
+        "options": [
+          "lies superior to the cystic duct. 5%",
+          "lies in the free margin of the greater omentum. 7%",
+          "lies to the left of the hepatic artery proper. 9%",
+          "lies anterior to the portal vein.",
+          "empties into the major duodenal papilla. 58%"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Which statement about the supraduodenal region of the common bile duct is correct?",
+        "options": [
+          "It lies superior to the cystic duct.",
+          "It lies in the free margin of the greater omentum.",
+          "It lies to the left of the hepatic artery proper.",
+          "It lies anterior to the portal vein.",
+          "It empties into the major duodenal papilla."
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK554589/",
+        "externalFinding": "NCBI states that the portal vein travels posterior to the proper hepatic artery and common bile duct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0620-q0015",
+      "sourcePage": 620,
+      "before": {
+        "stem": "The abdominal aorta bifurcates into the right and left common iliac arteries at which of the following vertebral levels:",
+        "options": [
+          "u",
+          "(i",
+          "L5"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "At which vertebral level does the abdominal aorta bifurcate into the common iliac arteries?",
+        "options": [
+          "L1",
+          "L2",
+          "L3",
+          "L4",
+          "L5"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537319/",
+        "externalFinding": "NCBI states that the abdominal aorta terminates by bifurcating into common iliac arteries at L4."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0621-q0016",
+      "sourcePage": 621,
+      "before": {
+        "stem": "ww Regarding the rectus abdominis muscle, which of the following statements is INCORRECT:",
+        "options": [
+          "It originates from the pubic crest, pubic tubercle and pubic symphysis. 8%",
+          "It inserts onto the costal cartilages of ribs 5 - 7 and to the xiphoid process. 12%",
+          "Itis separated in the midline by the linea alba. 6%",
+          "The free lower border of its aponeurosis forms the inguinal ligament.",
+          "Itis intersected along it length by tendinous intersections. 7%"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Regarding rectus abdominis, which statement is incorrect?",
+        "options": [
+          "It originates from the pubic crest, pubic tubercle, and pubic symphysis.",
+          "It inserts onto the costal cartilages of ribs 5–7 and the xiphoid process.",
+          "It is separated in the midline by the linea alba.",
+          "The free lower border of its aponeurosis forms the inguinal ligament.",
+          "It is intersected along its length by tendinous intersections."
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470204/",
+        "externalFinding": "NCBI identifies the inguinal ligament as a thickened inferior portion of the external oblique aponeurosis."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0622-q0017",
+      "sourcePage": 622,
+      "before": {
+        "stem": "ww The quadrate lobe of the liver lies between which of the following structures:",
+        "options": [
+          "Ligamentum teres and gallbladder",
+          "Ligamentum venosum and gallbladder 7% (x) Ligamentum teres and inferior vena cava 8%",
+          "Ligamentum venosum and inferior vena cava 56%",
+          "Gallbladder and inferior vena cava 4%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The quadrate lobe of the liver lies between which structures?",
+        "options": [
+          "Ligamentum teres and gallbladder",
+          "Ligamentum venosum and gallbladder",
+          "Ligamentum teres and inferior vena cava",
+          "Ligamentum venosum and inferior vena cava",
+          "Gallbladder and inferior vena cava"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK500014/",
+        "externalFinding": "NCBI places the quadrate lobe lateral to the round ligament and closely associated with the gallbladder."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0623-q0018",
+      "sourcePage": 623,
+      "before": {
+        "stem": "ww The obturator nerve is formed from the anterior rami of:",
+        "options": [
+          "i2-L4",
+          "Ey - 12 5%",
+          "L1-L4 3%",
+          "E2SLS 7%",
+          "L3-L4 ey"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The obturator nerve is formed from the anterior rami of which spinal nerves?",
+        "options": [
+          "L2–L4",
+          "L1–L2",
+          "L1–L4",
+          "L2–L3",
+          "L3–L4"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/sites/books/NBK482225/",
+        "externalFinding": "NCBI identifies L2 through L4 as the specific spinal nerve roots of the obturator nerve."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

@@ -1,0 +1,17 @@
+# Anatomy Batch 54 External Research Notes
+
+The original rendered source pages control literal wording, option order, and displayed keys. External sources corroborate the underlying medical facts only. All records remain unapproved OCR drafts and mock-excluded.
+
+| Record | Evidence and disposition |
+|---|---|
+| 1584 Q57 | [PMC arterial cerebellum review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11352334/) describes the vertebrobasilar system and the cerebellar branches, while standard posterior-circulation anatomy confirms that the basilar artery terminates as the paired posterior cerebral arteries. Restore the source-confirmed key, posterior cerebral artery, index 3. |
+| 1585–1586 Q58 | [NCBI visual-pathway source](https://www.ncbi.nlm.nih.gov/books/NBK553189/) states that the ophthalmic artery supplies the intraorbital optic nerve; [NCBI eye-nerves source](https://www.ncbi.nlm.nih.gov/books/NBK549919/) lists ophthalmic-artery supply for the extracranial optic nerve. Page 1586 directly supplies the displayed key. Restore index 2 and repair the page-1585/page-1586 OCR merge. |
+| 1587 Q59 | [NCBI visual-pathway source](https://www.ncbi.nlm.nih.gov/books/NBK553189/) states that inferior Meyer-loop fibres pass through the temporal lobe and represent the superior visual field. Restore contralateral homonymous superior quadrantanopia, index 3. |
+| 1588 Q60 | [PMC cerebellar-artery review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11352334/) discusses cerebellar motor signs including ataxia and speech/eye-movement abnormalities. Resting tremor is not the typical cerebellar tremor described by the source explanation and is associated clinically with parkinsonism. Restore the source-confirmed five-option list, including ataxia, and key index 2. |
+| 1591 Q61 | [PMC parietal-function review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10579499/) states that parietal lesions can cause cortical sensory loss including two-point discrimination impairment. Restore the source-confirmed option list and key index 2. |
+| 1592 Q62 | [NCBI ventricular-system source](https://www.ncbi.nlm.nih.gov/books/NBK532932/) confirms that the lateral ventricles communicate with the third ventricle through the interventricular foramen of Monro, that the inferior horn projects into the temporal lobe, and that the fourth ventricle is associated with the brainstem. Restore the complete five-option list and source key index 3. |
+| 1593 Q63 | Standard cerebrovascular anatomy and [PMC cerebral-circulation review](https://pmc.ncbi.nlm.nih.gov/articles/PMC8446242/) support the vertebrobasilar system arising from the vertebral arteries, which arise from the subclavian arteries. Restore index 2. |
+| 1594 Q64 | [NCBI internal-capsule source](https://www.ncbi.nlm.nih.gov/books/NBK542181/) describes the internal capsule as densely packed ascending and descending tracts connecting cortex with subcortical structures, brainstem, and spinal cord, consistent with projection fibres. Restore the source-confirmed five-option list, including commissural fibres, and key index 0. |
+| 1595 Q65 | [NCBI Broca-area source](https://www.ncbi.nlm.nih.gov/books/NBK526096/) locates Broca area in the dominant inferior frontal gyrus and describes expressive aphasia after injury. Restore expressive dysphasia, index 3. |
+
+No visual dependency is required for any Batch 54 key after source inspection. No record is automatically approved, and no external source is used as a substitute for the original PDF transcription.

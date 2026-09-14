@@ -1,0 +1,340 @@
+{
+  "exportedAt": "2026-08-27T20:24:58.144Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-66",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1856,
+      1860,
+      1861,
+      1862,
+      1866,
+      1867,
+      1868,
+      1869,
+      1874,
+      1875
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1856-q0021",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "w Which of the following best describes the function of the cerebral aqueduct:",
+      "options": [
+        "Major site of production of CSF",
+        "Connects the lateral ventricles to the third ventricle (Vv) Connects the third ventricle to the fourth ventricle 38%",
+        "Connects the right and left lateral ventricles"
+      ],
+      "correctOption": null,
+      "explanation": "The third ventricle is connected to the fourth ventricle by the cerebral aqueduct. Vv Cerebral Ventricles ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1856,
+      "sourceQuestionNumber": 21
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1860-q0023",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww What type of visual field defect would you most likely see in a lesion of the optic radiation of the left temporal lobe:",
+      "options": [
+        "Left homonymous hemianopia (x) Left homonymous inferior quadrantanopia 3%",
+        "Right homonymous inferior quadrantanopia",
+        "Left homonymous superior quadrantanopia (Vv) Right homonymous superior quadrantanopia 68%"
+      ],
+      "correctOption": null,
+      "explanation": "The fibres of the lower part of the optic radiation (serving the upper quadrant of the contralateral visual field) pass through the temporal lobe. Vv Temporal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM 01 Ranemare",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1860,
+      "sourceQuestionNumber": 23
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1861-q0024",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww What type of visual field defect are you most likely to see in a lesion of the optic nerve:",
+      "options": [
+        "Bitemporal hemianopia",
+        "Contralateral homonymous inferior quadrantanopia (x) ontralateral homonymous hemianopia 3%",
+        "Ipsilateral homonymous superior quadrantanopia (Vv) Monocular visual loss 43%"
+      ],
+      "correctOption": null,
+      "explanation": "A lesion of the optic nerve will result in ipsilateral monocular visual loss. : : v Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1861,
+      "sourceQuestionNumber": 24
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1862-q0025",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following clinical features is most suggestive of a lesion of the occipital lobe:",
+      "options": [
+        "Memory impairment (Vv) Homonymous hemianopia 83% (x) Expressive dysphasia 2%",
+        "Hemispatial neglect",
+        "Conjugate eye deviation"
+      ],
+      "correctOption": null,
+      "explanation": "Homonymous hemianopia is most likely caused by damage to the occipital lobe. Vv Occipital Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1862,
+      "sourceQuestionNumber": 25
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1866-q0026",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The blood supply to the occipital lobe is primarily supplied from which of the following arteries:",
+      "options": [
+        "Anterior cerebral artery (x) Middle cerebral artery 3%",
+        "Posterior cerebral artery",
+        "Basilar artery",
+        "Vertebral artery"
+      ],
+      "correctOption": 1,
+      "explanation": "The blood supply to the occipital lobe is from the posterior cerebral artery, but the occipital poles, serving macular vision, have additional supply from a branch of the middle cerebral artery. Vv Occipital Lobe ANATOMY / CENTRAL NERVOUS SYSTEM 01 Ranemare",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1866,
+      "sourceQuestionNumber": 26
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1867-q0027",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The substantia nigra is located in which of the following regions of the brain:",
+      "options": [
+        "Medulla oblongata",
+        "Pons",
+        "Internal capsule",
+        "Midbrain"
+      ],
+      "correctOption": 3,
+      "explanation": "The midbrain contains the substantia nigra, the largest nucleus of the midbrain: degeneration of this extrapyramidal motor nucleus results in Parkinson's disease. : : v Brainstem ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1867,
+      "sourceQuestionNumber": 27
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1868-q0028",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following clinical features is most suggestive of a lesion of the frontal lobe:",
+      "options": [
+        "Homonymous hemianopia x) temispatial neglect ae",
+        "Receptive dysphasia",
+        "Auditory agnosia (Vv) Conjugate eye deviation towards the side of the lesion 30%"
+      ],
+      "correctOption": null,
+      "explanation": "Conjugate eye deviation towards the side of the lesion is seen in damage to the frontal eye field of the frontal lobe. Homonymous hemianopia is typically a result of damage to the occipital lobe (or of the optic radiation passing through the parietal and temporal lobes). Auditory agnosia may been seen in a lesion of the temporal lobe. Hemispatial neglect may be seen in a lesion of the parietal lobe. Receptive dysphasia is seen in damage to Wernicke's area, in the temporal lobe. “ v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1868,
+      "sourceQuestionNumber": 28
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1869-q0029",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The blood supply to the parietal lobe is primarily supplied by which of the following arteries:",
+      "options": [
+        "Anterior cerebral artery Vv) Middle cerebral artery 83%",
+        "Posterior cerebral artery",
+        "Basilar artery",
+        "Vertebral artery"
+      ],
+      "correctOption": null,
+      "explanation": "The blood supply to the parietal lobe is from the middle cerebral artery. : v Parietal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1869,
+      "sourceQuestionNumber": 29
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1874-q0030",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "w A 65 year old lady presents to ED complaining of visual loss. Examination demonstrates visual loss in the lower left quadrant in both visual fields. The lesion would most likely be in which of the following:",
+      "options": [
+        "Left temporal lobe",
+        "Right temporal lobe (x) Left parietal lobe 5%",
+        "Right parietal lobe",
+        "Right occipital lobe"
+      ],
+      "correctOption": 2,
+      "explanation": "Contralateral homonymous inferior quadrantanopia results from a lesion to the upper part of the optic radiation, situated within the parietal lobe. v Parietal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM 11 Binion",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1874,
+      "sourceQuestionNumber": 30
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1875-q0031",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The corpus callasum is composed of which type of fibres:",
+      "options": [
+        "Projection fibres (x) Short association fibres 2% (Vv) Commissural fibres 36%",
+        "Long association fibres",
+        "U-fibres"
+      ],
+      "correctOption": null,
+      "explanation": "The corpus callosum, composed of commissural fibres, links the cerebral cortex of the left and right cerebral hemisphere. Vv Cerebral Hemispheres ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1875,
+      "sourceQuestionNumber": 31
+    }
+  ]
+}

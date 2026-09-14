@@ -1,0 +1,68 @@
+[
+  {
+    "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+    "sourceFile": "Anatomy-All.pdf",
+    "markdownFile": "folder__Anatomy-All.md",
+    "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk",
+    "subjects": [
+      "Anatomy"
+    ],
+    "recordCount": 2408,
+    "referencedPageCount": 2408
+  },
+  {
+    "driveId": "1SJkKUFu5N0ERiHN1bz9y6-dCQlwFAjVs",
+    "sourceFile": "EBM-All.pdf",
+    "markdownFile": "folder__EBM-All.md",
+    "sourceLink": "https://drive.google.com/file/d/1SJkKUFu5N0ERiHN1bz9y6-dCQlwFAjVs/view?usp=drivesdk",
+    "subjects": [
+      "Evidence-based medicine"
+    ],
+    "recordCount": 133,
+    "referencedPageCount": 133
+  },
+  {
+    "driveId": "1zPmmzK2bLLlCPFJpm1ohJUupEsLWEIeE",
+    "sourceFile": "Microbiology-All.pdf",
+    "markdownFile": "folder__Microbiology-All.md",
+    "sourceLink": "https://drive.google.com/file/d/1zPmmzK2bLLlCPFJpm1ohJUupEsLWEIeE/view?usp=drivesdk",
+    "subjects": [
+      "Microbiology"
+    ],
+    "recordCount": 291,
+    "referencedPageCount": 291
+  },
+  {
+    "driveId": "1yDx0xyxQBHBOsgHcrfk5Q45CRE6ccC35",
+    "sourceFile": "Pathology-All.pdf",
+    "markdownFile": "folder__Pathology-All.md",
+    "sourceLink": "https://drive.google.com/file/d/1yDx0xyxQBHBOsgHcrfk5Q45CRE6ccC35/view?usp=drivesdk",
+    "subjects": [
+      "Pathology"
+    ],
+    "recordCount": 257,
+    "referencedPageCount": 257
+  },
+  {
+    "driveId": "1zbveOPPvY6uQk-vm24CYvyMy5Liprt7Z",
+    "sourceFile": "Pharmacology-All.pdf",
+    "markdownFile": "folder__Pharmacology-All.md",
+    "sourceLink": "https://drive.google.com/file/d/1zbveOPPvY6uQk-vm24CYvyMy5Liprt7Z/view?usp=drivesdk",
+    "subjects": [
+      "Pharmacology"
+    ],
+    "recordCount": 503,
+    "referencedPageCount": 503
+  },
+  {
+    "driveId": "1Poetcmh8t8ZESc5H4sieWZ5hOiERpPBZ",
+    "sourceFile": "Physiology-All.pdf",
+    "markdownFile": "folder__Physiology-All.md",
+    "sourceLink": "https://drive.google.com/file/d/1Poetcmh8t8ZESc5H4sieWZ5hOiERpPBZ/view?usp=drivesdk",
+    "subjects": [
+      "Physiology"
+    ],
+    "recordCount": 858,
+    "referencedPageCount": 858
+  }
+]

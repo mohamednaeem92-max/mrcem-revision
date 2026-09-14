@@ -1,0 +1,522 @@
+{
+  "generatedAt": "2026-08-23T17:55:10.816Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1134-q0117",
+      "sourcePage": 1134,
+      "before": {
+        "stem": "The infraduodenal region of the common bile duct: (Vv) ins in a groove posterior to the head of the pancreas. 30%",
+        "options": [
+          "lies posterior to the inferior vena cava.",
+          "lies anterior to the left renal vein.",
+          "empties into the third part of the duodenum."
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The infraduodenal region of the common bile duct:",
+        "options": [
+          "runs in a groove posterior to the head of the pancreas.",
+          "lies posterior to the first part of the duodenum.",
+          "lies posterior to the inferior vena cava.",
+          "lies anterior to the left renal vein.",
+          "empties into the third part of the duodenum."
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The infraduodenal common bile duct lies in a groove on the posterior surface of the pancreatic head and anterior to the inferior vena cava.",
+          "mnemonic": "CBD grooves behind the head and ahead of the IVC.",
+          "emojiCues": [
+            "🟡",
+            "🧠"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Pancreas",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK532912/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532912/",
+        "externalFinding": "NCBI states that the bile duct lies in a groove on the posterosuperior surface of the pancreatic head or may be embedded in it."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1137-q0118",
+      "sourcePage": 1137,
+      "before": {
+        "stem": "ww The inguinal ligament spans between which of the following two structures:",
+        "options": [
+          "Anterior superior iliac spine and pubic tubercle",
+          "Anterior superior iliac spine and pubic symphysis 58%",
+          "Iliac crest and pubic symphysis 1%",
+          "lliac crest and pubic tubercle 1%",
+          "Anterior superior iliac spine and pubic crest 1%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The inguinal ligament spans between which of the following two structures:",
+        "options": [
+          "Anterior superior iliac spine and pubic tubercle",
+          "Anterior superior iliac spine and pubic symphysis",
+          "Iliac crest and pubic symphysis",
+          "Iliac crest and pubic tubercle",
+          "Anterior superior iliac spine and pubic crest"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The inguinal ligament spans from the anterior superior iliac spine laterally to the pubic tubercle medially.",
+          "mnemonic": "Inguinal ligament: ASIS to tubercle.",
+          "emojiCues": [
+            "🦴",
+            "↔️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Inguinal Canal",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK542321/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK542321/",
+        "externalFinding": "NCBI identifies the inguinal ligament as extending from the anterior superior iliac spine to the pubic tubercle."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1144-q0120",
+      "sourcePage": 1144,
+      "before": {
+        "stem": "A 65 year old lady presents to ED complaining of anal pain and bleeding. Examination reveals external haemorrhoids. Which of the following nerves carries pain sensation from the anus:",
+        "options": [
+          "Genitofemoral nerve 3%",
+          "Hypogastric nerve 2%",
+          "Pudendal nerve",
+          "Pelvic splanchnic nerve",
+          "llioinguinal nerve 2%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "A 65 year old lady presents to ED complaining of anal pain and bleeding. Examination reveals external haemorrhoids. Which of the following nerves carries pain sensation from the anus:",
+        "options": [
+          "Genitofemoral nerve",
+          "Hypogastric nerve",
+          "Pudendal nerve",
+          "Pelvic splanchnic nerve",
+          "Ilioinguinal nerve"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The pudendal nerve, through its inferior rectal branches, carries somatic pain below the pectinate line.",
+          "mnemonic": "Below pectinate: pudendal perceives pain.",
+          "emojiCues": [
+            "⬇️",
+            "⚡"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Anus",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK554736/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK554736/",
+        "externalFinding": "NCBI describes somatic sensory innervation of the lower anal canal by inferior rectal branches of the pudendal nerve."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1148-q0121",
+      "sourcePage": 1148,
+      "before": {
+        "stem": "ww The rectum starts at the rectosigmoid junction at which vertebral level: c",
+        "options": [
+          "S2 59%",
+          "S4 3%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The rectum starts at the rectosigmoid junction at which vertebral level:",
+        "options": [
+          "L5",
+          "S1",
+          "S2",
+          "S3",
+          "S4"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The rectum starts at the rectosigmoid junction at S3.",
+          "mnemonic": "Rectum starts at sacral S3.",
+          "emojiCues": [
+            "3️⃣",
+            "🦴"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Rectum",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537245/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537245/",
+        "externalFinding": "NCBI states that the rectum begins at S3 as a continuation of the sigmoid colon."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1153-q0122",
+      "sourcePage": 1153,
+      "before": {
+        "stem": "ww The sacrotuberous ligament spans between which of the following structures:",
+        "options": [
+          "Pubic ramus to the posterior iliac spine and the sacrum 51% (x) Ischial spine to the iliac crest 1%",
+          "Ischial tuberosity to the anterior superior iliac spine 4%",
+          "Ischial tuberosity to the posterior superior iliac spine and the sacrum",
+          "Ischial spine to the posterior superior iliac spine and the sacrum 4%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The sacrotuberous ligament spans between which of the following structures:",
+        "options": [
+          "Pubic ramus to the posterior iliac spine and the sacrum",
+          "Ischial spine to the iliac crest",
+          "Ischial tuberosity to the anterior superior iliac spine",
+          "Ischial tuberosity to the posterior superior iliac spine and the sacrum",
+          "Ischial spine to the posterior superior iliac spine and the sacrum"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The sacrotuberous ligament attaches the sacrum and posterior superior iliac spine to the ischial tuberosity.",
+          "mnemonic": "Sacrotuberous: sacrum to tuberosity.",
+          "emojiCues": [
+            "🦴",
+            "🔺"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Ligaments",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK493215/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK493215/",
+        "externalFinding": "NCBI describes the sacrotuberous ligament extending from sacral and posterior iliac attachments to the ischial tuberosity."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1156-q0123",
+      "sourcePage": 1156,
+      "before": {
+        "stem": "ww The base of the bladder faces:",
+        "options": [
+          "Posteroinferiorly",
+          "Posterosuperiorly 10%",
+          "Anteroinferiorly 57%",
+          "Superiorly 4%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The base of the bladder faces:",
+        "options": [
+          "Posteroinferiorly",
+          "Posterosuperiorly",
+          "Anteroinferiorly",
+          "Anterosuperiorly",
+          "Superiorly"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The bladder fundus, or base, faces posteroinferiorly.",
+          "mnemonic": "Bladder base points back and down.",
+          "emojiCues": [
+            "⬅️",
+            "⬇️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Bladder",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK531465/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK531465/",
+        "externalFinding": "NCBI identifies the fundus, or base, as the posteroinferior part of the urinary bladder."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1161-q0124",
+      "sourcePage": 1161,
+      "before": {
+        "stem": "ww The aorta enters the abdomen at which of the following vertebral levels:",
+        "options": [
+          "T8 54%",
+          "Ig 0%",
+          "r12",
+          "u 1%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The aorta enters the abdomen at which of the following vertebral levels:",
+        "options": [
+          "T8",
+          "T9",
+          "T10",
+          "T12",
+          "L1"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The descending thoracic aorta enters the abdomen through the aortic hiatus at T12.",
+          "mnemonic": "Aortic hiatus: T12.",
+          "emojiCues": [
+            "🩸",
+            "1️⃣2️⃣"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Aorta",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537319/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537319/",
+        "externalFinding": "NCBI states that the descending thoracic aorta passes through the aortic hiatus at T12 and continues as the abdominal aorta."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1164-q0125",
+      "sourcePage": 1164,
+      "before": {
+        "stem": "Ld A 36 year old male is brought into ED complaining of fever, abdominal pain and tenderness. Imaging shows that an abdominal infection has spread retroperitoneally. Which of the following structures is most likely affected:",
+        "options": [
+          "Jejunum 1%",
+          "Head of the pancreas",
+          "Transverse colon 4%",
+          "First part of duodenum 56%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "A 36 year old male is brought into ED complaining of fever, abdominal pain and tenderness. Imaging shows that an abdominal infection has spread retroperitoneally. Which of the following structures is most likely affected:",
+        "options": [
+          "Jejunum",
+          "Head of the pancreas",
+          "Transverse colon",
+          "First part of duodenum",
+          "Appendix"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The pancreatic head is part of the retroperitoneal pancreas and lies in the C-shaped duodenal loop.",
+          "mnemonic": "Pancreatic head stays retroperitoneal.",
+          "emojiCues": [
+            "🧠",
+            "🫥"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Pancreas",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK532912/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532912/",
+        "externalFinding": "NCBI describes the pancreas as situated retroperitoneally on the posterior abdominal wall and identifies the head within the duodenal C loop."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1167-q0126",
+      "sourcePage": 1167,
+      "before": {
+        "stem": "ww The sigmoid colon extends as low as which of the following vertebral levels:",
+        "options": [
+          "L5 1%",
+          "s1 18%",
+          "s2 18%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The sigmoid colon extends as low as which of the following vertebral levels:",
+        "options": [
+          "L4",
+          "L5",
+          "S1",
+          "S2",
+          "S3"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The sigmoid colon reaches S3, where it becomes continuous with the rectum.",
+          "mnemonic": "Sigmoid sinks to sacral S3.",
+          "emojiCues": [
+            "3️⃣",
+            "↘️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Sigmoid Colon",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK549824/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK549824/",
+        "externalFinding": "NCBI states that the sigmoid colon becomes the rectum at the third sacral vertebral level."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1172-q0127",
+      "sourcePage": 1172,
+      "before": {
+        "stem": "ww The mesentery connects which of the following structures to the posterior abdominal wall:",
+        "options": [
+          "Transverse colon 62%",
+          "Stomach 3%",
+          "Jejunum and ileum",
+          "Duodenum 5%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "memoryAid": null
+      },
+      "after": {
+        "stem": "The mesentery connects which of the following structures to the posterior abdominal wall:",
+        "options": [
+          "Transverse colon",
+          "Stomach",
+          "Jejunum and ileum",
+          "Duodenum",
+          "Liver"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "memoryAid": {
+          "coreFact": "The mesentery is a double fold of peritoneum anchoring the jejunum and ileum to the posterior abdominal wall.",
+          "mnemonic": "Mesentery: jejunum and ileum are tethered.",
+          "emojiCues": [
+            "🪢",
+            "🧻"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI Bookshelf: Small Intestine",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK459366/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459366/",
+        "externalFinding": "NCBI directly defines the mesentery as a double peritoneal fold anchoring the jejunum and ileum to the posterior abdominal wall."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

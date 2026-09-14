@@ -1,0 +1,337 @@
+{
+  "exportedAt": "2026-08-26T03:54:53.037Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-42",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1283,
+      1284,
+      1286,
+      1287,
+      1288,
+      1289,
+      1293,
+      1294,
+      1297,
+      1298
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1283-q0180",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Which of the following is NOT an anatomical feature that prevents against gastric reflux:",
+      "options": [
+        "The diaphragmatic pinchcock effect on the oesophagus 4%",
+        "Intra-abdominal pressure which maintains the oesophagus in a state of collapse when empty 15%",
+        "The angle of His formed at the junction of the oesophagus and gastric fundus 6%",
+        "Gastric mucosal rosette-like folds at the gastro-oesophageal junction 10%",
+        "The striated lower oesophageal sphincter muscle"
+      ],
+      "correctOption": 4,
+      "explanation": "The lower oesophageal sphincter is not a distinct muscular structure composed of skeletal muscle like the upper oesophageal sphincter. The lower oesophageal sphincter is formed from a high-pressure zone of smooth muscle, located at the gastro-oesophageal junction. Vv Oesophagus (Abdominal) ANATOMY / ABDOMEN / GASTROINTESTINAL TRACT",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1283,
+      "sourceQuestionNumber": 180
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1284-q0001",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A70 year old undergoes radical prostatectomy for prostate cancer. Postoperatively he complains of urinary incontinence due to paralysis of the external urethral sphincter. Which of the following nerves was most likely injured during surgery:",
+      "options": [
+        "Genitofemoral nerve 14%",
+        "Pudendal nerve",
+        "Coccygeal nerve 2% ee",
+        "lliohypogastric nerve 4%"
+      ],
+      "correctOption": 1,
+      "explanation": "The voluntary external urethral sphincter is innervated by the pudendal nerve (S2 - S4). Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1284,
+      "sourceQuestionNumber": 1
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1286-q0003",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The iliohypogastric nerve is formed from the anterior rami of:",
+      "options": [
+        "et 4885 Ec a",
+        "L4 1%"
+      ],
+      "correctOption": null,
+      "explanation": "The iliohypogastric nerve is formed from the anterior rami of L1. It innervates the internal oblique and the transversus abdominis muscles and supplies posterolateral gluteal skin and skin over the pubic region. . Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1286,
+      "sourceQuestionNumber": 3
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1287-q0004",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Which of the following best describes the regions of the abdomen that the liver normally occupies:",
+      "options": [
+        "Left hypochondrium and epigastric region 1%",
+        "Right hypochondrium and right flank 6%",
+        "Right hypochondrium and umbilical region",
+        "Right hypochondrium, epigastric region and left hypochondrium"
+      ],
+      "correctOption": 3,
+      "explanation": "The liver is the largest visceral organ in the body and is primarily located in the right hypochondrium and epigastric region, extending into the left hypochondrium. < ? Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1287,
+      "sourceQuestionNumber": 4
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1288-q0005",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww A patient with known inflammatory bowel disease presents to ED complaining of severe abdominal pain and diarrhoea. Imaging shows a flare up primarily affecting the rectum. Which of the following nerves is most likely responsible for transmission of pain from the rectum:",
+      "options": [
+        "Pelvic splanchnic nerves",
+        "Lumbar splanchnic nerves",
+        "Sacral splanchnic nerves 9%",
+        "Vagus nerves 1%"
+      ],
+      "correctOption": 0,
+      "explanation": "The visceral afferent innervation of the rectum is transmitted by way of the pelvic splanchnic nerves, which also provide parasympathetic supply. Sympathetic nervous supply to the rectum is from the lumbar splanchnic nerves (L1, L2) and the inferior mesenteric plexus (upper rectum) and hypogastric plexuses (middle and lower rectum). v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1288,
+      "sourceQuestionNumber": 5
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1289-q0006",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww A19 year old male is brought to ED having sustained a handlebar injury with blunt trauma to his upper abdomen whilst riding his scooter. Which of the following is the most commonly injured organ:",
+      "options": [
+        "Pancreas 8%",
+        "Transverse colon 5%",
+        "Spleen",
+        "Duodenum",
+        "Kidney 1%"
+      ],
+      "correctOption": 2,
+      "explanation": "The liver and spleen are the most commonly injured organs with this clinical picture. / v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1289,
+      "sourceQuestionNumber": 6
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1293-q0007",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "w Which of the following lies immediately medial to the second part of the duodenum:",
+      "options": [
+        "Transverse colon 2%",
+        "Spleen 1%",
+        "Right kidney 3%",
+        "Head of the pancreas",
+        "Stomach 3%"
+      ],
+      "correctOption": 3,
+      "explanation": "The descending (second) part is just to the right of the midline, extending from the neck of the gallbladder to the lower border of vertebra L3 and lying lateral to the head of the pancreas. This part contains the major duodenal papilla which is the common entrance for the bile and pancreatic ducts. ; ? Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1293,
+      "sourceQuestionNumber": 7
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1294-q0008",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 64 year old man with known liver cirrhosis secondary to chronic alcohol abuse presents to ED vomiting profuse bright red blood. Endoscopy demonstrates ruptured oesophageal varices. Which of the following veins forms a portosystemic anastomosis with caval veins to form the varices:",
+      "options": [
+        "Right gastric vein 10%",
+        "Splenic vein 6%",
+        "Left gastric vein",
+        "Left gastro-omental vein 2%"
+      ],
+      "correctOption": 2,
+      "explanation": "The left gastric vein and its tributaries from a portosystemic anastomosis with tributaries to the azygos system of veins of the caval system at the gastroesophageal junction around the cardia of the stomach. : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1294,
+      "sourceQuestionNumber": 8
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1297-q0009",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "iv p ww Which of the following muscles lies adjacent to the lateral border of the quadratus lumborum muscle:",
+      "options": [
+        "Rectus abdominis muscle 3% ml (x) lliacus muscle 16%",
+        "Psoas major muscle 34%",
+        "Transversus abdominis muscle",
+        "Psoas minor muscle 3%"
+      ],
+      "correctOption": 2,
+      "explanation": "The quadratus lumborum muscles essentially fill the space between rib 12 and the iliac crest on both sides of the vertebral column. They are overlapped medially by the psoas major muscles and along their lateral borders are the transversus abdominis muscles. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1297,
+      "sourceQuestionNumber": 9
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1298-q0010",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Which of the following nerves transmits the parasympathetic supply to the stomach:",
+      "options": [
+        "Greater thoracic splanchnic nerves 6%",
+        "Lesser thoracic splanchnic nerves 7%",
+        "Lumbar splanchnic nerves 5%",
+        "Pelvic splanchnic nerves 2%"
+      ],
+      "correctOption": null,
+      "explanation": "The parasympathetic supply to the stomach is carried by the vagus nerve. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1298,
+      "sourceQuestionNumber": 10
+    }
+  ]
+}

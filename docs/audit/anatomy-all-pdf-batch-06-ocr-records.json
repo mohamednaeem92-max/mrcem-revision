@@ -1,0 +1,340 @@
+{
+  "exportedAt": "2026-08-22T14:46:45.648Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-06",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      217,
+      221,
+      226,
+      230,
+      233,
+      239,
+      242,
+      248,
+      253,
+      259
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0217-q0054",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The ilioinguinal nerve supplies skin over which of the following regions:",
+      "options": [
+        "Posterolateral gluteal region",
+        "Lateral thigh",
+        "Posteromedial gluteal region (x) Posterior thigh 2%"
+      ],
+      "correctOption": null,
+      "explanation": "The ilioinguinal nerve is formed from the anterior rami of L1. It innervates the internal oblique and transversus abdominis muscles and supplies skin over the upper medial thigh and the external genitalia. [<= o Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 217,
+      "sourceQuestionNumber": 54
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0221-q0055",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Which of the following parts of the pancreas is intraperitoneal:",
+      "options": [
+        "Head 12%",
+        "Neck",
+        "Body",
+        "Uncinate process 4%"
+      ],
+      "correctOption": null,
+      "explanation": "The pancreas is a retroperitoneal organ (except for a small part of its tail) and consists of a head, uncinate process, neck, body and tail. The tail passes between layers of the splenorenal ligament. ae] L JL SS Li Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 221,
+      "sourceQuestionNumber": 55
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0226-q0056",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A patient is brought to ED following abdominal trauma. Your consultant performs a FAST scan in the department and identifies fluid in Morison's pouch. Where is Morison's pouch located: (x) Left perihepatic space 4%",
+      "options": [
+        "Left subphrenic space",
+        "Right subphrenic space 14%",
+        "Right subhepatic space",
+        "Left infracolic space 2%"
+      ],
+      "correctOption": 2,
+      "explanation": "The supracolic compartment lies above the transverse mesocolon and contains the stomach, liver and spleen. It lies largely under cover of the costal limits of the thoracic cage. The supracolic space can be arbitrarily divided into right and left supracolic spaces and subspaces. The posterior right subhepatic space (Morrison's pouch) separates the liver from the right kidney. Fluid (e.g. ascites or haemoperitoneum) accumulates here as it is the lowest dependant spaces of the peritoneal cavity from a wide range of causes. It is also a preferential site for metastases and abscesses. v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 226,
+      "sourceQuestionNumber": 56
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0230-q0057",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The termination of the abdominal aorta can be visualised on the anterior abdominal wall by a point:",
+      "options": [
+        "About 2.5 cm above the umbilicus",
+        "Halfway between the xiphisternum and the umbilicus",
+        "Halfway between the umbilicus and the pubic symphysis",
+        "About 2.5 cm above the deep inguinal ring"
+      ],
+      "correctOption": null,
+      "explanation": "The main terminal branches of the abdominal aorta are the two common iliac arteries. This bifurcation can be visualised on the anterior abdominal wall as a point approximately 2.5 cm below the umbilicus. (| se [eee o Ld Ld Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 230,
+      "sourceQuestionNumber": 57
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0233-q0058",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The superior pole of the right kidney reaches as high as which of the following: @",
+      "options": [
+        "Rib 9 5%",
+        "Rib 10 1%",
+        "Rib 11 58%",
+        "rib 12"
+      ],
+      "correctOption": 3,
+      "explanation": "The left kidney is a little higher than the right, reaching as high as rib 11, compared to rib 12 for the right kidney (because of its relationship with the liver). : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 233,
+      "sourceQuestionNumber": 58
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0239-q0059",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "bd Regarding the ureters, which of the following statements is CORRECT:",
+      "options": [
+        "The bladder drains into the ureters. 1%",
+        "The ureters are continuously superiorly with the renal medulla. 6%",
+        "The ureters descend on the medial aspect of the psoas major muscles.",
+        "The ureters are intraperitoneal structures. 55%",
+        "The left ureter lies in close proximity to the appendix. 2%"
+      ],
+      "correctOption": 2,
+      "explanation": "The ureters are muscular tubes that transport urine from the kidneys to the bladder. They are continuous superiorly with the renal pelvis at the ureteropelvic junction. Inferior to the ureteropelvic junction, the ureters descend retroperitoneally on the medial aspect of the psoas major muscle, anterior to the tips of the transverse processes of the lower lumbar vertebrae. The right ureter lies in close proximity to the appendix and be irritated in inflammation resulting in urinary symptoms. , Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 239,
+      "sourceQuestionNumber": 59
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0242-q0060",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The renal pelvis is continuous with which of the following structures:",
+      "options": [
+        "The minor calyx 54%",
+        "The renal pyramid 2%",
+        "The major calyx 9%",
+        "The renal sinus 1% (v’) The ureter 3496"
+      ],
+      "correctOption": null,
+      "explanation": "The apical projection of the renal pyramid is surrounded by a minor calyx into which the collecting ducts drain. Several minor calyces unite to form a major calyx, and two or three major calyces unite to form the renal pelvis, which is continuous with the ureter. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 242,
+      "sourceQuestionNumber": 60
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0248-q0061",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 65 year old man with known BPH, presents to ED in severe pain due to urinary retention. What is the location of the neural cell bodies responsible for pain sensation from the urinary bladder:",
+      "options": [
+        "Dorsal root ganglia of spinal cord levels L1- L4",
+        "anglia inal cord levels S2, S3 and S4 Dorsal root ganglia of spinal cord levels T5 - T9 1%",
+        "Dorsal root ganglia of spinal cord levels 110 - T12"
+      ],
+      "correctOption": 1,
+      "explanation": "Pain from the bladder results from activation of stretch receptors which have visceral afferents transmitted through the pelvic nerve plexus and into the pelvic splanchnic nerves. The sensory fibres enter the dorsal root ganglia of spinal nerves S2 - S4. Ce] Py] Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 248,
+      "sourceQuestionNumber": 61
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0253-q0062",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The right and left hepatic arteries are derived from which of the following blood vessels:",
+      "options": [
+        "Directly from the aorta 6%",
+        "From the coeliac trunk",
+        "From the superior mesenteric artery 7%",
+        "From the inferior mesenteric artery",
+        "From the gastrosplenic artery 4%"
+      ],
+      "correctOption": 1,
+      "explanation": "The arterial supply to the liver is from the left and right hepatic arteries derived from the hepatic artery proper, a branch of the common hepatic artery from the coeliac trunk. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 253,
+      "sourceQuestionNumber": 62
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0259-q0063",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 23 year old patient is brought to ED following a road traffic accident. CT imaging demonstrates retroperitoneal injury. Which of the following organs is most likely affected:",
+      "options": [
+        "Appendix Sigmoid colon 6%",
+        "Tail of the pancreas"
+      ],
+      "correctOption": null,
+      "explanation": "The ascending colon is the only organ listed which is retroperitoneal. [< | se |eseaen | Py] Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 259,
+      "sourceQuestionNumber": 63
+    }
+  ]
+}

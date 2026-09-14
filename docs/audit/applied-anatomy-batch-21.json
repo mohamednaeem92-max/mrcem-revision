@@ -1,0 +1,389 @@
+{
+  "generatedAt": "2026-08-22T18:13:30.866Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0638-q0030",
+      "sourcePage": 638,
+      "before": {
+        "stem": "ww The abdominal aorta terminates as which of the following:",
+        "options": [
+          "Internal and external iliac arteries",
+          "External iliac and femoral artery 2%",
+          "Right and left common iliac arteries",
+          "Superior and inferior epigastric arteries 0%",
+          "Internal iliac and femoral artery 2%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The abdominal aorta terminates as which arteries?",
+        "options": [
+          "Internal and external iliac arteries",
+          "External iliac and femoral artery",
+          "Right and left common iliac arteries",
+          "Superior and inferior epigastric arteries",
+          "Internal iliac and femoral artery"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532972/",
+        "externalFinding": "NCBI states that the abdominal aorta bifurcates at L4 into right and left common iliac arteries."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0639-q0031",
+      "sourcePage": 639,
+      "before": {
+        "stem": "ww A79 year old patient, with a history of AF, presents to ED complaining of sudden onset severe abdominal pain. Imaging shows occlusion of the superior mesenteric artery. Which of the following structures is most likely affected:",
+        "options": [
+          "Stomach 1% (x) First part of the duodenum 10%",
+          "Jejunum and ileum",
+          "Splenic flexure 7%",
+          "Rectum 1%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "A patient with atrial fibrillation has sudden severe abdominal pain and superior mesenteric artery occlusion. Which structures are most likely affected?",
+        "options": [
+          "Stomach",
+          "First part of the duodenum",
+          "Jejunum and ileum",
+          "Splenic flexure",
+          "Rectum"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK519560/",
+        "externalFinding": "NCBI describes jejunal and ileal branches arising from the superior mesenteric artery."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0640-q0032",
+      "sourcePage": 640,
+      "before": {
+        "stem": "wy Posteriorly the spleen lies in the region of which of the following:",
+        "options": [
+          "Ribs 7 and 8 2%",
+          "Ribs 8 - 10 5% (v Ribs 9-11 35%",
+          "Ribs 10 - 12",
+          "Below the costal margin 2%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "Posteriorly, the spleen lies in the region of which ribs?",
+        "options": [
+          "Ribs 7 and 8",
+          "Ribs 8–10",
+          "Ribs 9–11",
+          "Ribs 10–12",
+          "Below the costal margin"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482235/",
+        "externalFinding": "NCBI states that the spleen typically spans ribs nine through 11."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0641-q0033",
+      "sourcePage": 641,
+      "before": {
+        "stem": "wy The ductus deferens is derived from which of the following structures:",
+        "options": [
+          "Tunica vaginalis 17%",
+          "Ejaculatory ducts 4%",
+          "Seminal vesicle 8% (/) Epididymis fe",
+          "Rete testis 3%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The ductus deferens continues from which structure?",
+        "options": [
+          "Tunica vaginalis",
+          "Ejaculatory ducts",
+          "Seminal vesicle",
+          "Epididymis",
+          "Rete testis"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470201/",
+        "externalFinding": "NCBI states that ductus deferens begins as a continuation of the epididymal tail."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0643-q0034",
+      "sourcePage": 643,
+      "before": {
+        "stem": "hd A patient presents following a fall. Imaging shows damage to the L1 nerve root. Which of the following muscles are most likely to be affected:",
+        "options": [
+          "Transversus abdominis and rectus abdominis muscles 5%",
+          "Rectus abdominis and external oblique muscles 55%",
+          "Gluteus medius and minimus muscles 71%",
+          "Transversus abdominis and internal oblique muscles",
+          "Internal and external oblique muscles"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "A patient has damage involving the L1-derived ilioinguinal nerve. Which muscles are most likely affected?",
+        "options": [
+          "Transversus abdominis and rectus abdominis muscles",
+          "Rectus abdominis and external oblique muscles",
+          "Gluteus medius and minimus muscles",
+          "Transversus abdominis and internal oblique muscles",
+          "Internal and external oblique muscles"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK538256/",
+        "externalFinding": "NCBI identifies motor innervation of internal oblique and transversus abdominis by the ilioinguinal nerve."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0647-q0036",
+      "sourcePage": 647,
+      "before": {
+        "stem": "The kidneys extend between which of the following vertebral levels:",
+        "options": [
+          "19-112 os",
+          "12-1",
+          "LIES 9%",
+          "m2-13",
+          "L2-L5 ig"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The kidneys normally extend between which vertebral levels?",
+        "options": [
+          "T9–T12",
+          "T12–L1",
+          "L1–L3",
+          "T12–L3",
+          "L2–L5"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482385/",
+        "externalFinding": "NCBI places normal kidneys between T12 and L3."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0649-q0038",
+      "sourcePage": 649,
+      "before": {
+        "stem": "ww Regarding the uterine tubes, which of the following statements is CORRECT:",
+        "options": [
+          "The uterine tubes open into the peritoneal cavity lateral to the ovaries.",
+          "Each uterine tube is approximately 5 cm long. 4%",
+          "The opening of the uterine tube is formed by the ampulla. 56%",
+          "The infundibulum is the narrowest part of the uterine tube. 9%",
+          "Ectopic pregnancies occur most commonly in the isthmus of the uterine tube. 8%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Regarding the uterine tubes, which statement is correct?",
+        "options": [
+          "The uterine tubes open into the peritoneal cavity lateral to the ovaries.",
+          "Each uterine tube is approximately 5 cm long.",
+          "The opening of the uterine tube is formed by the ampulla.",
+          "The infundibulum is the narrowest part of the uterine tube.",
+          "Ectopic pregnancies occur most commonly in the isthmus of the uterine tube."
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK547660/",
+        "externalFinding": "NCBI describes infundibular abdominal ostium opening into the peritoneal cavity near the ovary."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0634-q0029",
+      "sourcePage": 634,
+      "before": {
+        "stem": "ww Which of the following structures is NOT a posterior relation of the transverse colon:",
+        "options": [
+          "Second part of duodenum 7%",
+          "Head of pancreas 7% (x) pper end of mesentery 8%",
+          "Duodenojejunal flexure 57% (/) spleen 21%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "Which structure is NOT a posterior relation of the transverse colon?",
+        "options": [
+          "Second part of duodenum",
+          "Head of pancreas",
+          "Upper end of mesentery",
+          "Duodenojejunal flexure",
+          "Spleen"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "Source page reviewed, but external evidence does not uniquely corroborate the exact posterior-relation exclusion. This record remains excluded from answer learning."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470577/",
+        "externalFinding": "NCBI large-intestine anatomy does not furnish the source's exact posterior-relation list."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0644-q0035",
+      "sourcePage": 644,
+      "before": {
+        "stem": "ww The cutaneous supply of the scrotum is derived primarily from which of the following spinal nerve roots.",
+        "options": [
+          "m0 - 11 6%",
+          "L2-L4 9%",
+          "$1-S4 12%",
+          "i4,s2-s3 se"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The cutaneous supply of the scrotum is derived primarily from which spinal nerve roots?",
+        "options": [
+          "T10–L1",
+          "L5, S1",
+          "L2–L4",
+          "S1–S4",
+          "L1, S2–S3"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "Source page reviewed, but the exact L1, S2–S3 scrotal root combination is not externally corroborated. This record remains excluded from answer learning."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK549893/",
+        "externalFinding": "NCBI lists four scrotal contributors and L1-L2 anterior genitofemoral supply, not the exact marked root set."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0648-q0037",
+      "sourcePage": 648,
+      "before": {
+        "stem": "ww The body of the pancreas lies at which of the following vertebral levels:",
+        "options": [
+          "112 ms",
+          "e 26%",
+          "L3 3%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The body of the pancreas lies at which vertebral level?",
+        "options": [
+          "T11",
+          "T12",
+          "L1",
+          "L2",
+          "L3"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "Source page reviewed, but external evidence conflicts with the isolated L1 pancreatic-body key. This record remains excluded from answer learning."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532912/",
+        "externalFinding": "NCBI describes pancreatic body passing over L2 while pancreas overall crosses L1-L2."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

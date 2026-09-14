@@ -1,0 +1,335 @@
+{
+  "exportedAt": "2026-08-27T21:29:29.665Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-74",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2023,
+      2027,
+      2028,
+      2029,
+      2030,
+      2031
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p2018-q0025",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Which of the following clinical features is NOT typical of a facial nerve palsy:",
+      "options": [
+        "Hyperacusis",
+        "Reduced salivation ie Reduced lacrimal fluid production 8%",
+        "Impaired sense of taste",
+        "Inability to raise the eyelid"
+      ],
+      "correctOption": 3,
+      "explanation": "Facial nerve palsy can result in inability to close the eye due to paralysis of the orbicularis oculi muscle. Elevation of the eyelid in eye opening is a function of the levator palpebrae superioris muscle and the superior tarsal muscle, innervated by the oculomotor nerve and the sympathetic chain respectively. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 2018,
+      "sourceQuestionNumber": 25
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2019-q0026",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "w Which of the following clinical features is NOT typical for a vagal nerve palsy:",
+      "options": [
+        "Uvula deviation away from the affected side",
+        "Tongue deviation towards the affected side",
+        "Loss of gag reflex",
+        "Dysphagia"
+      ],
+      "correctOption": 1,
+      "explanation": "The hypoglossal nerve, not the vagus nerve, innervates most of the muscles of the tongue and if damaged may result in tongue deviation on protrusion towards the affected side. . Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 2019,
+      "sourceQuestionNumber": 26
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2020-q0027",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Regarding the glossopharyngeal nerve, which of the following statements is CORRECT:",
+      "options": [
+        "It is the efferent nerve of the gag reflex. 7% (#) t emerges from the cranial cavity through the hypoglossal canal. 4%",
+        "It carries taste from the anterior two-thirds of the tongue. 53%",
+        "It innervates the tensor veli palatini muscle. 9% Cv ) It provides parasympatheti secretomotor fibres to the parotid gland. 28%"
+      ],
+      "correctOption": null,
+      "explanation": "The glossopharyngeal nerve supplies parasympathetic secretomotor fibres to the parotid gland, motor fibres to the stylopharyngeus muscle and taste fibres to the posterior one-third of the tongue. It is the afferent pathway of the gag reflex, and exits the skull through the jugular foramen. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 2020,
+      "sourceQuestionNumber": 27
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2021-q0028",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Regarding the facial nerve, which of the following statements is INCORRECT:",
+      "options": [
+        "Forehead sparing in facial nerve palsy is indicative of a lower motor neuron lesion. (x) The facial nerve supplies taste to the anterior two-thirds of the tongue. 5%",
+        "The facial nerve carries parasympathetic fibres to the lacrimal glands.",
+        "The facial nerve leaves the brainstem at the cerebellopontine angle.",
+        "The facial nerve exits the skull via the stylomastoid foramen."
+      ],
+      "correctOption": 0,
+      "explanation": "In facial nerve palsy, if the damage is peripheral (LMN), the forehead will be involved and there will be an inability to close the eyes or raise the eyebrows due to paralysis of the orbicularis oculi and occipitofrontalis muscle respectively. If the damage is central (UMN), there is forehead sparing as the occipitofrontalis and orbicularis oculi muscles have bilateral cortical representation. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 2021,
+      "sourceQuestionNumber": 28
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2023-q0030",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Which of the following nerves is the afferent pathway of the pupillary light reflex:",
+      "options": [
+        "Ophthalmic nerve",
+        "Oculomotor nerve",
+        "Trochlear nerve"
+      ],
+      "correctOption": null,
+      "explanation": "The optic nerve is the afferent pathway of the pupillary light reflex. The oculomotor nerve is the efferent pathway of the pupillary light reflex. . Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 2023,
+      "sourceQuestionNumber": 30
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2027-q0031",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Regarding the accessory nerve, which of the following statements is INCORRECT:",
+      "options": [
+        "The nerve originates from cervical segments C1 - C5. & The nerve exits the skull through the jugular foramen. 6%",
+        "The accessory nerve innervates the sternocleidomastoid and the trapezius muscle. (\\/) Accessory nerve palsy results in the inability to nod the head. 66%",
+        "The nerve enters the cranial cavity through the foramen magnum."
+      ],
+      "correctOption": null,
+      "explanation": "Accessory nerve palsy results in inability to shrug the shoulders and to rotate the head to look at the opposite side to the lesion. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 2027,
+      "sourceQuestionNumber": 31
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2028-q0032",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "w The abducens nerve innervates which of the following muscles: Inferior oblique 1%",
+      "options": [
+        "Superior oblique (x) Medial rectus 2%",
+        "Lateral rectus Superior rectus 0%"
+      ],
+      "correctOption": 1,
+      "explanation": "The abducens nerve innervates the lateral rectus muscle. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 2028,
+      "sourceQuestionNumber": 32
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2029-q0033",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "w A 35 year old woman presents to ED complaining of an inability to shrug her left shoulder or to turn her head to face the right side. The most likely injured nerve causing her symptoms exits the skull through which of the following:",
+      "options": [
+        "Foramen ovale",
+        "Hypoglossal canal",
+        "Jugular foramen",
+        "Internal auditory meatus"
+      ],
+      "correctOption": 2,
+      "explanation": "The accessory nerve innervates the trapezius and sternocleidomastoid muscles responsible for shrugging the shoulders, and rotating the head to the opposite direction respectively. The accessory nerve exits the skull through the jugular foramen. A",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 2029,
+      "sourceQuestionNumber": 33
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2030-q0034",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "A patient presents with an adducted eye at rest which cannot abduct past the midline, which of the following cranial nerves is most likely to be affected:",
+      "options": [
+        "Trochlear nerve",
+        "Oculomotor nerve",
+        "Optic nerve",
+        "Ophthalmic division of the trigeminal nerve"
+      ],
+      "correctOption": null,
+      "explanation": "Abducens nerve palsies result in a convergent squint at rest (eye turned inwards) with inability to abduct the eye because of unopposed action of the rectus medialis. The patient complains of horizontal diplopia when looking towards the affected side. With complete paralysis, the eye cannot abduct past the midline. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 2030,
+      "sourceQuestionNumber": 34
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2031-q0035",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "w A 50 year old man presents to ED with diplopia and a ptosis. On pulling his eyelid up, you note that his pupil is looking down and out, and his pupil is fixed and dilated. Further imaging shows that the patient has a cerebral aneurysm compressing a cranial nerve. Which of the following blood vessels is most likely to be the culprit:",
+      "options": [
+        "Anterior cerebral artery 9%",
+        "Middle cerebral artery & Posterior cerebral artery 9%",
+        "Anterior communicating artery",
+        "Posterior communicating artery"
+      ],
+      "correctOption": 3,
+      "explanation": "Ptosis, fixed dilated pupil and eye resting in down and out position are clinical features of a oculomotor (CN III) palsy. The cisternal portion of the oculomotor nerve is in the subarachnoid space anterior to the midbrain and in close proximity to the posterior communicating artery. Posterior communicating artery aneurysm is an important cause of oculomotor palsy. } Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 2031,
+      "sourceQuestionNumber": 35
+    }
+  ]
+}

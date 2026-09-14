@@ -1,0 +1,560 @@
+{
+  "generatedAt": "2026-08-22T09:14:30.266493+00:00",
+  "input": "docs/audit/anatomy-all-pdf-batch-03-ocr-records.json",
+  "model": "gpt-5-mini",
+  "recordCount": 10,
+  "nonMutationRule": "Triage does not alter question text, answer keys, explanations, learning aids, or review status.",
+  "evidenceRule": "Every correction requires source-page confirmation; medical corrections additionally require an authoritative external source.",
+  "triage": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0093-q0022",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "wy Which of the following is the functional unit of the liver:",
+          "reason": "\"wy\" at the start of the stem appears to be an OCR artifact or stray characters",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Hepatocyte 22%",
+          "reason": "Trailing \"22%\" appended to the option looks like extraneous data (poll/metadata) or OCR corruption",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Portal triad 55%",
+          "reason": "Trailing \"55%\" appended to the option looks like extraneous data (poll/metadata) or OCR corruption",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Lobe 0%",
+          "reason": "Trailing \"0%\" appended to the option looks like extraneous data (poll/metadata) or OCR corruption",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Vv",
+          "reason": "Trailing \"Vv\" at the end of the explanation appears to be garbage introduced by OCR",
+          "severity": "low"
+        },
+        {
+          "kind": "grammar",
+          "span": "hexagonal-shaped",
+          "reason": "Hyphenation \"hexagonal-shaped\" is nonstandard; consider \"hexagonal\" or \"hexagonally shaped\"",
+          "severity": "low"
+        },
+        {
+          "kind": "terminology",
+          "span": "Lobule / Lobe",
+          "reason": "Potential terminology confusion between \"lobule\" and \"lobe\"—these are different anatomical concepts and could confuse examinees",
+          "severity": "medium"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "Hepatocyte vs Lobule",
+          "reason": "The stem asks for the \"functional unit\" — some readers might interpret this at the cellular level (hepatocyte) versus the microanatomical structural level (lobule); question intent should be clarified",
+          "severity": "medium"
+        },
+        {
+          "kind": "option_structure",
+          "span": "correctOption: 1",
+          "reason": "The indexing convention for correctOption is unclear (zero-based vs one-based). This affects which listed option is marked as correct and must be verified against the source",
+          "severity": "high"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The question asserts an anatomical fact and exhibits OCR and option-mapping ambiguities that could change the intended correct answer; authoritative confirmation is required.",
+        "suggestedAuthorityQuery": "Verify from the original scanned source page and authoritative anatomy/histology references (e.g., Gray's Anatomy, standard histology textbooks) whether the intended correct answer is 'lobule' and that the options and their mapping on the source page are accurate.",
+        "risk": "possible_ambiguity"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Multiple OCR artifacts (leading 'wy', trailing percentage annotations on options, trailing 'Vv'), unclear correctOption indexing, and potential lobule/lobe terminology confusion require inspection of the original scanned page to confirm exact wording, option order, and intended correct answer before any correction or reuse."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0099-q0023",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "A70 year old",
+          "reason": "Missing space and hyphenation from OCR; likely should read 'A 70-year-old'.",
+          "severity": "low"
+        },
+        {
+          "kind": "grammar",
+          "span": "Which of the following nerves was most likely injured during surgery:",
+          "reason": "Sentence ends with a colon rather than a question mark; punctuation likely corrupted by OCR or transcription.",
+          "severity": "low"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Coccygeal nerve Cie",
+          "reason": "Trailing 'Cie' appears to be OCR garbage or misrecognized characters, making the option ambiguous or unreadable.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "lliohypogastric nerve",
+          "reason": "Lowercase initial 'll' likely misrecognized capital 'I' (Iliohypogastric); OCR capitalization/character confusion.",
+          "severity": "medium"
+        },
+        {
+          "kind": "option_structure",
+          "span": "options array",
+          "reason": "Only three answer options are present (unusual for many MCQ formats); the option set appears incomplete and may omit the intended/correct choice. Source-page verification required.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "explanation: 'Gescs oi Vv'",
+          "reason": "Explanation ends with apparent garbage text ('Gescs oi Vv'), indicating corruption of the explanatory text.",
+          "severity": "high"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The options and explanation contain OCR corruption and the answer field is null. The original source page must be inspected to confirm the intended correct option and the full, uncorrupted explanation before any medical validation.",
+        "suggestedAuthorityQuery": "Inspect the original source page to: (1) restore the full list of answer options as printed, (2) confirm which option was marked correct on the source, and (3) retrieve the uncorrupted explanation text. After that, verify the anatomical innervation of the external urethral sphincter using an authoritative anatomy reference.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Multiple OCR artifacts and truncated/garbled text (options and explanation) make the current transcription unreliable; original page inspection is required to recover correct options and explanation."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0104-q0024",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "w The abdominal aorta bifurcates into its terminal branches at which of the following vertebral levels:",
+          "reason": "Leading 'w' before the stem appears to be an extraneous OCR artifact preceding the question text.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "options: [\"112 1%\", \"(Les 8%\"]",
+          "reason": "Both option strings are heavily garbled by OCR (non-numeric, non-text characters) and are not interpretable as vertebral level choices.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "explanation: \"... approximately 2.5 cm below the umbilicus. Vv\"",
+          "reason": "Trailing 'Vv' appears to be stray characters introduced by OCR and is not meaningful in context.",
+          "severity": "low"
+        },
+        {
+          "kind": "option_structure",
+          "span": "Only two options present and both are unreadable",
+          "reason": "Typical anatomy MCQ about vertebral levels would present several clear level options (e.g., T12, L1, L4, etc.). The current two garbled entries prevent selection or comparison; option formatting is inconsistent.",
+          "severity": "high"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "correctOption: null and explanation referencing a vertebral level (L4)",
+          "reason": "No marked correct option in the OCRed data while the explanation asserts a specific level. This mismatch creates ambiguity about the intended correct choice and whether the explanation matches the original options.",
+          "severity": "high"
+        },
+        {
+          "kind": "grammar",
+          "span": "stem phrasing and punctuation (colon at end)",
+          "reason": "Minor stylistic issues: the stem begins with an extraneous character and ends with a colon; punctuation and sentence flow are disrupted by OCR artifacts.",
+          "severity": "low"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The OCR errors have corrupted the answer options and there is no marked correct option. The explanation in the OCRed text names a specific vertebral level, but the original source must be checked to confirm that this matches the intended options and answer.",
+        "suggestedAuthorityQuery": "Inspect the original scanned source page to recover the intended options and answer marking. Then verify the stated vertebral level of abdominal aortic bifurcation against authoritative anatomy references (e.g., Gray's Anatomy, Netter's Atlas, standard surgical/anatomy textbooks) if the source page appears inconsistent or ambiguous.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Severe OCR corruption of the answer options and presence of stray characters in stem and explanation prevent reliable interpretation. Direct inspection of the original page image is required to restore the intended text and confirm the correct option marking."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0108-q0025",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "explanation: \"The ureter is crossed anteriorly by the uterine artery just lateral to the cervix. («Js [ee] a Vv\"",
+          "reason": "Trailing garbled characters and punctuation suggest OCR corruption of the explanation text; the intended text after the sentence is unreadable.",
+          "severity": "medium"
+        },
+        {
+          "kind": "option_structure",
+          "span": "options: [\"Ovarian artery\", \"Ovarian ligament\", \"Fallopian tube\", \"Round ligament of uterus\"]",
+          "reason": "None of the provided options names the ureter, which the explanation explicitly identifies as the structure crossed by the uterine artery. This indicates a missing/incorrect option or misalignment between options and explanation.",
+          "severity": "high"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "stem: \"...the structure that the uterine artery crosses anteriorly as it passes from the internal iliac artery to the uterus.\"",
+          "reason": "The phrasing is somewhat passive and could be misread (i.e., whether the uterine artery crosses anteriorly over the structure, or the structure crosses anteriorly). Clearer active phrasing would reduce ambiguity.",
+          "severity": "medium"
+        },
+        {
+          "kind": "grammar",
+          "span": "stem opening: \"A 49 year old female patient\"",
+          "reason": "Minor grammatical/formatting issue: should be hyphenated as \"49-year-old\"; also 'female patient' is redundant in some style guides.",
+          "severity": "low"
+        },
+        {
+          "kind": "terminology",
+          "span": "option: \"Fallopian tube\"",
+          "reason": "Modern anatomical nomenclature prefers 'uterine tube' over the eponym 'Fallopian tube'; this is a style/terminology inconsistency.",
+          "severity": "low"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The explanation text names the ureter as the structure involved, but the ureter is not present among the answer options; this is a substantive content discrepancy that could change the correct answer. Additionally, the explanation contains OCR corruption.",
+        "suggestedAuthorityQuery": "Inspect the original source page (p0108) to: 1) confirm the intended answer choices and which option was marked correct; 2) verify whether 'ureter' was the intended correct answer and whether that option was lost/corrupted during OCR; 3) recover and correct the OCR-corrupted trailing text in the explanation.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "The explanation explicitly references the ureter but the option list does not include it, and the explanation contains garbled OCR output. The original page must be inspected to confirm intended options/answer and to correct OCR errors before any medical validation."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0112-q0026",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "Option: \"llioinguinal nerve\"",
+          "reason": "Leading lowercase 'l' duplicated — likely OCR introduced an extra 'l' (should read 'ilioinguinal').",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Option: \"lliohypogastric nerve\"",
+          "reason": "Leading lowercase 'l' duplicated — likely OCR introduced an extra 'l' (should read 'iliohypogastric').",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Explanation trailing text: \"P<] P Vv\"",
+          "reason": "Nonsensical characters at end of explanation consistent with OCR noise/artifact.",
+          "severity": "low"
+        },
+        {
+          "kind": "option_structure",
+          "span": "Options array: [\"Coccygeal nerve\", \"llioinguinal nerve\", \"lliohypogastric nerve\"] and correctOption: null",
+          "reason": "Only three answer choices are present and no correct option is marked. The options may be truncated or a correct choice may be missing from the OCRed set.",
+          "severity": "high"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "Stem: \"Sensation to the skin over the penis is primarily supplied by which of the following nerves:\"",
+          "reason": "Phrase 'skin over the penis' is imprecise (does it mean glans, shaft, or root?). Different subregions have different sensory innervation; the lack of anatomical specificity creates ambiguity for selecting a 'primary' nerve.",
+          "severity": "medium"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The answer key is not marked and the option list appears incomplete or corrupted by OCR. The question concerns anatomical innervation where small differences in wording (glans vs shaft vs root) change the correct nerve. Source-page inspection and authoritative anatomy references are required to confirm the intended correct option and to correct OCR errors.",
+        "suggestedAuthorityQuery": "Inspect the original source page to recover the full, intended option list and answer. Cross-check authoritative anatomy references (e.g., Gray's Anatomy, Moore's Clinically Oriented Anatomy, Netter) for sensory innervation of the penis, and verify whether the original question specified a subregion (glans/shaft/root) or included a missing option.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "OCR artifacts and a missing/unclear correct option make the current text unreliable. Original page inspection is required to restore correct option text, confirm the intended correct answer, and remove extraneous OCR characters."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0119-q0029",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "ww",
+          "reason": "Leading 'ww' at the start of the stem appears to be a stray OCR artifact or page-marking not belonging to the question text.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "the thoracolumbar fascia 1%, the aponeuroses of the external and internal oblique 8%, the transversalis fascia 5%, the tendinous intersections of the rectus abdominis 5%",
+          "reason": "Several answer options have trailing percentage values (e.g. '1%', '8%', '5%') that are inconsistent across options and likely represent stray OCR capture of page statistics or formatting rather than part of the options.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": ", Vv",
+          "reason": "Trailing ', Vv' at the end of the explanation is extraneous and likely an OCR/artifact corruption.",
+          "severity": "high"
+        },
+        {
+          "kind": "grammar",
+          "span": "the aponeuroses of the external and internal oblique",
+          "reason": "Phrase uses singular 'oblique' instead of the more natural plural 'obliques' or 'oblique muscles'; minor grammatical/terminology awkwardness that may be from OCR truncation.",
+          "severity": "low"
+        },
+        {
+          "kind": "terminology",
+          "span": "the aponeuroses of the three flat anterior abdominal wall muscles",
+          "reason": "The phrase 'three flat anterior abdominal wall muscles' is awkward; common phrasing is 'the three flat muscles of the anterolateral abdominal wall (external oblique, internal oblique, transversus abdominis)'. This could be a wording/OCR issue.",
+          "severity": "low"
+        },
+        {
+          "kind": "option_structure",
+          "span": "options list (inconsistent percent annotations; one option lacks percent)",
+          "reason": "Inconsistent formatting of options (most have trailing percentages, one option does not). This may affect automated parsing or indexing of the correct option and should be verified against the source page.",
+          "severity": "medium"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The text contains OCR artifacts and inconsistent option formatting that require checking the source page. Additionally, the explanation omits the clinically relevant variation of the rectus sheath below the arcuate line (posterior sheath incomplete/absent), which is important anatomical nuance to confirm against a validated anatomy source.",
+        "suggestedAuthorityQuery": "Verify the original source page for formatting and exact option text. Confirm anatomical statement about formation of the rectus sheath and its variation relative to the arcuate line in standard anatomy references (e.g., Gray's Anatomy, Netter's Atlas, or an anatomy textbook).",
+        "risk": "possible_ambiguity"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Multiple OCR artifacts (leading 'ww', stray percentage annotations on options, extraneous ', Vv' in explanation) and inconsistent option formatting mandate inspection of the scanned source page to restore the intended wording and option layout before medical validation."
+      },
+      "disposition": "needs_external_evidence"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0122-q0030",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "A75 year old man",
+          "reason": "Missing space after the article/number; likely OCR concatenation of 'A 75 year old man'. This affects readability of the stem.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "(x) Anterior lobe of prostate 2%",
+          "reason": "Fragment appears to show a marked/selected answer and a stray percentage that do not match the listed options. Likely OCR corruption of a selection marker or annotation.",
+          "severity": "high"
+        },
+        {
+          "kind": "terminology",
+          "span": "Fibromuscular zone of prostate; Transitional zone of prostate; Anterior lobe of prostate; median lobe; posterior lobe",
+          "reason": "Mixed use of 'lobe' and 'zone' terminology within the same item (stem, options, explanation). This mixes anatomical classification schemes (lobes vs zones) and creates ambiguity about which schema the question intends.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "«| se ees] P Vv",
+          "reason": "Garbled characters at the end of the explanation indicate OCR corruption of the source text.",
+          "severity": "medium"
+        },
+        {
+          "kind": "option_structure",
+          "span": "options array: [\"Fibromuscular zone of prostate\", \"Lateral lobe of prostate\", \"Transitional zone of prostate\"]",
+          "reason": "Options do not include a 'posterior lobe' or 'posterior/peripheral zone' despite the explanation naming the posterior lobe as the area most prone to carcinoma and palpated on PR. This is an internal inconsistency between options and explanation and suggests a missing or mis-recognized option.",
+          "severity": "high"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "Which structure is most likely affected: (x) Anterior lobe of prostate 2%",
+          "reason": "The stem appears to show a preselected answer '(x) Anterior lobe...' that conflicts with options and the explanation. It's unclear whether the marked answer is intended or an OCR artifact.",
+          "severity": "high"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "Contradictory information between the printed/marked answer fragment, the available option list, and the explanation. Additionally, the explanation contains OCR corruption. Confirming the intended correct choice and the authoritative anatomical terminology (lobes vs zones; which region is most commonly affected by prostate carcinoma and is palpable on rectal exam) requires source-page inspection and external authoritative reference.",
+        "suggestedAuthorityQuery": "Confirm which part of the prostate is most commonly the site of carcinoma and is palpable on digital rectal/PR examination (e.g., posterior lobe vs peripheral zone). Verify intended correct answer on the original exam page and cross-check with authoritative anatomy/urology sources (standard anatomy textbook or urology guidelines).",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "OCR artifacts indicate a likely misread marked answer and corrupted explanation text. The original source page must be inspected to verify the intended stem wording, the originally listed options (including any missing option), and which option was marked/correct."
+      },
+      "disposition": "needs_external_evidence"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0126-q0031",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "A19 year old",
+          "reason": "Missing space between 'A' and '19' — likely an OCR spacing error.",
+          "severity": "low"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Pancreas 8%",
+          "reason": "Extraneous token and percentage appended directly after the question prompt; looks like OCR-smearing of an answer label or a statistic into the stem.",
+          "severity": "high"
+        },
+        {
+          "kind": "option_structure",
+          "span": "Options list vs stem",
+          "reason": "Stem contains 'Pancreas 8%' suggesting 'Pancreas' was an option, but the provided options array omits 'Pancreas' and contains only three items. The option set is incomplete/inconsistent with the stem.",
+          "severity": "high"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "Explanation text: \"The liver and spleen are the most commonly injured organs with this clinical picture. Cc] Se eense] DP Vv\"",
+          "reason": "Explanation conflicts with the stem ('Pancreas 8%') and contains trailing gibberish likely from OCR corruption, making the intended answer and rationale ambiguous.",
+          "severity": "high"
+        },
+        {
+          "kind": "grammar",
+          "span": "Which of the following is the most commonly injured organ: Pancreas 8%",
+          "reason": "Colon used where a question mark would be expected; punctuation/structure altered by OCR artifacts.",
+          "severity": "medium"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The stem, options, and explanation contain conflicting information (stem appears to show 'Pancreas 8%', explanation states 'liver and spleen' are most commonly injured) and the option list is incomplete. The correct answer cannot be determined from the OCRed draft alone; source-page verification and clinical reference check are required.",
+        "suggestedAuthorityQuery": "1) Inspect the original source page (anatomy-anatomy-all-pdf-p0126, question q0031) to retrieve the uncorrupted stem, the full set of answer options, and the keyed correct answer. 2) If source-page content differs or remains unclear, consult authoritative trauma/abdominal injury references (e.g., ATLS, major trauma surgery textbooks or peer-reviewed reviews) to confirm which organ(s) are most commonly injured in blunt upper-abdominal handlebar injuries.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "OCR appears to have dropped or moved option text and injected extraneous characters ('Pancreas 8%', 'Cc] Se eense] DP Vv'). The original page must be inspected to recover the intended options, punctuation, and answer key before any correction or clinical interpretation."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0130-q0032",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "Superior to a point midway between the iliac crest and the pubic symphysis (x) erior to ar yay between the anterior superior iliac spine and the pubic tubercle 33%",
+          "reason": "Second option text is severely garbled by OCR: contains repeated fragments, character substitutions, and an unexpected percentage token. The intended anatomical phrasing is not recoverable from this line.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Cc | ss een | a Vv",
+          "reason": "Trailing non-sense characters in the explanation indicate OCR noise or page artifact.",
+          "severity": "medium"
+        },
+        {
+          "kind": "terminology",
+          "span": "Immediately superficial to the femoral artery",
+          "reason": "Phrasing implies a specific spatial relationship to the femoral artery that may be anatomically imprecise or ambiguous for the deep inguinal ring; needs confirmation by an anatomy authority.",
+          "severity": "medium"
+        },
+        {
+          "kind": "terminology",
+          "span": "Just superior to the pubic tubercle",
+          "reason": "This phrasing is a concise anatomical locator but may be semantically different from 'midpoint of the inguinal ligament' or 'mid-inguinal point' mentioned in the explanation; the distinction affects which option is correct.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "The deep inguinal ring is located just superior to a point midway between the anterior superior iliac spine and the pubic symphysis (the mid-inguinal point). N.B. Some sources state it is located at a slightly different site, just superior to a point midway between the anterior superior iliac spine and the pubic tubercle (the midpoint of the inguinal ligament).",
+          "reason": "The explanation reports two different anatomical reference points as possible locations. This creates ambiguity about the intended correct answer and suggests variability in sources; authoritative confirmation is needed.",
+          "severity": "medium"
+        },
+        {
+          "kind": "option_structure",
+          "span": "options array",
+          "reason": "The options include a severely corrupted option and the record has no marked correctOption. The combination prevents reliable automated grading and requires source verification.",
+          "severity": "high"
+        },
+        {
+          "kind": "grammar",
+          "span": "Superior to a point midway between the iliac crest and the pubic symphysis",
+          "reason": "Phrase as presented may be grammatically okay, but contextually conflicts with the explanation which references ASIS — this may reflect OCR substitution ('iliac crest' vs 'anterior superior iliac spine').",
+          "severity": "medium"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The OCR corruption in an option and the explanation's presentation of two different anatomical reference points create uncertainty about the intended correct answer. The anatomical relationships in the options (e.g., 'superficial to the femoral artery') may be imprecise and require confirmation from primary anatomy references.",
+        "suggestedAuthorityQuery": "Consult standard anatomy references (Gray's Anatomy, Last's Anatomy, and a surgical anatomy text) or an authoritative clinical anatomy source to confirm the precise anatomical location of the deep inguinal ring (mid-inguinal point vs. midpoint of the inguinal ligament) and to verify the intended correct option on the original source page.",
+        "risk": "possible_ambiguity"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Significant OCR artifacts (corrupted second option and trailing garbage) and ambiguous/multiple location statements in the explanation require inspection of the original page to restore exact option text and determine which answer the source intended."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0134-q0033",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "ww The gallbladder occupies which of the following regions of the abdomen:",
+          "reason": "Leading 'ww' appears to be an OCR/artifact noise preceding the actual stem.",
+          "severity": "medium"
+        },
+        {
+          "kind": "grammar",
+          "span": "The gallbladder occupies which of the following regions of the abdomen:",
+          "reason": "Phrasing is slightly awkward (question word order). Likely a minor wording/OCR issue but primarily flagged because of the leading 'ww'.",
+          "severity": "low"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Left hypochondrium 1%",
+          "reason": "Trailing '1%' (and similar percentages on other options) likely extraneous OCR capture of item statistics or printing marks, not part of option text.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Right hypochondrium and right flank 4%",
+          "reason": "Trailing '4%' likely an artifact; percentages appear inconsistently across options.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Right hypochondrium and epigastric region 17%",
+          "reason": "Trailing '17%' likely an artifact; inconsistent inclusion of percentages suggests OCR/formatting error.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Epigastric region and umbilicus 1%",
+          "reason": "Trailing '1%' likely an artifact; also inconsistent formatting across options.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "The gallbladder lies in the right hypochondrium. Vv",
+          "reason": "Trailing 'Vv' appears to be stray characters/artifact appended to the explanation.",
+          "severity": "low"
+        },
+        {
+          "kind": "terminology",
+          "span": "Epigastric region and umbilicus",
+          "reason": "Inconsistent anatomical terminology: 'umbilicus' (a structure) is used where 'umbilical region' (the region) would be expected; could be an author choice but warrants confirmation.",
+          "severity": "low"
+        },
+        {
+          "kind": "option_structure",
+          "span": "Options list (Right hypochondrium; Right hypochondrium and right flank; Right hypochondrium and epigastric region)",
+          "reason": "There is redundancy/overlap: one option is 'Right hypochondrium' while other options are combinations that include the same region. This structure is potentially confusing and, combined with stray percentages, may reflect formatting errors from the source page.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "Right hypochondrium vs. right flank vs. epigastric region",
+          "reason": "Regional boundaries (hypochondrium, flank, epigastrium/umbilical area) can be defined differently in different sources; the overlap among options may create ambiguity about the intended correct choice without source confirmation.",
+          "severity": "medium"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "OCR artifacts (leading 'ww', trailing percentages, stray 'Vv') and inconsistent option formatting could have altered the intended wording or answer key. Confirm original source page text and verify the intended correct option and wording against an authoritative anatomy reference.",
+        "suggestedAuthorityQuery": "Inspect the original scanned exam page to recover exact option wording and answer key. Verify anatomical location of the gallbladder in an authoritative anatomy source (e.g., Gray's Anatomy or standard surgical anatomy text) to confirm the correct region label.",
+        "risk": "possible_ambiguity"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Multiple OCR artifacts (leading 'ww', stray 'Vv', inconsistent trailing percentage marks) and possible option-formatting corruption mean the original page must be inspected to determine the intended stem/options and the official correct answer."
+      },
+      "disposition": "manual_review_required"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+[
+  {
+    "id": "anatomy-anatomy-all-pdf-p1815-q0010",
+    "page": 1815,
+    "stem": "Damage to Wernicke's area will most likely result in which of the following clinical features:",
+    "options": [
+      "Nystagmus",
+      "Dysarthria",
+      "Visual disturbance",
+      "Expressive dysphasia",
+      "Receptive dysphasia"
+    ],
+    "correctOption": 4,
+    "fact": "Dominant posterior superior temporal-gyrus injury causes impaired comprehension and receptive dysphasia.",
+    "mnemonic": "Wernicke receives language.",
+    "emojiCues": [
+      "🧠",
+      "⚡",
+      "📍"
+    ],
+    "sourceLabel": "NCBI/PMC authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK441951/",
+    "finding": "Displayed key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1821-q0011",
+    "page": 1821,
+    "stem": "Which of the following blood vessels is NOT part of the circle of Willis:",
+    "options": [
+      "Anterior cerebral artery",
+      "Middle cerebral artery",
+      "Posterior cerebral artery",
+      "Anterior communicating artery",
+      "Posterior communicating artery"
+    ],
+    "correctOption": 1,
+    "fact": "The MCA is a lateral continuation of the ICA and is not part of the arterial circle.",
+    "mnemonic": "MCA is outside the circle.",
+    "emojiCues": [
+      "🧠",
+      "⚡",
+      "📍"
+    ],
+    "sourceLabel": "NCBI/PMC authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK526002/",
+    "finding": "Displayed key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1829-q0012",
+    "page": 1829,
+    "stem": "Which of the following is NOT a typical cause of a bitemporal hemianopia:",
+    "options": [
+      "Pituitary adenoma",
+      "Craniopharyngioma",
+      "Optic glioma",
+      "Posterior cerebral artery stroke",
+      "Aneurysm of the anterior communicating artery"
+    ],
+    "correctOption": 3,
+    "fact": "Bitemporal hemianopia reflects optic-chiasm compression; PCA stroke typically causes contralateral homonymous loss with macular sparing.",
+    "mnemonic": "Chiasm loses temporal fields.",
+    "emojiCues": [
+      "🧠",
+      "⚡",
+      "📍"
+    ],
+    "sourceLabel": "NCBI/PMC authoritative source",
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8053434/",
+    "finding": "Displayed key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1834-q0013",
+    "page": 1834,
+    "stem": "Which of the following spinal tracts is involved with the control of trunk muscles:",
+    "options": [
+      "Anterior spinothalamic tract",
+      "Lateral spinothalamic tract",
+      "Posterior column",
+      "Anterior corticospinal tract",
+      "Posterior corticospinal tract"
+    ],
+    "correctOption": 3,
+    "fact": "The anterior corticospinal tract contributes to control of axial muscles.",
+    "mnemonic": "Anterior CST = axial.",
+    "emojiCues": [
+      "🧠",
+      "⚡",
+      "📍"
+    ],
+    "sourceLabel": "NCBI/PMC authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+    "finding": "Displayed key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1845-q0014",
+    "page": 1845,
+    "stem": "Occlusion of which of the following blood vessels is most likely to result in a receptive dysphasia:",
+    "options": [
+      "Anterior cerebral artery",
+      "Anterior communicating artery",
+      "Middle cerebral artery",
+      "Posterior cerebral artery",
+      "Basilar artery"
+    ],
+    "correctOption": 2,
+    "fact": "Dominant superior temporal Wernicke area is supplied by the MCA.",
+    "mnemonic": "MCA supplies language cortex.",
+    "emojiCues": [
+      "🧠",
+      "⚡",
+      "📍"
+    ],
+    "sourceLabel": "NCBI/PMC authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK556132/",
+    "finding": "Displayed key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1846-q0016",
+    "page": 1846,
+    "stem": "The brainstem comprises which of the following:",
+    "options": [
+      "Midbrain and hindbrain",
+      "Pons, medulla and cerebellum",
+      "Thalamus and hypothalamus",
+      "Pons, medulla and midbrain",
+      "Midbrain and cerebellum"
+    ],
+    "correctOption": 3,
+    "fact": "The brainstem comprises midbrain, pons, and medulla, not cerebellum.",
+    "mnemonic": "Brainstem = midbrain + pons + medulla.",
+    "emojiCues": [
+      "🧠",
+      "⚡",
+      "📍"
+    ],
+    "sourceLabel": "NCBI/PMC authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+    "finding": "Displayed key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1852-q0017",
+    "page": 1852,
+    "stem": "The blood supply to the temporal lobe is primarily supplied by which of the following arteries:",
+    "options": [
+      "Basilar artery",
+      "Middle cerebral artery",
+      "Posterior cerebral artery",
+      "Anterior and middle cerebral artery",
+      "Middle and posterior cerebral artery"
+    ],
+    "correctOption": 4,
+    "fact": "Lateral temporal cortex is supplied by MCA and medial temporal regions by PCA.",
+    "mnemonic": "Temporal gets MCA + PCA.",
+    "emojiCues": [
+      "🧠",
+      "⚡",
+      "📍"
+    ],
+    "sourceLabel": "NCBI/PMC authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK526002/",
+    "finding": "Displayed key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1853-q0018",
+    "page": 1853,
+    "stem": "The basilar artery is formed from which of the following blood vessels:",
+    "options": [
+      "Internal carotid arteries",
+      "Anterior cerebral arteries",
+      "Vertebral arteries",
+      "External carotid arteries",
+      "Middle cerebral arteries"
+    ],
+    "correctOption": 2,
+    "fact": "The basilar artery forms by union of the two vertebral arteries.",
+    "mnemonic": "Vertebrals become basilar.",
+    "emojiCues": [
+      "🧠",
+      "⚡",
+      "📍"
+    ],
+    "sourceLabel": "NCBI/PMC authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK526002/",
+    "finding": "Displayed key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1854-q0019",
+    "page": 1854,
+    "stem": "A 29 year old male racing driver has fractured a cervical vertebra. On examination, he has weakness of the right side of his body with upgoing plantars, loss of pain and temperature sensation in his left limbs, with normal fine-touch sensation over all four limbs. This clinical picture is most likely seen in a lesion of the:",
+    "options": [
+      "Anterior column, left side",
+      "Anterior column, right side",
+      "Lateral column, right side",
+      "Lateral column, left side",
+      "Posterior column, right side"
+    ],
+    "correctOption": 2,
+    "fact": "Right lateral-column corticospinal and spinothalamic involvement with spared posterior-column sensation gives this pattern.",
+    "mnemonic": "Brown-Séquard: motor same side, pain opposite.",
+    "emojiCues": [
+      "🧠",
+      "⚡",
+      "📍"
+    ],
+    "sourceLabel": "NCBI/PMC authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+    "finding": "Displayed key and option order directly verified on the original rendered page."
+  },
+  {
+    "id": "anatomy-anatomy-all-pdf-p1855-q0020",
+    "page": 1855,
+    "stem": "A 65 year old man has resting tremor, rigidity, bradykinesia and a shuffling gait. Parkinson's disease results from which of the following mechanisms:",
+    "options": [
+      "A vascular lesion of the subthalamic nucleus",
+      "Loss of dopaminergic neurons in the substantia nigra",
+      "Loss of serotonergic neurons in the globus pallidus and red nucleus",
+      "Defect in the metabolism of copper",
+      "Loss of cholinergic and GABAergic neurons in the caudate nucleus and putamen"
+    ],
+    "correctOption": 1,
+    "fact": "Parkinson disease involves degeneration of substantia nigra dopaminergic neurons and striatal dopamine depletion.",
+    "mnemonic": "Nigra dopamine falls.",
+    "emojiCues": [
+      "🧠",
+      "⚡",
+      "📍"
+    ],
+    "sourceLabel": "NCBI/PMC authoritative source",
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537247/",
+    "finding": "Displayed key and option order directly verified on the original rendered page."
+  }
+]

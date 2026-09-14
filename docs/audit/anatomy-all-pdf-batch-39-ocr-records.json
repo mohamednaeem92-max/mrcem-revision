@@ -1,0 +1,341 @@
+{
+  "exportedAt": "2026-08-23T18:18:10.790Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-39",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1229,
+      1230,
+      1233,
+      1234,
+      1235,
+      1236,
+      1237,
+      1238,
+      1239,
+      1240
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1229-q0148",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The renal arteries arise from the abdominal aorta at which of the following vertebral levels:",
+      "options": [
+        "TH/T12",
+        "T12/l1 oon",
+        "L3/L4"
+      ],
+      "correctOption": null,
+      "explanation": "The renal arteries arise from the abdominal aorta at the level of vertebrae L1/L2. (| ss eee] o Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1229,
+      "sourceQuestionNumber": 148
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1230-q0149",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Pain from the ureters is usually referred to dermatomes supplied by:",
+      "options": [
+        "T10 - 112",
+        "™m-12",
+        "LIES: 57%",
+        "L2-L4 4%",
+        "T5-19 bs"
+      ],
+      "correctOption": 1,
+      "explanation": "Visceral afferent fibres from the ureters enter the spinal cord at T11 - L2, with ureteric pain (usually from ureteric distension) thus referred to the dermatomes supplied by T11 - L2; the posterior and lateral abdominal wall below the ribs and above the iliac crest, the pubic region, the scrotum in males, the labia majora in females and the proximal anterior aspect of the thigh (loin to groin pain). v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1230,
+      "sourceQuestionNumber": 149
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1233-q0150",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The fourth part of the duodenum terminates at which of the following vertebral levels:",
+      "options": [
+        "12 3%",
+        "u 9%",
+        "BS: 13%",
+        "L4 4%"
+      ],
+      "correctOption": null,
+      "explanation": "The ascending (fourth) part passes upwards on, or to the left of the aorta to approximately the upper border of vertebra L2 and terminates at the duodenojejunal flexure. : v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1233,
+      "sourceQuestionNumber": 150
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1234-q0151",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The linea alba is formed from which of the following:",
+      "options": [
+        "The aponeuroses of the three flat anterior abdominal muscles",
+        "The free edge of the external oblique aponeurosis 4%",
+        "The tendinous intersection of the rectus abdominis muscle 57%",
+        "The thoracolumbar fascia 0%",
+        "The tendon of the pyramidalis muscle 0%"
+      ],
+      "correctOption": 0,
+      "explanation": "The linea alba is formed at the midline from the aponeuroses of the external oblique, internal oblique and transversus abdominis muscles, and extends from the xiphoid process to the pubic symphysis. v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1234,
+      "sourceQuestionNumber": 151
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1235-q0152",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The kidneys extend between which of the following vertebral levels:",
+      "options": [
+        "19-112 os",
+        "12-1",
+        "RIES 9%",
+        "m2-13",
+        "2 = L5 3%"
+      ],
+      "correctOption": 3,
+      "explanation": "The position of the kidneys varies with respiration and the position of the body. In the supine position, the kidneys extend from approximately vertebra T12 superiorly to vertebra L3 inferiorly. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1235,
+      "sourceQuestionNumber": 152
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1236-q0153",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Regarding the external oblique muscle, which of the following statements is INCORRECT:",
+      "options": [
+        "It is the largest and most superficial of the anterior abdominal muscles. 3%",
+        "Its aponeurosis forms the linea alba at the midline. 7%",
+        "It originates from the xiphoid process. (x) It inserts into the lateral lip of the iliac crest. 9%",
+        "The lower free border of the external oblique aponeurosis forms the inguinal ligament. 56%"
+      ],
+      "correctOption": 2,
+      "explanation": "The external oblique is the largest and most superficial of the anterior abdominal muscles, lying just deep to the superficial fascia. The external oblique originates from the outer surfaces of the lower eight ribs, its fibres running in an inferomedial direction before inserting onto the lateral lip of the iliac crest. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1236,
+      "sourceQuestionNumber": 153
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1237-q0154",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The greater sac of the peritoneal cavity is divided into two compartments by which of the following structures:",
+      "options": [
+        "Liver",
+        "Stomach",
+        "Duodenum"
+      ],
+      "correctOption": null,
+      "explanation": "The greater sac accounts for most of the space in the peritoneal cavity, beginning superiorly at the diaphragm and continuing inferiorly in the pelvic cavity. It is further divided into two compartments by the transverse mesocolon, the supracolic and infracolic compartments. Cc | ss eer] Py] Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1237,
+      "sourceQuestionNumber": 154
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1238-q0155",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The jejunum predominantly occupies which region of the abdomen:",
+      "options": [
+        "Left upper quadrant",
+        "Right upper quadrant 56%",
+        "Right lower quadrant 6%",
+        "Suprapubic region 4%"
+      ],
+      "correctOption": 0,
+      "explanation": "The jejunum is mostly in the left upper quadrant of the abdomen. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1238,
+      "sourceQuestionNumber": 155
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1239-q0156",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The right kidney is related anteriorly to all of the following structures EXCEPT for the:",
+      "options": [
+        "Right adrenal gland 19%",
+        "Liver 5%",
+        "Second part of the duodenum 9%",
+        "Hepatic flexure 6%"
+      ],
+      "correctOption": null,
+      "explanation": "The anterior surface of the right kidney is related to the (superiorly to inferiorly): e right adrenal gland medially e liver © second part of the duodenum medially, © right colic flexure laterally © asegment of small intestine medially 3 Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1239,
+      "sourceQuestionNumber": 156
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1240-q0157",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The ureters enter the bladder and end at the level of which of the following landmarks: CMe",
+      "options": [
+        "Pubic tubercle",
+        "Anterior superior iliac spine 14%",
+        "Inguinal ligament 4%",
+        "lliac crest 8%"
+      ],
+      "correctOption": 0,
+      "explanation": "The ureters enters obliquely through the base of the bladder at the level of the pubic tubercle. : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1240,
+      "sourceQuestionNumber": 157
+    }
+  ]
+}

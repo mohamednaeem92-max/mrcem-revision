@@ -1,0 +1,339 @@
+{
+  "exportedAt": "2026-08-26T04:09:26.358Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-43",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1299,
+      1300,
+      1301,
+      1302,
+      1303,
+      1304,
+      1305,
+      1306,
+      1307,
+      1308
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1299-q0011",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The jejunum predominantly occupies which region of the abdomen:",
+      "options": [
+        "Left upper quadrant",
+        "Left lower quadrant 8%",
+        "Right lower quadrant 6%",
+        "Suprapubic region 4%"
+      ],
+      "correctOption": 0,
+      "explanation": "The jejunum is mostly in the left upper quadrant of the abdomen. i ? Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1299,
+      "sourceQuestionNumber": 11
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1300-q0012",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww A 64 year old man is brought to ED with profuse haematemesis. Endoscopy shows oesophageal varices which are most likely the result of anastomosis of the left gastric vein with which of the following vessels:",
+      "options": [
+        "Abdominal aorta",
+        "Azygos system of veins",
+        "Inferior mesenteric vein 2%",
+        "Superior mesenteric vein 8%"
+      ],
+      "correctOption": 1,
+      "explanation": "The left gastric vein and its tributaries form a portosystemic anastomosis with oesophageal tributaries to the azygos system of veins of the caval system at the gastroesophageal junction around the cardia of the stomach. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1300,
+      "sourceQuestionNumber": 12
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1301-q0013",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The superficial inguinal ring is an ‘opening’ in which of the following structures:",
+      "options": [
+        "External oblique aponeurosis",
+        "Internal oblique aponeurosis 5%",
+        "Transversus abdominis aponeurosis 5%",
+        "Rectus abdominis aponeurosis 2%",
+        "Transversalis fascia 1%"
+      ],
+      "correctOption": 0,
+      "explanation": "The superficial inguinal ring is a triangular opening in the aponeurosis of the external oblique, with its apex pointing superolaterally and its base formed by the pubic crest. : / Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1301,
+      "sourceQuestionNumber": 13
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1302-q0014",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The supraduodenal region of the common bile duct:",
+      "options": [
+        "lies superior to the cystic duct. 5%",
+        "lies in the free margin of the greater omentum. 7%",
+        "lies to the left of the hepatic artery proper. 9%",
+        "lies anterior to the portal vein.",
+        "empties into the major duodenal papilla. 58%"
+      ],
+      "correctOption": 3,
+      "explanation": "The common bile duct is formed by the union of the common hepatic duct and the cystic duct. The supraduodenal region is the upper one-third of the common bile duct which lies in the free margin of the lesser omentum with the hepatic artery and portal vein. The common bile duct lies anterior to the portal vein and to the right of the hepatic artery proper. : v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1302,
+      "sourceQuestionNumber": 14
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1303-q0015",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The abdominal aorta bifurcates into the right and left common iliac arteries at which of the following vertebral levels:",
+      "options": [
+        "u",
+        "(i",
+        "L5"
+      ],
+      "correctOption": null,
+      "explanation": "The abdominal aorta bifurcates into the right and left common iliac artery at the level of vertebra L4. This bifurcation can be visualised on the anterior abdominal wall as a point approximately 2.5 cm below the umbilicus. “<= emer] Py] Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1303,
+      "sourceQuestionNumber": 15
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1304-q0016",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Regarding the rectus abdominis muscle, which of the following statements is INCORRECT:",
+      "options": [
+        "It originates from the pubic crest, pubic tubercle and pubic symphysis. 8%",
+        "It inserts onto the costal cartilages of ribs 5 - 7 and to the xiphoid process. 12%",
+        "Itis separated in the midline by the linea alba. 6%",
+        "The free lower border of its aponeurosis forms the inguinal ligament.",
+        "Itis intersected along it length by tendinous intersections. 7%"
+      ],
+      "correctOption": 3,
+      "explanation": "The rectus abdominis is a long muscle that extends the length of the anterior abdominal wall. It originates from the pubic crest, pubic tubercle and pubic symphysis and inserts onto the costal cartilages of ribs 5 7 and to the xiphoid process. It is a paired muscle, separated in the midline by the linea alba. It is intersected along its length by tendinous intersections. The inguinal ligament is formed by the free lower border of the external oblique aponeurosis. ; Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1304,
+      "sourceQuestionNumber": 16
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1305-q0017",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The quadrate lobe of the liver lies between which of the following structures:",
+      "options": [
+        "Ligamentum teres and gallbladder",
+        "Ligamentum venosum and gallbladder 7% (x) Ligamentum teres and inferior vena cava 8%",
+        "Ligamentum venosum and inferior vena cava 56%",
+        "Gallbladder and inferior vena cava 4%"
+      ],
+      "correctOption": 0,
+      "explanation": "The quadrate lobe is located between the gallbladder and the fissure for the ligamentum teres. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1305,
+      "sourceQuestionNumber": 17
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1306-q0018",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The obturator nerve is formed from the anterior rami of:",
+      "options": [
+        "i2-L4",
+        "Ey - 12 5%",
+        "L1-L4 3%",
+        "E2SLS 7%",
+        "L3-L4 ey"
+      ],
+      "correctOption": 0,
+      "explanation": "The obturator nerve is formed from the anterior rami of L2 to L4. It innervates the obturator externus and the muscles in the medial compartment of the thigh and supplies skin on the medial aspect of the thigh. 3 v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1306,
+      "sourceQuestionNumber": 18
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1307-q0019",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The uterus receives its blood supply primarily from which of the following blood vessels:",
+      "options": [
+        "Uterine branches of the ovarian artery 6%",
+        "Uterine artery from the internal iliac artery",
+        "Uterine branches from the internal pudendal artery 53%",
+        "Uterine branches from the umbilical artery 1%",
+        "Uterine branches from the median sacral artery"
+      ],
+      "correctOption": 1,
+      "explanation": "The uterus is supplied primarily by the uterine artery (branch of the internal iliac artery) assisted by uterine branches of the ovarian artery (branch of the abdominal aorta), vessels contained within the broad ligament. The uterine artery anastomoses with the ovarian artery and so also contributes to the blood supply of the ovary. 7 v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1307,
+      "sourceQuestionNumber": 19
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1308-q0020",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The pancreas occupies which of the following abdominal regions:",
+      "options": [
+        "Left hypochondrium and left flank",
+        "Left hypochondrium 2%",
+        "Right hypochondrium and epigastrium 56%",
+        "Left hypochondrium and epigastrium",
+        "Epigastrium and umbilicus 4%"
+      ],
+      "correctOption": 3,
+      "explanation": "The pancreas lies mostly posterior to the stomach. It extends across the posterior abdominal wall from the duodenum on the right, to the spleen on the left. It lies in the epigastric region and left hypochondrium. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1308,
+      "sourceQuestionNumber": 20
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "exportedAt": "2026-08-23T16:39:48.452Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-29",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      866,
+      869,
+      872,
+      877,
+      881,
+      886,
+      891,
+      895,
+      900,
+      904
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0866-q0046",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The gallbladder is located on which of the following aspects of the liver:",
+      "options": [
+        "Right lobe",
+        "Left lobe 4%",
+        "Quadrate lobe 7% CJ",
+        "Diaphragmatic surface 4%"
+      ],
+      "correctOption": 0,
+      "explanation": "The gallbladder is a pear-shaped sac lying on the visceral surface of the right lobe of the liver in a fossa between the right and quadrate lobes. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 866,
+      "sourceQuestionNumber": 46
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0869-q0047",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "wv Control of bile and pancreatic fluid entering the duodenum is regulated by the:",
+      "options": [
+        "Ampulla of Vater",
+        "Major duodenal papilla 3%",
+        "External biliary sphincter 2%",
+        "Internal biliary sphincter 0%",
+        "Sphincter of Oddi"
+      ],
+      "correctOption": 4,
+      "explanation": "As the common bile duct descends, it passes posterior to the first part of the duodenum before joining with the pancreatic duct from the pancreas, forming the hepatopancreatic ampulla (ampulla of Vater) at the major duodenal papilla, located in the second part of the duodenum. Surrounding the ampulla is the sphincter of Oddi, a collection of smooth muscle which can open to allow bile and pancreatic fluid to empty into the duodenum. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 869,
+      "sourceQuestionNumber": 47
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0872-q0048",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The blood supply to the pancreas is primarily from which of the following arteries:",
+      "options": [
+        "Left gastric artery",
+        "Common hepatic artery",
+        "Superior mesenteric artery Inferior mesenteric artery 1%"
+      ],
+      "correctOption": null,
+      "explanation": "The arterial supply to the pancreas is primarily derived from the splenic artery from the coeliac trunk, assisted by pancreaticoduodenal branches from the gastroduodenal artery (from the common hepatic artery from the coeliac trunk), and from the superior mesenteric artery. r=] a Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 872,
+      "sourceQuestionNumber": 48
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0877-q0049",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The infracolic compartment is divided into right and left spaces by which of the following structures:",
+      "options": [
+        "Jejunum",
+        "lleum",
+        "Sigmoid mesocolon"
+      ],
+      "correctOption": null,
+      "explanation": "The infracolic compartment lies below the transverse mesocolon, is divided into left and right parts by the oblique attachment of the mesentery and contains the small intestine and the ascending and descending colon. The left infracolic compartment is continuous with the pelvic cavity. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 877,
+      "sourceQuestionNumber": 49
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0881-q0050",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The stomach receives its blood supply primarily from which of the following arteries:",
+      "options": [
+        "Inferior mesenteric artery Renal artery 0%",
+        "Suprarenal artery"
+      ],
+      "correctOption": null,
+      "explanation": "The arterial supply to the stomach is derived from all three branches (left gastric, splenic and common hepatic branches) of the coeliac trunk. e] Py] Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 881,
+      "sourceQuestionNumber": 50
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0886-q0051",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Visceral afferent fibres from the ascending colon and proximal transverse colon travel to which of the following spinal cord segments:",
+      "options": [
+        "T6-18",
+        "T8- 110 N%",
+        "110 - T11",
+        "Lie 58% (x) L3-L4 2%"
+      ],
+      "correctOption": 2,
+      "explanation": "The visceral pain sensation from the ascending and transverse colon travels through the lesser splanchnic nerve to the T10 - T11 spinal cord segments hence pain is referred to the umbilical and hypogastric regions. Pain from the descending and sigmoid colon is carried in the lumbar splanchnic nerves to the L1 and L2 spinal cord segments hence pain is referred to the inguinal region and thigh. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 886,
+      "sourceQuestionNumber": 51
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0891-q0052",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The lateral cutaneous nerve of the thigh is formed from the anterior rami of:",
+      "options": [
+        "u",
+        "LI-L2 a",
+        "L2",
+        "L3-L4"
+      ],
+      "correctOption": null,
+      "explanation": "The lateral cutaneous nerve of the thigh (lateral femoral cutaneous nerve) is formed from the anterior rami of L2 and L3. It supplies skin on the anterior and lateral thigh to the knee. [< |Lse |eee P Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 891,
+      "sourceQuestionNumber": 52
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0895-q0053",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Regarding the large intestine, which of the following parts is not described correctly:",
+      "options": [
+        "Caecum - Intraperitoneal",
+        "Ascending colon - Retroperitoneal 6%",
+        "Transverse colon - Intraperitoneal 5%",
+        "Descending colon - Retroperitoneal 3%",
+        "Sigmoid colon - Retroperitoneal"
+      ],
+      "correctOption": 4,
+      "explanation": "The ascending and descending colon are retroperitoneal. The caecum, transverse colon and sigmoid colon are intraperitoneal. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 895,
+      "sourceQuestionNumber": 53
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0900-q0054",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The ilioinguinal nerve supplies skin over which of the following regions:",
+      "options": [
+        "Posterolateral gluteal region",
+        "Lateral thigh",
+        "Posteromedial gluteal region (x) Posterior thigh 2%"
+      ],
+      "correctOption": null,
+      "explanation": "The ilioinguinal nerve is formed from the anterior rami of L1. It innervates the internal oblique and transversus abdominis muscles and supplies skin over the upper medial thigh and the external genitalia. [<= o Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 900,
+      "sourceQuestionNumber": 54
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0904-q0055",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Which of the following parts of the pancreas is intraperitoneal:",
+      "options": [
+        "Head 12%",
+        "Neck",
+        "Body",
+        "Uncinate process 4%"
+      ],
+      "correctOption": null,
+      "explanation": "The pancreas is a retroperitoneal organ (except for a small part of its tail) and consists of a head, uncinate process, neck, body and tail. The tail passes between layers of the splenorenal ligament. ae] L JL SS Li Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 904,
+      "sourceQuestionNumber": 55
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "generatedAt": "2026-08-22T06:42:42.562Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0048-q0012",
+      "sourcePage": 48,
+      "before": {
+        "stem": "w The kidneys are related posteriorly to all of the following structures EXCEPT for the:",
+        "options": [
+          "Diaphragm 10%",
+          "Psoas major muscle 4%",
+          "Quadratus lumborum muscle 4%",
+          "lliacus muscle"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The kidneys are related posteriorly to all of the following structures EXCEPT for:",
+        "options": [
+          "Diaphragm",
+          "Psoas major muscle",
+          "Quadratus lumborum muscle",
+          "Transversus abdominis muscle",
+          "Iliacus muscle"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482385/",
+        "externalFinding": "The lower renal poles are anterior to psoas and lateral to quadratus lumborum."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0054-q0013",
+      "sourcePage": 54,
+      "before": {
+        "stem": "Which of the following lies immediately medial to the second part of the duodenum:",
+        "options": [
+          "Transverse colon",
+          "Spleen (x) Right kidney 3%",
+          "Stomach"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "Which of the following lies immediately medial to the second part of the duodenum?",
+        "options": [
+          "Transverse colon",
+          "Spleen",
+          "Right kidney",
+          "Head of the pancreas",
+          "Stomach"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482390/",
+        "externalFinding": "The pancreatic head occupies the C-shaped concavity of the descending duodenum."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0058-q0014",
+      "sourcePage": 58,
+      "before": {
+        "stem": "A72 year old man presents to ED with severe abdominal pain and diarrhoea. Imaging shows occlusion of the inferior mesenteric artery. Which of the following structures is most likely affected:",
+        "options": [
+          "Ascending and descending colon",
+          "Ascending and transverse colon",
+          "Caecum and transverse colon"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "A 72-year-old man presents to the emergency department with severe abdominal pain and diarrhoea. Imaging shows occlusion of the inferior mesenteric artery. Which structures are most likely affected?",
+        "options": [
+          "Ascending and descending colon",
+          "Ascending and transverse colon",
+          "Caecum and transverse colon",
+          "Descending and sigmoid colon",
+          "Caecum and ileum"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470577/",
+        "externalFinding": "The descending and sigmoid colon are perfused by left colic and sigmoid IMA branches."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0063-q0015",
+      "sourcePage": 63,
+      "before": {
+        "stem": "ww The psoas major muscle attaches distally to which of the following: (x) Pubic tubercle 2%",
+        "options": [
+          "Greater trochanter of the femur 1%",
+          "Lesser trochanter of the femur",
+          "lliac crest 13%",
+          "Anterior superior iliac spine 4%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The psoas major muscle attaches distally to which of the following?",
+        "options": [
+          "Pubic tubercle",
+          "Greater trochanter of the femur",
+          "Lesser trochanter of the femur",
+          "Iliac crest",
+          "Anterior superior iliac spine"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK535418/",
+        "externalFinding": "The iliopsoas common tendon attaches to the lesser trochanter."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0075-q0018",
+      "sourcePage": 75,
+      "before": {
+        "stem": "ww McBurney's point, the surface projection of the base of the appendix is located at which of the following sites:",
+        "options": [
+          "At the junction of the lateral and middle one-thirds of a line extending from the anterior superior iliac spine to the umbilicus. (x) At the midpoint of a line extending from the anterior superior iliac spine to the umbilicus. 9% At the junction of the medial and middle one-thirds of a line extending from the anterior 14% superior iliac spine to the umbilicus. At the midpoint of a line extending from the anterior superior iliac spine to the pubic 6% symphysis.",
+          "At the midpoint of a line extending from the anterior superior iliac spine to the pubic tubercle. 2%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "McBurney's point, the traditional surface projection of the appendiceal base, is located at which site?",
+        "options": [
+          "Junction of the lateral and middle thirds of the ASIS-to-umbilicus line",
+          "Midpoint of the ASIS-to-umbilicus line",
+          "Junction of the medial and middle thirds of the ASIS-to-umbilicus line",
+          "Midpoint of the ASIS-to-pubic-symphysis line",
+          "Midpoint of the ASIS-to-pubic-tubercle line"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://pubmed.ncbi.nlm.nih.gov/8435952/",
+        "externalFinding": "The recognised McBurney point is the junction of lateral and middle thirds of the umbilicus-to-right-ASIS line."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0085-q0020",
+      "sourcePage": 85,
+      "before": {
+        "stem": "The genitofemoral nerve innervates which of the following muscles: External anal sphincter 5%",
+        "options": [
+          "Bulbospongiosus muscle (x) Superficial transverse perineal muscle 6%",
+          "Deep transverse perineal muscle"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "The genitofemoral nerve innervates which of the following muscles?",
+        "options": [
+          "External anal sphincter",
+          "Male cremaster muscle",
+          "Bulbospongiosus muscle",
+          "Superficial transverse perineal muscle",
+          "Deep transverse perineal muscle"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK430733/",
+        "externalFinding": "In men, the genital branch supplies the scrotal skin and cremaster."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0089-q0021",
+      "sourcePage": 89,
+      "before": {
+        "stem": "ww The floor of the inguinal canal is formed primarily by which of the following structures:",
+        "options": [
+          "Transversalis fascia 14%",
+          "Medial one-half of the inguinal ligament",
+          "Lateral one-half of the inguinal ligament 8%",
+          "Psoas major muscle 3%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The floor of the inguinal canal is formed primarily by which of the following structures?",
+        "options": [
+          "Transversalis fascia",
+          "Medial one-half of the inguinal ligament",
+          "Lateral one-half of the inguinal ligament",
+          "Psoas major muscle",
+          "Pectineus muscle"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470204/",
+        "externalFinding": "The inguinal ligament forms the floor of the inguinal canal."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0067-q0016",
+      "sourcePage": 67,
+      "before": {
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "Source page reviewed, but the stem is medically ambiguous: canonical portal triad components exclude both hepatic vein branches and vagal fibres. Remains unresolved and excluded from answer learning."
+        ]
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0073-q0017",
+      "sourcePage": 73,
+      "before": {
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected.",
+          "Source page reviewed, but the stem confuses embryological derivation with anatomical continuity from the epididymal tail. Remains unresolved and excluded from answer learning."
+        ]
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0078-q0019",
+      "sourcePage": 78,
+      "before": {
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "Source page reviewed, but exact external corroboration for the stated L3-L4 inferior-pole landmark has not been recorded. Remains unresolved pending an exact authoritative reference."
+        ]
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

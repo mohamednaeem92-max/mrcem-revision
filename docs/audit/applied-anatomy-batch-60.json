@@ -1,0 +1,656 @@
+{
+  "generatedAt": "2026-08-27T04:10:55.882Z",
+  "batch": "anatomy-all-pdf-batch-60",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1713-q0041",
+      "sourcePage": 1713,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1713-q0041",
+        "sourcePage": 1713,
+        "stem": "A 21 year old female presents to ED with isolated facial nerve palsy. You diagnose Bell's palsy. Which of the following clinical features might you expect on examination:",
+        "options": [
+          "Sensory loss over the cornea and conjunctiva (x) Fixed and dilated pupil 1%",
+          "Loss of sensation over the ipsilateral face",
+          "Loss of accommodation refiex"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The facial nerve innervates the orbicularis oculi, the muscle responsible for closing the eye. The facial nerve is therefore the efferent pathway of the corneal blink reflex. Sensation to the face, and the cornea and conjunctiva is supplied by the trigeminal nerve, which is therefore the afferent pathway of the corneal blink reflex. A fixed dilated pupil, and loss of the accommodation reflex may be seen in palsy of the oculomotor nerve due to loss of innervation of the sphincter pupillae and ciliary muscle respectively. Cc | Se [seer Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1713-q0041",
+        "sourcePage": 1713,
+        "stem": "A 21 year old female presents to ED with isolated facial nerve palsy. You diagnose Bell's palsy. Which of the following clinical features might you expect on examination:",
+        "options": [
+          "Sensory loss over the cornea and conjunctiva",
+          "Loss of the corneal blink reflex",
+          "Fixed and dilated pupil",
+          "Loss of sensation over the ipsilateral face",
+          "Loss of accommodation reflex"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "CN VII supplies orbicularis oculi and is the efferent limb of the corneal blink reflex; V1 is afferent.",
+        "learningNote": "CN VII supplies orbicularis oculi and is the efferent limb of the corneal blink reflex; V1 is afferent.",
+        "highYieldNote": "CN VII supplies orbicularis oculi and is the efferent limb of the corneal blink reflex; V1 is afferent.",
+        "mnemonic": "V1 feels, VII closes: the corneal reflex needs both.",
+        "memoryAid": {
+          "coreFact": "CN VII supplies orbicularis oculi and is the efferent limb of the corneal blink reflex; V1 is afferent.",
+          "mnemonic": "V1 feels, VII closes: the corneal reflex needs both.",
+          "emojiCues": [
+            "V1",
+            "VII",
+            "👁️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK554569/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK554569/",
+        "externalFinding": "Source page displays loss of the corneal blink reflex as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1714-q0042",
+      "sourcePage": 1714,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1714-q0042",
+        "sourcePage": 1714,
+        "stem": "ww? The facial nerve exits the skull through the:",
+        "options": [
+          "Stylomastoid foramen",
+          "Foramen ovale “Gin. & Jugular foramen 8%",
+          "Foramen rotundum 5%",
+          "Hypoglossal canal"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The facial nerve exits the facial canal (and the basal skull) through the stylomastoid foramen between the styloid and mastoid processes of the temporal bone. 4",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1714-q0042",
+        "sourcePage": 1714,
+        "stem": "The facial nerve exits the skull through the:",
+        "options": [
+          "Stylomastoid foramen",
+          "Foramen ovale",
+          "Jugular foramen",
+          "Foramen rotundum",
+          "Hypoglossal canal"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The facial nerve exits the facial canal and basal skull through the stylomastoid foramen.",
+        "learningNote": "The facial nerve exits the facial canal and basal skull through the stylomastoid foramen.",
+        "highYieldNote": "The facial nerve exits the facial canal and basal skull through the stylomastoid foramen.",
+        "mnemonic": "VII exits between styloid and mastoid.",
+        "memoryAid": {
+          "coreFact": "The facial nerve exits the facial canal and basal skull through the stylomastoid foramen.",
+          "mnemonic": "VII exits between styloid and mastoid.",
+          "emojiCues": [
+            "VII",
+            "🦴",
+            "🕳️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK554569/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK554569/",
+        "externalFinding": "Source page displays stylomastoid foramen as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1715-q0043",
+      "sourcePage": 1715,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1715-q0043",
+        "sourcePage": 1715,
+        "stem": "Which of the following nerves is the efferent pathway of the gag reflex:",
+        "options": [
+          "Facial nerve",
+          "Glossopharyngeal nerve (x) ypoglossal nerve 4%",
+          "Mandibular nerve"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The vagus nerve is the efferent pathway of the gag reflex. The glossopharyngeal nerve is the afferent pathway of the gag reflex. Cc | ss [Ceaser Oo Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1715-q0043",
+        "sourcePage": 1715,
+        "stem": "Which of the following nerves is the efferent pathway of the gag reflex:",
+        "options": [
+          "Facial nerve",
+          "Glossopharyngeal nerve",
+          "Hypoglossal nerve",
+          "Vagus nerve",
+          "Mandibular nerve"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "CN X is the efferent limb of the gag reflex; CN IX is the afferent limb.",
+        "learningNote": "CN X is the efferent limb of the gag reflex; CN IX is the afferent limb.",
+        "highYieldNote": "CN X is the efferent limb of the gag reflex; CN IX is the afferent limb.",
+        "mnemonic": "IX detects, X reacts.",
+        "memoryAid": {
+          "coreFact": "CN X is the efferent limb of the gag reflex; CN IX is the afferent limb.",
+          "mnemonic": "IX detects, X reacts.",
+          "emojiCues": [
+            "IX",
+            "X",
+            "🫢"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK539877/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK539877/",
+        "externalFinding": "Source page displays vagus nerve as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1716-q0044",
+      "sourcePage": 1716,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1716-q0044",
+        "sourcePage": 1716,
+        "stem": "The oculomotor nerve supplies all of the following structures EXCEPT for the:",
+        "options": [
+          "Levator palpebrae superioris & Sphincter pupillae 2%",
+          "Ciliary muscle",
+          "Superior oblique",
+          "Inferior oblique"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The oculomotor nerve supplies four extraocular muscles - the inferior oblique, superior rectus, inferior rectus and medial rectus muscles, the levator palpebrae superioris muscle, the sphincter pupillae muscle and the ciliary muscle. The superior oblique muscle is innervated by the trochlear nerve, and the lateral rectus muscle by the abducens nerve. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1716-q0044",
+        "sourcePage": 1716,
+        "stem": "The oculomotor nerve supplies all of the following structures EXCEPT for the:",
+        "options": [
+          "Levator palpebrae superioris",
+          "Sphincter pupillae",
+          "Ciliary muscle",
+          "Superior oblique",
+          "Inferior oblique"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "CN III supplies levator palpebrae, inferior oblique, the recti, sphincter pupillae, and ciliary muscle; CN IV supplies superior oblique.",
+        "learningNote": "CN III supplies levator palpebrae, inferior oblique, the recti, sphincter pupillae, and ciliary muscle; CN IV supplies superior oblique.",
+        "highYieldNote": "CN III supplies levator palpebrae, inferior oblique, the recti, sphincter pupillae, and ciliary muscle; CN IV supplies superior oblique.",
+        "mnemonic": "LR6 SO4, all the rest are III.",
+        "memoryAid": {
+          "coreFact": "CN III supplies levator palpebrae, inferior oblique, the recti, sphincter pupillae, and ciliary muscle; CN IV supplies superior oblique.",
+          "mnemonic": "LR6 SO4, all the rest are III.",
+          "emojiCues": [
+            "III",
+            "IV",
+            "👁️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470353/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470353/",
+        "externalFinding": "Source page displays superior oblique as the exception."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1717-q0045",
+      "sourcePage": 1717,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1717-q0045",
+        "sourcePage": 1717,
+        "stem": "w A 28 year old man presents to ED complaining of severe headaches and dizziness. Imaging shows a tumour compressing the hypoglossal canal. Which of the following clinical features would you most expect to see:",
+        "options": [
+          "Dysphagia CJ",
+          "Uvula deviation away from affected side",
+          "Tongue deviation on protrusion towards affected side",
+          "Loss of gag reflex"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The hypoglossal nerve exits the cranial cavity through the hypoglossal canal. Injury to the hypoglossal nerve will result in ipsilateral tongue weakness, atrophy and fasciculations, with tongue deviation on protrusion towards the affected side due to the unopposed action of the opposite genioglossus muscle. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1717-q0045",
+        "sourcePage": 1717,
+        "stem": "A 28 year old man presents to ED complaining of severe headaches and dizziness. Imaging shows a tumour compressing the hypoglossal canal. Which of the following clinical features would you most expect to see:",
+        "options": [
+          "Dysphagia",
+          "Dysarthria",
+          "Uvula deviation away from affected side",
+          "Tongue deviation on protrusion towards affected side",
+          "Loss of gag reflex"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Ipsilateral LMN hypoglossal injury causes tongue weakness, atrophy, fasciculations, and deviation toward the affected side on protrusion.",
+        "learningNote": "Ipsilateral LMN hypoglossal injury causes tongue weakness, atrophy, fasciculations, and deviation toward the affected side on protrusion.",
+        "highYieldNote": "Ipsilateral LMN hypoglossal injury causes tongue weakness, atrophy, fasciculations, and deviation toward the affected side on protrusion.",
+        "mnemonic": "XII points the tongue toward the lesion.",
+        "memoryAid": {
+          "coreFact": "Ipsilateral LMN hypoglossal injury causes tongue weakness, atrophy, fasciculations, and deviation toward the affected side on protrusion.",
+          "mnemonic": "XII points the tongue toward the lesion.",
+          "emojiCues": [
+            "XII",
+            "👅",
+            "➡️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537167/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537167/",
+        "externalFinding": "Source page displays tongue deviation toward the affected side as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1721-q0046",
+      "sourcePage": 1721,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1721-q0046",
+        "sourcePage": 1721,
+        "stem": "You are examining a patient who has presented with visual disturbance. Light shone into the right eye elicits a direct reflex in the right eye but no consensual reflex in the left eye. A lesion in which of the following structures is most likely responsible for this clinical picture:",
+        "options": [
+          "Right optic nerve",
+          "Right oculomotor nerve",
+          "Right optic radiation"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The contralateral oculomotor nerve is responsible for the consensual reflex. ce > Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1721-q0046",
+        "sourcePage": 1721,
+        "stem": "You are examining a patient who has presented with visual disturbance. Light shone into the right eye elicits a direct reflex in the right eye but no consensual reflex in the left eye. A lesion in which of the following structures is most likely responsible for this clinical picture:",
+        "options": [
+          "Right optic nerve",
+          "Left optic nerve",
+          "Right oculomotor nerve",
+          "Left oculomotor nerve",
+          "Right optic radiation"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The left oculomotor nerve mediates the efferent consensual response in the left eye when light enters the right eye.",
+        "learningNote": "The left oculomotor nerve mediates the efferent consensual response in the left eye when light enters the right eye.",
+        "highYieldNote": "The left oculomotor nerve mediates the efferent consensual response in the left eye when light enters the right eye.",
+        "mnemonic": "The eye that fails to constrict points to the efferent III lesion.",
+        "memoryAid": {
+          "coreFact": "The left oculomotor nerve mediates the efferent consensual response in the left eye when light enters the right eye.",
+          "mnemonic": "The eye that fails to constrict points to the efferent III lesion.",
+          "emojiCues": [
+            "III",
+            "👁️",
+            "💡"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK553213/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK553213/",
+        "externalFinding": "Source page displays left oculomotor nerve as correct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1722-q0047",
+      "sourcePage": 1722,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1722-q0047",
+        "sourcePage": 1722,
+        "stem": "Which of the following is NOT a typical feature of a lesion to the vestibulocochlear nerve:",
+        "options": [
+          "Impaired hearing",
+          "Vertigo",
+          "Tinnitus"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Hyperacusis may result from paralysis of the stapedius muscle, innervated by the facial nerve. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1722-q0047",
+        "sourcePage": 1722,
+        "stem": "Which of the following is NOT a typical feature of a lesion to the vestibulocochlear nerve:",
+        "options": [
+          "Hyperacusis",
+          "Nystagmus",
+          "Impaired hearing",
+          "Vertigo",
+          "Tinnitus"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "CN VIII lesions cause hearing and vestibular disturbances; hyperacusis is more characteristic of stapedius paralysis from CN VII dysfunction.",
+        "learningNote": "CN VIII lesions cause hearing and vestibular disturbances; hyperacusis is more characteristic of stapedius paralysis from CN VII dysfunction.",
+        "highYieldNote": "CN VIII lesions cause hearing and vestibular disturbances; hyperacusis is more characteristic of stapedius paralysis from CN VII dysfunction.",
+        "mnemonic": "VIII hears and balances; VII controls stapedius loudness.",
+        "memoryAid": {
+          "coreFact": "CN VIII lesions cause hearing and vestibular disturbances; hyperacusis is more characteristic of stapedius paralysis from CN VII dysfunction.",
+          "mnemonic": "VIII hears and balances; VII controls stapedius loudness.",
+          "emojiCues": [
+            "VIII",
+            "VII",
+            "👂"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK557736/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557736/",
+        "externalFinding": "Source page displays hyperacusis as not typical."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1727-q0048",
+      "sourcePage": 1727,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1727-q0048",
+        "sourcePage": 1727,
+        "stem": "Regarding the vestibulocochlear nerve, which of the following statements is INCORRECT:",
+        "options": [
+          "The vestibulocochlear nerve emerges from the brainstem at the cerebellopontine angle. 5%",
+          "Weber's test distinguishes between sensorineural or conductive hearing loss. 7%",
+          "The vestibulocochlear nerve is a purely sensory nerve.",
+          "In normal hearing air conduction is louder than bone conduction. 10%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The vestibulocochlear nerve, a purely sensory nerve, leaves the brainstem at the cerebellopontine angle and exits the cranial cavity through the internal acoustic meatus. Pp : Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1727-q0048",
+        "sourcePage": 1727,
+        "stem": "Regarding the vestibulocochlear nerve, which of the following statements is INCORRECT:",
+        "options": [
+          "The vestibulocochlear nerve emerges from the brainstem at the cerebellopontine angle.",
+          "The vestibulocochlear nerve leaves the cranial cavity via the foramen rotundum.",
+          "Weber's test distinguishes between sensorineural or conductive hearing loss.",
+          "The vestibulocochlear nerve is a purely sensory nerve.",
+          "In normal hearing air conduction is louder than bone conduction."
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "CN VIII is sensory, arises at the cerebellopontine angle, and travels through the internal acoustic meatus, not the foramen rotundum.",
+        "learningNote": "CN VIII is sensory, arises at the cerebellopontine angle, and travels through the internal acoustic meatus, not the foramen rotundum.",
+        "highYieldNote": "CN VIII is sensory, arises at the cerebellopontine angle, and travels through the internal acoustic meatus, not the foramen rotundum.",
+        "mnemonic": "VIII uses the internal acoustic meatus, not a trigeminal foramen.",
+        "memoryAid": {
+          "coreFact": "CN VIII is sensory, arises at the cerebellopontine angle, and travels through the internal acoustic meatus, not the foramen rotundum.",
+          "mnemonic": "VIII uses the internal acoustic meatus, not a trigeminal foramen.",
+          "emojiCues": [
+            "VIII",
+            "👂",
+            "🕳️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK557736/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557736/",
+        "externalFinding": "Source page displays the foramen rotundum route as incorrect."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1728-q0049",
+      "sourcePage": 1728,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1728-q0049",
+        "sourcePage": 1728,
+        "stem": "w Which of the following is NOT a branch of the facial nerve:",
+        "options": [
+          "Posterior auricular nerve",
+          "Chorda tympani",
+          "Marginal mandibular branch & Nerve to the stapedius 8%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The mental nerve is a branch of the mandibular division of the trigeminal nerve. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1728-q0049",
+        "sourcePage": 1728,
+        "stem": "Which of the following is NOT a branch of the facial nerve:",
+        "options": [
+          "Posterior auricular nerve",
+          "Chorda tympani",
+          "Marginal mandibular branch",
+          "Nerve to the stapedius",
+          "Mental nerve"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The mental nerve is a terminal branch of the inferior alveolar nerve from V3, not a facial-nerve branch.",
+        "learningNote": "The mental nerve is a terminal branch of the inferior alveolar nerve from V3, not a facial-nerve branch.",
+        "highYieldNote": "The mental nerve is a terminal branch of the inferior alveolar nerve from V3, not a facial-nerve branch.",
+        "mnemonic": "Mental is mandibular: mental nerve belongs to V3.",
+        "memoryAid": {
+          "coreFact": "The mental nerve is a terminal branch of the inferior alveolar nerve from V3, not a facial-nerve branch.",
+          "mnemonic": "Mental is mandibular: mental nerve belongs to V3.",
+          "emojiCues": [
+            "V3",
+            "VII",
+            "🦷"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK554569/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK554569/",
+        "externalFinding": "Source page displays mental nerve as not a facial-nerve branch."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1729-q0050",
+      "sourcePage": 1729,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1729-q0050",
+        "sourcePage": 1729,
+        "stem": "te The hypoglossal nerve emerges from the cranial cavity through the: Creer",
+        "options": [
+          "Foramen ovale",
+          "Hypoglossal canal",
+          "Internal acoustic meatus",
+          "Jugular foramen"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The hypoglossal nerve exits the cranial cavity through the hypoglossal canal. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1729-q0050",
+        "sourcePage": 1729,
+        "stem": "The hypoglossal nerve emerges from the cranial cavity through the:",
+        "options": [
+          "Foramen rotundum",
+          "Foramen ovale",
+          "Hypoglossal canal",
+          "Internal acoustic meatus",
+          "Jugular foramen"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "CN XII exits the skull through the hypoglossal canal.",
+        "learningNote": "CN XII exits the skull through the hypoglossal canal.",
+        "highYieldNote": "CN XII exits the skull through the hypoglossal canal.",
+        "mnemonic": "XII has its own canal: the hypoglossal canal.",
+        "memoryAid": {
+          "coreFact": "CN XII exits the skull through the hypoglossal canal.",
+          "mnemonic": "XII has its own canal: the hypoglossal canal.",
+          "emojiCues": [
+            "XII",
+            "👅",
+            "🕳️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537167/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537167/",
+        "externalFinding": "Source page displays hypoglossal canal as correct."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

@@ -1,0 +1,316 @@
+{
+  "generatedAt": "2026-08-22T14:22:33.542Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0137-q0034",
+      "sourcePage": 137,
+      "before": {
+        "stem": "iv e) ww The flat anterior abdominal wall muscles are comprised of which of the following muscles: (x) The external and internal oblique muscles 2%",
+        "options": [
+          "The external, internal and innermost oblique muscles 2%",
+          "The external oblique, internal oblique and rectus abdominis muscles 21%",
+          "The external oblique, internal oblique and transversus abdominis muscles",
+          "The rectus abdominis and transversus abdominis muscles 1%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The flat anterior abdominal wall muscles are comprised of which muscles?",
+        "options": [
+          "The external and internal oblique muscles",
+          "The external, internal and innermost oblique muscles",
+          "The external oblique, internal oblique and rectus abdominis muscles",
+          "The external oblique, internal oblique and transversus abdominis muscles",
+          "The rectus abdominis and transversus abdominis muscles"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK551649/",
+        "externalFinding": "External oblique, internal oblique, and transversus abdominis are anterolateral abdominal-wall muscles."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0140-q0035",
+      "sourcePage": 140,
+      "before": {
+        "stem": "A 45 year old overweight patient presents to ED complaining of fever and severe right upper quadrant pain. The pain radiates to her right shoulder tip. Murphy's sign is positive and you diagnose acute cholecystitis. Which of the following nerves is responsible for the pain referred to the shoulder tip:",
+        "options": [
+          "Vagus nerve 53%",
+          "Greater thoracic splanchnic nerve 4% (x) Intercostal nerves 2%",
+          "Lesser thoracic splanchnic nerve 1%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "A 45-year-old patient presents to the ED with fever and severe right upper-quadrant pain radiating to the right shoulder tip. Murphy's sign is positive and acute cholecystitis is diagnosed. Which nerve mediates the referred shoulder-tip pain?",
+        "options": [
+          "Vagus nerve",
+          "Phrenic nerve",
+          "Greater thoracic splanchnic nerve",
+          "Intercostal nerves",
+          "Lesser thoracic splanchnic nerve"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459288/",
+        "externalFinding": "Diaphragmatic peritoneal irritation refers pain to the right shoulder through the right phrenic nerve."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0143-q0036",
+      "sourcePage": 143,
+      "before": {
+        "stem": "The pre-aortic lymph nodes receive lymph from all of the following structures EXCEPT for the:",
+        "options": [
+          "Pancreas",
+          "Spleen",
+          "Sigmoid colon"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "The pre-aortic lymph nodes receive lymph from all of the following structures EXCEPT the:",
+        "options": [
+          "Kidneys",
+          "Pancreas",
+          "Spleen",
+          "Sigmoid colon",
+          "Appendix"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557720/",
+        "externalFinding": "Para-aortic nodes drain kidneys, while pre-aortic nodes drain gastrointestinal structures, spleen, and pancreas."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0146-q0037",
+      "sourcePage": 146,
+      "before": {
+        "stem": "The quadrate and caudate lobes of the liver are separated by which of the following structures:",
+        "options": [
+          "Ligamentum venosum",
+          "Gallbladder",
+          "Inferior vena cava"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "The quadrate and caudate lobes of the liver are separated by which structure?",
+        "options": [
+          "Ligamentum venosum",
+          "Ligamentum teres",
+          "Gallbladder",
+          "Inferior vena cava",
+          "Porta hepatis"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK500014/",
+        "externalFinding": "The caudate lobe is posterior and the quadrate lobe anterior to the porta hepatis."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0153-q0038",
+      "sourcePage": 153,
+      "before": {
+        "stem": "The superficial inguinal ring is located at which of the following sites:",
+        "options": [
+          "Just superior to the midpoint of the inguinal ligament (x) Superior to a point midway between the anterior superior iliac spine and the pubic symphysis 13%",
+          "Superior to a point midway between the anterior superior iliac spine and the pubic tubercle",
+          "Immediately lateral to the inferior epigastric vessels"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "The superficial inguinal ring is located at which site?",
+        "options": [
+          "Just superior to the midpoint of the inguinal ligament",
+          "Superior to a point midway between the anterior superior iliac spine and the pubic symphysis",
+          "Superior to a point midway between the anterior superior iliac spine and the pubic tubercle",
+          "Just superior to the pubic tubercle",
+          "Immediately lateral to the inferior epigastric vessels"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470204/",
+        "externalFinding": "The superficial inguinal ring is located just superior to the pubic tubercle."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0161-q0040",
+      "sourcePage": 161,
+      "before": {
+        "stem": "ww The anterior abdominal wall muscles are innervated by:",
+        "options": [
+          "The anterior rami of L1 - L3 6%",
+          "The anterior rami of T7 - T12 and L1",
+          "The anterior rami of T12 and L1 - L4 15%",
+          "The phrenic nerve 1%",
+          "The anterior rami of T7 - T10 6%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The anterior abdominal-wall muscles are innervated by which nerves?",
+        "options": [
+          "The anterior rami of L1-L3",
+          "The anterior rami of T7-T12 and L1",
+          "The anterior rami of T12 and L1-L4",
+          "The phrenic nerve",
+          "The anterior rami of T7-T10"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK525975/",
+        "externalFinding": "Anterior rami T7-T12 provide primary motor and sensory supply; T12 and L1 contribute to the ilioinguinal/iliohypogastric trunk."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0164-q0041",
+      "sourcePage": 164,
+      "before": {
+        "stem": "Regarding the appendix, which of the following statements is CORRECT:",
+        "options": [
+          "The appendix has a highly variable attachment site to the caecum.",
+          "The appendix is a retroperitoneal structure. (x) The surface projection of the base of the appendix is called Murphy's point. 71%",
+          "The subcaecal position is the most common position of the appendix."
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "Regarding the appendix, which statement is correct?",
+        "options": [
+          "The psoas sign may be positive in retrocaecal appendicitis.",
+          "The appendix has a highly variable attachment site to the caecum.",
+          "The appendix is a retroperitoneal structure.",
+          "The surface projection of the base of the appendix is called Murphy's point.",
+          "The subcaecal position is the most common position of the appendix."
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459205/",
+        "externalFinding": "A retrocaecal appendix may produce a positive psoas sign from psoas irritation."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0167-q0042",
+      "sourcePage": 167,
+      "before": {
+        "stem": "Ld The arterial supply to the colon is derived predominantly from which of the following:",
+        "options": [
+          "Lumbar arteries 1%",
+          "Superior and inferior mesenteric arteries",
+          "Renal artery 0%",
+          "Common iliac artery 1%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The arterial supply to the colon is derived predominantly from which arteries?",
+        "options": [
+          "Coeliac trunk",
+          "Lumbar arteries",
+          "Superior and inferior mesenteric arteries",
+          "Renal artery",
+          "Common iliac artery"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470577/",
+        "externalFinding": "The large intestine receives arterial supply from the superior mesenteric artery and inferior mesenteric artery."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0172-q0043",
+      "sourcePage": 172,
+      "before": {
+        "stem": "Which of the following is a retroperitoneal structure: Sigmoid colon 1% lleum 2% Liver 1%",
+        "options": [],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "Which of the following is a retroperitoneal structure?",
+        "options": [
+          "Sigmoid colon",
+          "Second part of duodenum",
+          "Ileum",
+          "Liver",
+          "Spleen"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482390/",
+        "externalFinding": "The duodenum beyond the first part is retroperitoneal."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0157-q0039",
+      "sourcePage": 157,
+      "before": {
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected.",
+          "Source page reviewed, but authoritative anatomy directly verifies the third part anterior to the aorta and describes the fourth part as ascending to its left. The source-marked combined answer remains unresolved and excluded from answer learning."
+        ]
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

@@ -1,0 +1,335 @@
+{
+  "generatedAt": "2026-08-22T15:23:06.482Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0299-q0074",
+      "sourcePage": 299,
+      "before": {
+        "stem": "Irritation of the central part of the diaphragmatic peritoneum is typically referred to:",
+        "options": [
+          "The jaw a",
+          "The epigastric region The periumbilical region 4% (x) The flanks 1%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "Irritation of the central diaphragmatic peritoneum is typically referred to where?",
+        "options": [
+          "The jaw",
+          "The shoulder tip",
+          "The epigastric region",
+          "The periumbilical region",
+          "The flanks"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459288/",
+        "externalFinding": "Central diaphragmatic irritation is transmitted by phrenic afferents and can cause shoulder-tip referred pain."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0302-q0075",
+      "sourcePage": 302,
+      "before": {
+        "stem": "The bladder receives its efferent parasympathetic fibres derived from spinal cord segments:",
+        "options": [
+          "L4-L5",
+          "$1-S2",
+          "L4-S2"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "The bladder receives efferent parasympathetic fibres from which spinal cord segments?",
+        "options": [
+          "L4-L5",
+          "S3-S4",
+          "S2-S4",
+          "S1-S2",
+          "L4-S2"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK531465/",
+        "externalFinding": "Pelvic splanchnic nerves from S2-S4 mediate bladder parasympathetic activity."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0307-q0076",
+      "sourcePage": 307,
+      "before": {
+        "stem": "A 64 year old man is brought to ED with profuse haematemesis. Endoscopy shows oesophageal varices which are most likely the result of anastomosis of the left gastric vein with which of the following vessels:",
+        "options": [
+          "Abdominal aorta",
+          "Inferior mesenteric vein Superior mesenteric vein 8%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "Oesophageal varices result from an anastomosis of the left gastric vein with which vessel system?",
+        "options": [
+          "Abdominal aorta",
+          "Azygos system of veins",
+          "Inferior mesenteric vein",
+          "Superior mesenteric vein",
+          "Portal vein"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK448078/",
+        "externalFinding": "Gastro-oesophageal portosystemic collaterals communicate with the azygos venous system."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0311-q0077",
+      "sourcePage": 311,
+      "before": {
+        "stem": "ww The psoas major muscle originates from which of the following:",
+        "options": [
+          "The T12 - LS vertebrae",
+          "The 11th and 12th rib 5%",
+          "The T11 - 112 vertebrae 10%",
+          "The sacrum 2%",
+          "The iliac crest 7%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "Psoas major originates from which vertebral levels?",
+        "options": [
+          "T12-L5 vertebrae",
+          "Eleventh and twelfth ribs",
+          "T11-T12 vertebrae",
+          "Sacrum",
+          "Iliac crest"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK535418/",
+        "externalFinding": "Psoas major has distal thoracic and upper lumbar vertebral/disc attachments."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0315-q0078",
+      "sourcePage": 315,
+      "before": {
+        "stem": "Which of the following actions does NOT facilitate defaecation:",
+        "options": [
+          "Increased intra-abdominal pressure 53% (x) traction of rectal smooth muscle 5%",
+          "Relaxation of the internal anal sphincter 6%",
+          "Relaxation of the external anal sphincter"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "Which action does not facilitate defaecation?",
+        "options": [
+          "Increased intra-abdominal pressure",
+          "Contraction of rectal smooth muscle",
+          "Contraction of the puborectalis muscle",
+          "Relaxation of the internal anal sphincter",
+          "Relaxation of the external anal sphincter"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK539732/",
+        "externalFinding": "The puborectalis and external anal sphincter relax to permit defaecation."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0323-q0080",
+      "sourcePage": 323,
+      "before": {
+        "stem": "ww The obturator nerve is formed from the anterior rami of:",
+        "options": [
+          "Eels",
+          "Ey-L2 5% Oe",
+          "L2-L3 1%",
+          "L3-L4 5%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The obturator nerve is formed from the anterior rami of which roots?",
+        "options": [
+          "L2-L4",
+          "L1-L2",
+          "L1-L4",
+          "L2-L3",
+          "L3-L4"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK551640/",
+        "externalFinding": "The obturator nerve arises from the second through fourth lumbar roots."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0331-q0082",
+      "sourcePage": 331,
+      "before": {
+        "stem": "ww A 41 year old man presents to ED with a painful, infected abscess on the posterior aspect of the scrotum. Which of the following lymph nodes is most likely to be affected first:",
+        "options": [
+          "Internal iliac nodes 4%",
+          "External iliac nodes 2%",
+          "Superficial inguinal nodes",
+          "Deep inguinal nodes 9%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "A man has an infected posterior-scrotal skin abscess. Which lymph nodes are most likely affected first?",
+        "options": [
+          "Internal iliac nodes",
+          "External iliac nodes",
+          "Superficial inguinal nodes",
+          "Deep inguinal nodes",
+          "Para-aortic nodes"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557720/",
+        "externalFinding": "Superficial inguinal nodes receive lymph from the scrotum."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0334-q0083",
+      "sourcePage": 334,
+      "before": {
+        "stem": "The superior pole of the left kidney reaches as high as which of the following:",
+        "options": [
+          "Rib 8",
+          "Rib 9",
+          "Rib 10"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "The superior pole of the left kidney typically reaches as high as which rib?",
+        "options": [
+          "Rib 8",
+          "Rib 9",
+          "Rib 10",
+          "Rib 11",
+          "Rib 12"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459339/",
+        "externalFinding": "The left kidney's superior margin is usually near the eleventh rib and lies higher than the right."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0319-q0079",
+      "sourcePage": 319,
+      "before": {
+        "stem": "A 40 year old man is undergoing a vasectomy. During the procedure the various layers of the spermatic cord are separated to expose the ductus deferens. The internal spermatic fascia is derived from which of the following: External oblique aponeurosis 3%",
+        "options": [
+          "Internal oblique aponeurosis",
+          "Internal oblique muscle",
+          "Transversus abdominis muscle"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "During vasectomy, the internal spermatic fascia is derived from which layer?",
+        "options": [
+          "External oblique aponeurosis",
+          "Internal oblique aponeurosis",
+          "Transversalis fascia",
+          "Internal oblique muscle",
+          "Transversus abdominis muscle"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected.",
+          "Source page reviewed, but the available authoritative sources did not directly corroborate the source's exact internal-spermatic-fascia derivation statement. This record remains excluded from answer learning."
+        ]
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0327-q0081",
+      "sourcePage": 327,
+      "before": {
+        "stem": "w Which of the following best describes the relationship of the duodenum to the pancreas:",
+        "options": [
+          "The first part of the duodenum lies superior to the tail of the pancreas. 2% (x) [he second part of the duodenum lies medial to the head of the pancreas. 14%",
+          "The third part of the duodenum lies inferior to the pancreas.",
+          "The fourth part of the duodenum lies inferior to the head of the pancreas. 3%",
+          "The head of the pancreas lies posterior to the second part of the duodenum. 9%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Which statement best describes the relationship of the duodenum to the pancreas?",
+        "options": [
+          "The first part of the duodenum lies superior to the tail of the pancreas.",
+          "The second part of the duodenum lies medial to the head of the pancreas.",
+          "The third part of the duodenum lies inferior to the pancreas.",
+          "The fourth part of the duodenum lies inferior to the head of the pancreas.",
+          "The head of the pancreas lies posterior to the second part of the duodenum."
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "Source page reviewed, but the exact source-marked third-duodenal-part relation was not directly corroborated by an authoritative external source. This record remains excluded from answer learning."
+        ]
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

@@ -1,0 +1,341 @@
+{
+  "exportedAt": "2026-08-23T18:27:56.777Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-40",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1241,
+      1244,
+      1246,
+      1249,
+      1250,
+      1254,
+      1255,
+      1256,
+      1257,
+      1258
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1241-q0158",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The oesophagus passes through the diaphragm at which vertebral level:",
+      "options": [
+        "T8 6%",
+        "19 2% () HO 86%",
+        "™m 3%",
+        "112 3%"
+      ],
+      "correctOption": null,
+      "explanation": "The abdominal oesophagus emerges through the oesophageal hiatus in the diaphragm at vertebral level T10. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1241,
+      "sourceQuestionNumber": 158
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1244-q0159",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww A direct inguinal hernia is due to weakness in which of the following layers:",
+      "options": [
+        "External oblique aponeurosis 14%",
+        "Transversalis fascia",
+        "Internal oblique muscle 5%",
+        "Lacunar ligament 1%"
+      ],
+      "correctOption": 1,
+      "explanation": "A direct inguinal hernia is due to weakness in the posterior wall of the inguinal canal which is formed mainly by the transversalis fascia. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1244,
+      "sourceQuestionNumber": 159
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1246-q0160",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The following structures are all found in the spermatic cord EXCEPT for the:",
+      "options": [
+        "Pampiniform plexus of veins 6%",
+        "Cremasteric artery 5%",
+        "Remnants of the processus vaginalis 6%",
+        "Pudendal nerve",
+        "Testicular artery 6%"
+      ],
+      "correctOption": 3,
+      "explanation": "The pudendal nerve is not a component of the spermatic cord. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1246,
+      "sourceQuestionNumber": 160
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1249-q0161",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "wy A565 year old woman presents to ED complaining of abdominal pain and profuse vomiting. Imaging shows part of the bowel is being compressed between the abdominal aorta and the superior mesenteric artery. Which part of the bowel is most likely being affected:",
+      "options": [
+        "First part of the duodenum 17% (/) Third part of the duodenum 48%",
+        "lleum 4%",
+        "Jejunum 7%"
+      ],
+      "correctOption": null,
+      "explanation": "The third part of the duodenum lies anterior to the abdominal aorta but posterior to the superior mesenteric artery and constriction between these structures can occur readily. : : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1249,
+      "sourceQuestionNumber": 161
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1250-q0162",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The inferior vena cava leaves the abdomen at which of the following vertebral levels:",
+      "options": [
+        "T6 16%",
+        "T10 49%",
+        "u 2%"
+      ],
+      "correctOption": null,
+      "explanation": "The inferior vena cava ascends through the posterior abdominal region anterior to the vertebral column immediately to the right of the abdominal aorta, and continues superiorly, leaving the abdomen by piercing the diaphragm at the level of vertebra T8. ; Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1250,
+      "sourceQuestionNumber": 162
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1254-q0163",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Abdomen A75 year old man presents to ED complaining of abdominal pain radiating to his back, anorexia and weight loss. Imaging shows a large tumour of the neck of the pancreas. Which of the following structures is most likely compressed by the tumour:",
+      "options": [
+        "Inferior mesenteric artery 7h",
+        "Ureter",
+        "Coeliac trunk 7h"
+      ],
+      "correctOption": null,
+      "explanation": "The portal vein is formed from the union of the superior mesenteric and splenic veins posterior to the neck of the pancreas and would most likely be compressed by a tumour at this location.",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1254,
+      "sourceQuestionNumber": 163
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1255-q0164",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Abdomen The following structures are all found in the spermatic cord except for the:",
+      "options": [
+        "Ductus deferens Branch of the inferior vesical artery 16% Cremasteric vein 2% Branch of the genitofemoral nerve Th"
+      ],
+      "correctOption": null,
+      "explanation": "The inferior epigastric artery is not a component of the spermatic cord. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "Fewer than two answer options were detected.",
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1255,
+      "sourceQuestionNumber": 164
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1256-q0165",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Abdomen The quadratus |umborum muscle is innervated by which of the following:",
+      "options": [
+        "lliohypogastric nerve",
+        "Anterior rami of L2 - L4",
+        "Anterior rami of T9 - 712"
+      ],
+      "correctOption": null,
+      "explanation": "The quadratus lumborum muscles are innervated by the anterior rami of T12 and L1 - L4. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1256,
+      "sourceQuestionNumber": 165
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1257-q0166",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Abdomen Visceral afferent fibres from the pancreas travel to which of the following spinal cord levels:",
+      "options": [
+        "11-12",
+        "T4-16 oe",
+        "q0= 112 @)"
+      ],
+      "correctOption": null,
+      "explanation": "Visceral afferent fibres travel in the greater and lesser splanchnic nerves. The segmental level of innervation is T6 - T10. Pain typically radiates to the middle of the back due to irritation of the parietal peritoneum covering the pancreas. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1257,
+      "sourceQuestionNumber": 166
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1258-q0167",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Abdomen The sacrospinous ligament spans between which of the following structures:",
+      "options": [
+        "The anterior superior iliac spine to the sacrum and coccyx (x) jac spine to the sacrum and coccyx 20%",
+        "The ischial tuberosity to the sacrum and coccyx \"1%",
+        "The pubic arch to the sacrum and coccyx"
+      ],
+      "correctOption": null,
+      "explanation": "The sacrospinous ligament is triangular with its apex attached to the ischial spine and its base attached to the related margins of the sacrum and coccyx. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1258,
+      "sourceQuestionNumber": 167
+    }
+  ]
+}

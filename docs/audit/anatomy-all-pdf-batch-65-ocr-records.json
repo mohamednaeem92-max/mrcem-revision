@@ -1,0 +1,338 @@
+{
+  "exportedAt": "2026-08-27T04:31:52.007Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-65",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1815,
+      1821,
+      1829,
+      1834,
+      1845,
+      1846,
+      1852,
+      1853,
+      1854,
+      1855
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1815-q0010",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Damage to Wernicke's area will most likely result in which of the following clinical features:",
+      "options": [
+        "Nystagmus",
+        "Dysarthria (x) Visual disturbance 1%",
+        "Expressive dysphasia (Vv) Receptive dysphasia 83%"
+      ],
+      "correctOption": null,
+      "explanation": "The Wernicke's speech area (in the dominant hemisphere only) is responsible for comprehension of written and spoken language. Damage to this area results in a receptive dysphasia. , Vv Temporal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM 11 Ranimart",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1815,
+      "sourceQuestionNumber": 10
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1821-q0011",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "th Which of the following blood vessels is NOT part of the circle of Willis:",
+      "options": [
+        "Anterior cerebral artery (Vv) Middle cerebral artery 28%",
+        "Anterior communicating artery",
+        "Posterior communicating artery"
+      ],
+      "correctOption": null,
+      "explanation": "The arterial circle of Willis receives its blood supply from the internal carotid and vertebral arteries. The middle cerebral artery is the lateral continuation of the internal carotid artery and does not form part of the circle. Vv Arterial Supply of Brain ANATOMY / CENTRAL NERVOUS SYSTEM 01 Ranemare",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1821,
+      "sourceQuestionNumber": 11
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1829-q0012",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following is NOT a typical cause of a bitemporal hemianopia:",
+      "options": [
+        "Pituitary adenoma (x) Craniopharyngioma 3%",
+        "Optic glioma (Vv) Posterior cerebral artery stroke 78%",
+        "Aneurysm of the anterior communicating artery"
+      ],
+      "correctOption": null,
+      "explanation": "A bitemporal hemianopia is most likely due to compression at the optic chiasm. This may be caused by pituitary tumour, craniopharyngioma, meningioma, optic glioma or aneurysm of the internal carotid artery. A posterior cerebral stroke will most likely result in a contralateral homonymous hemianopia with macular sparing. ; : Vv Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1829,
+      "sourceQuestionNumber": 12
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1834-q0013",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "Which of the following spinal tracts is involved with the control of trunk muscles: Anterior spinothalamic tract 4% (x) ateral spinothalamic tract 5% Posterior column 55% Posterior corticospinal tract 8%",
+      "options": [],
+      "correctOption": null,
+      "explanation": "The anterior corticospinal tract is involved with the control of axial muscles. Vv Spinal Cord Tracts ANATOMY / CENTRAL NERVOUS SYSTEM The spinal cord has numerous groups of nerve fibers going towards and coming from the brain. These ascending and descending tracts of the spinal cord are responsible for carrying motor and sensory stimuli to and from the periphery.",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "Fewer than two answer options were detected.",
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1834,
+      "sourceQuestionNumber": 13
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1845-q0014",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Occlusion of which of the following blood vessels is most likely to result in a receptive dysphasia:",
+      "options": [
+        "Anterior cerebral artery (anterior communicating artery 3%",
+        "Middle cerebral artery",
+        "Posterior cerebral artery",
+        "Basilar artery"
+      ],
+      "correctOption": 1,
+      "explanation": "The middle cerebral artery supplies the lateral convexity of the cerebral hemisphere including a large proportion of the frontal lobe, temporal lobe and parietal lobe. Receptive dysphasia is caused by damage to the Wernicke's speech area in the dominant superior temporal lobe which is supplied by the middle cerebral artery. : v Arterial Supply of Brain",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1845,
+      "sourceQuestionNumber": 14
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1846-q0016",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The brainstem comprises which of the following:",
+      "options": [
+        "Midbrain and hindbrain (x) Pons, medulla and cerebellum 10%",
+        "Thalamus and hypothalamus (Vv) Pons, medulla and midbrain 88%",
+        "Midbrain and cerebellum"
+      ],
+      "correctOption": null,
+      "explanation": "The brainstem comprises the midbrain, the pons and the medulla. : Vv Brainstem ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1846,
+      "sourceQuestionNumber": 16
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1852-q0017",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The blood supply to the temporal lobe is primarily supplied by which of the following arteries:",
+      "options": [
+        "Basilar artery",
+        "Middle cerebral artery (x) Posterior cerebral artery 2%",
+        "Anterior and middle cerebral artery (Vv) Middle and posterior cerebral artery 18%"
+      ],
+      "correctOption": null,
+      "explanation": "The blood supply to the temporal lobe is from the posterior cerebral artery (medial part of the lobe) and the middle cerebral artery (lateral part of the lobe). , Vv Temporal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM 11 Ranimart",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1852,
+      "sourceQuestionNumber": 17
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1853-q0018",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The basilar artery is formed from which of the following blood vessels:",
+      "options": [
+        "Internal carotid arteries",
+        "Anterior cerebral arteries (Vv) Vertebral arteries 45%",
+        "External carotid arteries",
+        "Middle cerebral arteries"
+      ],
+      "correctOption": null,
+      "explanation": "The basilar artery is formed by the joining of the two terminal vertebral arteries. : / v Arterial Supply of Brain ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1853,
+      "sourceQuestionNumber": 18
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1854-q0019",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "A 29 year old male racing driver has fractured a cervical vertebra. On examination, he has weakness of the right side of his body with upgoing plantars, loss of pain and temperature sensation in his left limbs, with normal fine-touch sensation over all four limbs. This clinical picture is most likely seen in a lesion of the:",
+      "options": [
+        "Anterior column, left side (x) Anterior column, right side 19% (Vv) Lateral column, right side 46%",
+        "Lateral column, left side",
+        "Posterior column, right side"
+      ],
+      "correctOption": null,
+      "explanation": "The lesion is likely affecting the corticospinal and lateral spinothalamic tracts in the lateral column. Motor power of the limbs is mediated by the ipsilateral corticospinal tract, and pain and temperature sensation is mediated by the contralateral spinothalamic tract, therefore the lesion is likely on the right side. The posterior column is spared, as fine-touch sensation is normal throughout. v Spinal Cord Tracts",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1854,
+      "sourceQuestionNumber": 19
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1855-q0020",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww A 65 year old man has resting tremor, rigidity, bradykinesia and a shuffling gait. Parkinson's disease results from which of the following mechanisms:",
+      "options": [
+        "Avascular lesion of the subthalamic nucleus Vv) Loss of dopaminergic neurons in the substantia nigra 93% (x) Loss of serotonergic neurons in the globus pallidus and red nucleus 2% Defect in the metabolism of copper 0%",
+        "Loss of cholinergic and GABAergic neurons in the caudate nucleus and putamen"
+      ],
+      "correctOption": null,
+      "explanation": "Parkinson's disease, characterised by resting tremor, rigidity, akinesia/bradykinesia and shuffling gait, results from degeneration of neurons in the substantia nigra resulting in depletion of dopamine in the caudate nucleus and putamen. ; : Vv Cerebral Hemispheres ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1855,
+      "sourceQuestionNumber": 20
+    }
+  ]
+}

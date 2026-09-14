@@ -1,0 +1,339 @@
+{
+  "exportedAt": "2026-08-26T04:44:11.085Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-49",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1468,
+      1471,
+      1476,
+      1482,
+      1488,
+      1491,
+      1497,
+      1505,
+      1510,
+      1521
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1468-q0005",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "w A 23 year old man is involved in a road traffic collision and sustains a lumbar fracture. On examination you note he is unable to extend his big toe. Which of the following spinal nerve roots has most likely been affected:",
+      "options": [
+        "L3 %",
+        "s1",
+        "s2 %"
+      ],
+      "correctOption": null,
+      "explanation": "The L5 nerve root has most likely been affected. v Myotomes and Reflexes ANATOMY / CENTRAL NERVOUS SYSTEM / LOWER LIMB / INNERVATION OF LOWER LIMB / UPPER LIMB / INNERVATION OF UPPER LIMB",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1468,
+      "sourceQuestionNumber": 5
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1471-q0006",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The two cerebral hemispheres are connected by which of the following structures:",
+      "options": [
+        "Internal capsule (Vv) Corpus callosum 45%",
+        "Aqueduct",
+        "Medulla oblongata",
+        "Substantia nigra %"
+      ],
+      "correctOption": null,
+      "explanation": "The two cerebral hemispheres are connected by a white matter structure, called the corpus callosum. : / v Cerebral Hemispheres ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1471,
+      "sourceQuestionNumber": 6
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1476-q0007",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The Wernicke's speech area is located in which of the following regions:",
+      "options": [
+        "Occipital lobe",
+        "Frontal lobe Vv) Temporal lobe 78%",
+        "Brainstem"
+      ],
+      "correctOption": null,
+      "explanation": "The Wernicke's speech area, in the temporal lobe of the dominant hemisphere, is responsible for comprehension of written and spoken language. Damage to this area results in a receptive dysphasia. : : v Temporal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1476,
+      "sourceQuestionNumber": 7
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1482-q0008",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "w A 55 year old woman presents to ED complaining of headaches. On examination the patient is found to have weakness of the left side of her body and her eyes are deviated towards the right hand side. The lesion is most likely to be in the: (Vv) Frontal lobe 35%",
+      "options": [
+        "Temporal lobe",
+        "Parietal lobe",
+        "Cerebellum"
+      ],
+      "correctOption": null,
+      "explanation": "Contralateral weakness of the body results from damage to the primary motor cortex, in this case the right side. Conjugate eye deviation towards the side of the lesion results from damage to the frontal eye field. v Frontal Lobe",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1482,
+      "sourceQuestionNumber": 8
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1488-q0009",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following is NOT a typical cerebellar sign:",
+      "options": [
+        "Dysdiadochokinesia",
+        "Nystagmus",
+        "Intention tremor",
+        "Hypertonia",
+        "Scanning/staccato speech N%"
+      ],
+      "correctOption": 3,
+      "explanation": "Hypotonia is characteristic of cerebellar dysfunction. : / v Cerebellum ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1488,
+      "sourceQuestionNumber": 9
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1491-q0010",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Damage to Wernicke's area will most likely result in which of the following clinical features:",
+      "options": [
+        "Nystagmus",
+        "Dysarthria (x) Visual disturbance 1%",
+        "Expressive dysphasia (Vv) Receptive dysphasia 83%"
+      ],
+      "correctOption": null,
+      "explanation": "The Wernicke's speech area (in the dominant hemisphere only) is responsible for comprehension of written and spoken language. Damage to this area results in a receptive dysphasia. , Vv Temporal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM 11 Ranimart",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1491,
+      "sourceQuestionNumber": 10
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1497-q0011",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "th Which of the following blood vessels is NOT part of the circle of Willis:",
+      "options": [
+        "Anterior cerebral artery (Vv) Middle cerebral artery 28%",
+        "Anterior communicating artery",
+        "Posterior communicating artery"
+      ],
+      "correctOption": null,
+      "explanation": "The arterial circle of Willis receives its blood supply from the internal carotid and vertebral arteries. The middle cerebral artery is the lateral continuation of the internal carotid artery and does not form part of the circle. Vv Arterial Supply of Brain ANATOMY / CENTRAL NERVOUS SYSTEM 01 Ranemare",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1497,
+      "sourceQuestionNumber": 11
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1505-q0012",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following is NOT a typical cause of a bitemporal hemianopia:",
+      "options": [
+        "Pituitary adenoma (x) Craniopharyngioma 3%",
+        "Optic glioma (Vv) Posterior cerebral artery stroke 78%",
+        "Aneurysm of the anterior communicating artery"
+      ],
+      "correctOption": null,
+      "explanation": "A bitemporal hemianopia is most likely due to compression at the optic chiasm. This may be caused by pituitary tumour, craniopharyngioma, meningioma, optic glioma or aneurysm of the internal carotid artery. A posterior cerebral stroke will most likely result in a contralateral homonymous hemianopia with macular sparing. ; : Vv Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1505,
+      "sourceQuestionNumber": 12
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1510-q0013",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "Which of the following spinal tracts is involved with the control of trunk muscles: Anterior spinothalamic tract 4% (x) ateral spinothalamic tract 5% Posterior column 55% Posterior corticospinal tract 8%",
+      "options": [],
+      "correctOption": null,
+      "explanation": "The anterior corticospinal tract is involved with the control of axial muscles. Vv Spinal Cord Tracts ANATOMY / CENTRAL NERVOUS SYSTEM The spinal cord has numerous groups of nerve fibers going towards and coming from the brain. These ascending and descending tracts of the spinal cord are responsible for carrying motor and sensory stimuli to and from the periphery.",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "Fewer than two answer options were detected.",
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1510,
+      "sourceQuestionNumber": 13
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1521-q0014",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Occlusion of which of the following blood vessels is most likely to result in a receptive dysphasia:",
+      "options": [
+        "Anterior cerebral artery (anterior communicating artery 3%",
+        "Middle cerebral artery",
+        "Posterior cerebral artery",
+        "Basilar artery"
+      ],
+      "correctOption": 1,
+      "explanation": "The middle cerebral artery supplies the lateral convexity of the cerebral hemisphere including a large proportion of the frontal lobe, temporal lobe and parietal lobe. Receptive dysphasia is caused by damage to the Wernicke's speech area in the dominant superior temporal lobe which is supplied by the middle cerebral artery. : v Arterial Supply of Brain",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1521,
+      "sourceQuestionNumber": 14
+    }
+  ]
+}

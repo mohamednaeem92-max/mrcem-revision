@@ -1,0 +1,388 @@
+{
+  "generatedAt": "2026-08-22T17:01:21.786Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0556-q0156",
+      "sourcePage": 556,
+      "before": {
+        "stem": "The right kidney is related anteriorly to all of the following structures EXCEPT for the:",
+        "options": [
+          "Right adrenal gland 19%",
+          "Liver 5%",
+          "Second part of the duodenum 9%",
+          "Hepatic flexure 6%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The right kidney is related anteriorly to all of the following structures except which?",
+        "options": [
+          "Right adrenal gland",
+          "Liver",
+          "Second part of the duodenum",
+          "Hepatic flexure",
+          "Pancreas"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482385/",
+        "externalFinding": "NCBI describes right renal relationships with liver, second duodenum and colonic structures, not pancreas."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0558-q0158",
+      "sourcePage": 558,
+      "before": {
+        "stem": "ww The oesophagus passes through the diaphragm at which vertebral level:",
+        "options": [
+          "T8 6%",
+          "19 2% () HO 86%",
+          "™m 3%",
+          "112 3%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "At which vertebral level does the oesophagus pass through the diaphragm?",
+        "options": [
+          "T8",
+          "T9",
+          "T10",
+          "T11",
+          "T12"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK519558/",
+        "externalFinding": "NCBI places the oesophageal hiatus at T10."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0561-q0159",
+      "sourcePage": 561,
+      "before": {
+        "stem": "ww A direct inguinal hernia is due to weakness in which of the following layers:",
+        "options": [
+          "External oblique aponeurosis 14%",
+          "Transversalis fascia",
+          "Internal oblique muscle 5%",
+          "Lacunar ligament 1%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "A direct inguinal hernia is due to weakness in which layer?",
+        "options": [
+          "External oblique aponeurosis",
+          "Transversalis fascia",
+          "Transversus abdominis muscle",
+          "Internal oblique muscle",
+          "Lacunar ligament"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://emedicine.medscape.com/article/2075362-overview",
+        "externalFinding": "Posterior wall includes transversalis fascia; direct hernia arises from posterior-wall weakness in Hesselbach triangle."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0563-q0160",
+      "sourcePage": 563,
+      "before": {
+        "stem": "ww The following structures are all found in the spermatic cord EXCEPT for the:",
+        "options": [
+          "Pampiniform plexus of veins 6%",
+          "Cremasteric artery 5%",
+          "Remnants of the processus vaginalis 6%",
+          "Pudendal nerve",
+          "Testicular artery 6%"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "All of the following are found in the spermatic cord except which?",
+        "options": [
+          "Pampiniform plexus of veins",
+          "Cremasteric artery",
+          "Remnants of processus vaginalis",
+          "Pudendal nerve",
+          "Testicular artery"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470204/",
+        "externalFinding": "NCBI lists cord components and does not include pudendal nerve."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0566-q0161",
+      "sourcePage": 566,
+      "before": {
+        "stem": "wy A565 year old woman presents to ED complaining of abdominal pain and profuse vomiting. Imaging shows part of the bowel is being compressed between the abdominal aorta and the superior mesenteric artery. Which part of the bowel is most likely being affected:",
+        "options": [
+          "First part of the duodenum 17% (/) Third part of the duodenum 48%",
+          "lleum 4%",
+          "Jejunum 7%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "A patient has abdominal pain and profuse vomiting from bowel compression between the abdominal aorta and superior mesenteric artery. Which bowel part is affected?",
+        "options": [
+          "First part of the duodenum",
+          "Second part of the duodenum",
+          "Third part of the duodenum",
+          "Ileum",
+          "Jejunum"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482209/",
+        "externalFinding": "SMA syndrome compresses the third duodenal portion between SMA and aorta."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0567-q0162",
+      "sourcePage": 567,
+      "before": {
+        "stem": "The inferior vena cava leaves the abdomen at which of the following vertebral levels:",
+        "options": [
+          "T6 16%",
+          "T10 49%",
+          "u 2%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "At which vertebral level does the inferior vena cava leave the abdomen?",
+        "options": [
+          "T6",
+          "T8",
+          "T10",
+          "T12",
+          "L1"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK519558/",
+        "externalFinding": "NCBI places the caval opening and IVC passage at T8."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0571-q0163",
+      "sourcePage": 571,
+      "before": {
+        "stem": "Abdomen A75 year old man presents to ED complaining of abdominal pain radiating to his back, anorexia and weight loss. Imaging shows a large tumour of the neck of the pancreas. Which of the following structures is most likely compressed by the tumour:",
+        "options": [
+          "Inferior mesenteric artery 7h",
+          "Ureter",
+          "Coeliac trunk 7h"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "A large tumour of the pancreatic neck is most likely to compress which structure?",
+        "options": [
+          "Inferior mesenteric artery",
+          "Portal vein",
+          "First part of the duodenum",
+          "Ureter",
+          "Coeliac trunk"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://emedicine.medscape.com/article/1948885-overview",
+        "externalFinding": "Portal vein lies behind pancreatic neck and forms from SMV-splenic union there."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0572-q0164",
+      "sourcePage": 572,
+      "before": {
+        "stem": "Abdomen The following structures are all found in the spermatic cord except for the:",
+        "options": [
+          "Ductus deferens Branch of the inferior vesical artery 16% Cremasteric vein 2% Branch of the genitofemoral nerve Th"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "Fewer than two answer options were detected.",
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "All of the following are found in the spermatic cord except which?",
+        "options": [
+          "Ductus deferens",
+          "Branch of the inferior vesical artery",
+          "Cremasteric vein",
+          "Branch of the genitofemoral nerve",
+          "Inferior epigastric artery"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://emedicine.medscape.com/article/2075362-overview",
+        "externalFinding": "Standard spermatic-cord list excludes the inferior epigastric artery."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0573-q0165",
+      "sourcePage": 573,
+      "before": {
+        "stem": "Abdomen The quadratus |umborum muscle is innervated by which of the following:",
+        "options": [
+          "lliohypogastric nerve",
+          "Anterior rami of L2 - L4",
+          "Anterior rami of T9 - 712"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The quadratus lumborum muscle is innervated by which nerves?",
+        "options": [
+          "Iliohypogastric nerve",
+          "Ilioinguinal nerve",
+          "Anterior rami of L2-L4",
+          "Anterior rami of T9-T12",
+          "Anterior rami of T12-L4"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://teachmeanatomy.info/encyclopaedia/q/quadratus-lumborum/",
+        "externalFinding": "Quadratus lumborum innervation is anterior rami of T12-L4."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0557-q0157",
+      "sourcePage": 557,
+      "before": {
+        "stem": "The ureters enter the bladder and end at the level of which of the following landmarks: CMe",
+        "options": [
+          "Pubic tubercle",
+          "Anterior superior iliac spine 14%",
+          "Inguinal ligament 4%",
+          "lliac crest 8%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The ureters enter the bladder and end at the level of which landmark?",
+        "options": [
+          "Pubic symphysis",
+          "Pubic tubercle",
+          "Anterior superior iliac spine",
+          "Inguinal ligament",
+          "Iliac crest"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "Source page reviewed, but the exact pubic-tubercle landmark for ureteric bladder entry was not precisely corroborated by reviewed external evidence. This record remains excluded from answer learning."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532980/",
+        "externalFinding": "NCBI confirms posterolateral trigonal ureteric entry but not the exact pubic-tubercle level."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

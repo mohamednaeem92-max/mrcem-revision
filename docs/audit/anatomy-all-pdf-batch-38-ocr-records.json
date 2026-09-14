@@ -1,0 +1,340 @@
+{
+  "exportedAt": "2026-08-23T18:07:17.706Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-38",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1201,
+      1202,
+      1203,
+      1205,
+      1209,
+      1212,
+      1213,
+      1216,
+      1220,
+      1224
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1201-q0138",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 66 year old man presents to ED complaining of difficulty passing urine and nocturia. On examination you note the prostate is enlarged and you suspect BPH. Which of the following lobes of the prostate is most likely hypertrophied: Lateral lobe 5%",
+      "options": [
+        "Anterior lobe",
+        "Fibromuscular zone"
+      ],
+      "correctOption": null,
+      "explanation": "Anatomically the prostate has four main lobes: two lateral lobes, a posterior lobe and a median lobe that directly surrounds the urethra. Benign prostatic hypertrophy most commonly affects the median lobe, resulting in obstruction of the urethra and urinary symptoms. The posterior lobe is the area most prone to carcinomatous change, and the area palpated on PR examination. Cc) Ss ama] a Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1201,
+      "sourceQuestionNumber": 138
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1202-q0139",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Which of the following best describes the relationship of the psoas major and quadratus lumborum muscles:",
+      "options": [
+        "The psoas major muscle lies adjacent to the lateral border of the quadratus lumborum muscle.",
+        "The psoas major muscle overlaps the quadratus lumborum muscle medially.",
+        "The psoas major muscle originates inferior to the quadratus lumborum muscle.",
+        "The psoas major muscle lies deep to the quadratus lumborum muscle. 6%",
+        "The psoas major muscle lies superior to the quadratus lumborum muscle. 5%"
+      ],
+      "correctOption": 1,
+      "explanation": "The quadratus lumborum muscles essentially fill the space between rib 12 and the iliac crest on both sides of the vertebral column. They are overlapped medially by the psoas major muscles and along their lateral borders are the transversus abdominis muscles. [se [ease] PT Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1202,
+      "sourceQuestionNumber": 139
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1203-q0140",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The ejaculatory duct is formed by the union of which of the following structures:",
+      "options": [
+        "Ductus deferens and the prostatic urethra 4%",
+        "Ductus deferens and the epididymis 3% (x) Ductus deferens and prostatic ducts bee () Ductus deferens and duct from the seminal vesicle 28%",
+        "Prostatic ducts and duct from seminal vesicle 48%"
+      ],
+      "correctOption": null,
+      "explanation": "The ejaculatory duct is formed where the duct from the seminal vesicle joins the ductus deferens. The ejaculatory duct penetrates through the prostate gland to connect with the prostatic urethra. : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1203,
+      "sourceQuestionNumber": 140
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1205-q0141",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The external anal sphincter is innervated by which of the following nerves:",
+      "options": [
+        "Genitofemoral nerve 3%",
+        "Pudendal nerve (x) Coccygeal nerve 6%",
+        "llioinguinal nerve 5%",
+        "lliohypogastric nerve 3%"
+      ],
+      "correctOption": 1,
+      "explanation": "The external anal sphincter is innervated by the pudendal nerve. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1205,
+      "sourceQuestionNumber": 141
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1209-q0142",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The inguinal ligament is formed from which of the following:",
+      "options": [
+        "The lower free border of the external oblique aponeurosis",
+        "The lower free border of the internal oblique aponeurosis 6%",
+        "The lower free border of the transversus abdominis aponeurosis 1%",
+        "The lower free border of the rectus abdominis aponeurosis 2%",
+        "The lower free border of the thoracolumbar fascia 1%"
+      ],
+      "correctOption": 0,
+      "explanation": "The lower free border of the external oblique aponeurosis forms the inguinal ligament on each side (which runs between the anterior superior iliac spine laterally and the pubic tubercle medially). ; Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1209,
+      "sourceQuestionNumber": 142
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1212-q0143",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The male bladder lies immediately anterior to which of the following structures:",
+      "options": [
+        "Anus 1%",
+        "Prostate gland 19%",
+        "Sigmoid colon 1%",
+        "Abdominal aorta 2%"
+      ],
+      "correctOption": null,
+      "explanation": "In the male the bladder is related: e anteriorly to the pubic symphysis e posteriorly to the rectovesical pouch and rectum e inferiorly to the prostate and the pelvic floor © superiorly to the peritoneum : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1212,
+      "sourceQuestionNumber": 143
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1213-q0144",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The ileum predominantly occupies which region of the abdomen:",
+      "options": [
+        "Left upper quadrant 7%",
+        "Right upper quadrant 4%",
+        "Left lower quadrant 16%",
+        "Right lower quadrant"
+      ],
+      "correctOption": 3,
+      "explanation": "The ileum is mostly in the right lower quadrant. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1213,
+      "sourceQuestionNumber": 144
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1216-q0145",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The greater omentum descends from which of the following structures:",
+      "options": [
+        "The quadrate lobe of the liver 1%",
+        "The lesser curvature of the stomach and first part of the duodenum 6%",
+        "The greater curvature of the stomach and first part of the duodenum",
+        "The transverse colon 6%",
+        "The duodenojejunal junction 2%"
+      ],
+      "correctOption": 2,
+      "explanation": "The greater omentum descends from the greater curvature of the stomach and first part of the duodenum, drapes inferiorly over the transverse colon and the coils of the jejunum and ileum, then folds back up posteriorly and ascends to become adherent to the peritoneum on the superior surface of the transverse colon and the anterior layer of the transverse mesocolon before arriving at the posterior abdominal wall. , Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1216,
+      "sourceQuestionNumber": 145
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1220-q0146",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Regarding the male urethra, which of the following statements is CORRECT:",
+      "options": [
+        "The membranous urethra is the widest part.",
+        "The spongy urethra penetrates the urogenital diaphragm. 5%",
+        "The internal urethral sphincter is associated with the prostatic urethra. 58%",
+        "The prostatic urethra is the longest part. V) The spongy urethra (in the flaccid penis) bends twice in its course, first anteriorly and then 32%"
+      ],
+      "correctOption": null,
+      "explanation": "The male urethra (spongy part) bends twice in its course: as it exits the deep perineal pouch it bends forward to course anteriorly in the root of the penis, and when passing from the root to the body of the penis it curves inferiorly in the flaccid penis. The prostatic urethra is the widest part and the spongy urethra the longest part. The membranous urethra penetrates the urogenital diaphragm. The internal urethral sphincter is associated with the preprostatic urethra. Cc] ss aes Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1220,
+      "sourceQuestionNumber": 146
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1224-q0147",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A patient presents following a fall. Imaging shows damage to the L1 nerve root. Which of the following muscles are most likely to be affected:",
+      "options": [
+        "Transversus abdominis and rectus abdominis muscles",
+        "Gluteus medius and minimus muscles",
+        "Transversus abdominis and internal oblique muscles",
+        "Internal and external oblique muscles"
+      ],
+      "correctOption": 2,
+      "explanation": "The ilioinguinal nerve is formed from the anterior rami of L1. It innervates the internal oblique and transversus abdominis muscles and supplies skin over the upper medial thigh and the external genitalia. Cc | Ss [eer | Py] Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1224,
+      "sourceQuestionNumber": 147
+    }
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "generatedAt": "2026-08-27T03:42:56.878Z",
+  "batch": "anatomy-all-pdf-batch-54",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1584-q0057",
+      "sourcePage": 1584,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1584-q0057",
+        "sourcePage": 1584,
+        "stem": "ww Which of the following arteries is the terminal branch of the basilar artery:",
+        "options": [
+          "Anterior inferior cerebellar artery (x) Superior cerebellar artery ah",
+          "Posterior inferior cerebellar artery (Vv) Posterior cerebral artery 29%",
+          "Posterior spinal artery"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The posterior cerebral artery is the terminal branch of the basilar artery. , Vv Arterial Supply of Brain ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1584-q0057",
+        "sourcePage": 1584,
+        "stem": "Which of the following arteries is the terminal branch of the basilar artery:",
+        "options": [
+          "Anterior inferior cerebellar artery",
+          "Superior cerebellar artery",
+          "Posterior inferior cerebellar artery",
+          "Posterior cerebral artery",
+          "Posterior spinal artery"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The posterior cerebral artery is the terminal branch of the basilar artery.",
+        "learningNote": "The posterior cerebral artery is the terminal branch of the basilar artery.",
+        "highYieldNote": "The posterior cerebral artery is the terminal branch of the basilar artery.",
+        "mnemonic": "Basilar ends in PCA: posterior cerebral arteries.",
+        "memoryAid": {
+          "coreFact": "The posterior cerebral artery is the terminal branch of the basilar artery.",
+          "mnemonic": "Basilar ends in PCA: posterior cerebral arteries.",
+          "emojiCues": [
+            "🩸",
+            "⬅️",
+            "🧠"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11352334/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11352334/",
+        "externalFinding": "Source page displays posterior cerebral artery as the correct option; posterior-circulation anatomy corroborates the key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1585-q0058",
+      "sourcePage": 1585,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1585-q0058",
+        "sourcePage": 1585,
+        "stem": "w The extracranial portion of the optic nerve is supplied by which of the following blood vessels: Superficial temporal artery",
+        "options": [
+          "Facial artery",
+          "Ophthalmic artery",
+          "Anterior choroidal artery External carotid artery"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected.",
+          "Explanation is missing or too short after OCR parsing."
+        ],
+        "explanation": "",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1585-q0058",
+        "sourcePage": 1585,
+        "stem": "The extracranial portion of the optic nerve is supplied by which of the following blood vessels:",
+        "options": [
+          "Superficial temporal artery",
+          "Facial artery",
+          "Ophthalmic artery",
+          "Anterior choroidal artery",
+          "External carotid artery"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The extracranial portion of the optic nerve is supplied by the ophthalmic artery.",
+        "learningNote": "The extracranial portion of the optic nerve is supplied by the ophthalmic artery.",
+        "highYieldNote": "The extracranial portion of the optic nerve is supplied by the ophthalmic artery.",
+        "mnemonic": "Ophthalmic artery supplies the optic nerve in the orbit.",
+        "memoryAid": {
+          "coreFact": "The extracranial portion of the optic nerve is supplied by the ophthalmic artery.",
+          "mnemonic": "Ophthalmic artery supplies the optic nerve in the orbit.",
+          "emojiCues": [
+            "👁️",
+            "🩸",
+            "O"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK549919/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK549919/",
+        "externalFinding": "Pages 1585–1586 reconcile as one question; page 1586 displays ophthalmic artery as correct and NCBI corroborates the supply."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1586-q0058",
+      "sourcePage": 1586,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1586-q0058",
+        "sourcePage": 1586,
+        "stem": "ww The extracranial portion of the optic nerve is supplied by which of the following blood vessels:",
+        "options": [
+          "Superficial temporal artery (x) Facial artery 2%",
+          "Ophthalmic artery",
+          "Anterior choroidal artery",
+          "External carotid artery"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The extracranial portion of the optic nerve is supplied by the ophthalmic artery. : : v Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1586-q0058",
+        "sourcePage": 1586,
+        "stem": "The extracranial portion of the optic nerve is supplied by which of the following blood vessels:",
+        "options": [
+          "Superficial temporal artery",
+          "Facial artery",
+          "Ophthalmic artery",
+          "Anterior choroidal artery",
+          "External carotid artery"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The extracranial portion of the optic nerve is supplied by the ophthalmic artery.",
+        "learningNote": "The extracranial portion of the optic nerve is supplied by the ophthalmic artery.",
+        "highYieldNote": "The extracranial portion of the optic nerve is supplied by the ophthalmic artery.",
+        "mnemonic": "Ophthalmic artery supplies the optic nerve in the orbit.",
+        "memoryAid": {
+          "coreFact": "The extracranial portion of the optic nerve is supplied by the ophthalmic artery.",
+          "mnemonic": "Ophthalmic artery supplies the optic nerve in the orbit.",
+          "emojiCues": [
+            "👁️",
+            "🩸",
+            "O"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK549919/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK549919/",
+        "externalFinding": "This second OCR record is the answered continuation on page 1586; it displays ophthalmic artery as correct and NCBI corroborates the supply."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1587-q0059",
+      "sourcePage": 1587,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1587-q0059",
+        "sourcePage": 1587,
+        "stem": "ww What type of visual field defect are you likely to see in a lesion of the temporal optic radiation:",
+        "options": [
+          "Bitemporal hemianopia (x) Contralateral homonymous inferior quadrantanopia 1%",
+          "Contralateral homonymous hemianopia (Vv) Contralateral homonymous superior quadrantanopia 1%",
+          "Homonymous hemianopia with macular sparing"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "A lesion of the temporal optic radiation will result in a contralateral homonymous superior quadrantanopia. : : v Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1587-q0059",
+        "sourcePage": 1587,
+        "stem": "What type of visual field defect are you likely to see in a lesion of the temporal optic radiation:",
+        "options": [
+          "Bitemporal hemianopia",
+          "Contralateral homonymous inferior quadrantanopia",
+          "Contralateral homonymous hemianopia",
+          "Contralateral homonymous superior quadrantanopia",
+          "Homonymous hemianopia with macular sparing"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "A lesion of the temporal optic radiation will result in a contralateral homonymous superior quadrantanopia.",
+        "learningNote": "A lesion of the temporal optic radiation will result in a contralateral homonymous superior quadrantanopia.",
+        "highYieldNote": "A lesion of the temporal optic radiation will result in a contralateral homonymous superior quadrantanopia.",
+        "mnemonic": "Meyer’s loop in the temporal lobe gives the upper field: pie in the sky.",
+        "memoryAid": {
+          "coreFact": "A lesion of the temporal optic radiation will result in a contralateral homonymous superior quadrantanopia.",
+          "mnemonic": "Meyer’s loop in the temporal lobe gives the upper field: pie in the sky.",
+          "emojiCues": [
+            "👁️",
+            "🌙",
+            "⬆️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK553189/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK553189/",
+        "externalFinding": "Source page displays contralateral homonymous superior quadrantanopia; NCBI localizes temporal Meyer-loop fibres to the superior visual field."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1588-q0060",
+      "sourcePage": 1588,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1588-q0060",
+        "sourcePage": 1588,
+        "stem": "ww Which of the following is NOT a typical cerebellar sign:",
+        "options": [
+          "Dysmetria",
+          "Resting tremor",
+          "Hypotonia",
+          "Slurred speech"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "An intention tremor is characteristic of cerebellar dysfunction. Resting tremor may be seen in Parkinsonism. ‘ . Vv Cerebellum ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1588-q0060",
+        "sourcePage": 1588,
+        "stem": "Which of the following is NOT a typical cerebellar sign:",
+        "options": [
+          "Dysmetria",
+          "Ataxia",
+          "Resting tremor",
+          "Hypotonia",
+          "Slurred speech"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "An intention tremor is characteristic of cerebellar dysfunction. Resting tremor may be seen in Parkinsonism.",
+        "learningNote": "An intention tremor is characteristic of cerebellar dysfunction. Resting tremor may be seen in Parkinsonism.",
+        "highYieldNote": "An intention tremor is characteristic of cerebellar dysfunction. Resting tremor may be seen in Parkinsonism.",
+        "mnemonic": "Cerebellar tremor appears with intention, not at rest.",
+        "memoryAid": {
+          "coreFact": "An intention tremor is characteristic of cerebellar dysfunction. Resting tremor may be seen in Parkinsonism.",
+          "mnemonic": "Cerebellar tremor appears with intention, not at rest.",
+          "emojiCues": [
+            "🎯",
+            "🫨",
+            "🛑"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11352334/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11352334/",
+        "externalFinding": "Source page displays resting tremor as correct and includes ataxia in the option list; the OCR draft lost that option."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1591-q0061",
+      "sourcePage": 1591,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1591-q0061",
+        "sourcePage": 1591,
+        "stem": "ww Which of the following clinical features would you least expect to see in a lesion of the frontal lobe:",
+        "options": [
+          "Conjugate eye deviation towards side of lesion (x) Contralateral weakness of the face and arm 5%",
+          "Loss of two-point discrimination",
+          "Personality change",
+          "Expressive dysphasia"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "Loss of two-point discrimination is most likely to occur in a lesion of the parietal lobe. Expressive dysphasia results from damage to Broca's area. Contralateral weakness of the face and arm results from damage to the primary motor cortex. Personality change results from damage to the prefrontal cortex. Conjugate eye deviation towards side of lesion results from damage to the frontal eye field. : v Frontal Lobe",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1591-q0061",
+        "sourcePage": 1591,
+        "stem": "Which of the following clinical features would you least expect to see in a lesion of the frontal lobe:",
+        "options": [
+          "Conjugate eye deviation towards side of lesion",
+          "Contralateral weakness of the face and arm",
+          "Loss of two-point discrimination",
+          "Personality change",
+          "Expressive dysphasia"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Loss of two-point discrimination is most likely to occur in a lesion of the parietal lobe. Expressive dysphasia results from damage to Broca's area. Contralateral weakness of the face and arm results from damage to the primary motor cortex. Personality change results from damage to the prefrontal cortex. Conjugate eye deviation towards side of lesion results from damage to the frontal eye field.",
+        "learningNote": "Loss of two-point discrimination is most likely to occur in a lesion of the parietal lobe. Expressive dysphasia results from damage to Broca's area. Contralateral weakness of the face and arm results from damage to the primary motor cortex. Personality change results from damage to the prefrontal cortex. Conjugate eye deviation towards side of lesion results from damage to the frontal eye field.",
+        "highYieldNote": "Loss of two-point discrimination is most likely to occur in a lesion of the parietal lobe. Expressive dysphasia results from damage to Broca's area. Contralateral weakness of the face and arm results from damage to the primary motor cortex. Personality change results from damage to the prefrontal cortex. Conjugate eye deviation towards side of lesion results from damage to the frontal eye field.",
+        "mnemonic": "Frontal plans, moves, speaks, and directs gaze; parietal discriminates touch.",
+        "memoryAid": {
+          "coreFact": "Loss of two-point discrimination is most likely to occur in a lesion of the parietal lobe. Expressive dysphasia results from damage to Broca's area. Contralateral weakness of the face and arm results from damage to the primary motor cortex. Personality change results from damage to the prefrontal cortex. Conjugate eye deviation towards side of lesion results from damage to the frontal eye field.",
+          "mnemonic": "Frontal plans, moves, speaks, and directs gaze; parietal discriminates touch.",
+          "emojiCues": [
+            "🧠",
+            "👁️",
+            "✋"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "PMC authoritative source",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10579499/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10579499/",
+        "externalFinding": "Source page displays loss of two-point discrimination as correct; PMC corroborates parietal cortical sensory loss."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1592-q0062",
+      "sourcePage": 1592,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1592-q0062",
+        "sourcePage": 1592,
+        "stem": "th Regarding cerebrospinal fluid, which of the following statements is NOT correct:",
+        "options": [
+          "The total volume of CSF is around 130 mL.",
+          "The inferior horn of the lateral ventricle projects into the temporal lobe. Vv) The lateral ventricles are connected to the third ventricle by the cerebral aqueduct. 33%",
+          "The fourth ventricle lies within the brainstem."
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The lateral ventricles are connected to the third ventricle by the interventricular foramen (of Monro). is 4 Vv Cerebral Ventricles ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1592-q0062",
+        "sourcePage": 1592,
+        "stem": "Regarding cerebrospinal fluid, which of the following statements is NOT correct:",
+        "options": [
+          "The total volume of CSF is around 130 mL.",
+          "The bulk of CSF formation occurs in the lateral ventricles.",
+          "The inferior horn of the lateral ventricle projects into the temporal lobe.",
+          "The lateral ventricles are connected to the third ventricle by the cerebral aqueduct.",
+          "The fourth ventricle lies within the brainstem."
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The lateral ventricles are connected to the third ventricle by the interventricular foramen (of Monro).",
+        "learningNote": "The lateral ventricles are connected to the third ventricle by the interventricular foramen (of Monro).",
+        "highYieldNote": "The lateral ventricles are connected to the third ventricle by the interventricular foramen (of Monro).",
+        "mnemonic": "Monro moves lateral to third; Sylvius moves third to fourth.",
+        "memoryAid": {
+          "coreFact": "The lateral ventricles are connected to the third ventricle by the interventricular foramen (of Monro).",
+          "mnemonic": "Monro moves lateral to third; Sylvius moves third to fourth.",
+          "emojiCues": [
+            "💧",
+            "🔗",
+            "🧠"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+        "externalFinding": "Source page displays the cerebral-aqueduct statement as the incorrect option; NCBI confirms the lateral-to-third ventricular connection is via the interventricular foramen of Monro."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1593-q0063",
+      "sourcePage": 1593,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1593-q0063",
+        "sourcePage": 1593,
+        "stem": "ww The vertebral artery is a branch of which of the following blood vessels:",
+        "options": [
+          "Internal carotid artery",
+          "External carotid artery (Vv) Subclavian artery 56%",
+          "Brachiocephalic trunk",
+          "Thyrocervical trunk"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The vertebral artery is a branch of the subclavian artery. v Arterial Supply of Brain ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1593-q0063",
+        "sourcePage": 1593,
+        "stem": "The vertebral artery is a branch of which of the following blood vessels:",
+        "options": [
+          "Internal carotid artery",
+          "External carotid artery",
+          "Subclavian artery",
+          "Brachiocephalic trunk",
+          "Thyrocervical trunk"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The vertebral artery is a branch of the subclavian artery.",
+        "learningNote": "The vertebral artery is a branch of the subclavian artery.",
+        "highYieldNote": "The vertebral artery is a branch of the subclavian artery.",
+        "mnemonic": "Subclavian sends vertebral arteries upward.",
+        "memoryAid": {
+          "coreFact": "The vertebral artery is a branch of the subclavian artery.",
+          "mnemonic": "Subclavian sends vertebral arteries upward.",
+          "emojiCues": [
+            "🩸",
+            "⬆️",
+            "S"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8446242/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8446242/",
+        "externalFinding": "Source page displays subclavian artery as correct; vertebrobasilar anatomy corroborates the key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1594-q0064",
+      "sourcePage": 1594,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1594-q0064",
+        "sourcePage": 1594,
+        "stem": "ww The internal capsule primarily contains which types of white matter fibres: Vv) Projection fibres 25%",
+        "options": [
+          "Short association fibres",
+          "Long association fibres",
+          "U-fibres"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The internal capsule is a deep subcortical structure that contains a concentration of white matter projection fibres. Projection fibres connect the cerebral cortex with the lower part of the brain or brainstem and the spinal cord, in both directions. : Vv Cerebral Hemispheres ANATOMY / CENTRAL NERVOUS SYSTEM 11 Ranimart",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1594-q0064",
+        "sourcePage": 1594,
+        "stem": "The internal capsule primarily contains which types of white matter fibres:",
+        "options": [
+          "Projection fibres",
+          "Short association fibres",
+          "Commissural fibres",
+          "Long association fibres",
+          "U-fibres"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The internal capsule is a deep subcortical structure that contains a concentration of white matter projection fibres. Projection fibres connect the cerebral cortex with the lower part of the brain or brainstem and the spinal cord, in both directions.",
+        "learningNote": "The internal capsule is a deep subcortical structure that contains a concentration of white matter projection fibres. Projection fibres connect the cerebral cortex with the lower part of the brain or brainstem and the spinal cord, in both directions.",
+        "highYieldNote": "The internal capsule is a deep subcortical structure that contains a concentration of white matter projection fibres. Projection fibres connect the cerebral cortex with the lower part of the brain or brainstem and the spinal cord, in both directions.",
+        "mnemonic": "Projection fibres project cortex to brainstem and cord.",
+        "memoryAid": {
+          "coreFact": "The internal capsule is a deep subcortical structure that contains a concentration of white matter projection fibres. Projection fibres connect the cerebral cortex with the lower part of the brain or brainstem and the spinal cord, in both directions.",
+          "mnemonic": "Projection fibres project cortex to brainstem and cord.",
+          "emojiCues": [
+            "⬇️",
+            "🧠",
+            "🔌"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK542181/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK542181/",
+        "externalFinding": "Source page displays projection fibres as correct and includes commissural fibres; NCBI confirms the internal capsule contains ascending and descending projection tracts."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1595-q0065",
+      "sourcePage": 1595,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1595-q0065",
+        "sourcePage": 1595,
+        "stem": "ww Damage to Broca's area will most likely result in which of the following clinical features:",
+        "options": [
+          "Nystagmus",
+          "Dysarthria",
+          "Visual disturbance Vv) Expressive dysphasia 89%",
+          "Receptive dysphasia"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The Broca's speech area, in the frontal lobe of the dominant hemisphere, is the ‘expressive’ centre for the production of speech. It is connected to the Wernicke's speech area by the arcuate fasciculus. Damage to this area will result in an expressive dysphasia. Vv Frontal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1595-q0065",
+        "sourcePage": 1595,
+        "stem": "Damage to Broca's area will most likely result in which of the following clinical features:",
+        "options": [
+          "Nystagmus",
+          "Dysarthria",
+          "Visual disturbance",
+          "Expressive dysphasia",
+          "Receptive dysphasia"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The Broca's speech area, in the frontal lobe of the dominant hemisphere, is the ‘expressive’ centre for the production of speech. It is connected to the Wernicke's speech area by the arcuate fasciculus. Damage to this area will result in an expressive dysphasia.",
+        "learningNote": "The Broca's speech area, in the frontal lobe of the dominant hemisphere, is the ‘expressive’ centre for the production of speech. It is connected to the Wernicke's speech area by the arcuate fasciculus. Damage to this area will result in an expressive dysphasia.",
+        "highYieldNote": "The Broca's speech area, in the frontal lobe of the dominant hemisphere, is the ‘expressive’ centre for the production of speech. It is connected to the Wernicke's speech area by the arcuate fasciculus. Damage to this area will result in an expressive dysphasia.",
+        "mnemonic": "Broca produces; Wernicke receives.",
+        "memoryAid": {
+          "coreFact": "The Broca's speech area, in the frontal lobe of the dominant hemisphere, is the ‘expressive’ centre for the production of speech. It is connected to the Wernicke's speech area by the arcuate fasciculus. Damage to this area will result in an expressive dysphasia.",
+          "mnemonic": "Broca produces; Wernicke receives.",
+          "emojiCues": [
+            "🗣️",
+            "🧠",
+            "B"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK526096/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK526096/",
+        "externalFinding": "Source page displays expressive dysphasia as correct; NCBI locates Broca area in the dominant inferior frontal gyrus and describes expressive aphasia after injury."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

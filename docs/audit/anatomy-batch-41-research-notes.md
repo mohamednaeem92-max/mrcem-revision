@@ -1,0 +1,18 @@
+# Anatomy Batch 41 External Evidence Notes
+
+Original source pages determine literal wording, option order, and displayed keys. External sources corroborate whether a displayed key can be safely restored. Restored records remain unapproved `ocr_draft` records and are mock-ineligible. Restricted records remain `needs_review`, `askable:false`, and carry no learning aids.
+
+| Record | Source-page key | Authoritative corroboration | Final decision |
+|---|---:|---|---|
+| `anatomy-anatomy-all-pdf-p1262-q0169` | 2 | NCBI states that structures posterior to the stomach lie deep to the lesser sac or omental bursa and identifies the pancreas behind the posterior bursal wall. This supports the source statement that the omental bursa is posterior to the stomach and liver and anterior to the pancreas. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK482334/) | Restore. |
+| `anatomy-anatomy-all-pdf-p1263-q0170` | 2 | NCBI states that the abdominal aorta terminates by bifurcating into the common iliac arteries. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK537319/) | Restore. |
+| `anatomy-anatomy-all-pdf-p1264-q0171` | 3 | NCBI states that the genitofemoral nerve supplies the upper segment of the anterior thigh and identifies its femoral branch as sensory. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK430733/) | Restore. |
+| `anatomy-anatomy-all-pdf-p1265-q0172` | 0 | NCBI states that lymphatic drainage of the superior anal canal above the pectinate line is via internal iliac lymph nodes. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK551682/) | Restore. |
+| `anatomy-anatomy-all-pdf-p1266-q0173` | 1 | NCBI states that the iliohypogastric nerve innervates transversus abdominis and internal oblique. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK459392/) | Restore. |
+| `anatomy-anatomy-all-pdf-p1267-q0174` | 3 | NCBI states that the inferior border of external oblique forms the inguinal ligament, so the source statement attributing this to rectus abdominis is incorrect. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK551649/) | Restore, with source-supported language cleanup only. |
+| `anatomy-anatomy-all-pdf-p1268-q0175` | 2 | NCBI states that superficial inguinal nodes drain the anal canal below the pectinate line. The source stem names “anal canal” without that qualifying level, so the exact broad wording is not uniquely corroborated even though the source explanation supplies the missing qualifier. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK557639/) | Restrict due unqualified level-sensitive wording. |
+| `anatomy-anatomy-all-pdf-p1269-q0176` | 2 | NCBI states that the vulvar vestibule lies between the labia minora and contains the urethral opening. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK547703/) | Restore. |
+| `anatomy-anatomy-all-pdf-p1276-q0178` | 1 | NCBI confirms that the obturator nerve supplies the medial upper thigh. A peer-reviewed emergency-medicine case report documents pelvic pathology producing pain in the cutaneous distribution of the obturator nerve, but the accessible evidence does not directly establish the source’s specific “known ovarian cyst” mechanism. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK551640/) [Emergency Medicine Journal](https://emj.bmj.com/content/15/3/192) | Restrict because the exact ovarian-cyst causal formulation is insufficiently corroborated. |
+| `anatomy-anatomy-all-pdf-p1279-q0179` | 2 | NCBI states that prostate cancer is most commonly found in the peripheral zone. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK470550/) | Restore. |
+
+Final Batch 41 decision: **8 restorations, 2 restrictions, and 0 approvals**. No restored record is eligible for mock exams.

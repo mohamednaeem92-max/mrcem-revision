@@ -1,0 +1,655 @@
+{
+  "generatedAt": "2026-08-27T04:34:49.190Z",
+  "batch": "anatomy-all-pdf-batch-65",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1815-q0010",
+      "sourcePage": 1815,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1815-q0010",
+        "sourcePage": 1815,
+        "stem": "ww Damage to Wernicke's area will most likely result in which of the following clinical features:",
+        "options": [
+          "Nystagmus",
+          "Dysarthria (x) Visual disturbance 1%",
+          "Expressive dysphasia (Vv) Receptive dysphasia 83%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The Wernicke's speech area (in the dominant hemisphere only) is responsible for comprehension of written and spoken language. Damage to this area results in a receptive dysphasia. , Vv Temporal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM 11 Ranimart",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1815-q0010",
+        "sourcePage": 1815,
+        "stem": "Damage to Wernicke's area will most likely result in which of the following clinical features:",
+        "options": [
+          "Nystagmus",
+          "Dysarthria",
+          "Visual disturbance",
+          "Expressive dysphasia",
+          "Receptive dysphasia"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Dominant posterior superior temporal-gyrus injury causes impaired comprehension and receptive dysphasia.",
+        "learningNote": "Dominant posterior superior temporal-gyrus injury causes impaired comprehension and receptive dysphasia.",
+        "highYieldNote": "Dominant posterior superior temporal-gyrus injury causes impaired comprehension and receptive dysphasia.",
+        "mnemonic": "Wernicke receives language.",
+        "memoryAid": {
+          "coreFact": "Dominant posterior superior temporal-gyrus injury causes impaired comprehension and receptive dysphasia.",
+          "mnemonic": "Wernicke receives language.",
+          "emojiCues": [
+            "🧠",
+            "⚡",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK441951/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK441951/",
+        "externalFinding": "Displayed key and option order directly verified on the original rendered page."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1821-q0011",
+      "sourcePage": 1821,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1821-q0011",
+        "sourcePage": 1821,
+        "stem": "th Which of the following blood vessels is NOT part of the circle of Willis:",
+        "options": [
+          "Anterior cerebral artery (Vv) Middle cerebral artery 28%",
+          "Anterior communicating artery",
+          "Posterior communicating artery"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The arterial circle of Willis receives its blood supply from the internal carotid and vertebral arteries. The middle cerebral artery is the lateral continuation of the internal carotid artery and does not form part of the circle. Vv Arterial Supply of Brain ANATOMY / CENTRAL NERVOUS SYSTEM 01 Ranemare",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1821-q0011",
+        "sourcePage": 1821,
+        "stem": "Which of the following blood vessels is NOT part of the circle of Willis:",
+        "options": [
+          "Anterior cerebral artery",
+          "Middle cerebral artery",
+          "Posterior cerebral artery",
+          "Anterior communicating artery",
+          "Posterior communicating artery"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The MCA is a lateral continuation of the ICA and is not part of the arterial circle.",
+        "learningNote": "The MCA is a lateral continuation of the ICA and is not part of the arterial circle.",
+        "highYieldNote": "The MCA is a lateral continuation of the ICA and is not part of the arterial circle.",
+        "mnemonic": "MCA is outside the circle.",
+        "memoryAid": {
+          "coreFact": "The MCA is a lateral continuation of the ICA and is not part of the arterial circle.",
+          "mnemonic": "MCA is outside the circle.",
+          "emojiCues": [
+            "🧠",
+            "⚡",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK526002/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK526002/",
+        "externalFinding": "Displayed key and option order directly verified on the original rendered page."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1829-q0012",
+      "sourcePage": 1829,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1829-q0012",
+        "sourcePage": 1829,
+        "stem": "ww Which of the following is NOT a typical cause of a bitemporal hemianopia:",
+        "options": [
+          "Pituitary adenoma (x) Craniopharyngioma 3%",
+          "Optic glioma (Vv) Posterior cerebral artery stroke 78%",
+          "Aneurysm of the anterior communicating artery"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "A bitemporal hemianopia is most likely due to compression at the optic chiasm. This may be caused by pituitary tumour, craniopharyngioma, meningioma, optic glioma or aneurysm of the internal carotid artery. A posterior cerebral stroke will most likely result in a contralateral homonymous hemianopia with macular sparing. ; : Vv Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1829-q0012",
+        "sourcePage": 1829,
+        "stem": "Which of the following is NOT a typical cause of a bitemporal hemianopia:",
+        "options": [
+          "Pituitary adenoma",
+          "Craniopharyngioma",
+          "Optic glioma",
+          "Posterior cerebral artery stroke",
+          "Aneurysm of the anterior communicating artery"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Bitemporal hemianopia reflects optic-chiasm compression; PCA stroke typically causes contralateral homonymous loss with macular sparing.",
+        "learningNote": "Bitemporal hemianopia reflects optic-chiasm compression; PCA stroke typically causes contralateral homonymous loss with macular sparing.",
+        "highYieldNote": "Bitemporal hemianopia reflects optic-chiasm compression; PCA stroke typically causes contralateral homonymous loss with macular sparing.",
+        "mnemonic": "Chiasm loses temporal fields.",
+        "memoryAid": {
+          "coreFact": "Bitemporal hemianopia reflects optic-chiasm compression; PCA stroke typically causes contralateral homonymous loss with macular sparing.",
+          "mnemonic": "Chiasm loses temporal fields.",
+          "emojiCues": [
+            "🧠",
+            "⚡",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8053434/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8053434/",
+        "externalFinding": "Displayed key and option order directly verified on the original rendered page."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1834-q0013",
+      "sourcePage": 1834,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1834-q0013",
+        "sourcePage": 1834,
+        "stem": "Which of the following spinal tracts is involved with the control of trunk muscles: Anterior spinothalamic tract 4% (x) ateral spinothalamic tract 5% Posterior column 55% Posterior corticospinal tract 8%",
+        "options": [],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Fewer than two answer options were detected.",
+          "No marked correct option was detected."
+        ],
+        "explanation": "The anterior corticospinal tract is involved with the control of axial muscles. Vv Spinal Cord Tracts ANATOMY / CENTRAL NERVOUS SYSTEM The spinal cord has numerous groups of nerve fibers going towards and coming from the brain. These ascending and descending tracts of the spinal cord are responsible for carrying motor and sensory stimuli to and from the periphery.",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1834-q0013",
+        "sourcePage": 1834,
+        "stem": "Which of the following spinal tracts is involved with the control of trunk muscles:",
+        "options": [
+          "Anterior spinothalamic tract",
+          "Lateral spinothalamic tract",
+          "Posterior column",
+          "Anterior corticospinal tract",
+          "Posterior corticospinal tract"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The anterior corticospinal tract contributes to control of axial muscles.",
+        "learningNote": "The anterior corticospinal tract contributes to control of axial muscles.",
+        "highYieldNote": "The anterior corticospinal tract contributes to control of axial muscles.",
+        "mnemonic": "Anterior CST = axial.",
+        "memoryAid": {
+          "coreFact": "The anterior corticospinal tract contributes to control of axial muscles.",
+          "mnemonic": "Anterior CST = axial.",
+          "emojiCues": [
+            "🧠",
+            "⚡",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+        "externalFinding": "Displayed key and option order directly verified on the original rendered page."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1845-q0014",
+      "sourcePage": 1845,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1845-q0014",
+        "sourcePage": 1845,
+        "stem": "ww Occlusion of which of the following blood vessels is most likely to result in a receptive dysphasia:",
+        "options": [
+          "Anterior cerebral artery (anterior communicating artery 3%",
+          "Middle cerebral artery",
+          "Posterior cerebral artery",
+          "Basilar artery"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The middle cerebral artery supplies the lateral convexity of the cerebral hemisphere including a large proportion of the frontal lobe, temporal lobe and parietal lobe. Receptive dysphasia is caused by damage to the Wernicke's speech area in the dominant superior temporal lobe which is supplied by the middle cerebral artery. : v Arterial Supply of Brain",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1845-q0014",
+        "sourcePage": 1845,
+        "stem": "Occlusion of which of the following blood vessels is most likely to result in a receptive dysphasia:",
+        "options": [
+          "Anterior cerebral artery",
+          "Anterior communicating artery",
+          "Middle cerebral artery",
+          "Posterior cerebral artery",
+          "Basilar artery"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Dominant superior temporal Wernicke area is supplied by the MCA.",
+        "learningNote": "Dominant superior temporal Wernicke area is supplied by the MCA.",
+        "highYieldNote": "Dominant superior temporal Wernicke area is supplied by the MCA.",
+        "mnemonic": "MCA supplies language cortex.",
+        "memoryAid": {
+          "coreFact": "Dominant superior temporal Wernicke area is supplied by the MCA.",
+          "mnemonic": "MCA supplies language cortex.",
+          "emojiCues": [
+            "🧠",
+            "⚡",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK556132/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK556132/",
+        "externalFinding": "Displayed key and option order directly verified on the original rendered page."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1846-q0016",
+      "sourcePage": 1846,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1846-q0016",
+        "sourcePage": 1846,
+        "stem": "ww The brainstem comprises which of the following:",
+        "options": [
+          "Midbrain and hindbrain (x) Pons, medulla and cerebellum 10%",
+          "Thalamus and hypothalamus (Vv) Pons, medulla and midbrain 88%",
+          "Midbrain and cerebellum"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The brainstem comprises the midbrain, the pons and the medulla. : Vv Brainstem ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1846-q0016",
+        "sourcePage": 1846,
+        "stem": "The brainstem comprises which of the following:",
+        "options": [
+          "Midbrain and hindbrain",
+          "Pons, medulla and cerebellum",
+          "Thalamus and hypothalamus",
+          "Pons, medulla and midbrain",
+          "Midbrain and cerebellum"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The brainstem comprises midbrain, pons, and medulla, not cerebellum.",
+        "learningNote": "The brainstem comprises midbrain, pons, and medulla, not cerebellum.",
+        "highYieldNote": "The brainstem comprises midbrain, pons, and medulla, not cerebellum.",
+        "mnemonic": "Brainstem = midbrain + pons + medulla.",
+        "memoryAid": {
+          "coreFact": "The brainstem comprises midbrain, pons, and medulla, not cerebellum.",
+          "mnemonic": "Brainstem = midbrain + pons + medulla.",
+          "emojiCues": [
+            "🧠",
+            "⚡",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+        "externalFinding": "Displayed key and option order directly verified on the original rendered page."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1852-q0017",
+      "sourcePage": 1852,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1852-q0017",
+        "sourcePage": 1852,
+        "stem": "ww The blood supply to the temporal lobe is primarily supplied by which of the following arteries:",
+        "options": [
+          "Basilar artery",
+          "Middle cerebral artery (x) Posterior cerebral artery 2%",
+          "Anterior and middle cerebral artery (Vv) Middle and posterior cerebral artery 18%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The blood supply to the temporal lobe is from the posterior cerebral artery (medial part of the lobe) and the middle cerebral artery (lateral part of the lobe). , Vv Temporal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM 11 Ranimart",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1852-q0017",
+        "sourcePage": 1852,
+        "stem": "The blood supply to the temporal lobe is primarily supplied by which of the following arteries:",
+        "options": [
+          "Basilar artery",
+          "Middle cerebral artery",
+          "Posterior cerebral artery",
+          "Anterior and middle cerebral artery",
+          "Middle and posterior cerebral artery"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Lateral temporal cortex is supplied by MCA and medial temporal regions by PCA.",
+        "learningNote": "Lateral temporal cortex is supplied by MCA and medial temporal regions by PCA.",
+        "highYieldNote": "Lateral temporal cortex is supplied by MCA and medial temporal regions by PCA.",
+        "mnemonic": "Temporal gets MCA + PCA.",
+        "memoryAid": {
+          "coreFact": "Lateral temporal cortex is supplied by MCA and medial temporal regions by PCA.",
+          "mnemonic": "Temporal gets MCA + PCA.",
+          "emojiCues": [
+            "🧠",
+            "⚡",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK526002/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK526002/",
+        "externalFinding": "Displayed key and option order directly verified on the original rendered page."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1853-q0018",
+      "sourcePage": 1853,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1853-q0018",
+        "sourcePage": 1853,
+        "stem": "ww The basilar artery is formed from which of the following blood vessels:",
+        "options": [
+          "Internal carotid arteries",
+          "Anterior cerebral arteries (Vv) Vertebral arteries 45%",
+          "External carotid arteries",
+          "Middle cerebral arteries"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The basilar artery is formed by the joining of the two terminal vertebral arteries. : / v Arterial Supply of Brain ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1853-q0018",
+        "sourcePage": 1853,
+        "stem": "The basilar artery is formed from which of the following blood vessels:",
+        "options": [
+          "Internal carotid arteries",
+          "Anterior cerebral arteries",
+          "Vertebral arteries",
+          "External carotid arteries",
+          "Middle cerebral arteries"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The basilar artery forms by union of the two vertebral arteries.",
+        "learningNote": "The basilar artery forms by union of the two vertebral arteries.",
+        "highYieldNote": "The basilar artery forms by union of the two vertebral arteries.",
+        "mnemonic": "Vertebrals become basilar.",
+        "memoryAid": {
+          "coreFact": "The basilar artery forms by union of the two vertebral arteries.",
+          "mnemonic": "Vertebrals become basilar.",
+          "emojiCues": [
+            "🧠",
+            "⚡",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK526002/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK526002/",
+        "externalFinding": "Displayed key and option order directly verified on the original rendered page."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1854-q0019",
+      "sourcePage": 1854,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1854-q0019",
+        "sourcePage": 1854,
+        "stem": "A 29 year old male racing driver has fractured a cervical vertebra. On examination, he has weakness of the right side of his body with upgoing plantars, loss of pain and temperature sensation in his left limbs, with normal fine-touch sensation over all four limbs. This clinical picture is most likely seen in a lesion of the:",
+        "options": [
+          "Anterior column, left side (x) Anterior column, right side 19% (Vv) Lateral column, right side 46%",
+          "Lateral column, left side",
+          "Posterior column, right side"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The lesion is likely affecting the corticospinal and lateral spinothalamic tracts in the lateral column. Motor power of the limbs is mediated by the ipsilateral corticospinal tract, and pain and temperature sensation is mediated by the contralateral spinothalamic tract, therefore the lesion is likely on the right side. The posterior column is spared, as fine-touch sensation is normal throughout. v Spinal Cord Tracts",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1854-q0019",
+        "sourcePage": 1854,
+        "stem": "A 29 year old male racing driver has fractured a cervical vertebra. On examination, he has weakness of the right side of his body with upgoing plantars, loss of pain and temperature sensation in his left limbs, with normal fine-touch sensation over all four limbs. This clinical picture is most likely seen in a lesion of the:",
+        "options": [
+          "Anterior column, left side",
+          "Anterior column, right side",
+          "Lateral column, right side",
+          "Lateral column, left side",
+          "Posterior column, right side"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Right lateral-column corticospinal and spinothalamic involvement with spared posterior-column sensation gives this pattern.",
+        "learningNote": "Right lateral-column corticospinal and spinothalamic involvement with spared posterior-column sensation gives this pattern.",
+        "highYieldNote": "Right lateral-column corticospinal and spinothalamic involvement with spared posterior-column sensation gives this pattern.",
+        "mnemonic": "Brown-Séquard: motor same side, pain opposite.",
+        "memoryAid": {
+          "coreFact": "Right lateral-column corticospinal and spinothalamic involvement with spared posterior-column sensation gives this pattern.",
+          "mnemonic": "Brown-Séquard: motor same side, pain opposite.",
+          "emojiCues": [
+            "🧠",
+            "⚡",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK585066/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK585066/",
+        "externalFinding": "Displayed key and option order directly verified on the original rendered page."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1855-q0020",
+      "sourcePage": 1855,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1855-q0020",
+        "sourcePage": 1855,
+        "stem": "ww A 65 year old man has resting tremor, rigidity, bradykinesia and a shuffling gait. Parkinson's disease results from which of the following mechanisms:",
+        "options": [
+          "Avascular lesion of the subthalamic nucleus Vv) Loss of dopaminergic neurons in the substantia nigra 93% (x) Loss of serotonergic neurons in the globus pallidus and red nucleus 2% Defect in the metabolism of copper 0%",
+          "Loss of cholinergic and GABAergic neurons in the caudate nucleus and putamen"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Parkinson's disease, characterised by resting tremor, rigidity, akinesia/bradykinesia and shuffling gait, results from degeneration of neurons in the substantia nigra resulting in depletion of dopamine in the caudate nucleus and putamen. ; : Vv Cerebral Hemispheres ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1855-q0020",
+        "sourcePage": 1855,
+        "stem": "A 65 year old man has resting tremor, rigidity, bradykinesia and a shuffling gait. Parkinson's disease results from which of the following mechanisms:",
+        "options": [
+          "A vascular lesion of the subthalamic nucleus",
+          "Loss of dopaminergic neurons in the substantia nigra",
+          "Loss of serotonergic neurons in the globus pallidus and red nucleus",
+          "Defect in the metabolism of copper",
+          "Loss of cholinergic and GABAergic neurons in the caudate nucleus and putamen"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Parkinson disease involves degeneration of substantia nigra dopaminergic neurons and striatal dopamine depletion.",
+        "learningNote": "Parkinson disease involves degeneration of substantia nigra dopaminergic neurons and striatal dopamine depletion.",
+        "highYieldNote": "Parkinson disease involves degeneration of substantia nigra dopaminergic neurons and striatal dopamine depletion.",
+        "mnemonic": "Nigra dopamine falls.",
+        "memoryAid": {
+          "coreFact": "Parkinson disease involves degeneration of substantia nigra dopaminergic neurons and striatal dopamine depletion.",
+          "mnemonic": "Nigra dopamine falls.",
+          "emojiCues": [
+            "🧠",
+            "⚡",
+            "📍"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537247/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537247/",
+        "externalFinding": "Displayed key and option order directly verified on the original rendered page."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

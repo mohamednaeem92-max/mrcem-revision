@@ -1,0 +1,341 @@
+{
+  "exportedAt": "2026-08-22T09:01:13.490Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-03",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      93,
+      99,
+      104,
+      108,
+      112,
+      119,
+      122,
+      126,
+      130,
+      134
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0093-q0022",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "wy Which of the following is the functional unit of the liver:",
+      "options": [
+        "Hepatocyte 22%",
+        "Lobule",
+        "Portal triad 55%",
+        "Lobe 0%"
+      ],
+      "correctOption": 1,
+      "explanation": "Microscopically, hepatocytes are arranged into lobules which are the functional units of the liver. Each lobule is hexagonal-shaped, and is drained by a venule in its centre called a central vein (which drains to the hepatic vein). At the periphery of the hexagonal liver lobules are three structures collectively known as the portal triad, comprising a portal arteriole (a branch of the hepatic artery), a portal venule (a branch of the hepatic portal vein) and a bile duct. The portal triad also contains lymphatic vessels and vagal parasympathetic nerve fibres. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 93,
+      "sourceQuestionNumber": 22
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0099-q0023",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A70 year old undergoes radical prostatectomy for prostate cancer. Postoperatively he complains of urinary incontinence due to paralysis of the external urethral sphincter. Which of the following nerves was most likely injured during surgery:",
+      "options": [
+        "Genitofemoral nerve",
+        "Coccygeal nerve Cie",
+        "lliohypogastric nerve"
+      ],
+      "correctOption": null,
+      "explanation": "The voluntary external urethral sphincter is innervated by the pudendal nerve (S2 - S4). Gescs oi Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 99,
+      "sourceQuestionNumber": 23
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0104-q0024",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "w The abdominal aorta bifurcates into its terminal branches at which of the following vertebral levels:",
+      "options": [
+        "112 1%",
+        "(Les 8%"
+      ],
+      "correctOption": null,
+      "explanation": "The abdominal aorta bifurcates into the right and left common iliac artery at the level of vertebra L4. This bifurcation can be visualised on the anterior abdominal wall as a point approximately 2.5 cm below the umbilicus. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 104,
+      "sourceQuestionNumber": 24
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0108-q0025",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 49 year old female patient undergoes surgery for uterine cancer. Whilst attempting to ligate the uterine artery, the surgeon accidentally ligates the structure that the uterine artery crosses anteriorly as it passes from the internal iliac artery to the uterus. Which of the following structures has most likely been injured:",
+      "options": [
+        "Ovarian artery",
+        "Ovarian ligament",
+        "Fallopian tube",
+        "Round ligament of uterus"
+      ],
+      "correctOption": null,
+      "explanation": "The ureter is crossed anteriorly by the uterine artery just lateral to the cervix. («Js [ee] a Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 108,
+      "sourceQuestionNumber": 25
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0112-q0026",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Sensation to the skin over the penis is primarily supplied by which of the following nerves:",
+      "options": [
+        "Coccygeal nerve",
+        "llioinguinal nerve",
+        "lliohypogastric nerve"
+      ],
+      "correctOption": null,
+      "explanation": "Sensory and sympathetic innervation is provided primarily by the dorsal nerve of the penis, a terminal branch of the pudendal nerve. Branches of the ilioinguinal nerve supply skin at the root of the penis. P<] P Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 112,
+      "sourceQuestionNumber": 26
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0119-q0029",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The rectus sheath is formed by which of the following:",
+      "options": [
+        "the thoracolumbar fascia 1%",
+        "the aponeuroses of the external and internal oblique 8%",
+        "the aponeuroses of the external oblique, internal oblique and transversus abdominis",
+        "the transversalis fascia 5%",
+        "the tendinous intersections of the rectus abdominis 5%"
+      ],
+      "correctOption": 2,
+      "explanation": "The rectus sheath is formed by the aponeuroses of the three flat anterior abdominal wall muscles. The anterior wall of the sheath is formed by the aponeurosis of the external oblique and half of the aponeurosis of the internal oblique (which splits at the lateral margin of the rectus abdominis). The posterior wall of the sheath is formed by the other half of the aponeurosis of the internal oblique and by the aponeurosis of the transversus abdominis. , Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 119,
+      "sourceQuestionNumber": 29
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0122-q0030",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A75 year old man presents to ED in acute urinary retention. On examination you note the prostate feels hard and craggy. You suspect prostate cancer. Which structure is most likely affected: (x) Anterior lobe of prostate 2%",
+      "options": [
+        "Fibromuscular zone of prostate",
+        "Lateral lobe of prostate",
+        "Transitional zone of prostate"
+      ],
+      "correctOption": null,
+      "explanation": "Anatomically the prostate has four main lobes: two lateral lobes, a posterior lobe and a median lobe that directly surrounds the urethra. Benign prostatic hypertrophy most commonly affects the median lobe. The posterior lobe is the area most prone to carcinomatous change, and the area palpated on PR examination. («| se ees] P Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 122,
+      "sourceQuestionNumber": 30
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0126-q0031",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A19 year old male is brought to ED having sustained a handlebar injury with blunt trauma to his upper abdomen whilst riding his scooter. Which of the following is the most commonly injured organ: Pancreas 8%",
+      "options": [
+        "Transverse colon",
+        "Duodenum",
+        "Kidney"
+      ],
+      "correctOption": null,
+      "explanation": "The liver and spleen are the most commonly injured organs with this clinical picture. Cc] Se eense] DP Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 126,
+      "sourceQuestionNumber": 31
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0130-q0032",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The deep inguinal ring is located at which of the following sites:",
+      "options": [
+        "Immediately superficial to the femoral artery",
+        "Superior to a point midway between the iliac crest and the pubic symphysis (x) erior to ar yay between the anterior superior iliac spine and the pubic tubercle 33%",
+        "Just superior to the pubic tubercle"
+      ],
+      "correctOption": null,
+      "explanation": "The deep inguinal ring is located just superior to a point midway between the anterior superior iliac spine and the pubic symphysis (the mid-inguinal point). N.B. Some sources state it is located at a slightly different site, just superior to a point midway between the anterior superior iliac spine and the pubic tubercle (the midpoint of the inguinal ligament). Cc | ss een | a Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 130,
+      "sourceQuestionNumber": 32
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0134-q0033",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The gallbladder occupies which of the following regions of the abdomen:",
+      "options": [
+        "Left hypochondrium 1%",
+        "Right hypochondrium",
+        "Right hypochondrium and right flank 4%",
+        "Right hypochondrium and epigastric region 17%",
+        "Epigastric region and umbilicus 1%"
+      ],
+      "correctOption": 1,
+      "explanation": "The gallbladder lies in the right hypochondrium. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 134,
+      "sourceQuestionNumber": 33
+    }
+  ]
+}

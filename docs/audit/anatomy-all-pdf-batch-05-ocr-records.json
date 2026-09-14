@@ -1,0 +1,339 @@
+{
+  "exportedAt": "2026-08-22T14:30:44.246Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-05",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      175,
+      179,
+      183,
+      186,
+      189,
+      194,
+      198,
+      203,
+      208,
+      212
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0175-q0044",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 65 year old man presents to ED complaining of abdominal pain and weight loss. Imaging shows a tumour anterior to the inferior vena cava. Which of the following structures is most likely to be compressed by this tumour:",
+      "options": [
+        "Cisterna chyli 6%",
+        "Third part of the duodenum",
+        "Right kidney 54% (x) Ascending colon 2%",
+        "Right sympathetic trunk 4%"
+      ],
+      "correctOption": 1,
+      "explanation": "The third part of the duodenum crosses anterior to the inferior vena cava. The other structures do not cross the inferior vena cava anteriorly. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 175,
+      "sourceQuestionNumber": 44
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0179-q0045",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The ilioinguinal nerve innervates which of the following muscles:",
+      "options": [
+        "Internal and external oblique muscles 9%",
+        "Internal oblique and transversus abdominis muscles",
+        "Transversus abdominis and rectus abdominis muscles 8%",
+        "Psoas major and minor muscles 10%",
+        "Quadratus lumborum 5%"
+      ],
+      "correctOption": 1,
+      "explanation": "The ilioinguinal nerve is formed from the anterior rami of L1. It innervates the internal oblique and transversus abdominis muscles and supplies skin over the upper medial thigh and the external genitalia. ; Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 179,
+      "sourceQuestionNumber": 45
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0183-q0046",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The gallbladder is located on which of the following aspects of the liver:",
+      "options": [
+        "Right lobe",
+        "Left lobe 4%",
+        "Quadrate lobe 7% CJ",
+        "Diaphragmatic surface 4%"
+      ],
+      "correctOption": 0,
+      "explanation": "The gallbladder is a pear-shaped sac lying on the visceral surface of the right lobe of the liver in a fossa between the right and quadrate lobes. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 183,
+      "sourceQuestionNumber": 46
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0186-q0047",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "wv Control of bile and pancreatic fluid entering the duodenum is regulated by the:",
+      "options": [
+        "Ampulla of Vater",
+        "Major duodenal papilla 3%",
+        "External biliary sphincter 2%",
+        "Internal biliary sphincter 0%",
+        "Sphincter of Oddi"
+      ],
+      "correctOption": 4,
+      "explanation": "As the common bile duct descends, it passes posterior to the first part of the duodenum before joining with the pancreatic duct from the pancreas, forming the hepatopancreatic ampulla (ampulla of Vater) at the major duodenal papilla, located in the second part of the duodenum. Surrounding the ampulla is the sphincter of Oddi, a collection of smooth muscle which can open to allow bile and pancreatic fluid to empty into the duodenum. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 186,
+      "sourceQuestionNumber": 47
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0189-q0048",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The blood supply to the pancreas is primarily from which of the following arteries:",
+      "options": [
+        "Left gastric artery",
+        "Common hepatic artery",
+        "Superior mesenteric artery Inferior mesenteric artery 1%"
+      ],
+      "correctOption": null,
+      "explanation": "The arterial supply to the pancreas is primarily derived from the splenic artery from the coeliac trunk, assisted by pancreaticoduodenal branches from the gastroduodenal artery (from the common hepatic artery from the coeliac trunk), and from the superior mesenteric artery. r=] a Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 189,
+      "sourceQuestionNumber": 48
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0194-q0049",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The infracolic compartment is divided into right and left spaces by which of the following structures:",
+      "options": [
+        "Jejunum",
+        "lleum",
+        "Sigmoid mesocolon"
+      ],
+      "correctOption": null,
+      "explanation": "The infracolic compartment lies below the transverse mesocolon, is divided into left and right parts by the oblique attachment of the mesentery and contains the small intestine and the ascending and descending colon. The left infracolic compartment is continuous with the pelvic cavity. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 194,
+      "sourceQuestionNumber": 49
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0198-q0050",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The stomach receives its blood supply primarily from which of the following arteries:",
+      "options": [
+        "Inferior mesenteric artery Renal artery 0%",
+        "Suprarenal artery"
+      ],
+      "correctOption": null,
+      "explanation": "The arterial supply to the stomach is derived from all three branches (left gastric, splenic and common hepatic branches) of the coeliac trunk. e] Py] Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 198,
+      "sourceQuestionNumber": 50
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0203-q0051",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Visceral afferent fibres from the ascending colon and proximal transverse colon travel to which of the following spinal cord segments:",
+      "options": [
+        "T6-18",
+        "T8- 110 N%",
+        "110 - T11",
+        "Lie 58% (x) L3-L4 2%"
+      ],
+      "correctOption": 2,
+      "explanation": "The visceral pain sensation from the ascending and transverse colon travels through the lesser splanchnic nerve to the T10 - T11 spinal cord segments hence pain is referred to the umbilical and hypogastric regions. Pain from the descending and sigmoid colon is carried in the lumbar splanchnic nerves to the L1 and L2 spinal cord segments hence pain is referred to the inguinal region and thigh. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 203,
+      "sourceQuestionNumber": 51
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0208-q0052",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The lateral cutaneous nerve of the thigh is formed from the anterior rami of:",
+      "options": [
+        "u",
+        "LI-L2 a",
+        "L2",
+        "L3-L4"
+      ],
+      "correctOption": null,
+      "explanation": "The lateral cutaneous nerve of the thigh (lateral femoral cutaneous nerve) is formed from the anterior rami of L2 and L3. It supplies skin on the anterior and lateral thigh to the knee. [< |Lse |eee P Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 208,
+      "sourceQuestionNumber": 52
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0212-q0053",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Regarding the large intestine, which of the following parts is not described correctly:",
+      "options": [
+        "Caecum - Intraperitoneal",
+        "Ascending colon - Retroperitoneal 6%",
+        "Transverse colon - Intraperitoneal 5%",
+        "Descending colon - Retroperitoneal 3%",
+        "Sigmoid colon - Retroperitoneal"
+      ],
+      "correctOption": 4,
+      "explanation": "The ascending and descending colon are retroperitoneal. The caecum, transverse colon and sigmoid colon are intraperitoneal. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 212,
+      "sourceQuestionNumber": 53
+    }
+  ]
+}

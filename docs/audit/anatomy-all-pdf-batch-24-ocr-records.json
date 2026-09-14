@@ -1,0 +1,336 @@
+{
+  "exportedAt": "2026-08-23T16:06:31.938Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-24",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      676,
+      677,
+      678,
+      679,
+      680,
+      681,
+      682,
+      683,
+      684,
+      689
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0676-q0059",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 29 year old man presents to ED with a painful lump in his left groin. Which of the following structures can be used to differentiate between a direct and an indirect inguinal hernia:",
+      "options": [
+        "Inguinal ligament 58% rove",
+        "Inferior epigastric vessels",
+        "Pubic symphysis 3%",
+        "Femoral artery 2%"
+      ],
+      "correctOption": 1,
+      "explanation": "A direct inguinal hernia (in contrast to an indirect inguinal hernia) does not pass through the deep inguinal ring but directly through the posterior wall of the inguinal canal, through the lower portion of the inguinal triangle which is bordered laterally by the inferior epigastric vessels. Therefore an indirect inguinal hernia is lateral to the inferior epigastric vessels, but a direct inguinal hernia is medial to these vessels. , Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 676,
+      "sourceQuestionNumber": 59
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0677-q0060",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The inferior vena cava lies posterior to which of the following parts of the duodenum:",
+      "options": [
+        "Second part (x) hird and fourth parts 1% (v’) First and third parts 20%",
+        "First and second parts 6%",
+        "Second and third parts 57%"
+      ],
+      "correctOption": null,
+      "explanation": "The superior (first) part extends from the pyloric orifice of the stomach to the neck of the gallbladder, lies just to the right of the body of vertebra L1, and passes anterior to the inferior vena cava and superior to the head of the pancreas. The inferior (third) part is the longest section, crossing the inferior vena cava, the aorta and the vertebral column at the level of vertebra L3 and lying inferior to the pancreas. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 677,
+      "sourceQuestionNumber": 60
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0678-q0061",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The lymphatic drainage of the liver primarily drains into:",
+      "options": [
+        "Superior mesenteric lymph nodes 15%",
+        "Inferior mesenteric lymph nodes 5%",
+        "Coeliac lymph nodes",
+        "Lumbar lymph nodes 3% (x) ateral aortic lymph nodes 5%"
+      ],
+      "correctOption": 2,
+      "explanation": "The lymphatic vessels of the liver drain into hepatic lymph nodes which empty in the coeliac lymph nodes. ; Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 678,
+      "sourceQuestionNumber": 61
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0679-q0062",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The rectus sheath encloses all of the following structures except the:",
+      "options": [
+        "Transversus abdominis muscle",
+        "Pyramidalis muscle 1%",
+        "Superior epigastric artery 8%",
+        "Inferior epigastric artery"
+      ],
+      "correctOption": 0,
+      "explanation": "The rectus sheath encloses the rectus abdominis and pyramidalis muscles, the superior and inferior epigastric vessels, the termination of intercostal nerves T7 - T11 and the 12th thoracic nerve and the accompanying vessels. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 679,
+      "sourceQuestionNumber": 62
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0680-q0063",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The ilioinguinal nerve supplies skin over which of the following regions: (x) Posterolateral gluteal region as",
+      "options": [
+        "Upper medial thigh",
+        "Lateral thigh 4%",
+        "Posteromedial gluteal region 12%",
+        "Posterior thigh 2%"
+      ],
+      "correctOption": 0,
+      "explanation": "The ilioinguinal nerve is formed from the anterior rami of L1. It innervates the internal oblique and transversus abdominis muscles and supplies skin over the upper medial thigh and the external genitalia. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 680,
+      "sourceQuestionNumber": 63
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0681-q0064",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The greater sac of the peritoneal cavity is divided into two compartments by which of the following structures:",
+      "options": [
+        "Liver 1%",
+        "Stomach 4%",
+        "Duodenum 2%",
+        "Mesentery"
+      ],
+      "correctOption": null,
+      "explanation": "The greater sac accounts for most of the space in the peritoneal cavity, beginning superiorly at the diaphragm and continuing inferiorly in the pelvic cavity. It is further divided into two compartments by the transverse mesocolon, the supracolic and infracolic compartments. : v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 681,
+      "sourceQuestionNumber": 64
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0682-q0065",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Which of the following areas of the prostate gland is the most commonly involved in prostatic hyperplasia:",
+      "options": [
+        "Central zone",
+        "Anterior lobe",
+        "Isthmus"
+      ],
+      "correctOption": null,
+      "explanation": "The transitional zone is the most central part of the prostate gland that surrounds the prostatic urethra and the area most prone to prostatic hyperplasia, resulting in compression of the prostatic urethra and thus urinary symptoms. Cc | ss eer] Py] Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 682,
+      "sourceQuestionNumber": 65
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0683-q0066",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The ilioinguinal nerve innervates which of the following muscles:",
+      "options": [
+        "Internal and external oblique muscles 9%",
+        "Internal oblique and transversus abdominis muscles (x) Transversus abdominis and rectus abdominis muscles 9%",
+        "Psoas major and minor muscles 10%",
+        "Quadratus lumborum 5%"
+      ],
+      "correctOption": 1,
+      "explanation": "The ilioinguinal nerve is formed from the anterior rami of L1. It innervates the internal oblique and transversus abdominis muscles and supplies skin over the upper medial thigh and the external genitalia. : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 683,
+      "sourceQuestionNumber": 66
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0684-q0001",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The femoral nerve is formed from the anterior rami of:",
+      "options": [
+        "L2-L4",
+        "£1 - L2",
+        "Li-L4 ac",
+        "E2=L3.",
+        "L3-L4"
+      ],
+      "correctOption": 0,
+      "explanation": "The femoral nerve is formed from the anterior rami of L2 to L4. It innervates the iliacus, pectineus, sartorius and muscles in the anterior compartment of the thigh and supplies skin on the anterior thigh and medial surface of leg. Py Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 684,
+      "sourceQuestionNumber": 1
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0689-q0002",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "On their descent the ureters cross anteriorly to which of the following important structures: The origin of the superior mesenteric artery The origin of the inferior mesenteric artery The inferior epigastric artery The bifurcation of the common iliac artery The termination of the abdominal aorta C< |e ] see",
+      "options": [],
+      "correctOption": null,
+      "explanation": "ESE",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "Fewer than two answer options were detected.",
+        "No marked correct option was detected.",
+        "Explanation is missing or too short after OCR parsing."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 689,
+      "sourceQuestionNumber": 2
+    }
+  ]
+}

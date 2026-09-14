@@ -1,0 +1,7 @@
+# Anatomy Batch 75 Research Notes
+
+All ten queued records from pages 2032–2041 were inspected directly. NCBI references support the displayed answers: CN IV is purely motor, supplies superior oblique, has the longest intracranial course, and enters through the superior orbital fissure. The lingual nerve supplies general sensation to the anterior two-thirds of the tongue. Bell palsy is an isolated lower-motor-neuron facial palsy and may abolish the efferent corneal blink response through orbicularis oculi weakness. CN IX does not supply upper teeth, which are V2 territory. CN VII exits through the stylomastoid foramen. CN X is the efferent gag limb. CN III supplies levator, sphincter pupillae, ciliary muscle, and four extraocular muscles, but not superior oblique. CN XII injury causes ipsilateral tongue weakness and deviation toward the affected side on protrusion.
+
+Sources: [NCBI Trochlear Nerve](https://www.ncbi.nlm.nih.gov/books/NBK537173/), [NCBI Lingual Nerve](https://www.ncbi.nlm.nih.gov/books/NBK546626/), [NCBI Facial Nerve](https://www.ncbi.nlm.nih.gov/books/NBK526119/), [NCBI Glossopharyngeal Nerve](https://www.ncbi.nlm.nih.gov/books/NBK539877/), [NCBI Vagus Nerve](https://www.ncbi.nlm.nih.gov/books/NBK537304/), [NCBI Oculomotor Nerve](https://www.ncbi.nlm.nih.gov/books/NBK537126/), and [NCBI Hypoglossal Nerve](https://www.ncbi.nlm.nih.gov/books/NBK537173/).
+
+No image-dependent record was identified. All restored records remain unapproved OCR drafts and mock-excluded.

@@ -1,0 +1,494 @@
+{
+  "generatedAt": "2026-08-22T14:12:27.716736+00:00",
+  "input": "docs/audit/anatomy-all-pdf-batch-04-ocr-records.json",
+  "model": "gpt-5-mini",
+  "recordCount": 10,
+  "nonMutationRule": "Triage does not alter question text, answer keys, explanations, learning aids, or review status.",
+  "evidenceRule": "Every correction requires source-page confirmation; medical corrections additionally require an authoritative external source.",
+  "triage": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0137-q0034",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "iv e) ww The flat anterior abdominal wall muscles are comprised of which of the following muscles: (x) The external and internal oblique muscles 2%",
+          "reason": "Leading characters 'iv e) ww' and embedded '(x)' and trailing '2%' appear to be OCR artifacts or stray print not belonging to the question stem.",
+          "severity": "high"
+        },
+        {
+          "kind": "option_structure",
+          "span": "Stem contains what looks like an option: '(x) The external and internal oblique muscles 2%'",
+          "reason": "One option appears to have been accidentally inserted into the stem, making the stem and option structure unclear.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Options: ['The external, internal and innermost oblique muscles 2%', 'The external oblique, internal oblique and rectus abdominis muscles 21%', 'The external oblique, internal oblique and transversus abdominis muscles', 'The rectus abdominis and transversus abdominis muscles 1%']",
+          "reason": "Percent signs and numbers (e.g. '2%', '21%', '1%') appended to option strings are likely residual OCR of formatting, frequencies, or page artifacts and not part of option text.",
+          "severity": "medium"
+        },
+        {
+          "kind": "terminology",
+          "span": "The external, internal and innermost oblique muscles 2%",
+          "reason": "Phrase 'innermost oblique' is nonstandard terminology for abdominal wall muscles (commonly 'transversus abdominis' or 'innermost intercostal' in thorax). This could reflect OCR corruption or an author error and needs verification.",
+          "severity": "medium"
+        },
+        {
+          "kind": "grammar",
+          "span": "The external, internal and innermost oblique muscles 2%",
+          "reason": "Punctuation and conjunction usage is inconsistent (missing commas); combined with trailing '2%' it reduces readability and suggests OCR/formatting problems.",
+          "severity": "low"
+        },
+        {
+          "kind": "option_structure",
+          "span": "Options present variable muscle counts ('two vs three muscles') and formatting inconsistencies",
+          "reason": "Options are formatted inconsistently (some list two muscles, others three; some include trailing percentages). This may confuse test-takers and indicates the scanned source or OCR output needs correction.",
+          "severity": "medium"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The question text shows OCR artifacts, an apparent option embedded in the stem, nonstandard terminology ('innermost oblique'), and ambiguous option formatting. These issues could change the intended correct answer or meaning; authoritative confirmation is required.",
+        "suggestedAuthorityQuery": "Inspect the original source page image to confirm the true stem and option text. Then verify which muscles are defined as the 'flat anterior abdominal wall muscles' using standard anatomy references (e.g., Gray's Anatomy, Moore's Clinically Oriented Anatomy) to confirm the intended correct option.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Multiple OCR artifacts, stray characters, embedded option text within the stem, and percentage artifacts are present. The original scanned page must be inspected to recover the correct stem/options before any clinical or educational use."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0140-q0035",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "Options: [\"Vagus nerve 53%\", \"Greater thoracic splanchnic nerve 4% (x) Intercostal nerves 2%\", \"Lesser thoracic splanchnic nerve 1%\"]",
+          "reason": "Extraneous percent signs and a parenthetical mark '(x)' are embedded in the option text and one option line appears merged with the next (missing line break). These look like OCR remnants of voting/statistics and incorrect line segmentation.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "\"Vv\" at end of explanation",
+          "reason": "Stray characters 'Vv' at the end of the explanation are likely an OCR artifact or transcription error and are not meaningful.",
+          "severity": "low"
+        },
+        {
+          "kind": "option_structure",
+          "span": "options array / correctOption null",
+          "reason": "No option is explicitly marked as correct in the supplied OCR text (correctOption is null) and the presented option strings are corrupted — prevents identification of the intended correct choice.",
+          "severity": "high"
+        },
+        {
+          "kind": "terminology",
+          "span": "\"Greater thoracic splanchnic nerve\" / \"Lesser thoracic splanchnic nerve\"",
+          "reason": "Phrasing is unusual/ambiguous. Standard anatomical terms are typically 'greater splanchnic nerve' and 'lesser splanchnic nerve' (often qualified as thoracic), so OCR may have altered the wording or qualifiers.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "Stem and options regarding referred shoulder pain",
+          "reason": "The set of options as presented do not contain an explicitly named phrenic/diaphragmatic sensory nerve (C3–C5). If the intended correct option was the phrenic nerve, it is missing or mis-typed, creating ambiguity about the correct answer.",
+          "severity": "high"
+        },
+        {
+          "kind": "grammar",
+          "span": "Stem: \"A 45 year old overweight patient presents to ED complaining of fever and severe right upper quadrant pain. The pain radiates to her right shoulder tip.\"",
+          "reason": "Style/grammar is acceptable overall but 'presents to ED' is abbreviated; consider expanding 'ED' to 'emergency department' for clarity in final text. This is a minor readability issue, not content-critical.",
+          "severity": "low"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The option list is corrupted (merged lines, extraneous percent markers) and the likely expected nerve option (phrenic/diaphragmatic sensory nerve) is not present or is mis-transcribed. The intended correct answer and exact option wording cannot be determined from the OCR draft alone.",
+        "suggestedAuthorityQuery": "Inspect the original source page (page p0140, question Q0035) and answer key to confirm: (1) the exact wording and separations of all answer options, (2) which option was marked correct in the source, and (3) whether any voting/statistics (% entries) were appended by the source and should be removed. Specifically check for an option naming the phrenic nerve or C3–C5 dermatomal reference.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Garbling of the options (percentages, '(x)', merged lines) and stray characters in the explanation prevent reliable reconstruction of the item. Source-page inspection is required before any medical-content validation or correction."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0143-q0036",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "Ge c PD] Vv",
+          "reason": "Apparent garbage characters in the explanation that look like OCR corruption.",
+          "severity": "high"
+        },
+        {
+          "kind": "option_structure",
+          "span": "options\": [\"Pancreas\", \"Spleen\", \"Sigmoid colon\"]",
+          "reason": "Only three options are present and the explanation refers to 'the kidneys' as the structure that drains elsewhere; this suggests the original option list may be incomplete or mis-OCR'd (a 'Kidneys' option appears to be missing).",
+          "severity": "high"
+        },
+        {
+          "kind": "option_structure",
+          "span": "\"correctOption\": null",
+          "reason": "No correct option is marked. The provided explanation implies an answer ('kidneys') that is not present among the options, creating a direct mismatch between options and explanation.",
+          "severity": "high"
+        },
+        {
+          "kind": "grammar",
+          "span": "The pre-aortic lymph nodes receive lymph from all of the following structures EXCEPT for the:",
+          "reason": "Stylistically awkward phrasing: 'EXCEPT for the:' with both 'for' and the colon is redundant/unusual; could be an OCR/formatting artifact.",
+          "severity": "low"
+        },
+        {
+          "kind": "terminology",
+          "span": "pre-aortic lymph nodes",
+          "reason": "The term may be written variably as 'pre-aortic' or 'preaortic' and could be confused with 'para-aortic' (lumbar) nodes; ambiguity in terminology could affect interpretation of which nodes are being referenced.",
+          "severity": "medium"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The explanation text includes OCR corruption and asserts that the kidneys drain to lumbar (para-aortic) nodes while the answer options do not include 'kidneys'. This mismatch could reflect an OCR error or an error in the source question; authoritative review is required to confirm the intended options and correct answer and to verify lymphatic drainage territories.",
+        "suggestedAuthorityQuery": "Inspect the original source page (page p0143, question q0036) to confirm the exact option list and correct answer. Then verify lymphatic drainage of organs listed (pre-aortic/preaortic vs para-aortic nodes) using an authoritative anatomy reference (e.g., Gray's Anatomy, Netter's Atlas, or standard surgical anatomy texts).",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "The explanation contains OCR garbage ('Ge c PD] Vv') and refers to 'kidneys' as the exception even though 'Kidneys' is not among the listed options. The original scanned page must be inspected to confirm the true options, the intended correct answer, and the accurate explanation before any corrections or validation."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0146-q0037",
+      "languageIssues": [
+        {
+          "kind": "option_structure",
+          "span": "options: [\"Ligamentum venosum\", \"Gallbladder\", \"Inferior vena cava\"]",
+          "reason": "No option corresponds to the structure named in the explanation (porta hepatis). The correct answer appears to be missing from the provided options.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "explanation: \"...and the exit point for the hepatic ducts. Vv\"",
+          "reason": "Trailing fragment 'Vv' appears to be an OCR or transcription artifact.",
+          "severity": "medium"
+        },
+        {
+          "kind": "terminology",
+          "span": "stem: \"The quadrate and caudate lobes of the liver are separated by which of the following structures:\"",
+          "reason": "The stem uses a colon rather than a question mark and omits mention of the porta hepatis despite the explanation invoking that specific anatomical term; this mismatch between stem/options and explanation suggests a terminology/answer alignment problem.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "options vs. explanation",
+          "reason": "The explanation asserts 'The porta hepatis ... separates the caudate and the quadrate lobes', but none of the options list 'porta hepatis', so it's ambiguous whether an option was mis-OCRed, omitted, or the explanation is incorrect.",
+          "severity": "high"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The explanation names 'porta hepatis' as the separating structure, but that choice does not appear among the provided options. This inconsistency could be due to an OCR/transcription error or an error in the source material; authoritative verification is required before marking any option correct.",
+        "suggestedAuthorityQuery": "Inspect the original source page to confirm the intended correct option. If the source lists 'porta hepatis' (or a synonymous term) as the answer, confirm and correct the options. Consult standard anatomy references (e.g., Gray's Anatomy, Netter Atlas) to verify that the porta hepatis separates the caudate and quadrate lobes.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Explanation and options disagree: the explanation cites 'porta hepatis' as the separator but that term is absent from the options. Source-page inspection is required to determine whether an option was omitted/mis-OCRed or the explanation is incorrect."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0153-q0038",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "Just superior to the midpoint of the inguinal ligament (x) Superior to a point midway between the anterior superior iliac spine and the pubic symphysis 13%",
+          "reason": "Multiple OCR artifacts: options appear merged into one line, extraneous characters '(x)' and '13%' present, and 'pubic symphysis' may be a mis-read in context.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "ae a Vv",
+          "reason": "Apparent garbage characters at end of the explanation, likely OCR noise.",
+          "severity": "medium"
+        },
+        {
+          "kind": "option_structure",
+          "span": "options array (3 items) where first item contains multiple phrases merged",
+          "reason": "Option structure is corrupted: the first option appears to contain text that should be a separate option or is duplicated. The set has only three options and one appears concatenated/ambiguous.",
+          "severity": "high"
+        },
+        {
+          "kind": "terminology",
+          "span": "pubic symphysis / pubic tubercle",
+          "reason": "Conflicting anatomical terms appear ('pubic symphysis' in the garbled option vs 'pubic tubercle' in the explanation). It's unclear which term was intended in the original item.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "correctOption: null and explanation vs options",
+          "reason": "No correct option was marked. The explanation states a location ('just superior to the pubic tubercle') that may or may not match any intact option due to OCR corruption, creating ambiguity about the intended correct answer.",
+          "severity": "high"
+        },
+        {
+          "kind": "grammar",
+          "span": "The superficial inguinal ring is located at which of the following sites:",
+          "reason": "Minor inconsistency: colon used at end of stem (acceptable), but option capitalization/punctuation is inconsistent across choices (presentation issue caused by OCR).",
+          "severity": "low"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The item contains OCR corruption that merges options and introduces conflicting anatomical terms; the explanation contains garbage text. A medical reviewer must confirm the intended options and the correct answer using the original source and an authoritative anatomy reference before the item can be used.",
+        "suggestedAuthorityQuery": "Inspect the original scanned page (source page p0153) to recover the intended option text and correct marking. Then verify the anatomical location of the superficial inguinal ring against authoritative anatomy references (e.g., standard anatomy textbook or atlas such as Gray's Anatomy) to confirm the correct option.",
+        "risk": "possible_ambiguity"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "OCR shows merged/garbled option text and stray characters; source-page inspection is required to reconstruct the original options and to determine which option (if any) was marked correct on the source."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0157-q0039",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "Geo c DP] Vv",
+          "reason": "Apparent garbage characters at end of explanation consistent with OCR noise; not meaningful.",
+          "severity": "high"
+        },
+        {
+          "kind": "grammar",
+          "span": "The abdominal aorta lies posterior to which of the following parts of the duodenum:",
+          "reason": "Trailing colon used instead of question mark; punctuation may be an OCR or transcription error altering presentation of the question.",
+          "severity": "low"
+        },
+        {
+          "kind": "terminology",
+          "span": "The inferior (third) part of the duodenum is the longest section, crossing the inferior vena cava, the aorta and the vertebral column at the level of vertebra L3",
+          "reason": "Phraseology is potentially imprecise for anatomical relations (e.g., 'crossing the ... aorta' could be misread); requires verification against authoritative anatomy source to confirm intended meaning.",
+          "severity": "medium"
+        },
+        {
+          "kind": "option_structure",
+          "span": "Options: [\"First part\", \"First and second parts\", \"Second and third parts\"]",
+          "reason": "Options do not include a single 'Third part' or 'Third and fourth parts', and are not obviously exhaustive or mutually exclusive; this makes the correct-choice mapping unclear and may reflect an OCR drop or incomplete option list.",
+          "severity": "high"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "correctOption: null / explanation vs options",
+          "reason": "No marked correct option in source and the explanation text does not obviously match any listed option, creating ambiguity about intended answer.",
+          "severity": "high"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The question lacks a marked correct option and the explanation contains OCR artifacts and possibly imprecise anatomical phrasing; authoritative review required to confirm which duodenal part the abdominal aorta lies posterior to and to correct options/explanation.",
+        "suggestedAuthorityQuery": "Inspect the original source page and verify with standard anatomy references (e.g., Gray's Anatomy, Netter's Atlas) whether the abdominal aorta lies posterior to which part(s) of the duodenum; confirm correct answer and revise options/explanation accordingly.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "The presence of OCR garbage ('Geo c DP] Vv'), unclear punctuation, missing correct-option marking, and non-exhaustive/ambiguous options indicate the scanned source must be inspected to recover the intended text and answer before any correction or medical validation."
+      },
+      "disposition": "needs_external_evidence"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0161-q0040",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "ww The anterior abdominal wall muscles are innervated by:",
+          "reason": "Leading \"ww\" appears to be an OCR artifact prepended to the question stem and disrupts readability.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "The anterior rami of L1 - L3 6%; The anterior rami of T7 - T12 and L1; The anterior rami of T12 and L1 - L4 15%; The phrenic nerve 1%; The anterior rami of T7 - T10 6%",
+          "reason": "Multiple options contain trailing percentage values (e.g., \"6%\", \"15%\", \"1%\") that are likely extraneous OCR or meta-data (vote/stats) and should be removed or verified against the source.",
+          "severity": "medium"
+        },
+        {
+          "kind": "grammar",
+          "span": "explanation: \"The anterior abdominal wall muscles are innervated by the anterior rami of T7 - T12 and L1. Vv\"",
+          "reason": "Trailing characters \"Vv\" after the explanation appear to be an OCR artifact or editing mark rather than part of the explanation.",
+          "severity": "low"
+        },
+        {
+          "kind": "option_structure",
+          "span": "correctOption: 1",
+          "reason": "The numeric correctOption value is ambiguous without specification whether it is zero-based or one-based indexing; this affects which textual option is intended as correct.",
+          "severity": "high"
+        },
+        {
+          "kind": "option_structure",
+          "span": "Option ranges formatting (e.g., \"T7 - T12 and L1\" vs \"T12 and L1 - L4\")",
+          "reason": "Inconsistent spacing and range formatting across options (hyphen spacing, use of \"and\") may be OCR-induced and could cause parsing errors or misreading of the intended nerve roots.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "The phrenic nerve 1%",
+          "reason": "Inclusion of the phrenic nerve as an answer choice is unexpected for abdominal wall innervation; while it may be an intentional distractor, this item should be checked by a subject-matter reviewer to confirm the option set is correct and complete.",
+          "severity": "medium"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The question concerns specific nerve root innervation which is clinically detailed; combined with OCR artifacts in the question/options and an ambiguous correctOption index, authoritative verification is required to confirm the intended correct answer and exact option wording.",
+        "suggestedAuthorityQuery": "Confirm which anterior rami (spinal nerves) innervate the anterior abdominal wall muscles (external oblique, internal oblique, transversus abdominis, rectus abdominis) using a standard anatomy reference (e.g., Gray's Anatomy, Netter's Atlas, or an anatomy textbook). Also verify original exam key/indexing.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Presence of OCR artifacts ('ww', trailing percent signs, stray 'Vv') and ambiguous correctOption indexing require inspection of the original source page to confirm exact stem text, option wording/formatting, and the intended correct answer."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0164-q0041",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "Option 2: \"The appendix is a retroperitoneal structure. (x) The surface projection of the base of the appendix is called Murphy's point. 71%\"",
+          "reason": "Contains apparent OCR noise: stray '(x)' and '71%' tokens appended to the option. These look like artifacts that may have merged two markings (answer key mark and a percentage or page-footnote) into the option text.",
+          "severity": "high"
+        },
+        {
+          "kind": "terminology",
+          "span": "\"Murphy's point\"",
+          "reason": "Likely an incorrect eponym in the OCR text. The surface projection of the base of the appendix is commonly referred to by a different eponym; the printed term here should be verified on the source page. This is a clinically significant term and could mislead readers.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Explanation trailing text: \"«| se |eesr P Vv\"",
+          "reason": "Garbled characters and non-linguistic symbols at the end of the explanation indicate OCR corruption of the source page's footer/notes or damaged areas of the scan.",
+          "severity": "medium"
+        },
+        {
+          "kind": "option_structure",
+          "span": "Options array overall",
+          "reason": "The second option appears to combine multiple statements and/or answer-key markings into one option. Option boundaries and the presence/position of the answer marker are unclear. Also, no option is explicitly marked as correct in the OCR draft despite an attempted '(x)'.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "Option 1: \"The appendix has a highly variable attachment site to the caecum.\" and Option 3: \"The subcaecal position is the most common position of the appendix.\"",
+          "reason": "Both statements could be interpreted in different ways depending on source wording (e.g., 'attachment site' vs 'position'), and the OCR corruption makes it unclear which single-best answer the question expects. The explanation text contradicts option 3 but the OCR errors obscure the intended correct option.",
+          "severity": "medium"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The OCR text likely contains a wrong eponym for the surface projection of the appendix base and other OCR artifacts that change the meaning of options (e.g., merged markings '(x)', stray percentages). Because these affect clinically important facts (eponym and anatomical categorization), a medical reviewer should confirm the intended wording and the correct answer against an authoritative source.",
+        "suggestedAuthorityQuery": "Confirm on the original source page: 1) the exact phrasing and punctuation of each option and which option was intended/marked correct; 2) the correct eponym and term for the surface projection of the base of the appendix (verify whether 'McBurney's point' or another term was printed rather than 'Murphy's point'); 3) the intended statement about the appendix being retroperitoneal vs intraperitoneal/secondarily retroperitoneal and the ranked frequency of appendix positions (retrocaecal, pelvic, subcaecal, etc.) from an anatomy textbook or clinical anatomy reference.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Source-page inspection required to resolve OCR artifacts (stray characters, '(x)', '71%'), confirm original option boundaries and the printed correct-answer mark, and verify the correct eponym/terminology (potential mis-OCR of an eponym)."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0167-q0042",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "Ld",
+          "reason": "Leading stray characters at start of stem; likely an OCR insertion and not part of the intended question label or text.",
+          "severity": "high"
+        },
+        {
+          "kind": "grammar",
+          "span": "The arterial supply to the colon is derived predominantly from which of the following:",
+          "reason": "Awkward phrasing and punctuation (ending with a colon). The stem is understandable but could be smoothed; original page should be checked to confirm exact intended wording and punctuation.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "1% / 0% (present after several options)",
+          "reason": "Percent annotations ('1%', '0%') appear appended to multiple options. These look like item-performance statistics or OCR artifacts and may not belong in the option text.",
+          "severity": "high"
+        },
+        {
+          "kind": "option_structure",
+          "span": "Options: [\"Lumbar arteries 1%\", \"Superior and inferior mesenteric arteries\", \"Renal artery 0%\", \"Common iliac artery 1%\"]",
+          "reason": "Inconsistent option formatting: some options include trailing percent annotations while one does not. Percentages (if intended) should be separated from option text; otherwise they should be removed. Also verify singular vs plural forms (e.g., 'Renal artery' vs 'renal arteries').",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": ": Vv",
+          "reason": "Trailing characters in the explanation look like OCR garbage and are not meaningful.",
+          "severity": "high"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "Original source page must be inspected to confirm the intended stem, exact option wording, and whether the percent annotations are extraneous item-statistics or part of the options. After source confirmation, an anatomy reference should be consulted to resolve any substantive discrepancies in content wording or intended correct option.",
+        "suggestedAuthorityQuery": "1) Inspect the original scanned page for item 'anatomy-anatomy-all-pdf-p0167-q0042' to confirm the exact stem and option text and to determine whether the percent annotations (e.g., '1%', '0%') and leading/trailing artifacts ('Ld', ': Vv') are OCR errors. 2) If wording or correct option remains unclear after source inspection, consult authoritative anatomy references (standard anatomy textbook or surgical anatomy references such as Gray's Anatomy or a validated anatomy review) to verify the intended content regarding arterial supply to the colon.",
+        "risk": "possible_ambiguity"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Multiple OCR artifacts (leading 'Ld', percent annotations after options, trailing ': Vv') and inconsistent option formatting are present. The original scanned page must be inspected before any correction or use of this item so the true wording and whether percent values are meant to be part of options can be established."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0172-q0043",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "Sigmoid colon 1% lleum 2% Liver 1%",
+          "reason": "Numerical markers appear as '1%' and '2%' (likely OCR misrecognition of list numbers or bullets). 'lleum' uses a lowercase double-L which may be an OCR error for 'Ileum'.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "cc Py] Vv",
+          "reason": "Trailing characters in the explanation look like garbage/OCR artifacts and do not form meaningful text.",
+          "severity": "medium"
+        },
+        {
+          "kind": "grammar",
+          "span": "Which of the following is a retroperitoneal structure: Sigmoid colon 1% lleum 2% Liver 1%",
+          "reason": "The stem and options are run together without clear separators or line breaks, making parsing difficult.",
+          "severity": "low"
+        },
+        {
+          "kind": "option_structure",
+          "span": "options: [] (no options detected)",
+          "reason": "No answer option objects were detected in the OCR'd data. The record contains fewer than the expected minimum number of options for a multiple-choice question.",
+          "severity": "high"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "Stem vs explanation",
+          "reason": "The explanation states 'The second and third parts of the duodenum are retroperitoneal', but the visible options (Sigmoid colon, Ileum, Liver) do not include the duodenum. This creates a mismatch between provided options and the explanation.",
+          "severity": "high"
+        },
+        {
+          "kind": "terminology",
+          "span": "retroperitoneal structure",
+          "reason": "It is unclear whether the question expects a single best answer or multiple correct answers (stem uses singular 'a retroperitoneal structure' but formatting could imply multiple).",
+          "severity": "medium"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The explanation references the duodenum (second and third parts) as retroperitoneal, but the OCR'd options do not include the duodenum and the options list is incomplete. The correct answer cannot be validated from the provided OCR text. Authoritative confirmation is required to resolve the mismatch and confirm the intended correct option(s).",
+        "suggestedAuthorityQuery": "Inspect the original scanned page (p0172, question q0043) to recover the complete, correctly formatted option list and the marked correct answer. Then consult standard anatomy references (e.g., Gray's Anatomy, Netter, or an anatomy textbook) to confirm which abdominal organs are retroperitoneal if needed.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "OCR artifacts and missing/garbled option text prevent reliable interpretation. The original page image must be inspected to recover accurate option text, numbering, and the intended correct answer; the explanation also contains apparent OCR junk that needs verification."
+      },
+      "disposition": "needs_external_evidence"
+    }
+  ]
+}

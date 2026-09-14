@@ -1,0 +1,530 @@
+{
+  "generatedAt": "2026-08-22T14:37:59.150633+00:00",
+  "input": "docs/audit/anatomy-all-pdf-batch-05-ocr-records.json",
+  "model": "gpt-5-mini",
+  "recordCount": 10,
+  "nonMutationRule": "Triage does not alter question text, answer keys, explanations, learning aids, or review status.",
+  "evidenceRule": "Every correction requires source-page confirmation; medical corrections additionally require an authoritative external source.",
+  "triage": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0175-q0044",
+      "languageIssues": [
+        {
+          "kind": "option_structure",
+          "span": "Options: [\"Cisterna chyli 6%\", \"Third part of the duodenum\", \"Right kidney 54% (x) Ascending colon 2%\", \"Right sympathetic trunk 4%\"]",
+          "reason": "Multiple option items appear to be merged or mis-segmented. \"Right kidney 54% (x) Ascending colon 2%\" looks like two separate options (Right kidney and Ascending colon) were concatenated on one line. The list also contains inline percentage metadata and a parenthetical “(x)” marker attached to an option, breaking normal option formatting.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "The third part of the duodenum crosses anterior to the inferior vena cava. The other structures do not cross the inferior vena cava anteriorly. Vv",
+          "reason": "Trailing characters \"Vv\" at the end of the explanation appear to be an OCR artifact or stray characters not part of the intended text.",
+          "severity": "low"
+        },
+        {
+          "kind": "grammar",
+          "span": "A 65 year old man presents to ED complaining of abdominal pain and weight loss.",
+          "reason": "Age phrasing is missing standard hyphenation; style/grammar typically use \"65-year-old\". Also \"ED\" is an abbreviation (Emergency Department) that might be expanded for clarity depending on target audience.",
+          "severity": "low"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "tumour anterior to the inferior vena cava. Which of the following structures is most likely to be compressed by this tumour:",
+          "reason": "The spatial relationship in the stem could be read two ways: (a) a tumour located anterior to the IVC compressing posterior structures including the IVC, or (b) asking which anatomical structure lies anterior to the IVC and therefore would be compressed by a mass located anterior to it. The phrasing is ambiguous and could affect which answer is correct.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "\"6%\", \"54% (x)\", \"2%\", \"4%\", \"(x)\"",
+          "reason": "Percentages and an \"(x)\" marker appear to be poll/response metadata or an answer-key mark inserted into the option text by the source system or by OCR; these should be verified and removed or separated from option content.",
+          "severity": "medium"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The stem and explanation assert a specific anatomical relationship (structure(s) crossing anterior to the inferior vena cava). Given the OCR and option-formatting issues, and because anatomy relationships are being asserted, authoritative verification is required to confirm which anatomical structures lie anterior to the IVC and which would be compressed by a mass described as \"anterior to the IVC.\"",
+        "suggestedAuthorityQuery": "Consult standard anatomy references (e.g., Gray's Anatomy, Netter atlas, or primary anatomy texts) to verify: (1) the anatomical relations of the third (horizontal/inferior) part of the duodenum relative to the inferior vena cava and abdominal aorta; (2) positions of the cisterna chyli, right kidney, ascending colon, and right sympathetic trunk relative to the IVC; and (3) whether a mass described as \"anterior to the IVC\" would be expected to compress each listed structure.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "The scanned source likely contains layout artifacts: options appear merged, audience/vote percentages and an answer-mark \"(x)\" are embedded in option text, and stray characters appear in the explanation. Inspecting the original page image is required to restore correct option segmentation, remove UI/poll metadata, confirm the intended correct option, and verify the exact wording before any medical-content changes are made."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0179-q0045",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "ww The ilioinguinal nerve innervates which of the following muscles:",
+          "reason": "Leading 'ww' appears to be an OCR artifact inserted before the stem.",
+          "severity": "low"
+        },
+        {
+          "kind": "grammar",
+          "span": "ww The ilioinguinal nerve innervates which of the following muscles:",
+          "reason": "Stem is phrased as a clause ending with a colon rather than a clear question (missing question mark).",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Internal and external oblique muscles 9%; Transversus abdominis and rectus abdominis muscles 8%; Psoas major and minor muscles 10%; Quadratus lumborum 5%",
+          "reason": "Trailing percentage annotations (e.g., '9%', '8%', '10%', '5%') appear extraneous and likely OCR noise or scan artifacts; formatting is inconsistent across options.",
+          "severity": "medium"
+        },
+        {
+          "kind": "option_structure",
+          "span": "options array and correctOption: 1",
+          "reason": "Ambiguity in answer-key indexing (is 'correctOption: 1' zero-based or one-based?). Also options vary in granularity (single muscle vs pairs) and include inconsistent punctuation/annotations.",
+          "severity": "medium"
+        },
+        {
+          "kind": "terminology",
+          "span": "Internal and external oblique muscles; Internal oblique and transversus abdominis muscles",
+          "reason": "Two options list different combinations of abdominal muscles that could be confused; the wording across options may reflect inaccurate or inconsistent anatomical terminology and should be verified against authoritative sources.",
+          "severity": "high"
+        },
+        {
+          "kind": "terminology",
+          "span": "Psoas major and minor muscles",
+          "reason": "Psoas minor is variably present anatomically (often absent); including 'psoas minor' without noting variability may be misleading.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "Transversus abdominis and rectus abdominis muscles",
+          "reason": "Rectus abdominis and transversus abdominis have different innervation patterns; pairing them may cause confusion and should be checked.",
+          "severity": "high"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "Source-page inspection and authoritative anatomy reference are required to confirm the correct innervation for the ilioinguinal nerve and to resolve inconsistent/possibly incorrect muscle options and extraneous OCR artifacts.",
+        "suggestedAuthorityQuery": "Confirm which muscles are innervated by the ilioinguinal nerve (spinal level and specific muscle targets). Verify the intended correct answer and whether any option text was corrupted by OCR (remove stray percentage annotations).",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Multiple OCR artifacts (leading 'ww', stray percentage marks) and potential medical-content inconsistencies were detected; inspection of the original source page and cross-check with anatomical references is necessary before correction or reuse."
+      },
+      "disposition": "needs_external_evidence"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0183-q0046",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "ww The gallbladder is located on which of the following aspects of the liver:",
+          "reason": "Leading 'ww' appears to be stray OCR characters at the start of the stem.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Left lobe 4%",
+          "reason": "Trailing '4%' appears to be extraneous OCRed metadata (e.g., poll/statistic) not part of the option text.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Quadrate lobe 7% CJ",
+          "reason": "Trailing '7% CJ' appears to be extraneous OCR noise (percent and 'CJ') and not part of the anatomical option.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Diaphragmatic surface 4%",
+          "reason": "Trailing '4%' appears to be extraneous OCRed metadata.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "The gallbladder is a pear-shaped sac lying on the visceral surface of the right lobe of the liver in a fossa between the right and quadrate lobes. Vv",
+          "reason": "Trailing 'Vv' at end of explanation appears to be stray OCR characters.",
+          "severity": "low"
+        },
+        {
+          "kind": "grammar",
+          "span": "The gallbladder is located on which of the following aspects of the liver:",
+          "reason": "Wording 'aspects of the liver' is vague; more precise phrasing (e.g., 'which part' or 'which surface/which lobe') would be clearer.",
+          "severity": "medium"
+        },
+        {
+          "kind": "terminology",
+          "span": "options: Right lobe; Left lobe; Quadrate lobe; Diaphragmatic surface",
+          "reason": "Options mix anatomical categories (lobes vs. surface). 'Diaphragmatic surface' is a surface descriptor while other options are lobes; this mixing can cause confusion about the intended classification.",
+          "severity": "high"
+        },
+        {
+          "kind": "option_structure",
+          "span": "All option strings (contain percent values and extra letters)",
+          "reason": "Options include extraneous metadata (percentages and stray letters) likely from OCR of answer statistics; options should be cleaned to only include answer text.",
+          "severity": "medium"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "Original page image must be inspected to remove OCR artifacts and confirm the intended stem/options. Additionally, authoritative anatomy sources should be checked to confirm the exact phrasing and the correct answer when question wording is corrected (the stem conflates 'aspect' vs 'surface' vs 'lobe').",
+        "suggestedAuthorityQuery": "Verify statement: 'The gallbladder is located on the visceral surface of the right lobe of the liver, in a fossa between the right and quadrate lobes.' Consult standard anatomical references (e.g., Gray's Anatomy, Netter's Atlas) and the source exam page image.",
+        "risk": "possible_ambiguity"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Multiple OCR artifacts (leading 'ww', trailing percent signs and stray letters in options, trailing 'Vv' in explanation) and inconsistent option types require inspection of the original scanned page to produce an authoritative clean text and confirm intended answer wording."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0186-q0047",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "wv Control of bile and pancreatic fluid entering the duodenum is regulated by the:",
+          "reason": "Leading 'wv' is likely an OCR artifact preceding the stem and breaks sentence capitalization/grammar.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Major duodenal papilla 3%",
+          "reason": "Trailing '3%' appears unrelated to option text and is likely OCR noise corrupting the option.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "External biliary sphincter 2%",
+          "reason": "Trailing '2%' appears to be OCR garbage appended to the option.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Internal biliary sphincter 0%",
+          "reason": "Trailing '0%' appears to be OCR garbage appended to the option.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Vv",
+          "reason": "Trailing 'Vv' at the end of the explanation looks like an OCR artifact.",
+          "severity": "low"
+        },
+        {
+          "kind": "option_structure",
+          "span": "Ampulla of Vater / Major duodenal papilla / Sphincter of Oddi",
+          "reason": "The options are not mutually exclusive or are conceptually overlapping (anatomical location vs named ampulla vs sphincter). This creates ambiguity about the intended best answer.",
+          "severity": "high"
+        },
+        {
+          "kind": "grammar",
+          "span": "stem punctuation",
+          "reason": "The stem is not terminated with a question mark and capitalization is affected by OCR artifacts, reducing clarity.",
+          "severity": "low"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "Overlapping option wording (ampulla, papilla, sphincter) plus multiple OCR artifacts may have changed the intended phrasing and answer. The clinical/anatomical target of the question should be confirmed against an authoritative source.",
+        "suggestedAuthorityQuery": "Please inspect the original source page and confirm the intended wording of the stem and options. Verify which anatomical structure is intended to 'regulate control of bile and pancreatic fluid entering the duodenum' (e.g., sphincter of Oddi vs hepatopancreatic ampulla vs major duodenal papilla) and provide authoritative citation(s) from an anatomy textbook or anatomical reference.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Multiple OCR artifacts (leading 'wv', numeric percentages appended to option text, trailing 'Vv') and ambiguous overlapping options require inspection of the original scanned page to recover exact wording and intended correct answer before any correction or use."
+      },
+      "disposition": "needs_external_evidence"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0189-q0048",
+      "languageIssues": [
+        {
+          "kind": "option_structure",
+          "span": "\"Superior mesenteric artery Inferior mesenteric artery 1%\" (third option string)",
+          "reason": "Two distinct answer choices appear concatenated into one option and include an extraneous '1%' token. The options list is therefore malformed and ambiguous.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "\"r=] a Vv\" (at end of explanation)",
+          "reason": "Trailing garbage characters consistent with OCR corruption appear in the explanation text.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "Explanation: \"The arterial supply to the pancreas is primarily derived from the splenic artery... and from the superior mesenteric artery.\"",
+          "reason": "The explanation names the splenic artery (and pancreaticoduodenal branches) as principal suppliers, but the options do not include 'splenic artery'. This creates a mismatch between options and the explanatory text and makes the intended correct option unclear.",
+          "severity": "high"
+        },
+        {
+          "kind": "grammar",
+          "span": "Stem: \"The blood supply to the pancreas is primarily from which of the following arteries:\"",
+          "reason": "Stylistic/grammatical: the colon at the end of the stem is acceptable but the phrasing is slightly awkward; not critical compared with OCR/option issues.",
+          "severity": "low"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The options list is corrupted (concatenated choices and extraneous characters) and the provided explanation names an artery (splenic) that is not present among the options. The correct answer cannot be determined from the OCR text alone; authoritative confirmation is required.",
+        "suggestedAuthorityQuery": "Inspect the original source page (PDF p0189, question q0048) to recover the intended option list and correct answer. Confirm arterial supply to the pancreas against standard anatomy references (e.g., Gray's Anatomy, Netter atlas, or an anatomy textbook) before authoritatively assigning a correct option.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Original page image/text must be inspected to restore the intended options (split the concatenated option, remove OCR artifacts such as '1%') and to verify which artery the source intended as the correct answer."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0194-q0049",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "lleum",
+          "reason": "Likely OCR misrecognition of 'Ileum' (lowercase L vs capital I confusion).",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Vv",
+          "reason": "Stray characters at end of explanation that appear to be an OCR artifact.",
+          "severity": "low"
+        },
+        {
+          "kind": "option_structure",
+          "span": "Options: [\"Jejunum\", \"lleum\", \"Sigmoid mesocolon\"]",
+          "reason": "Provided options do not include the structure named in the explanation (the oblique attachment of the mesentery). The option set appears misaligned with the question and explanation; the marked correct option is null.",
+          "severity": "high"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "The infracolic compartment is divided into right and left spaces by which of the following structures:",
+          "reason": "Question asks for a dividing structure but available options include organs (jejunum, ileum) rather than an attachment/mesentery. This creates ambiguity about the intended answer.",
+          "severity": "high"
+        },
+        {
+          "kind": "terminology",
+          "span": "Sigmoid mesocolon",
+          "reason": "Term is plausible but may be less precise in context; its presence as an option should be checked against the intended anatomical term on the source page.",
+          "severity": "low"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The option set appears inconsistent with the explanation and contains OCR artifacts; the correct option is not indicated. Expert review and verification with authoritative anatomy references are required to determine the intended correct answer and to correct OCR errors.",
+        "suggestedAuthorityQuery": "Inspect the original scanned source page and consult standard anatomy references (e.g., Gray's Anatomy, Netter's Atlas, or Last's Anatomy) to confirm which anatomical structure divides the infracolic compartment into right and left spaces and to determine the intended correct option and exact wording.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Original page must be inspected because OCR likely misread 'Ileum' as 'lleum', contains stray text ('Vv'), and the correct answer may be missing or mis-marked; source-page inspection is mandatory before any correction or validation."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0198-q0050",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "options[0]: \"Inferior mesenteric artery Renal artery 0%\"",
+          "reason": "Two separate option items appear concatenated into a single string and include an extraneous percentage marker ('0%'), indicating OCR merging/artifact.",
+          "severity": "high"
+        },
+        {
+          "kind": "option_structure",
+          "span": "options array",
+          "reason": "Only two option entries are present but the first entry appears to contain two options merged together; the set of provided options is malformed and the correct option is not marked (correctOption is null).",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "explanation: \"e] Py] Vv\"",
+          "reason": "Trailing non-sensical character sequence likely produced by OCR noise; obscures or truncates the intended explanatory text.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "stem vs explanation",
+          "reason": "Stem asks which artery primarily supplies the stomach but none of the listed (possibly malformed) options name the 'coeliac trunk' or its branches, while the explanation references branches of the coeliac trunk—this is a content mismatch requiring clarification from the source.",
+          "severity": "high"
+        },
+        {
+          "kind": "terminology",
+          "span": "explanation: \"coeliac trunk\" and branch names",
+          "reason": "Explanation uses anatomical branch names ('left gastric, splenic and common hepatic branches') but the options do not reflect those terms; mismatch between terminology used in stem/options and explanation increases risk of confusion.",
+          "severity": "medium"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The options are malformed/missing and the explanation claims an answer (branches of the coeliac trunk) that is not represented among the given options; source-page verification and authoritative anatomical reference are required before marking a correct answer.",
+        "suggestedAuthorityQuery": "Inspect the original scanned source page to determine the intended option list and correct answer. Then verify arterial supply of the stomach using an authoritative anatomy source (e.g., Gray's Anatomy or Netter) to confirm which named artery/options correspond to the stated explanation.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "OCR appears to have merged/split options and introduced noise; the correct option is not marked and the explanation contains extraneous characters—inspection of the original page image is required to reconstruct the intended question and answer choices."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0203-q0051",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "T6-18",
+          "reason": "Likely misrecognition of a dash or character sequence. 'T6-18' is not a standard spinal segment notation and is probably intended to be 'T6-8' or 'T6-T8', but this is unclear from the OCR.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "T8- 110 N%",
+          "reason": "Contains non-alphanumeric noise ('110 N%') and spacing issues. Likely intended to be a range such as 'T8 - T10' or similar; current text is unreadable.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "110 - T11",
+          "reason": "Leading '110' appears to be an OCR error for 'T10'. As printed, '110' is nonsensical for spinal segment notation.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Lie 58% (x) L3-L4 2%",
+          "reason": "Heavily garbled: contains 'Lie', percentage marks, an '(x)', and 'L3-L4 2%'. This likely mixes option text with scoring/annotation artifacts and cannot be interpreted reliably.",
+          "severity": "high"
+        },
+        {
+          "kind": "option_structure",
+          "span": "options array as presented",
+          "reason": "Options contain punctuation, percentages, and stray characters; option formatting is inconsistent and ambiguous (may include score/selection marks). The intended answer choices are not clearly presented.",
+          "severity": "high"
+        },
+        {
+          "kind": "option_structure",
+          "span": "correctOption: 2",
+          "reason": "Given the corrupted option text, the numeric index for the correct option is unreliable. It's unclear which textual option this index refers to (and whether indexing is 0- or 1-based).",
+          "severity": "high"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "stem: \"Visceral afferent fibres from the ascending colon and proximal transverse colon travel to which of the following spinal cord segments:\"",
+          "reason": "The boundary between 'proximal' and 'distal' transverse colon matters clinically (midgut vs hindgut). Without a clear definition, the anatomical scope is ambiguous and affects the correct spinal segment mapping.",
+          "severity": "medium"
+        },
+        {
+          "kind": "grammar",
+          "span": "explanation ending 'Vv'",
+          "reason": "Trailing 'Vv' appears to be stray characters or an OCR artifact and is not meaningful in context.",
+          "severity": "low"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The answer choices are heavily OCR-corrupted and the explanation contains stray characters; the anatomical assertion about spinal segments (T10-T11) should be verified against the original source page and an authoritative anatomy reference because OCR errors could have altered critical numeric labels.",
+        "suggestedAuthorityQuery": "Inspect the original source page to recover the intended option text and verify which spinal cord segments are stated as the correct answer. After that, confirm the anatomical mapping of visceral afferents from the ascending colon and proximal (midgut) transverse colon to specific spinal segments using an authoritative anatomy source (e.g., Gray's Anatomy, standard neuroanatomy/clinical anatomy texts).",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Severe OCR corruption in the answer options and stray characters in the explanation prevent reliable triage. The original scanned page must be inspected to restore the intended option wording, remove annotation artifacts (percentages, '(x)'), and confirm the correct answer."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0208-q0052",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "options[0] = \"u\"",
+          "reason": "Single-letter option 'u' is not a valid lumbar root notation and is likely an OCR misrecognition (e.g., 'L1' or similar).",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "options[1] = \"LI-L2 a\"",
+          "reason": "Contains mixed characters ('LI' vs. 'L1') and an extraneous trailing 'a' — likely OCR corruption of a lumbar-root range (e.g., 'L1-L2' or 'L1-L2?').",
+          "severity": "high"
+        },
+        {
+          "kind": "option_structure",
+          "span": "options = [\"u\", \"LI-L2 a\", \"L2\", \"L3-L4\"]",
+          "reason": "Options contain multiple OCR artifacts and do not present a clear, consistent set of lumbar-root choices. The explanation cites 'L2 and L3' but no option explicitly lists 'L2-L3', and no correct option is marked.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "explanation trailing text \"[< |Lse |eee P Vv\"",
+          "reason": "Trailing bracketed/gibberish characters at the end of the explanation are OCR artifacts and obscure the intended source/reference note.",
+          "severity": "medium"
+        },
+        {
+          "kind": "terminology",
+          "span": "stem/explanation phrase \"anterior rami\"",
+          "reason": "The phrase 'anterior rami' is used; some anatomy sources preferentially use 'ventral rami'. This is a terminology variant that could cause minor inconsistency across references.",
+          "severity": "low"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The options are corrupted by OCR errors and do not include an explicit 'L2-L3' option while the explanation asserts 'L2 and L3'. Because the intended correct option cannot be determined from the OCR text, authoritative verification is required.",
+        "suggestedAuthorityQuery": "Inspect the original source page to recover the intended options and marked answer. Consult standard anatomy references (e.g., Gray's Anatomy, Netter anatomy atlas, or an anatomy textbook) to confirm which spinal nerve roots form the lateral femoral cutaneous (lateral cutaneous nerve of the thigh).",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Source page inspection is required to (1) correct OCR artifacts in the options and explanation, (2) determine which option was originally marked correct (if any), and (3) verify that the explanation's claim matches the original source."
+      },
+      "disposition": "needs_external_evidence"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0212-q0053",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "ww Regarding the large intestine,",
+          "reason": "Leading 'ww' appears to be an OCR artifact inserted before the actual question stem.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Ascending colon - Retroperitoneal 6%, Transverse colon - Intraperitoneal 5%, Descending colon - Retroperitoneal 3%",
+          "reason": "Trailing numerals with percent signs after several options are unlikely to be part of the anatomical statements; these look like OCR-misread page/footnote markers or printing artifacts.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Vv",
+          "reason": "Trailing 'Vv' at the end of the explanation appears to be an OCR artifact.",
+          "severity": "low"
+        },
+        {
+          "kind": "option_structure",
+          "span": "\"correctOption\": 4",
+          "reason": "The declared correctOption index (4) appears inconsistent with the explanation text (which indicates a different option is incorrect). This is an answer-key / explanation mismatch that may be due to OCR mis-indexing or data-entry error.",
+          "severity": "high"
+        },
+        {
+          "kind": "terminology",
+          "span": "Caecum",
+          "reason": "Spelling 'Caecum' (British) vs 'Cecum' (American) is a variant, not necessarily incorrect; note as low-severity terminology variation.",
+          "severity": "low"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "Sigmoid colon - Retroperitoneal",
+          "reason": "This statement conflicts with common anatomical descriptions (sigmoid colon is typically intraperitoneal). The OCRed option may be incorrect or the answer key/explanation may be inconsistent; requires verification.",
+          "severity": "high"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "There are high-severity issues: (1) option text likely contains OCR artifacts (spurious percent signs) and (2) the answer-key index does not match the explanation. The anatomical assignment for the sigmoid colon also appears inconsistent with standard descriptions. Source-page inspection and authoritative anatomy reference check are required before trusting or correcting the item.",
+        "suggestedAuthorityQuery": "Check the original scanned source page for this item to confirm exact option wording and any footnotes/markers. Then verify anatomical attachments (intraperitoneal vs retroperitoneal) for caecum/ascending/transverse/descending/sigmoid colon using a standard anatomy reference (e.g., Gray's Anatomy, Netter's Atlas, or an anatomy textbook).",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "OCR artifacts in the stem/options and a mismatch between 'correctOption' and the explanation make it mandatory to inspect the original scanned page to determine the intended wording, option markers, and correct answer before any content correction or medical validation."
+      },
+      "disposition": "needs_external_evidence"
+    }
+  ]
+}

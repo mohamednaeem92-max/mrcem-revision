@@ -1,0 +1,18 @@
+# Anatomy Batch 25 Source-Page Checks
+
+## Review method
+
+The original `Anatomy-All.pdf` screenshots control literal stems, option order, and displayed keys. External medical evidence is assessed separately. No unmarked answer is inferred.
+
+| Source page | Record | Direct source-page recovery | Marked answer | Initial disposition |
+|---:|---|---|---:|---|
+| 692 | `p0692-q0003` | Stem: “The arterial supply to the jejunum and ileum is derived predominantly from which of the following:” Options: Coeliac trunk; Superior mesenteric artery; Inferior mesenteric artery; Renal artery; Lumbar artery. | No answer mark displayed. | Restrict unless a marked key is recoverable from another original source page. |
+| 696 | `p0696-q0004` | Stem: “Which of the following best describes the relationship of the prostate gland and rectum:” Options: The prostate gland lies superior to the rectum.; The prostate gland lies inferior to the rectum.; The prostate gland lies anterior to the rectum.; The prostate gland lies posterior to the rectum.; The prostate gland is not in relation to the rectum. | Index 2, The prostate gland lies anterior to the rectum. | Evidence review required |
+| 700 | `p0700-q0005` | Stem: “The parasympathetic supply to the rectum is from which of the following:” Options: Superior hypogastric plexus; Pelvic splanchnic nerves; Lumbar splanchnic nerves; Inferior hypogastric nerves; Sacral splanchnic nerves. | Index 1, Pelvic splanchnic nerves | Evidence review required |
+| 705 | `p0705-q0006` | Stem: “The ureters enter the bladder through which of the following:” Options: Superior surface; Inferolateral surface; Apex; Superior base; Inferior base. | Index 3, Superior base | Evidence review required |
+| 710 | `p0710-q0007` | Stem: “Regarding the rectum, which of the following statements is CORRECT:” Options: The rectum is continuous with the rectosigmoid junction at the level of vertebra S2.; The rectum is connected to the posterior abdominal wall by the sigmoid mesocolon.; The rectum is the most posterior viscera in the pelvic cavity.; The rectum lies immediately posterior to the bladder in women.; The rectum is an intraperitoneal structure. | Index 2, The rectum is the most posterior viscera in the pelvic cavity. | Evidence review required |
+| 715 | `p0715-q0008` | Stem: “The uterine visceral afferent fibres usually follow sympathetic efferents to which of the following spinal cord segments:” Options: T10 - L1; T9 - T12; L1 - L3; L2 - L4; T5 - T9. | Index 0, T10 - L1 | Evidence review required |
+| 719 | `p0719-q0009` | Stem: “The posterior wall of the inguinal canal is formed primarily by which of the following structures:” Options: Transversus abdominis muscle; External oblique aponeurosis; Transversalis fascia; External oblique muscle; Internal oblique muscle. | Index 2, Transversalis fascia | Evidence review required |
+| 723 | `p0723-q0010` | Stem: “The arterial supply to the pancreas is mainly derived from which of the following:” Options: Gastric artery; Splenic artery; Hepatic artery; Renal artery; Inferior mesenteric artery. | Index 1, Splenic artery | Evidence review required |
+| 731 | `p0731-q0012` | Stem: “The kidneys are related posteriorly to all of the following structures EXCEPT for the:” Options: Diaphragm; Psoas major muscle; Quadratus lumborum muscle; Transversus abdominis muscle; Iliacus muscle. | Index 4, Iliacus muscle | Evidence review required |
+| 737 | `p0737-q0013` | Stem: “Which of the following lies immediately medial to the second part of the duodenum:” Options: Transverse colon; Spleen; Right kidney; Head of the pancreas; Stomach. | Index 3, Head of the pancreas | Evidence review required |

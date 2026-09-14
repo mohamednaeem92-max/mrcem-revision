@@ -1,0 +1,340 @@
+{
+  "exportedAt": "2026-08-26T03:49:48.473Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-41",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1262,
+      1263,
+      1264,
+      1265,
+      1266,
+      1267,
+      1268,
+      1269,
+      1276,
+      1279
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1262-q0169",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Which of the following best describes the location of the omental bursa:",
+      "options": [
+        "Inferior to the transverse mesocolon",
+        "To the right of the oblique attachment of the mesentery",
+        "Posterior to the pancreas",
+        "Anterior to the stomach and liver"
+      ],
+      "correctOption": null,
+      "explanation": "The omental bursa (lesser sac) is a smaller subdivision of the peritoneal cavity posterior to the stomach and liver and anterior to the pancreas, and is continuous with the greater sac through the epiploic foramen. e] Vv Peritoneal Compartments ANATOMY / ABDOMEN / TOPOGRAPHY OF ABDOMINAL CAVITY The peritoneal cavity is divided into the greater sac and the omental bursa (lesser sac). Table: Anatomical Overview of the Abdominal Cavity",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_image",
+      "askable": false,
+      "needsImage": true,
+      "warnings": [
+        "No marked correct option was detected.",
+        "Possible image-, figure-, table-, or ECG-dependent item."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1262,
+      "sourceQuestionNumber": 169
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1263-q0170",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The abdominal aorta terminates as which of the following:",
+      "options": [
+        "Internal and external iliac arteries 13%",
+        "External iliac and femoral artery 2%",
+        "Right and left common iliac arteries",
+        "Superior and inferior epigastric arteries",
+        "Internal iliac and femoral artery 2%"
+      ],
+      "correctOption": 2,
+      "explanation": "The main terminal branches of the abdominal aorta are the two common iliac arteries. . : v Abdominal Aorta ANATOMY / ABDOMEN / POSTERIOR ABDOMINAL WALL",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1263,
+      "sourceQuestionNumber": 170
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1264-q0171",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The genitofemoral nerve supplies skin over which of the following regions:",
+      "options": [
+        "Posterolateral gluteal region 4%",
+        "Lateral thigh 1%",
+        "Upper medial thigh 25%",
+        "Upper anterior thigh",
+        "Posteromedial gluteal region 71%"
+      ],
+      "correctOption": 3,
+      "explanation": "The genitofemoral nerve is formed from the anterior rami of L1 and L2. Its genital branch innervates the male cremaster muscle and supplies skin over the external genitalia and its femoral branch supplies skin of the upper anterior thigh. ° “ v Lumbar Plexus ANATOMY / ABDOMEN / POSTERIOR ABDOMINAL WALL",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1264,
+      "sourceQuestionNumber": 171
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1265-q0172",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The lymph drainage of the anal canal above the pectinate line is initially to the:",
+      "options": [
+        "Internal iliac nodes",
+        "External iliac nodes 5%",
+        "Superficial inguinal nodes 9%",
+        "Deep inguinal nodes 10%"
+      ],
+      "correctOption": 0,
+      "explanation": "Above the pectinate line, the anal canal drains to the internal iliac lymph nodes which subsequently drain to the lumbar (para-aortic) nodes. Vv Anal Canal ANATOMY / ABDOMEN / GASTROINTESTINAL TRACT",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1265,
+      "sourceQuestionNumber": 172
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1266-q0173",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "wy The iliohypogastric nerve innervates which of the following muscles:",
+      "options": [
+        "External and internal oblique muscles 10%",
+        "Internal oblique and transversus abdominis muscles",
+        "Transversus abdominis and rectus abdominus muscles 1%",
+        "Psoas major and iliacus",
+        "Quadratus lumborum 7h"
+      ],
+      "correctOption": 1,
+      "explanation": "The iliohypogastric nerve is formed from the anterior rami of L1. It innervates the internal oblique and the transversus abdominis muscles and supplies posterolateral gluteal skin and skin over the pubic region. v Lumbar Plexus ANATOMY / ABDOMEN / POSTERIOR ABDOMINAL WALL",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1266,
+      "sourceQuestionNumber": 173
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1267-q0174",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Regarding the rectus abdominis muscle, which of the following statements is INCORRECT:",
+      "options": [
+        "It originates from the pubic crest, pubic tubercle and pubic symphysis. 8%",
+        "It inserts onto the costal cartilages of ribs 5 - 7 and to the xiphoid process. 12% (x) It is separated in the midline by the linea alba. 6%",
+        "The free lower border of its aponeurosis forms the inguinal ligament.",
+        "It is intersected along it length by tendinous intersections. 7%"
+      ],
+      "correctOption": 2,
+      "explanation": "The rectus abdominis is a long muscle that extends the length of the anterior abdominal wall. It originates from the pubic crest, pubic tubercle and pubic symphysis and inserts onto the costal cartilages of ribs 5 7 and to the xiphoid process. It is a paired muscle, separated in the midline by the linea alba. It is intersected along its length by tendinous intersections. The inguinal ligament is formed by the free lower border of the external oblique aponeurosis. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1267,
+      "sourceQuestionNumber": 174
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1268-q0175",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww A50 year old man complains of lumps in his groin and is found to have painless superficial inguinal lymphadenopathy. Lymph node biopsy demonstrates malignant cells, which of the following sites is most likely the primary source of carcinoma:",
+      "options": [
+        "Prostate 13%",
+        "Bladder ae",
+        "Anal canal",
+        "Sigmoid colon 3%"
+      ],
+      "correctOption": 2,
+      "explanation": "A malignancy of the anal canal below the pectinate line would drain into the superficial inguinal lymph nodes. The internal iliac nodes receive drainage from the rectum, uterus, prostate gland, bladder and anal canal above the pectineal line. The testes, although located in the scrotum, due to their pattern of developmental descent, drain into the lumbar nodes. The sigmoid colon drains to the inferior mesenteric lymph nodes. ; , v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1268,
+      "sourceQuestionNumber": 175
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1269-q0176",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Regarding the female urethra, which of the following statements is CORRECT:",
+      "options": [
+        "The urethra is longer in women than it is in men. 1%",
+        "The urethra begins at the apex of the bladder. 10%",
+        "The urethra opens in the vestibule that lies between the labia minora.",
+        "The inferior aspect of the urethra is bound to the posterior surface of the vagina. 4%",
+        "The internal urethral sphincter surrounds the urethra as it passes through the pelvic floor. 13%"
+      ],
+      "correctOption": 2,
+      "explanation": "In women the urethra is short (about 4 cm long), beginning at the base of the bladder. It passes inferiorly through the urogenital diaphragm into the perineum before opening in the vestibule that lies between the labia minora. The inferior aspect of the urethra is bound to the anterior surface of the vagina and the urethral opening is anterior to the vaginal opening in the vestibule. The external urethral sphincter surrounds the urethra as it passes through the pelvic floor. 7 v Urethra",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1269,
+      "sourceQuestionNumber": 176
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1276-q0178",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww A 29 year old patient, with a known ovarian cyst presents to ED complaining of worsening pelvic pain and pain in the medial thigh region. Irritation of which of the following structures is responsible for the pain in the medial thigh region:",
+      "options": [
+        "Genitofemoral nerve 28%",
+        "Obturator nerve",
+        "Pudendal nerve 4%",
+        "Sacral plexus 3%",
+        "Ovarian plexus 3%"
+      ],
+      "correctOption": 1,
+      "explanation": "The obturator nerve runs lateral to the ovaries in the ovarian fossa and irritation of the obturator nerve from ovarian pathology can result in referred pain to the medial thigh. Vv Ovary ANATOMY / ABDOMEN / FEMALE REPRODUCTIVE SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1276,
+      "sourceQuestionNumber": 178
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1279-q0179",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Which of the following areas of the prostate gland is most commonly involved in carcinomatous transformation:",
+      "options": [
+        "Central zone 6%",
+        "Peripheral zone",
+        "Anterior fibromuscular stroma 1%",
+        "Isthmus 52%"
+      ],
+      "correctOption": 1,
+      "explanation": "The peripheral zone is the outermost region of the prostate and the area most prone to carcinomatous transformation. This is the zone palpated on PR examination. ° - : Vv Prostate ANATOMY / ABDOMEN / MALE REPRODUCTIVE SYSTEM 11 Ranemark",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1279,
+      "sourceQuestionNumber": 179
+    }
+  ]
+}

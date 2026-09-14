@@ -1,0 +1,357 @@
+{
+  "generatedAt": "2026-08-22T16:37:40.043Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0514-q0137",
+      "sourcePage": 514,
+      "before": {
+        "stem": "ww Regarding the relations of the uterus, which of the following statements is INCORRECT:",
+        "options": [
+          "The vagina is inferior to the uterus. 6%",
+          "The broad ligament is lateral to the uterus. 4%",
+          "The vesicouterine pouch is anterior to the uterus. 12%",
+          "The pouch of Douglas is anterior to the uterus. (x) The small intestine is superior to the uterus. 4%"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "Regarding the relations of the uterus, which statement is incorrect?",
+        "options": [
+          "The vagina is inferior to the uterus",
+          "The broad ligament is lateral to the uterus",
+          "The vesicouterine pouch is anterior to the uterus",
+          "The pouch of Douglas is anterior to the uterus",
+          "The small intestine is superior to the uterus"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470297/",
+        "externalFinding": "Uterus lies posterior to bladder and anterior to rectum; rectouterine pouch is between uterus and rectum."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0519-q0139",
+      "sourcePage": 519,
+      "before": {
+        "stem": "Which of the following best describes the relationship of the psoas major and quadratus lumborum muscles:",
+        "options": [
+          "The psoas major muscle lies adjacent to the lateral border of the quadratus lumborum muscle.",
+          "The psoas major muscle overlaps the quadratus lumborum muscle medially.",
+          "The psoas major muscle originates inferior to the quadratus lumborum muscle.",
+          "The psoas major muscle lies deep to the quadratus lumborum muscle. 6%",
+          "The psoas major muscle lies superior to the quadratus lumborum muscle. 5%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "Which statement best describes the relationship of psoas major and quadratus lumborum?",
+        "options": [
+          "Psoas major lies adjacent to the lateral border of quadratus lumborum",
+          "Psoas major overlaps quadratus lumborum medially",
+          "Psoas major originates inferior to quadratus lumborum",
+          "Psoas major lies deep to quadratus lumborum",
+          "Psoas major lies superior to quadratus lumborum"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK557605/",
+        "externalFinding": "Quadratus lumborum is between medial psoas and lateral transversus abdominis."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0520-q0140",
+      "sourcePage": 520,
+      "before": {
+        "stem": "ww The ejaculatory duct is formed by the union of which of the following structures:",
+        "options": [
+          "Ductus deferens and the prostatic urethra 4%",
+          "Ductus deferens and the epididymis 3% (x) Ductus deferens and prostatic ducts bee () Ductus deferens and duct from the seminal vesicle 28%",
+          "Prostatic ducts and duct from seminal vesicle 48%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false
+      },
+      "after": {
+        "stem": "The ejaculatory duct is formed by the union of which structures?",
+        "options": [
+          "Ductus deferens and prostatic urethra",
+          "Ductus deferens and epididymis",
+          "Ductus deferens and prostatic ducts",
+          "Ductus deferens and duct from seminal vesicle",
+          "Prostatic ducts and duct from seminal vesicle"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK499854/",
+        "externalFinding": "Seminal-vesicle duct converges with ductus deferens to form ejaculatory duct."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0522-q0141",
+      "sourcePage": 522,
+      "before": {
+        "stem": "ww The external anal sphincter is innervated by which of the following nerves:",
+        "options": [
+          "Genitofemoral nerve 3%",
+          "Pudendal nerve (x) Coccygeal nerve 6%",
+          "llioinguinal nerve 5%",
+          "lliohypogastric nerve 3%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The external anal sphincter is innervated by which nerve?",
+        "options": [
+          "Genitofemoral nerve",
+          "Pudendal nerve",
+          "Coccygeal nerve",
+          "Ilioinguinal nerve",
+          "Iliohypogastric nerve"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK554736/",
+        "externalFinding": "Inferior rectal pudendal branch carries somatic motor fibres to external anal sphincter."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0526-q0142",
+      "sourcePage": 526,
+      "before": {
+        "stem": "ww The inguinal ligament is formed from which of the following:",
+        "options": [
+          "The lower free border of the external oblique aponeurosis",
+          "The lower free border of the internal oblique aponeurosis 6%",
+          "The lower free border of the transversus abdominis aponeurosis 1%",
+          "The lower free border of the rectus abdominis aponeurosis 2%",
+          "The lower free border of the thoracolumbar fascia 1%"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The inguinal ligament is formed from which structure?",
+        "options": [
+          "Lower free border of external-oblique aponeurosis",
+          "Lower free border of internal-oblique aponeurosis",
+          "Lower free border of transversus-abdominis aponeurosis",
+          "Lower free border of rectus-abdominis aponeurosis",
+          "Lower free border of thoracolumbar fascia"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK551649/",
+        "externalFinding": "External-oblique inferior border forms inguinal ligament between ASIS and pubic tubercle."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0530-q0144",
+      "sourcePage": 530,
+      "before": {
+        "stem": "ww The ileum predominantly occupies which region of the abdomen:",
+        "options": [
+          "Left upper quadrant 7%",
+          "Right upper quadrant 4%",
+          "Left lower quadrant 16%",
+          "Right lower quadrant"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The ileum predominantly occupies which abdominal region?",
+        "options": [
+          "Left upper quadrant",
+          "Right upper quadrant",
+          "Left lower quadrant",
+          "Right lower quadrant",
+          "Epigastric region"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532263/",
+        "externalFinding": "Ileum is located mainly in the right lower quadrant."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0533-q0145",
+      "sourcePage": 533,
+      "before": {
+        "stem": "ww The greater omentum descends from which of the following structures:",
+        "options": [
+          "The quadrate lobe of the liver 1%",
+          "The lesser curvature of the stomach and first part of the duodenum 6%",
+          "The greater curvature of the stomach and first part of the duodenum",
+          "The transverse colon 6%",
+          "The duodenojejunal junction 2%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "after": {
+        "stem": "The greater omentum descends from which structures?",
+        "options": [
+          "Quadrate lobe of liver",
+          "Lesser curvature of stomach and first duodenum",
+          "Greater curvature of stomach and first duodenum",
+          "Transverse colon",
+          "Duodenojejunal junction"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482334/",
+        "externalFinding": "Peritoneal layers continue as greater omentum at greater curvature."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0513-q0136",
+      "sourcePage": 513,
+      "before": {
+        "stem": "ww The rectovesical fascia is located at which of the following sites:",
+        "options": [
+          "Between the ampulla of the rectum and the sacrum 1%",
+          "Between the fundus of the bladder and the ampulla of the rectum (x) Between the rectum and the posterior fornix and cervix 4%",
+          "Between the rectum and the seminal vesicle 9%",
+          "Between the sigmoid colon and the rectum 3%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The rectovesical fascia is located at which site?",
+        "options": [
+          "Between ampulla of rectum and sacrum",
+          "Between fundus of bladder and ampulla of rectum",
+          "Between rectum and posterior fornix and cervix",
+          "Between rectum and seminal vesicle",
+          "Between sigmoid colon and rectum"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "Source page reviewed, but the exact rectovesical-fascia label and source-marked location are not precisely corroborated by the reviewed external anatomy literature. This record remains excluded from answer learning."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8833507/",
+        "externalFinding": "Denonvilliers' fascia is described between rectum and posterior prostate."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0518-q0138",
+      "sourcePage": 518,
+      "before": {
+        "stem": "A 66 year old man presents to ED complaining of difficulty passing urine and nocturia. On examination you note the prostate is enlarged and you suspect BPH. Which of the following lobes of the prostate is most likely hypertrophied: Lateral lobe 5%",
+        "options": [
+          "Anterior lobe",
+          "Fibromuscular zone"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "A 66-year-old man has difficulty passing urine and nocturia with an enlarged prostate. In BPH, which prostate lobe is most likely hypertrophied?",
+        "options": [
+          "Lateral lobe",
+          "Posterior lobe",
+          "Anterior lobe",
+          "Median lobe",
+          "Fibromuscular zone"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected.",
+          "Source page reviewed, but the source-marked single-lobe BPH formulation is not precisely corroborated by reviewed current transition-zone anatomy evidence. This record remains excluded from answer learning."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK558920/",
+        "externalFinding": "BPH develops through stromal and epithelial proliferation in periurethral and transition zones."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0529-q0143",
+      "sourcePage": 529,
+      "before": {
+        "stem": "ww The male bladder lies immediately anterior to which of the following structures:",
+        "options": [
+          "Anus 1%",
+          "Prostate gland 19%",
+          "Sigmoid colon 1%",
+          "Abdominal aorta 2%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The male bladder lies immediately anterior to which structure?",
+        "options": [
+          "Anus",
+          "Prostate gland",
+          "Sigmoid colon",
+          "Abdominal aorta",
+          "Rectum"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "warnings": [
+          "No marked correct option was detected.",
+          "Source page reviewed, but the exact immediate male bladder-to-rectum relation is not precisely corroborated by reviewed external evidence because intervening pelvic relations are described. This record remains excluded from answer learning."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK499854/",
+        "externalFinding": "Seminal vesicles lie inferior to bladder fundus and superior to rectum, separated from rectum by Denonvilliers' fascia."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

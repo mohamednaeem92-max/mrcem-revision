@@ -1,0 +1,659 @@
+{
+  "generatedAt": "2026-08-27T03:36:28.718Z",
+  "batch": "anatomy-all-pdf-batch-53",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1572-q0047",
+      "sourcePage": 1572,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1572-q0047",
+        "sourcePage": 1572,
+        "stem": "ww A 49 year old presents to ED complaining of muscle weakness and clumsiness in the right hand, with slow and effortful speech. In which of the following lobes is the lesion most likely found: (Vv) Left frontal lobe 36% (x) Right frontal lobe 3%",
+        "options": [
+          "Right parietal lobe",
+          "Left parietal lobe",
+          "Left temporal lobe"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The patient exhibits motor weakness and expressive dysphasia. The lesion is most likely in the left frontal lobe. : Vv Frontal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1572-q0047",
+        "sourcePage": 1572,
+        "stem": "A 49 year old presents to ED complaining of muscle weakness and clumsiness in the right hand, with slow and effortful speech. In which of the following lobes is the lesion most likely found:",
+        "options": [
+          "Left frontal lobe",
+          "Right frontal lobe",
+          "Right parietal lobe",
+          "Left parietal lobe",
+          "Left temporal lobe"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Right-hand weakness with expressive dysphasia localizes to the dominant left frontal lobe.",
+        "learningNote": "Right-hand weakness with expressive dysphasia localizes to the dominant left frontal lobe.",
+        "highYieldNote": "Right-hand weakness with expressive dysphasia localizes to the dominant left frontal lobe.",
+        "mnemonic": "Left frontal: language plus opposite face/hand weakness.",
+        "memoryAid": {
+          "coreFact": "Right-hand weakness with expressive dysphasia localizes to the dominant left frontal lobe.",
+          "mnemonic": "Left frontal: language plus opposite face/hand weakness.",
+          "emojiCues": [
+            "🗣️",
+            "✋",
+            "⬅️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK559315/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK559315/",
+        "externalFinding": "NCBI aphasia anatomy and contralateral motor localization support the displayed key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1573-q0048",
+      "sourcePage": 1573,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1573-q0048",
+        "sourcePage": 1573,
+        "stem": "ww Which of the following clinical features is most suggestive of a lesion of the parietal lobe:",
+        "options": [
+          "Contralateral limb weakness",
+          "Expressive dysphasia (Vv) Hemispatial sensory neglect 70%",
+          "Receptive dysphasia"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Hemispatial sensory neglect is most likely to be associated with damage to the parietal lobe. Receptive dysphasia may be seen in damage to the Wernicke speech area in the temporal lobe. Expressive dysphasia may be seen in damage to the Broca speech area in the frontal lobe. Contralateral motor weakness is due to damage of the motor cortex of the frontal lobe. Homonymous hemianopia is most likely to occur in damage of the occipital lobe. “ v",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1573-q0048",
+        "sourcePage": 1573,
+        "stem": "Which of the following clinical features is most suggestive of a lesion of the parietal lobe:",
+        "options": [
+          "Contralateral limb weakness",
+          "Homonymous hemianopia",
+          "Expressive dysphasia",
+          "Hemispatial sensory neglect",
+          "Receptive dysphasia"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Hemispatial neglect is strongly associated with parietal-lobe dysfunction, particularly in the non-dominant hemisphere.",
+        "learningNote": "Hemispatial neglect is strongly associated with parietal-lobe dysfunction, particularly in the non-dominant hemisphere.",
+        "highYieldNote": "Hemispatial neglect is strongly associated with parietal-lobe dysfunction, particularly in the non-dominant hemisphere.",
+        "mnemonic": "Parietal neglects the opposite space.",
+        "memoryAid": {
+          "coreFact": "Hemispatial neglect is strongly associated with parietal-lobe dysfunction, particularly in the non-dominant hemisphere.",
+          "mnemonic": "Parietal neglects the opposite space.",
+          "emojiCues": [
+            "🧠",
+            "↔️",
+            "🚫"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "Source-confirmed anatomy fact",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537247/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537247/",
+        "externalFinding": "Standard cortical functional anatomy supports the displayed key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1574-q0049",
+      "sourcePage": 1574,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1574-q0049",
+        "sourcePage": 1574,
+        "stem": "ww What type of visual field defect are you most likely to see in a lesion at the optic chiasm: (Vv) Bitemporal hemianopia 89%",
+        "options": [
+          "Contralateral homonymous inferior quadrantanopia (x) Contralateral homonymous hemianopia 7%",
+          "Contralateral homonymous superior quadrantanopia",
+          "Homonymous hemianopia with macular sparing"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Alesion at the optic chiasm will result in a bitemporal hemianopia. Vv Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1574-q0049",
+        "sourcePage": 1574,
+        "stem": "What type of visual field defect are you most likely to see in a lesion at the optic chiasm:",
+        "options": [
+          "Bitemporal hemianopia",
+          "Contralateral homonymous inferior quadrantanopia",
+          "Contralateral homonymous hemianopia",
+          "Contralateral homonymous superior quadrantanopia",
+          "Homonymous hemianopia with macular sparing"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Optic-chiasm lesions classically cause bitemporal hemianopia by affecting crossing nasal retinal fibres.",
+        "learningNote": "Optic-chiasm lesions classically cause bitemporal hemianopia by affecting crossing nasal retinal fibres.",
+        "highYieldNote": "Optic-chiasm lesions classically cause bitemporal hemianopia by affecting crossing nasal retinal fibres.",
+        "mnemonic": "Chiasm cuts the crossing fields: both temporal fields go.",
+        "memoryAid": {
+          "coreFact": "Optic-chiasm lesions classically cause bitemporal hemianopia by affecting crossing nasal retinal fibres.",
+          "mnemonic": "Chiasm cuts the crossing fields: both temporal fields go.",
+          "emojiCues": [
+            "👁️",
+            "✖️",
+            "↔️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK545213/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK545213/",
+        "externalFinding": "NCBI supports the displayed key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1575-q0050",
+      "sourcePage": 1575,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1575-q0050",
+        "sourcePage": 1575,
+        "stem": "w A 68 year old lady was involved in a road traffic accident and describes a whiplash type injury. She has pain and tenderness in the cervical region and imaging shows a herniated disc in this region. The patient is complaining of weakness of elbow extension and loss of sensation over the middle finger. Which of the following spinal nerves is most likely affected: c",
+        "options": [
+          "Cé",
+          "c9 %"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Elbow extension is a predominant function of the C7 spinal nerve root, which also supplies sensation to skin over the middle of the hand. The important myotomes are shown below. Vv eat aa moe",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1575-q0050",
+        "sourcePage": 1575,
+        "stem": "A 68 year old lady was involved in a road traffic accident and describes a whiplash type injury. She has pain and tenderness in the cervical region and imaging shows a herniated disc in this region. The patient is complaining of weakness of elbow extension and loss of sensation over the middle finger. Which of the following spinal nerves is most likely affected:",
+        "options": [
+          "C5",
+          "C6",
+          "C7",
+          "C8",
+          "C9"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "C7 contributes to elbow extension through the triceps and sensory supply around the middle finger.",
+        "learningNote": "C7 contributes to elbow extension through the triceps and sensory supply around the middle finger.",
+        "highYieldNote": "C7 contributes to elbow extension through the triceps and sensory supply around the middle finger.",
+        "mnemonic": "C7: triceps and the middle finger.",
+        "memoryAid": {
+          "coreFact": "C7 contributes to elbow extension through the triceps and sensory supply around the middle finger.",
+          "mnemonic": "C7: triceps and the middle finger.",
+          "emojiCues": [
+            "💪",
+            "☝️",
+            "7️⃣"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "Source-confirmed anatomy fact",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK544267/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK544267/",
+        "externalFinding": "C7 myotome and dermatome localization supports the displayed key; no figure is required for the source question."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1576-q0051",
+      "sourcePage": 1576,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1576-q0051",
+        "sourcePage": 1576,
+        "stem": "w CSF is reabsorbed from subarachnoid space via which of the following structures:",
+        "options": [
+          "Subarachnoid cisterns",
+          "Cerebral aqueduct (Vv) Arachnoid granulations 27%",
+          "Choroid plexus"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "From the subarachnoid cisterns in the subarachnoid space, CSF is reabsorbed via arachnoid granulations which protrude into the dura mater, into the dural venous sinuses and from here back into the circulation. v Cerebrospinal Fluid ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1576-q0051",
+        "sourcePage": 1576,
+        "stem": "CSF is reabsorbed from subarachnoid space via which of the following structures:",
+        "options": [
+          "Subarachnoid cisterns",
+          "Foramen of Monro",
+          "Cerebral aqueduct",
+          "Arachnoid granulations",
+          "Choroid plexus"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Arachnoid granulations transfer CSF from the subarachnoid space into dural venous sinuses.",
+        "learningNote": "Arachnoid granulations transfer CSF from the subarachnoid space into dural venous sinuses.",
+        "highYieldNote": "Arachnoid granulations transfer CSF from the subarachnoid space into dural venous sinuses.",
+        "mnemonic": "Granulations drain CSF to venous sinuses.",
+        "memoryAid": {
+          "coreFact": "Arachnoid granulations transfer CSF from the subarachnoid space into dural venous sinuses.",
+          "mnemonic": "Granulations drain CSF to venous sinuses.",
+          "emojiCues": [
+            "💧",
+            "🧠",
+            "🩸"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "Source-confirmed anatomy fact",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+        "externalFinding": "Standard CSF physiology supports the displayed key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1579-q0052",
+      "sourcePage": 1579,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1579-q0052",
+        "sourcePage": 1579,
+        "stem": "ww Cerebrospinal fluid is primarily produced by which of the following structures:",
+        "options": [
+          "Cerebral aqueduct (Vv) Choroid plexus 86%",
+          "Interventricular foramen of Monro",
+          "Subarachnoid cisterns",
+          "Arachnoid granulations"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Cerebrospinal fluid is primarily produced by a structure called the choroid plexus in the lateral, third and fourth ventricles (the vast majority from the lateral plexuses). . Vv Cerebrospinal Fluid ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1579-q0052",
+        "sourcePage": 1579,
+        "stem": "Cerebrospinal fluid is primarily produced by which of the following structures:",
+        "options": [
+          "Cerebral aqueduct",
+          "Choroid plexus",
+          "Interventricular foramen of Monro",
+          "Subarachnoid cisterns",
+          "Arachnoid granulations"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "CSF is primarily produced by the choroid plexus, with most production arising from the lateral ventricular plexuses.",
+        "learningNote": "CSF is primarily produced by the choroid plexus, with most production arising from the lateral ventricular plexuses.",
+        "highYieldNote": "CSF is primarily produced by the choroid plexus, with most production arising from the lateral ventricular plexuses.",
+        "mnemonic": "Choroid plexus creates CSF.",
+        "memoryAid": {
+          "coreFact": "CSF is primarily produced by the choroid plexus, with most production arising from the lateral ventricular plexuses.",
+          "mnemonic": "Choroid plexus creates CSF.",
+          "emojiCues": [
+            "💧",
+            "🧠",
+            "🏭"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "Source-confirmed anatomy fact",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK532932/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532932/",
+        "externalFinding": "Standard CSF physiology supports the displayed key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1580-q0053",
+      "sourcePage": 1580,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1580-q0053",
+        "sourcePage": 1580,
+        "stem": "ww The Broca's speech area is located in which of the following regions:",
+        "options": [
+          "Occipital lobe (x) Parietal lobe 3% (Vv) Frontal lobe 86%",
+          "Temporal lobe",
+          "Brainstem"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The Broca's speech area, in the frontal lobe of the dominant hemisphere, is the ‘expressive’ centre for the production of speech. It is connected to the Wernicke's speech area by the arcuate fasciculus. : : v Frontal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1580-q0053",
+        "sourcePage": 1580,
+        "stem": "The Broca's speech area is located in which of the following regions:",
+        "options": [
+          "Occipital lobe",
+          "Parietal lobe",
+          "Frontal lobe",
+          "Temporal lobe",
+          "Brainstem"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Broca area lies in the inferior frontal region of the dominant hemisphere and supports speech production.",
+        "learningNote": "Broca area lies in the inferior frontal region of the dominant hemisphere and supports speech production.",
+        "highYieldNote": "Broca area lies in the inferior frontal region of the dominant hemisphere and supports speech production.",
+        "mnemonic": "Broca builds speech in the frontal lobe.",
+        "memoryAid": {
+          "coreFact": "Broca area lies in the inferior frontal region of the dominant hemisphere and supports speech production.",
+          "mnemonic": "Broca builds speech in the frontal lobe.",
+          "emojiCues": [
+            "🗣️",
+            "🧠",
+            "F"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK526096/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK526096/",
+        "externalFinding": "NCBI supports the displayed key; source apostrophe wording is retained literally."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1581-q0054",
+      "sourcePage": 1581,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1581-q0054",
+        "sourcePage": 1581,
+        "stem": "ww Which of the following clinical features is most suggestive of a lesion of the temporal lobe:",
+        "options": [
+          "Conjugate eye deviation towards the side of the lesion Srwrmanrenone",
+          "Expressive dysphasia",
+          "Hemispatial neglect (Vv) Receptive dysphasia 58%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Damage to the Wernicke's speech area in the temporal lobe can result in a receptive dysphasia. Hemispatial neglect is most likely to occur in a lesion of the parietal lobe. Homonymous hemianopia is most likely to occur in a lesion of the occipital lobe. Expressive dysphasia is most likely to occur in a lesion of the Broca speech area in the frontal lobe. Conjugate eye deviation towards the side of the lesion is most likely to occur in a lesion of the frontal lobe. “ v",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1581-q0054",
+        "sourcePage": 1581,
+        "stem": "Which of the following clinical features is most suggestive of a lesion of the temporal lobe:",
+        "options": [
+          "Conjugate eye deviation towards the side of the lesion",
+          "Homonymous hemianopia",
+          "Expressive dysphasia",
+          "Hemispatial neglect",
+          "Receptive dysphasia"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Receptive dysphasia is associated with dysfunction of the posterior temporal language area, traditionally termed Wernicke area.",
+        "learningNote": "Receptive dysphasia is associated with dysfunction of the posterior temporal language area, traditionally termed Wernicke area.",
+        "highYieldNote": "Receptive dysphasia is associated with dysfunction of the posterior temporal language area, traditionally termed Wernicke area.",
+        "mnemonic": "Wernicke receives meaning in the temporal lobe.",
+        "memoryAid": {
+          "coreFact": "Receptive dysphasia is associated with dysfunction of the posterior temporal language area, traditionally termed Wernicke area.",
+          "mnemonic": "Wernicke receives meaning in the temporal lobe.",
+          "emojiCues": [
+            "👂",
+            "🗣️",
+            "T"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK441951/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK441951/",
+        "externalFinding": "NCBI supports the displayed key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1582-q0055",
+      "sourcePage": 1582,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1582-q0055",
+        "sourcePage": 1582,
+        "stem": "w Which of the following clinical features would you least expect to see in a lesion of the frontal lobe:",
+        "options": [
+          "Primitive reflexes (x) Spastic paralysis of the contralateral leg 4% (Vv) Contralateral homonymous hemianopia with macular sparing 84%",
+          "Incontinence",
+          "Inability to problem solve"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Contralateral homonymous hemianopia with macular sparing results from damage to the primary visual cortex of the occipital lobe. Incontinence may occur due to damage of the cortical micturition centre in the prefrontal cortex. Primitive reflexes and inability to problem solve may occur due to damage to the prefrontal cortex. Motor weakness of the contralateral limb with UMN signs may occur due to damage of the primary motor cortex. v",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1582-q0055",
+        "sourcePage": 1582,
+        "stem": "Which of the following clinical features would you least expect to see in a lesion of the frontal lobe:",
+        "options": [
+          "Primitive reflexes",
+          "Spastic paralysis of the contralateral leg",
+          "Contralateral homonymous hemianopia with macular sparing",
+          "Incontinence",
+          "Inability to problem solve"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Contralateral homonymous hemianopia with macular sparing is classically an occipital visual-cortex sign, not a typical frontal-lobe sign.",
+        "learningNote": "Contralateral homonymous hemianopia with macular sparing is classically an occipital visual-cortex sign, not a typical frontal-lobe sign.",
+        "highYieldNote": "Contralateral homonymous hemianopia with macular sparing is classically an occipital visual-cortex sign, not a typical frontal-lobe sign.",
+        "mnemonic": "Occipital sees fields; frontal plans and moves.",
+        "memoryAid": {
+          "coreFact": "Contralateral homonymous hemianopia with macular sparing is classically an occipital visual-cortex sign, not a typical frontal-lobe sign.",
+          "mnemonic": "Occipital sees fields; frontal plans and moves.",
+          "emojiCues": [
+            "👁️",
+            "🧠",
+            "🚫"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK544320/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK544320/",
+        "externalFinding": "NCBI occipital-lobe anatomy supports the displayed key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1583-q0056",
+      "sourcePage": 1583,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1583-q0056",
+        "sourcePage": 1583,
+        "stem": "ww Which of the following is most likely to cause a bitemporal hemianopia:",
+        "options": [
+          "Penetrating injury to the eye",
+          "Pituitary adenoma",
+          "Stroke",
+          "Frontal lobe tumour",
+          "Glaucoma"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "A bitemporal hemianopia is most likely due to compression at the optic chiasm. This may be caused by pituitary tumour, craniopharyngioma, meningioma, optic glioma or aneurysm of the internal carotid artery. j v Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1583-q0056",
+        "sourcePage": 1583,
+        "stem": "Which of the following is most likely to cause a bitemporal hemianopia:",
+        "options": [
+          "Penetrating injury to the eye",
+          "Pituitary adenoma",
+          "Stroke",
+          "Frontal lobe tumour",
+          "Glaucoma"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "A pituitary adenoma can compress the optic chiasm and cause bitemporal hemianopia.",
+        "learningNote": "A pituitary adenoma can compress the optic chiasm and cause bitemporal hemianopia.",
+        "highYieldNote": "A pituitary adenoma can compress the optic chiasm and cause bitemporal hemianopia.",
+        "mnemonic": "Pituitary pressure hits the chiasm.",
+        "memoryAid": {
+          "coreFact": "A pituitary adenoma can compress the optic chiasm and cause bitemporal hemianopia.",
+          "mnemonic": "Pituitary pressure hits the chiasm.",
+          "emojiCues": [
+            "👁️",
+            "✖️",
+            "🔴"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK545213/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK545213/",
+        "externalFinding": "NCBI supports the displayed key and source explanation."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

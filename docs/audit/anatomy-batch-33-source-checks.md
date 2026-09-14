@@ -1,0 +1,16 @@
+# Anatomy Batch 33 Source-Page Checks
+
+The original `Anatomy-All.pdf` pages control literal wording, option order, and displayed answer marks. External evidence is assessed separately.
+
+| Source page | Record | Direct source-page recovery | Marked answer | Initial disposition |
+|---:|---|---|---:|---|
+| 1033 | `p1033-q0086` | Stem: “Which of the following structures is NOT retroperitoneal:” Options: Abdominal oesophagus; Adrenal glands; Ascending colon; Descending colon; Proximal duodenum. | Index 4, Proximal duodenum | Evidence review required |
+| 1036 | `p1036-q0087` | Stem: “The lumbar plexus is formed predominantly from the anterior rami of:” Options: L2 - L3; L1 - L5; L1 - L4; L1 - L2; L2 - L5. | Index 2, L1 - L4 | Evidence review required |
+| 1040 | `p1040-q0088` | Stem: “In men, the external urethral sphincter surrounds which of the following structures:” Options: Preprostatic urethra; Prostatic urethra; Membranous urethra; Spongy urethra; External urethral orifice. | Index 2, Membranous urethra | Evidence review required |
+| 1044 | `p1044-q0089` | Stem: “A 65 year old lady complains of faecal incontinence. Dysfunction of which of the following structures is most likely a contributing factor to her symptoms:” Options: Pectineus muscle; Puborectalis muscle; Iliococcygeus muscle; Transverse perineal muscles; Coccygeus muscle. | Index 1, Puborectalis muscle | Evidence review required |
+| 1048 | `p1048-q0090` | Stem: “A 29 year old rugby player presents to ED complaining of left flank pain. Imaging shows a fracture of the angle of the twelfth rib on the left side. Which of the following organs, based on surface anatomy, is most at risk for injury:” Options: Spleen; Left kidney; Pancreas; Stomach; Transverse colon. | Index 1, Left kidney | Evidence review required |
+| 1050 | `p1050-q0092` | Stem: “A 65 year old woman presents to ED complaining of fever, right upper quadrant pain, and jaundice. Imaging shows an obstructing gallstone. Which of the following structures is most likely obstructed by the gallstone:” Options: Pancreatic duct; Cystic duct; Left hepatic duct; Common bile duct; Right hepatic duct. | Index 3, Common bile duct | Evidence review required |
+| 1053 | `p1053-q0093` | Stem: “The deep inguinal ring is an 'opening' in which of the following structures:” Options: External oblique aponeurosis; Internal oblique aponeurosis; Transversus abdominis aponeurosis; Rectus abdominis aponeurosis; Transversalis fascia. | Index 4, Transversalis fascia | Evidence review required |
+| 1057 | `p1057-q0094` | Stem: “The ureters arise at which of the following vertebral levels:” Options: T10; T11; T12; L1; L2. | Index 3, L1 | Evidence review required |
+| 1060 | `p1060-q0095` | Stem: “Pain in the jejunum and ileum is typically referred to which of the following regions:” Options: Flank; Epigastrium; Left upper quadrant; Right lower quadrant; Umbilical region. | Index 4, Umbilical region | Evidence review required |
+| 1063 | `p1063-q0096` | Stem: “The psoas major muscle is innervated by which of the following:” Options: Iliohypogastric nerve; Ilioinguinal nerve; Anterior rami of L1 - L3; Femoral nerve; Anterior rami of L2 - L4. | Index 2, Anterior rami of L1 - L3 | Evidence review required |

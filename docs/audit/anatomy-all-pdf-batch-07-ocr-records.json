@@ -1,0 +1,338 @@
+{
+  "exportedAt": "2026-08-22T15:01:23.449Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-07",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      262,
+      266,
+      269,
+      272,
+      277,
+      280,
+      283,
+      288,
+      292,
+      296
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0262-q0064",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "we A311 year old man is brought to ED following a road traffic accident in which he was wearing his seatbelt. Imaging shows a fracture of the left ninth and tenth rib with intra-abdominal bleeding. Which of the following organs is most likely injured:",
+      "options": [
+        "Liver 2%",
+        "Pancreas 0% (v’) Spleen 94%",
+        "Left kidney 3%",
+        "Left colic flexure 1%"
+      ],
+      "correctOption": null,
+      "explanation": "The spleen rests against the diaphragm and ribs 9 - 11 in the left hypochondriac region. The left colic flexure lies inferior to the spleen. The left kidney lies retroperitoneally approximately at the level of T11 to L3 vertebra. The liver lies predominantly in the right hypochondrium and epigastrium (although a small portion protrudes into the left hypochondrium below the diaphragm). The head of the pancreas lies in front of L2 vertebra, the body lies in front of L1 vertebra, and the tail lies at the level of T12 vertebra. : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 262,
+      "sourceQuestionNumber": 64
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0266-q0065",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Regarding the internal oblique muscle, which of the following statements is CORRECT:",
+      "options": [
+        "The lower free border of the internal oblique aponeurosis forms the inguinal ligament. 8%",
+        "The internal oblique lies deep to the transversus abdominis muscle. 5% (x) its fibres run in a inferomedial direction. Ws",
+        "It originates from the medial third of the inguinal ligament. 5%",
+        "It inserts onto the lower 3 - 4 ribs and the pubic crest."
+      ],
+      "correctOption": 3,
+      "explanation": "The internal oblique muscle lies deep to the external oblique and superficial to the transversus abdominis. Its fibres run in a superomedial direction, originating from the thoracolumbar fascia, the iliac crest and the lateral two-thirds of the inguinal ligament and inserting onto the inferior border of the lower 3 - 4 ribs, the linea alba, the pubic crest and pectineal line. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 266,
+      "sourceQuestionNumber": 65
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0269-q0066",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww A 21 year old man presents to ED complaining of a scrotal lump. Imaging demonstrates a testicular tumour. The lymphatic drainage of the testis is to which of the following:",
+      "options": [
+        "Internal iliac nodes 53%",
+        "External iliac nodes 1%",
+        "Superficial inguinal nodes 5%",
+        "Deep inguinal nodes",
+        "Para-aortic nodes"
+      ],
+      "correctOption": 4,
+      "explanation": "The lymphatic drainage of the testis is to the lumbar (para-aortic) nodes in the abdomen, in contrast to that of the scrotum which drains to the superficial inguinal nodes. : v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 269,
+      "sourceQuestionNumber": 66
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0272-q0067",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The ilioinguinal nerve is formed from the anterior rami of:",
+      "options": [
+        "u",
+        "{4 =L2 61%",
+        "L2 1% SE",
+        "L4 1%"
+      ],
+      "correctOption": 0,
+      "explanation": "The ilioinguinal nerve is formed from the anterior rami of L1. It innervates the internal oblique and transversus abdominis muscles and supplies skin over the upper medial thigh and the genitalia. : vw",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 272,
+      "sourceQuestionNumber": 67
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0277-q0068",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "w The retroduodenal region of the common bile duct:",
+      "options": [
+        "lies left of the gastroduodenal artery. 3% (x) lies posterior to the portal vein. 4%",
+        "lies posterior to the first part of the duodenum",
+        "empties directly into the major duodenal papilla. 4%",
+        "lies posterior to the second part of the duodenum. 62%"
+      ],
+      "correctOption": 1,
+      "explanation": "The retroduodenal region is the middle one-third of the common bile duct which lies posterior to the first part of the duodenum. The gastroduodenal artery lies on its left aspect and the portal vein on its posterior aspect. : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 277,
+      "sourceQuestionNumber": 68
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0280-q0069",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Which of the following structures is NOT retroperitoneal:",
+      "options": [
+        "Rectum 6%",
+        "Ureters 4%",
+        "Tail of pancreas",
+        "Kidneys 1%"
+      ],
+      "correctOption": 2,
+      "explanation": "The tail of the pancreas is intraperitoneal. : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 280,
+      "sourceQuestionNumber": 69
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0283-q0070",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Which of the following structures is NOT a posterior relation of the transverse colon:",
+      "options": [
+        "Second part of duodenum",
+        "Upper end of mesentery",
+        "Duodenojejunal flexure"
+      ],
+      "correctOption": null,
+      "explanation": "The transverse colon is related posteriorly to the second part of duodenum, the head of pancreas, the upper end of the mesentery, the duodenojejunal flexure and coils of jejunum and ileum. The spleen lies superior to the left colic flexure. [= eee] Py Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 283,
+      "sourceQuestionNumber": 70
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0288-q0071",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww In men, the internal urethral sphincter surrounds which of the following structures:",
+      "options": [
+        "Preprostatic urethra",
+        "Membranous urethra 60%",
+        "Spongy urethra 3%",
+        "Distal ureter 1%"
+      ],
+      "correctOption": 0,
+      "explanation": "The preprostatic part of the urethra is about 1 cm long, extending from the base of the bladder to the prostate and is associated with the internal urethral sphincter (which prevents retrograde movement of semen into the bladder during ejaculation). Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 288,
+      "sourceQuestionNumber": 71
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0292-q0072",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 26 year old woman is brought to ED following a road traffic accident. Focussed assessment for sonography in trauma (FAST) on the supine patient demonstrates free intraperitoneal fluid. Which of the following spaces is most likely to be affected:",
+      "options": [
+        "Vesicouterine recess",
+        "Left paracolic gutter",
+        "Subphrenic recess"
+      ],
+      "correctOption": null,
+      "explanation": "In a supine patient, fluid accumulation will occur most often in the hepatorenal pouch (of Morrison), which is the lowest space in the peritoneal cavity in the supine position, located behind the liver and anterior to the right kidney. The vesicouterine (between the bladder and the uterus) and rectouterine (between the uterus and the rectum) spaces are also potential spaces for fluid accumulation, however fluid accumulation occurs in the erect position. js ae] Py Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 292,
+      "sourceQuestionNumber": 72
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0296-q0073",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 21 year old female presents to ED complaining of acute severe pelvic pain. She reports she has not had a period for 6 weeks which is not normal for her. A urine pregnancy test is positive. Which of the following is the most common site of an ectopic pregnancy:",
+      "options": [
+        "Cervix (x) The mesentery 1%",
+        "Vagina",
+        "Ovaries"
+      ],
+      "correctOption": null,
+      "explanation": "The endometrium in the fundus of the uterus is the normal site of implantation. Ectopic pregnancy most commonly occurs in the uterine tubes, more precisely in the ampulla of the uterine tubes. [< |se |aeeeaen | P v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 296,
+      "sourceQuestionNumber": 73
+    }
+  ]
+}

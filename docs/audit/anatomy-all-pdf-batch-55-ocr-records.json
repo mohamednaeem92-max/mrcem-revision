@@ -1,0 +1,343 @@
+{
+  "exportedAt": "2026-08-27T03:44:03.972Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-55",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1596,
+      1597,
+      1598,
+      1599,
+      1600,
+      1601,
+      1602,
+      1603,
+      1604,
+      1605
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1596-q0066",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following brainstem nuclei is NOT located in the pons:",
+      "options": [
+        "Facial nucleus",
+        "Trigeminal nuclei",
+        "Vestibulocochlear nuclei (Vv) Trochlear nucleus 72%"
+      ],
+      "correctOption": null,
+      "explanation": "The pons houses nuclei of the trigeminal nerve, the abducens nerve, the facial nerve and the vestibulocochlear nerve. The trochlear nucleus (together with the oculomotor nucleus) lies in the midbrain. , Vv Brainstem ANATOMY / CENTRAL NERVOUS SYSTEM 11 Ranimart",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1596,
+      "sourceQuestionNumber": 66
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1597-q0067",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww A 25 year old woman presents to ED complaining of unsteadiness of her feet and slurred speech. On examination she demonstrates past-pointing, she is unable to perform the heel-shin test and she has nystagmus. The lesion would most likely be in the:",
+      "options": [
+        "Occipital lobe",
+        "Frontal lobe (Vv) Cerebellum 90%",
+        "Parietal lobe",
+        "Temporal lobe"
+      ],
+      "correctOption": null,
+      "explanation": "Cerebellar dysfunction is characterised by DANISH signs: e Dysmetria (past-pointing) and Dysdiadochokinesia (inability to perform rapid alternating movements) e Ataxia (lack of coordination of gait, trunk and limbs) e Nystagmus e Intention tremor © Slow/Slurred/Scanning Speech e Hypotonia",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1597,
+      "sourceQuestionNumber": 67
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1598-q0068",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww What of the following type of visual field defect are you most likely to see in a lesion of the optic radiation in the right parietal lobe:",
+      "options": [
+        "Left homonymous hemianopia (Vv) Left homonymous inferior quadrantanopia 76% (x) Right homonymous inferior quadrantanopia 8%",
+        "Left homonymous superior quadrantanopia",
+        "Right homonymous superior quadrantanopia"
+      ],
+      "correctOption": null,
+      "explanation": "The fibres of the upper part of the optic radiation (serving the lower quadrant of the contralateral visual field) pass deep within the parietal lobe. Vv Parietal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM 11 Ranimart",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1598,
+      "sourceQuestionNumber": 68
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1599-q0069",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww A 40 year old female presents to ED complaining of complete visual loss in her right eye. On fundoscopy you note a pale retina and a cherry red spot. You suspect an emboli. Which of the following blood vessels is most likely the source of the emboli:",
+      "options": [
+        "Anterior cerebral artery (x) Middl cerebral artery 8%",
+        "Posterior cerebral artery (Vv) Internal carotid artery 56%",
+        "External carotid artery"
+      ],
+      "correctOption": null,
+      "explanation": "The internal carotid artery is the most likely source of the emboli. The ophthalmic artery arises from the internal carotid artery and supplies structures in the orbit and eyeball. The central retinal artery is the most important branch of the ophthalmic artery, supplying the retina and the optic disc. The central retinal artery is an end artery that does not anastomose with other arteries, and thus its occlusion results in monocular blindness. : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1599,
+      "sourceQuestionNumber": 69
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1600-q0070",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "w What type of visual field defect are you most likely to see in a lesion of the parietal optic radiation: (x) Bitemporal hemianopia 2% (Vv) Contralateral homonymous inferior quadrantanopia 81%",
+      "options": [
+        "Contralateral homonymous hemianopia",
+        "Contralateral homonymous superior quadrantanopia",
+        "Homonymous hemianopia with macular sparing"
+      ],
+      "correctOption": null,
+      "explanation": "Alesion of the parietal optic radiation will result in a contralateral homonymous inferior quadrantanopia. Vv Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1600,
+      "sourceQuestionNumber": 70
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1601-q0071",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Transection of the anterolateral tract of the spinal cord results in which of the following clinical features:",
+      "options": [
+        "Cerebellar incoordination (Vv) Loss of pain and temperature sensation 1%",
+        "Loss of proprioception",
+        "Loss of vibration and fine-touch sensation",
+        "Complete flaccid paralysis"
+      ],
+      "correctOption": null,
+      "explanation": "Transection of the anterolateral tract results in contralateral loss of pain and temperature sensations, starting one segment below the lesion. . v Spinal Cord Tracts ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1601,
+      "sourceQuestionNumber": 71
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1602-q0072",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww A 65 year old lady presents to ED complaining of sudden onset visual loss. On examination you demonstrate visual loss on the right side of the vertical midline with macular sparing in both eyes. Which of the following blood vessels is most likely occluded:",
+      "options": [
+        "Posterior communicating artery",
+        "Posterior inferior cerebellar artery",
+        "Posterior cerebral artery",
+        "Anterior cerebral artery",
+        "Middle cerebral artery"
+      ],
+      "correctOption": 2,
+      "explanation": "The posterior cerebral artery supplies blood to the visual cortex in the occipital lobe. A lesion to this area will result in a contralateral homonymous hemianopia with macular sparing. . Vv Arterial Supply of Brain",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1602,
+      "sourceQuestionNumber": 72
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1603-q0073",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww A 65 year old lady , with a history of hypertension and diabetes mellitus, presents to ED with a 1 hour history of sudden onset of weakness and numbness solely in her left leg and foot. She is placed on the stroke pathway. Which of the following blood vessels has most likely been occluded:",
+      "options": [
+        "Middle cerebral artery",
+        "Anterior cerebral artery (x) Posterior cerebral artery 4%",
+        "Vertebral artery",
+        "Anterior choroidal artery"
+      ],
+      "correctOption": 1,
+      "explanation": "The anterior cerebral artery supplies the medial cerebral hemisphere including the paracentral lobule which is formed from portions of the frontal and parietal lobes, and responsible for the motor and sensory function of the lower limb. v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1603,
+      "sourceQuestionNumber": 73
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1604-q0074",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww You are performing a full neurological examination on a patient who has presented to the ED department with generalised weakness. You note she has a unilateral absence of her triceps reflex. Which spinal nerve is primarily responsible for this reflex:",
+      "options": [
+        "cs",
+        "cs",
+        "1"
+      ],
+      "correctOption": null,
+      "explanation": "The triceps tendon reflex tap predominantly tests spinal cord segment C7. Vv Myotomes and Reflexes ANATOMY / CENTRAL NERVOUS SYSTEM / LOWER LIMB / INNERVATION OF LOWER LIMB /",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1604,
+      "sourceQuestionNumber": 74
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1605-q0075",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The primary visual cortex is located in which of the following regions: (/) Occipital lobe 89% (x) Parietal lobe 2%",
+      "options": [
+        "Frontal lobe",
+        "Temporal lobe",
+        "Brainstem"
+      ],
+      "correctOption": null,
+      "explanation": "The primary visual cortex is located within the occipital lobe and together with the visual association cortex is responsible for vision. ‘ . Vv Occipital Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1605,
+      "sourceQuestionNumber": 75
+    }
+  ]
+}

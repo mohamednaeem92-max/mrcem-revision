@@ -1,0 +1,341 @@
+{
+  "exportedAt": "2026-08-22T15:25:10.683Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-09",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      340,
+      345,
+      350,
+      353,
+      357,
+      361,
+      365,
+      367,
+      370,
+      374
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0340-q0084",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The stomach lies anterior to all of the following structures EXCEPT for the:",
+      "options": [
+        "Pancreas",
+        "Transverse mesocolon",
+        "Spleen"
+      ],
+      "correctOption": null,
+      "explanation": "The left lobe of the liver lies anterior to the stomach. <= a] a Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 340,
+      "sourceQuestionNumber": 84
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0345-q0085",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Ld Which of the following parts of the male urethra passes through the urogenital diaphragm:",
+      "options": [
+        "Preprostatic urethra 10%",
+        "Prostatic urethra 9%",
+        "Membranous urethra",
+        "Spongy urethra 6% (x) Urethral crest 2%"
+      ],
+      "correctOption": 2,
+      "explanation": "The membranous part of the urethra is the narrowest part and passes through the urogenital diaphragm. During its transit through the pelvic floor, in both men and women, it is surrounded by skeletal muscle of the external urethral sphincter. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 345,
+      "sourceQuestionNumber": 85
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0350-q0086",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Which of the following structures is NOT retroperitoneal: (x) Abdominal oesophagus 9%",
+      "options": [
+        "Adrenal glands",
+        "Ascending colon",
+        "Descending colon"
+      ],
+      "correctOption": null,
+      "explanation": "The second and third parts of the duodenum are retroperitoneal, the first part is intraperitoneal. gesc Py] Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 350,
+      "sourceQuestionNumber": 86
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0353-q0087",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The lumbar plexus is formed predominantly from the anterior rami of:",
+      "options": [
+        "L2-L3",
+        "L1-L2",
+        "Ee L5"
+      ],
+      "correctOption": null,
+      "explanation": "The lumbar plexus is formed by the anterior rami of nerves L1 - L3 and most of the anterior ramus of L4. It also receives a contribution from the T12 (subcostal) nerve. Cs eee] P Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 353,
+      "sourceQuestionNumber": 87
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0357-q0088",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww In men, the external urethral sphincter surrounds which of the following structures:",
+      "options": [
+        "Preprostatic urethra 8%",
+        "Membranous urethra",
+        "Spongy urethra 16%",
+        "External urethral orifice 13%"
+      ],
+      "correctOption": 1,
+      "explanation": "The membranous part of the urethra is the narrowest part and passes through the urogenital diaphragm. During its transit through the pelvic floor, in both men and women, the urethra is surrounded by skeletal muscle of the external urethral sphincter. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 357,
+      "sourceQuestionNumber": 88
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0361-q0089",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 65 year old lady complains of faecal incontinence. Dysfunction of which of the following structures is most likely a contributing factor to her symptoms:",
+      "options": [
+        "Pectineus muscle",
+        "lliococcygeus muscle Sporeserimnde",
+        "Coccygeus muscle"
+      ],
+      "correctOption": null,
+      "explanation": "The levator ani muscle consists of two major portions , the pubococcygeus and iliococcygeus, which help support the pelvic viscera and resist increases in intra- abdominal pressure. The puborectalis is the most medial and inferior portion of the pubococcygeus which forms a loop around the anorectal junction which helps maintain an anorectal angle at around 90 degrees. To facilitate defaecation, the puborectalis muscle relaxes, decreasing the angle between the ampulla of the rectum and the upper portion of the anal canal. Gocco PT Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 361,
+      "sourceQuestionNumber": 89
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0365-q0090",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 29 year old rugby player presents to ED complaining of left flank pain. Imaging shows a fracture of the angle of the twelfth rib on the left side. Which of the following organs, based on surface anatomy, is most at risk for injury:",
+      "options": [
+        "Spleen",
+        "Pancreas",
+        "Stomach"
+      ],
+      "correctOption": null,
+      "explanation": "The kidneys lies retroperitoneally on the posterior abdominal wall, one on each side of the vertebral column at the level of the T12 - L3 vertebrae, the left kidney reaching as high as the eleventh rib posteriorly. The spleen superior to the kidneys and adjacent to ribs 9 to 11. The liver is located primarily on the right side of the body and lies around the level of the fifth to tenth ribs. The pancreas is predominantly located in the midline, more medial the kidneys, at the level of the eleventh to twelfth ribs. Cc) Se wen] a v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 365,
+      "sourceQuestionNumber": 90
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0367-q0092",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 65 year old woman presents to ED complaining of fever, right upper quadrant pain, and jaundice. Imaging shows an obstructing gallstone. Which of the following structures is most likely obstructed by the gallstone:",
+      "options": [
+        "Pancreatic duct",
+        "Cystic duct",
+        "Left hepatic duct (x) Right hepatic duct 1%"
+      ],
+      "correctOption": null,
+      "explanation": "Jaundice results from obstruction to the outflow of bile. Obstruction of the common bile duct allows no collateral pathway for the drainage of bile from the liver or gallbladder. The cystic duct would block outflow from the gallbladder but allow for bile flow from the liver. Obstruction of either the right or left hepatic duct would still allow outflow from the liver and gallbladder. The pancreatic duct is not involved in the path of bile flow from the liver to the duodenum. Cc) Se weer | Py] Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 367,
+      "sourceQuestionNumber": 92
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0370-q0093",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The deep inguinal ring is an ‘opening’ in which of the following structures:",
+      "options": [
+        "External oblique aponeurosis 10%",
+        "Internal oblique aponeurosis 7%",
+        "Transversus abdominis aponeurosis 1%",
+        "Rectus abdominis aponeurosis 2%",
+        "Transversalis fascia"
+      ],
+      "correctOption": 4,
+      "explanation": "The deep inguinal ring, the opening in the transversalis fascia, is the beginning of the inguinal canal. : v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 370,
+      "sourceQuestionNumber": 93
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0374-q0094",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The ureters arise at which of the following vertebral levels:",
+      "options": [
+        "T10 2%",
+        "™ oo",
+        "m2 55%",
+        "at ”"
+      ],
+      "correctOption": null,
+      "explanation": "The ureters are continuous superiorly with the renal pelvis at the ureteropelvic junction (at the level of the renal hilum, vertebra L1). . / , Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 374,
+      "sourceQuestionNumber": 94
+    }
+  ]
+}

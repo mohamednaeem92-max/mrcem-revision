@@ -1,0 +1,59 @@
+{
+  "generatedAt": "2026-08-27T21:40:02.072Z",
+  "totalRecords": 4454,
+  "byRecordType": {
+    "approved_pilot": 4,
+    "ocr_draft": 4450
+  },
+  "bySubject": [
+    [
+      "Anatomy",
+      2408
+    ],
+    [
+      "Evidence-based medicine",
+      137
+    ],
+    [
+      "Microbiology",
+      291
+    ],
+    [
+      "Pathology",
+      257
+    ],
+    [
+      "Pharmacology",
+      503
+    ],
+    [
+      "Physiology",
+      858
+    ]
+  ],
+  "byAuditStatus": [
+    [
+      "manual_source_review_required",
+      3770
+    ],
+    [
+      "needs_source_confirmation",
+      10
+    ],
+    [
+      "source_page_and_external_evidence_verified_ocr_draft",
+      670
+    ],
+    [
+      "source_reviewed",
+      4
+    ]
+  ],
+  "ocrDetectedKeys": 1193,
+  "noDetectedKey": 3257,
+  "correctOptionInRange": 1197,
+  "withSourceLink": 4450,
+  "withOcrSignals": 3610,
+  "withHighYieldNote": 676,
+  "withMnemonic": 676
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "schemaVersion": 1,
+    "id": "ebm-statistics-001",
+    "reviewStatus": "approved",
+    "reviewNotes": "Verified against EBM-All.pdf page 1.",
+    "source": "EBM-All.pdf",
+    "sourcePage": 1,
+    "sourceQuestionNumber": 1,
+    "sourceImage": "images/page-0001.png",
+    "subject": "Evidence-based medicine",
+    "topic": "Statistics",
+    "stem": "Regarding the mean, which of the following statements is INCORRECT?",
+    "options": [
+      "The mean is calculated by summing all of the values of a data set and dividing this by the number of observations in the data set.",
+      "The mean is typically used to compare outcomes in normally distributed data.",
+      "The mean is not affected by outliers.",
+      "The mean is calculated using all of the data values.",
+      "In a normal distribution the mean is equal to the median."
+    ],
+    "correctOption": 2,
+    "explanation": "The mean is the arithmetic average. It uses every value in the data set, so outlying values and skewed distributions can distort it. In a normal distribution, the mean and median are equal.",
+    "learningNote": "For skewed data or data with important outliers, the median usually gives a more representative measure of central tendency.",
+    "tags": ["mean", "median", "outliers", "central tendency"],
+    "needsReview": false,
+    "draftWarnings": [],
+    "rawOcr": "Fixture derived from reviewed source content.",
+    "questionOcr": "",
+    "explanationOcr": "",
+    "hasAnswerMarker": true
+  }
+]

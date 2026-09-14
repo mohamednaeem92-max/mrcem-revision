@@ -1,0 +1,339 @@
+{
+  "exportedAt": "2026-08-22T16:12:44.279Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-13",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      484,
+      489,
+      493,
+      497,
+      498,
+      500,
+      505,
+      506,
+      511,
+      512
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0484-q0126",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The sigmoid colon extends as low as which of the following vertebral levels:",
+      "options": [
+        "L5 1%",
+        "s1 18%",
+        "s2 18%"
+      ],
+      "correctOption": null,
+      "explanation": "The colon enters the upper part of the pelvis as the sigmoid colon, which begins above the pelvic inlet and extends to the level of vertebra S3 where it is continuous with the rectum. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 484,
+      "sourceQuestionNumber": 126
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0489-q0127",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The mesentery connects which of the following structures to the posterior abdominal wall:",
+      "options": [
+        "Transverse colon 62%",
+        "Stomach 3%",
+        "Jejunum and ileum",
+        "Duodenum 5%"
+      ],
+      "correctOption": 2,
+      "explanation": "The mesentery is a large, fan-shaped, double-layered fold of peritoneum that connects the jejunum and ileum to the posterior abdominal wall. Its superior attachment is at the duodenojejunal junction, just to the left of the upper lumbar part of the vertebral column. It passes obliquely downwards and to the right, ending at the ileocaecal junction near the upper border of the right sacroiliac joint. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 489,
+      "sourceQuestionNumber": 127
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0493-q0128",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The third part of the duodenum lies at which of the following vertebral levels:",
+      "options": [
+        "T12",
+        "u 5%",
+        "L4"
+      ],
+      "correctOption": null,
+      "explanation": "The inferior (third) part is the longest section, crossing the inferior vena cava, the aorta and the vertebral column at the level of vertebra L3 and lying inferior to the pancreas. Cc | Se [eee] Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 493,
+      "sourceQuestionNumber": 128
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0497-q0129",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The lumbar plexus forms within which of the following muscles:",
+      "options": [
+        "Rectus abdominis 4%",
+        "Pyramidalis 3%",
+        "lliacus 5%",
+        "Quadratus lumborum 7%"
+      ],
+      "correctOption": null,
+      "explanation": "The lumbar plexus forms within the substance of the psoas major muscle, anterior to its attachment to the transverse processes of the lumbar vertebrae. ; Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 497,
+      "sourceQuestionNumber": 129
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0498-q0130",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The ejaculatory ducts open into which of the following structures:",
+      "options": [
+        "Prostate 3%",
+        "Preprostatic urethra 10%",
+        "Prostatic urethra",
+        "Spongy urethra 3%"
+      ],
+      "correctOption": 2,
+      "explanation": "The ejaculatory duct is formed where the duct from the seminal vesicle joins the ductus deferens. The ejaculatory duct penetrates through the prostate gland to connect with the prostatic urethra. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 498,
+      "sourceQuestionNumber": 130
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0500-q0131",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Which of the following best describes the regions of the abdomen that the stomach occupies: @",
+      "options": [
+        "Left hypochondrium",
+        "Epigastric, umbilical and left hypochondriac regions",
+        "Epigastric region and left hypochondrium",
+        "Epigastric and right and left hypochondriac regions"
+      ],
+      "correctOption": 1,
+      "explanation": "The stomach is in the epigastric, umbilical and left hypochandriac regions of the abdomen. Ce) Se Taweo | a Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 500,
+      "sourceQuestionNumber": 131
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0505-q0132",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "w The pancreas occupies which of the following abdominal regions:",
+      "options": [
+        "Left hypochondrium and left flank 1%",
+        "Left hypochondrium 2%",
+        "Left hypochondrium and epigastrium",
+        "Epigastrium and umbilicus"
+      ],
+      "correctOption": 2,
+      "explanation": "The pancreas lies mostly posterior to the stomach. It extends across the posterior abdominal wall from the duodenum on the right, to the spleen on the left. It lies in the epigastric region and left hypochondrium. f ( ‘ - : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 505,
+      "sourceQuestionNumber": 132
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0506-q0133",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Visceral afferent fibres from the descending and sigmoid colon travel to which of the following spinal cord segments:",
+      "options": [
+        "16-18 a",
+        "T8- 110 oe (vi 12 41%",
+        "L3-L4"
+      ],
+      "correctOption": null,
+      "explanation": "The visceral pain sensation from the ascending and transverse colon travels through the lesser splanchnic nerve to the T10 - T11 spinal cord segments hence pain is referred to the umbilical and hypogastric regions. Pain from the descending and sigmoid colon is carried in the lumbar splanchnic nerves to the L1 and L2 spinal cord segments hence pain is referred to the inguinal region and thigh. ‘ ? v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 506,
+      "sourceQuestionNumber": 133
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0511-q0134",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The second part of the duodenum extends between which of the following vertebral levels:",
+      "options": [
+        "112-11",
+        "L1-L2",
+        "a2 = L2"
+      ],
+      "correctOption": null,
+      "explanation": "The descending (second) part is just to the right of the midline, extending from the neck of the gallbladder, at vertebral level L1 to the lower border of vertebra L3 and lying lateral to the head of the pancreas. This part contains the major duodenal papilla which is the common entrance for the bile and pancreatic ducts. P<) Se ewer | a Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 511,
+      "sourceQuestionNumber": 134
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0512-q0135",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Visceral afferent fibres from the testes usually travel to which of the following spinal cord levels: (v 10-14 40%",
+      "options": [
+        "9-112",
+        "11-13 17%",
+        "L2-L4 14%"
+      ],
+      "correctOption": null,
+      "explanation": "The testes receive their autonomic nerve supply from the testicular plexus. Visceral afferent fibres usually follow the sympathetic fibres to spinal cord levels T10 - L1; pain is thus referred to the periumbilical region, suprapubic region and groin. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 512,
+      "sourceQuestionNumber": 135
+    }
+  ]
+}

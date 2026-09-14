@@ -1,0 +1,341 @@
+{
+  "exportedAt": "2026-08-26T04:52:28.934Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-51",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1543,
+      1544,
+      1545,
+      1550,
+      1551,
+      1552,
+      1553,
+      1554,
+      1555,
+      1556
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1543-q0027",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The substantia nigra is located in which of the following regions of the brain:",
+      "options": [
+        "Medulla oblongata",
+        "Pons",
+        "Internal capsule",
+        "Midbrain"
+      ],
+      "correctOption": 3,
+      "explanation": "The midbrain contains the substantia nigra, the largest nucleus of the midbrain: degeneration of this extrapyramidal motor nucleus results in Parkinson's disease. : : v Brainstem ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1543,
+      "sourceQuestionNumber": 27
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1544-q0028",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following clinical features is most suggestive of a lesion of the frontal lobe:",
+      "options": [
+        "Homonymous hemianopia x) temispatial neglect ae",
+        "Receptive dysphasia",
+        "Auditory agnosia (Vv) Conjugate eye deviation towards the side of the lesion 30%"
+      ],
+      "correctOption": null,
+      "explanation": "Conjugate eye deviation towards the side of the lesion is seen in damage to the frontal eye field of the frontal lobe. Homonymous hemianopia is typically a result of damage to the occipital lobe (or of the optic radiation passing through the parietal and temporal lobes). Auditory agnosia may been seen in a lesion of the temporal lobe. Hemispatial neglect may be seen in a lesion of the parietal lobe. Receptive dysphasia is seen in damage to Wernicke's area, in the temporal lobe. “ v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1544,
+      "sourceQuestionNumber": 28
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1545-q0029",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The blood supply to the parietal lobe is primarily supplied by which of the following arteries:",
+      "options": [
+        "Anterior cerebral artery Vv) Middle cerebral artery 83%",
+        "Posterior cerebral artery",
+        "Basilar artery",
+        "Vertebral artery"
+      ],
+      "correctOption": null,
+      "explanation": "The blood supply to the parietal lobe is from the middle cerebral artery. : v Parietal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1545,
+      "sourceQuestionNumber": 29
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1550-q0030",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "w A 65 year old lady presents to ED complaining of visual loss. Examination demonstrates visual loss in the lower left quadrant in both visual fields. The lesion would most likely be in which of the following:",
+      "options": [
+        "Left temporal lobe",
+        "Right temporal lobe (x) Left parietal lobe 5%",
+        "Right parietal lobe",
+        "Right occipital lobe"
+      ],
+      "correctOption": 2,
+      "explanation": "Contralateral homonymous inferior quadrantanopia results from a lesion to the upper part of the optic radiation, situated within the parietal lobe. v Parietal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM 11 Binion",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1550,
+      "sourceQuestionNumber": 30
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1551-q0031",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The corpus callasum is composed of which type of fibres:",
+      "options": [
+        "Projection fibres (x) Short association fibres 2% (Vv) Commissural fibres 36%",
+        "Long association fibres",
+        "U-fibres"
+      ],
+      "correctOption": null,
+      "explanation": "The corpus callosum, composed of commissural fibres, links the cerebral cortex of the left and right cerebral hemisphere. Vv Cerebral Hemispheres ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1551,
+      "sourceQuestionNumber": 31
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1552-q0032",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following is most likely to cause a homonymous hemianopia:",
+      "options": [
+        "Pituitary adenoma (Vv) Posterior cerebral artery stroke 70%",
+        "Craniopharyngioma",
+        "Optic glioma"
+      ],
+      "correctOption": null,
+      "explanation": "A posterior cerebral stroke will most likely result in a contralateral homonymous hemianopia with macular sparing. : : v Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1552,
+      "sourceQuestionNumber": 32
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1553-q0033",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The right and left cerebral hemispheres are partially separated by which of the following structures:",
+      "options": [
+        "Precentral gyrus",
+        "Internal capsule (Vv) Longitudinal fissure 33% CMe",
+        "Lateral sulcus"
+      ],
+      "correctOption": null,
+      "explanation": "The left and right hemispheres are partially separated by a deep longitudinal fissure (and the falx cerebri of the dura mater which extends into the fissure). : ? Vv Cerebral Hemispheres ANATOMY / CENTRAL NERVOUS SYSTEM 01 Ranemare",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1553,
+      "sourceQuestionNumber": 33
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1554-q0034",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww What type of visual field defect are you most likely to see in a lesion of the optic tract:",
+      "options": [
+        "Bitemporal hemianopia (x) Contralateral homonymous inferior quadrantanopia 1% (Vv) Contralateral homonymous hemianopia 80%",
+        "Contralateral homonymous superior quadrantanopia",
+        "Homonymous hemianopia with macular sparing"
+      ],
+      "correctOption": null,
+      "explanation": "A lesion of the optic tract will result in a contralateral homonymous hemianopia. , Vv Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1554,
+      "sourceQuestionNumber": 34
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1555-q0035",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "w Which of the following spinal tracts conveys nociceptive input from the contralateral side of the body: (Vv) Lateral spinothalamic tract 53%",
+      "options": [
+        "Posterior column (x) Posterior spinocerebellar tract 9%",
+        "Posterior corticospinal tract",
+        "Lateral corticospinal tract"
+      ],
+      "correctOption": null,
+      "explanation": "The lateral spinothalamic tract transmits pain and temperature sensation from the contralateral side of the body. Vv Spinal Cord Tracts ANATOMY / CENTRAL NERVOUS SYSTEM The spinal cord has numerous groups of nerve fibers going towards and coming from the brain. These",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1555,
+      "sourceQuestionNumber": 35
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1556-q0036",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following best describes the function of the foramen of Monro:",
+      "options": [
+        "Major site of production of CSF (Vv) Connects the lateral ventricles to the third ventricle 65% (x)oi ains CSF into the subarachnoid cisterns 9%",
+        "Connects the third ventricle to the fourth ventricle",
+        "Connects the right and left lateral ventricles"
+      ],
+      "correctOption": null,
+      "explanation": "The lateral ventricles are connected to the third ventricle by the interventricular foramen (of Monro). , ; Vv Cerebral Ventricles ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1556,
+      "sourceQuestionNumber": 36
+    }
+  ]
+}

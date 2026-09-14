@@ -1,0 +1,337 @@
+{
+  "exportedAt": "2026-08-27T04:23:22.188Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-63",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1763,
+      1764,
+      1765,
+      1766,
+      1767,
+      1768,
+      1769,
+      1770,
+      1771,
+      1772
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1763-q0070",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "The chorda tympani branch of the facial nerve carries which of the following:",
+      "options": [
+        "Taste from the posterior one-third of the tongue",
+        "Sensation from the posterior one-third of the tongue [x Parasympathetic innervation of the parotid gland 4%",
+        "Taste from the anterior two-thirds of the tongue Sensation from the anterior two-thirds of the tongue 6%"
+      ],
+      "correctOption": 2,
+      "explanation": "The chorda tympani branch supplies taste to the anterior two-thirds of the tongue. The mandibular branch of the trigeminal nerve supplies general sensation to the anterior two-thirds of the tongue. The glossopharyngeal nerve supplies general sensation and taste to the posterior one-third of the tongue. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1763,
+      "sourceQuestionNumber": 70
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1764-q0071",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Regarding the hypoglossal nerve, which of the following statements is CORRECT:",
+      "options": [
+        "The hypoglossal nerve emerges from the cranial cavity via the jugular foramen.",
+        "The hypoglossal nerve innervates all of the muscles of the tongue. cy In hypoglossal nerve palsy, the tongue deviates away from the affected side on protrusion. 11%",
+        "Hypoglossal nerve palsy results in weakness of the ipsilateral tongue.",
+        "Hypoglossal nerve palsy results in loss of the gag reflex."
+      ],
+      "correctOption": 2,
+      "explanation": "The hypoglossal nerve exits the cranial cavity through the hypoglossal canal and innervates all of the muscles of the tongue, except for the palatoglossus muscle innervated by the vagus nerve. In palsy, when protruded, the tongue will deviate towards the affected side, and is associated with weakness, wasting and fasciculations of the ipsilateral tongue. The hypoglossal nerve is not involved in the gag reflex. } Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1764,
+      "sourceQuestionNumber": 71
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1765-q0072",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "w A patient presenting with nerve injury has sparing of the upper half of the orbicularis oculi muscle but not the lower half. The lower half of the orbicularis oculi is supplied by which branch of the facial nerve:",
+      "options": [
+        "Temporal branch 6%",
+        "Zygomatic branch",
+        "Buccal branch",
+        "Mandibular branch"
+      ],
+      "correctOption": 1,
+      "explanation": "Once in the parotid gland, the facial nerve divides into five terminal branches: e The temporal branch (innervating muscles in the temple, forehead and supraorbital areas) e The zygomatic branch (innervating muscles in the infraorbital area, the lateral nasal area and the upper lip) e The buccal branch (innervating muscles in the cheek, the upper lip and the corner of the mouth) e The marginal mandibular branch (innervating muscles of the lower lip and chin) e The cervical branch (innervating the platysma muscle) Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1765,
+      "sourceQuestionNumber": 72
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1766-q0073",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "w The maxillary division of the trigeminal nerve exits the skull through the:",
+      "options": [
+        "Foramen rotundum",
+        "Foramen ovale",
+        "Internal acoustic meatus 2%",
+        "Jugular foramen 2%"
+      ],
+      "correctOption": 0,
+      "explanation": "The maxillary nerve exits the skull through the foramen rotundum. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1766,
+      "sourceQuestionNumber": 73
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1767-q0074",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "w The glossopharyngeal nerve carries all of the following EXCEPT for:",
+      "options": [
+        "Visceral afferent fibres from the carotid body and sinus",
+        "Sensory afferent fibres from the posterior one-third of the tongue",
+        "Sensory afferent fibres from the lower teeth and associated gingivae",
+        "Afferent taste fibres from the posterior one-third of the tongue",
+        "Motor fibres to the stylopharyngeus muscle"
+      ],
+      "correctOption": 2,
+      "explanation": "The mandibular division of the trigeminal nerve carries sensory afferent fibres from the lower teeth and associated gingivae. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1767,
+      "sourceQuestionNumber": 74
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1768-q0075",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Which of the following nerves is the efferent pathway of the pupillary light refiex:",
+      "options": [
+        "Facial nerve",
+        "Optic nerve",
+        "Abducens nerve"
+      ],
+      "correctOption": null,
+      "explanation": "The oculomotor nerve is the efferent pathway of the pupillary light reflex. The optic nerve is the afferent pathway of the pupillary light reflex. . Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1768,
+      "sourceQuestionNumber": 75
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1769-q0076",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Which of the following muscles is NOT supplied by the facial nerve: (x) Occipitofrontalis muscle 5%",
+      "options": [
+        "Posterior belly of the digastric muscle",
+        "Stapedius muscle",
+        "Stylohyoid muscle"
+      ],
+      "correctOption": null,
+      "explanation": "The facial nerve innervates the muscles of facial expression, the posterior belly of the digastric muscle, the stylohyoid muscle and the stapedius muscle. The masseter muscle is innervated by the mandibular division of the trigeminal nerve. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1769,
+      "sourceQuestionNumber": 76
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1770-q0077",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "A 28 year old male man is brought to ED having been hit in the head by a cricket ball. Imaging shows a fracture of the foramen rotundum. Which of the following nerves would most likely be injured:",
+      "options": [
+        "Ophthalmic nerve 4%",
+        "Maxillary nerve",
+        "Mandibular nerve",
+        "Facial nerve",
+        "Glossopharyngeal nerve"
+      ],
+      "correctOption": 1,
+      "explanation": "The maxillary nerve runs through the foramen rotundum. . Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1770,
+      "sourceQuestionNumber": 77
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1771-q0078",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "Ww Which of the following is NOT a typical feature of trochlear nerve palsy:",
+      "options": [
+        "Patient head tilts to side of affected eye (x) Patient has weakness of downward gaze 4%",
+        "Patient has vertical diplopia",
+        "Patient has difficulty walking downstairs",
+        "Eye is extorted and elevated"
+      ],
+      "correctOption": 0,
+      "explanation": "Trochlear palsy causes weakness of downward gaze. The patient complains of difficulty reading or walking downstairs and of vertical diplopia. The eye is extorted and may be elevated and the patient may head tilt to the opposite side of the palsy to compensate. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1771,
+      "sourceQuestionNumber": 78
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1772-q0079",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Cranial Nerve Lesions",
+      "stem": "w A 49 year old man presents to ED complaining of visual disturbance in his right eye. On examination you note when you shine a light in his right eye, neither his right or left pupil constricts. When you shine a light in his left eye, both his left and right pupil constrict. Which of the following nerves is most likely affected:",
+      "options": [
+        "Oculomotor nerve 17%",
+        "Trochlear nerve",
+        "Abducens nerve",
+        "Ophthalmic nerve"
+      ],
+      "correctOption": null,
+      "explanation": "Loss of the afferent pupillary light reflex is seen in complete palsy of the optic nerve. The ipsilateral direct and contralateral consensual reflexes are lost as the afferent optic nerve does not sense the light shone in the affected eye but the contralateral direct and ipsilateral consensual reflexes are intact as the efferent oculomotor nerve is normal. 7 | . ‘ Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Cranial Nerve Lesions"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1772,
+      "sourceQuestionNumber": 79
+    }
+  ]
+}

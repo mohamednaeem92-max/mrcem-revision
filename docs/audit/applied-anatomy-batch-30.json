@@ -1,0 +1,406 @@
+{
+  "generatedAt": "2026-08-23T16:54:47.128Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0909-q0056",
+      "sourcePage": 909,
+      "before": {
+        "stem": "A patient is brought to ED following abdominal trauma. Your consultant performs a FAST scan in the department and identifies fluid in Morison's pouch. Where is Morison's pouch located: (x) Left perihepatic space 4%",
+        "options": [
+          "Left subphrenic space",
+          "Right subphrenic space 14%",
+          "Right subhepatic space",
+          "Left infracolic space 2%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "A patient is brought to ED following abdominal trauma. Your consultant performs a FAST scan in the department and identifies fluid in Morison's pouch. Where is Morison's pouch located:",
+        "options": [
+          "Left perihepatic space",
+          "Left subphrenic space",
+          "Right subphrenic space",
+          "Right subhepatic space",
+          "Left infracolic space"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9968550/",
+        "externalFinding": "Peer-reviewed radiology review identifies Morison's pouch as the right subhepatic hepatorenal recess between the right liver lobe and right kidney."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0916-q0058",
+      "sourcePage": 916,
+      "before": {
+        "stem": "ww The superior pole of the right kidney reaches as high as which of the following: @",
+        "options": [
+          "Rib 9 5%",
+          "Rib 10 1%",
+          "Rib 11 58%",
+          "rib 12"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The superior pole of the right kidney reaches as high as which of the following:",
+        "options": [
+          "Rib 8",
+          "Rib 9",
+          "Rib 10",
+          "Rib 11",
+          "Rib 12"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482385/",
+        "externalFinding": "NCBI describes the right kidney as lower and the upper renal poles as frequently crossed by the 12th rib."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0925-q0060",
+      "sourcePage": 925,
+      "before": {
+        "stem": "ww The renal pelvis is continuous with which of the following structures:",
+        "options": [
+          "The minor calyx 54%",
+          "The renal pyramid 2%",
+          "The major calyx 9%",
+          "The renal sinus 1% (v’) The ureter 3496"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The renal pelvis is continuous with which of the following structures:",
+        "options": [
+          "The minor calyx",
+          "The renal pyramid",
+          "The major calyx",
+          "The renal sinus",
+          "The ureter"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482385/",
+        "externalFinding": "NCBI states that major calyces unite to form the renal pelvis, which transitions to the proximal ureter."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0936-q0062",
+      "sourcePage": 936,
+      "before": {
+        "stem": "ww The right and left hepatic arteries are derived from which of the following blood vessels:",
+        "options": [
+          "Directly from the aorta 6%",
+          "From the coeliac trunk",
+          "From the superior mesenteric artery 7%",
+          "From the inferior mesenteric artery",
+          "From the gastrosplenic artery 4%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The right and left hepatic arteries are derived from which of the following blood vessels:",
+        "options": [
+          "Directly from the aorta",
+          "From the coeliac trunk",
+          "From the superior mesenteric artery",
+          "From the inferior mesenteric artery",
+          "From the gastrosplenic artery"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459241/",
+        "externalFinding": "NCBI identifies the proper hepatic artery as a common-hepatic branch from the coeliac trunk and its division into right and left hepatic arteries."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0942-q0063",
+      "sourcePage": 942,
+      "before": {
+        "stem": "A 23 year old patient is brought to ED following a road traffic accident. CT imaging demonstrates retroperitoneal injury. Which of the following organs is most likely affected:",
+        "options": [
+          "Appendix Sigmoid colon 6%",
+          "Tail of the pancreas"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "A 23 year old patient is brought to ED following a road traffic accident. CT imaging demonstrates retroperitoneal injury. Which of the following organs is most likely affected:",
+        "options": [
+          "Ascending colon",
+          "Spleen",
+          "Appendix",
+          "Sigmoid colon",
+          "Tail of the pancreas"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482385/",
+        "externalFinding": "NCBI lists the ascending colon among retroperitoneal structures and identifies the pancreatic tail as embedded in the splenorenal ligament."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0945-q0064",
+      "sourcePage": 945,
+      "before": {
+        "stem": "we A311 year old man is brought to ED following a road traffic accident in which he was wearing his seatbelt. Imaging shows a fracture of the left ninth and tenth rib with intra-abdominal bleeding. Which of the following organs is most likely injured:",
+        "options": [
+          "Liver 2%",
+          "Pancreas 0% (v’) Spleen 94%",
+          "Left kidney 3%",
+          "Left colic flexure 1%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "A 31 year old man is brought to ED following a road traffic accident in which he was wearing his seatbelt. Imaging shows a fracture of the left ninth and tenth rib with intra-abdominal bleeding. Which of the following organs is most likely injured:",
+        "options": [
+          "Liver",
+          "Pancreas",
+          "Spleen",
+          "Left kidney",
+          "Left colic flexure"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482235/",
+        "externalFinding": "NCBI places the spleen between ribs 9 and 11 and notes that left-rib fractures can puncture it."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0913-q0057",
+      "sourcePage": 913,
+      "before": {
+        "stem": "The termination of the abdominal aorta can be visualised on the anterior abdominal wall by a point:",
+        "options": [
+          "About 2.5 cm above the umbilicus",
+          "Halfway between the xiphisternum and the umbilicus",
+          "Halfway between the umbilicus and the pubic symphysis",
+          "About 2.5 cm above the deep inguinal ring"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The termination of the abdominal aorta can be visualised on the anterior abdominal wall by a point:",
+        "options": [
+          "About 2.5 cm above the umbilicus",
+          "About 2.5 cm below the umbilicus",
+          "Halfway between the xiphisternum and the umbilicus",
+          "Halfway between the umbilicus and the pubic symphysis",
+          "About 2.5 cm above the deep inguinal ring"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but CT evidence shows substantial variation in aortic-bifurcation position relative to the umbilicus; the exact fixed 2.5-cm landmark is not corroborated; no correct option is inferred."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3924739/",
+        "externalFinding": "Peer-reviewed CT data show aortic-bifurcation location relative to the umbilicus varies widely, so the exact fixed 2.5-cm formulation is not sufficiently corroborated."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0922-q0059",
+      "sourcePage": 922,
+      "before": {
+        "stem": "bd Regarding the ureters, which of the following statements is CORRECT:",
+        "options": [
+          "The bladder drains into the ureters. 1%",
+          "The ureters are continuously superiorly with the renal medulla. 6%",
+          "The ureters descend on the medial aspect of the psoas major muscles.",
+          "The ureters are intraperitoneal structures. 55%",
+          "The left ureter lies in close proximity to the appendix. 2%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Regarding the ureters, which of the following statements is CORRECT:",
+        "options": [
+          "The bladder drains into the ureters.",
+          "The ureters are continuously superiorly with the renal medulla.",
+          "The ureters descend on the medial aspect of the psoas major muscles.",
+          "The ureters are intraperitoneal structures.",
+          "The left ureter lies in close proximity to the appendix."
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but external anatomy evidence describes the ureter as retroperitoneal and anterior to psoas; the exact medial-aspect formulation is not corroborated; no correct option is inferred."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532980/",
+        "externalFinding": "NCBI describes ureters as retroperitoneal and anterior to the psoas muscle, not with the source's exact medial-aspect wording."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0931-q0061",
+      "sourcePage": 931,
+      "before": {
+        "stem": "A 65 year old man with known BPH, presents to ED in severe pain due to urinary retention. What is the location of the neural cell bodies responsible for pain sensation from the urinary bladder:",
+        "options": [
+          "Dorsal root ganglia of spinal cord levels L1- L4",
+          "anglia inal cord levels S2, S3 and S4 Dorsal root ganglia of spinal cord levels T5 - T9 1%",
+          "Dorsal root ganglia of spinal cord levels 110 - T12"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "A 65 year old man with known BPH, presents to ED in severe pain due to urinary retention. What is the location of the neural cell bodies responsible for pain sensation from the urinary bladder:",
+        "options": [
+          "Dorsal root ganglia of spinal cord levels L1 - L4",
+          "Dorsal root ganglia of spinal cord levels S2, S3 and S4",
+          "Dorsal root ganglia of spinal cord levels L4 and L5",
+          "Dorsal root ganglia of spinal cord levels T5 - T9",
+          "Dorsal root ganglia of spinal cord levels T10 - T12"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but external evidence identifies lower-urinary-tract afferent neurons in both S2–S4 and T11–L2 dorsal-root ganglia; the broad pain-sensation formulation is non-unique; no correct option is inferred."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3383010/",
+        "externalFinding": "Peer-reviewed human lower-urinary-tract evidence identifies afferent neurons in both S2–S4 and T11–L2 dorsal-root ganglia, so the marked option is not uniquely corroborated."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0949-q0065",
+      "sourcePage": 949,
+      "before": {
+        "stem": "Regarding the internal oblique muscle, which of the following statements is CORRECT:",
+        "options": [
+          "The lower free border of the internal oblique aponeurosis forms the inguinal ligament. 8%",
+          "The internal oblique lies deep to the transversus abdominis muscle. 5% (x) its fibres run in a inferomedial direction. Ws",
+          "It originates from the medial third of the inguinal ligament. 5%",
+          "It inserts onto the lower 3 - 4 ribs and the pubic crest."
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "Regarding the internal oblique muscle, which of the following statements is CORRECT:",
+        "options": [
+          "The lower free border of the internal oblique aponeurosis forms the inguinal ligament.",
+          "The internal oblique lies deep to the transversus abdominis muscle.",
+          "Its fibres run in a inferomedial direction.",
+          "It originates from the medial third of the inguinal ligament.",
+          "It inserts onto the lower 3 - 4 ribs and the pubic crest."
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but external anatomy evidence describes insertion on lower-five-rib cartilages and pubic tubercle; the exact lower-3–4-rib/pubis-crest formulation is not corroborated; no correct option is inferred."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK525975/",
+        "externalFinding": "NCBI describes internal-oblique insertion on lower-five-rib cartilages and pubic tubercle, not the exact source option formulation."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

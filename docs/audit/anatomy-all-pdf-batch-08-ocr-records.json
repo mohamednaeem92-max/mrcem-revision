@@ -1,0 +1,337 @@
+{
+  "exportedAt": "2026-08-22T15:14:06.179Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-08",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      299,
+      302,
+      307,
+      311,
+      315,
+      319,
+      323,
+      327,
+      331,
+      334
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0299-q0074",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Irritation of the central part of the diaphragmatic peritoneum is typically referred to:",
+      "options": [
+        "The jaw a",
+        "The epigastric region The periumbilical region 4% (x) The flanks 1%"
+      ],
+      "correctOption": null,
+      "explanation": "The diaphragmatic peritoneum is supplied by the phrenic nerve (C3 - C5) and thus painful stimuli to the diaphragmatic peritoneum can be referred to the shoulder tip. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 299,
+      "sourceQuestionNumber": 74
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0302-q0075",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The bladder receives its efferent parasympathetic fibres derived from spinal cord segments:",
+      "options": [
+        "L4-L5",
+        "$1-S2",
+        "L4-S2"
+      ],
+      "correctOption": null,
+      "explanation": "The bladder receives efferent parasympathetic fibres from the pelvic splanchnic nerves (S2 to $4). Parasympathetic stimulation causes the detrusor muscle of the bladder to contract and the internal sphincter muscle to relax. i) Ss eee] o Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 302,
+      "sourceQuestionNumber": 75
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0307-q0076",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 64 year old man is brought to ED with profuse haematemesis. Endoscopy shows oesophageal varices which are most likely the result of anastomosis of the left gastric vein with which of the following vessels:",
+      "options": [
+        "Abdominal aorta",
+        "Inferior mesenteric vein Superior mesenteric vein 8%"
+      ],
+      "correctOption": null,
+      "explanation": "The left gastric vein and its tributaries form a portosystemic anastomosis with oesophageal tributaries to the azygos system of veins of the caval system at the gastroesophageal junction around the cardia of the stomach. C] ss eee | a Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 307,
+      "sourceQuestionNumber": 76
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0311-q0077",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The psoas major muscle originates from which of the following:",
+      "options": [
+        "The T12 - LS vertebrae",
+        "The 11th and 12th rib 5%",
+        "The T11 - 112 vertebrae 10%",
+        "The sacrum 2%",
+        "The iliac crest 7%"
+      ],
+      "correctOption": 0,
+      "explanation": "The psoas major originates from the lateral bodies of, the transverse processes of and the intervertebral discs between the T12 and L1 - L5 vertebrae, essentially covering the anterolateral surface of the bodies of the lumbar vertebrae and filling in the spaces between the vertebral bodies and the transverse processes. It passes inferiorly along the pelvic brim and continues into the anterior thigh to attach to the lesser trochanter of the femur. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 311,
+      "sourceQuestionNumber": 77
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0315-q0078",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Which of the following actions does NOT facilitate defaecation:",
+      "options": [
+        "Increased intra-abdominal pressure 53% (x) traction of rectal smooth muscle 5%",
+        "Relaxation of the internal anal sphincter 6%",
+        "Relaxation of the external anal sphincter"
+      ],
+      "correctOption": null,
+      "explanation": "The anorectal junction is pulled forward by the action of the puborectalis muscle (part of the pelvic floor) and so the anal canal moves in a posterior direction as it passes inferiorly through the pelvic floor. To facilitate defecation, the puborectalis muscle relaxes, decreasing the angle between the ampulla of the rectum and the upper portion of the anal canal, aiding defecation. cs |Laeseon | PT Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 315,
+      "sourceQuestionNumber": 78
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0319-q0079",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 40 year old man is undergoing a vasectomy. During the procedure the various layers of the spermatic cord are separated to expose the ductus deferens. The internal spermatic fascia is derived from which of the following: External oblique aponeurosis 3%",
+      "options": [
+        "Internal oblique aponeurosis",
+        "Internal oblique muscle",
+        "Transversus abdominis muscle"
+      ],
+      "correctOption": null,
+      "explanation": "The internal spermatic fascia arises from the transversalis fascia and is attached to the margins of the deep inguinal ring. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 319,
+      "sourceQuestionNumber": 79
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0323-q0080",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The obturator nerve is formed from the anterior rami of:",
+      "options": [
+        "Eels",
+        "Ey-L2 5% Oe",
+        "L2-L3 1%",
+        "L3-L4 5%"
+      ],
+      "correctOption": 0,
+      "explanation": "The obturator nerve is formed from the anterior rami of L2 to L4. It innervates the obturator externus and the muscles in the medial compartment of the thigh and supplies skin on the medial aspect of the thigh. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 323,
+      "sourceQuestionNumber": 80
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0327-q0081",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "w Which of the following best describes the relationship of the duodenum to the pancreas:",
+      "options": [
+        "The first part of the duodenum lies superior to the tail of the pancreas. 2% (x) [he second part of the duodenum lies medial to the head of the pancreas. 14%",
+        "The third part of the duodenum lies inferior to the pancreas.",
+        "The fourth part of the duodenum lies inferior to the head of the pancreas. 3%",
+        "The head of the pancreas lies posterior to the second part of the duodenum. 9%"
+      ],
+      "correctOption": 1,
+      "explanation": "The first part of the duodenum lies superior to the head of the pancreas. The second part of the duodenum lies immediately lateral to the head of the pancreas. The third part of the duodenum lies inferior to the pancreas. The fourth part of the duodenum does not lie inferior to the head of the pancreas. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 327,
+      "sourceQuestionNumber": 81
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0331-q0082",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww A 41 year old man presents to ED with a painful, infected abscess on the posterior aspect of the scrotum. Which of the following lymph nodes is most likely to be affected first:",
+      "options": [
+        "Internal iliac nodes 4%",
+        "External iliac nodes 2%",
+        "Superficial inguinal nodes",
+        "Deep inguinal nodes 9%"
+      ],
+      "correctOption": 2,
+      "explanation": "The lymph drainage of the testis is to the lumbar (para-aortic) nodes in the abdomen, in contrast to that of the scrotum which drains to the superficial inguinal nodes. ; Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 331,
+      "sourceQuestionNumber": 82
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0334-q0083",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The superior pole of the left kidney reaches as high as which of the following:",
+      "options": [
+        "Rib 8",
+        "Rib 9",
+        "Rib 10"
+      ],
+      "correctOption": null,
+      "explanation": "The left kidney is a little higher than the right, reaching as high as rib 11, compared to rib 12 for the right kidney (because of its relationship with the liver). : er] o Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 334,
+      "sourceQuestionNumber": 83
+    }
+  ]
+}

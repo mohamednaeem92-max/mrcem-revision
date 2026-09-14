@@ -1,0 +1,342 @@
+{
+  "exportedAt": "2026-08-27T20:52:44.765Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-69",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1903,
+      1904,
+      1905,
+      1906,
+      1907,
+      1908,
+      1909,
+      1910,
+      1911,
+      1912
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1903-q0052",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Cerebrospinal fluid is primarily produced by which of the following structures:",
+      "options": [
+        "Cerebral aqueduct (Vv) Choroid plexus 86%",
+        "Interventricular foramen of Monro",
+        "Subarachnoid cisterns",
+        "Arachnoid granulations"
+      ],
+      "correctOption": null,
+      "explanation": "Cerebrospinal fluid is primarily produced by a structure called the choroid plexus in the lateral, third and fourth ventricles (the vast majority from the lateral plexuses). . Vv Cerebrospinal Fluid ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1903,
+      "sourceQuestionNumber": 52
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1904-q0053",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The Broca's speech area is located in which of the following regions:",
+      "options": [
+        "Occipital lobe (x) Parietal lobe 3% (Vv) Frontal lobe 86%",
+        "Temporal lobe",
+        "Brainstem"
+      ],
+      "correctOption": null,
+      "explanation": "The Broca's speech area, in the frontal lobe of the dominant hemisphere, is the ‘expressive’ centre for the production of speech. It is connected to the Wernicke's speech area by the arcuate fasciculus. : : v Frontal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1904,
+      "sourceQuestionNumber": 53
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1905-q0054",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following clinical features is most suggestive of a lesion of the temporal lobe:",
+      "options": [
+        "Conjugate eye deviation towards the side of the lesion Srwrmanrenone",
+        "Expressive dysphasia",
+        "Hemispatial neglect (Vv) Receptive dysphasia 58%"
+      ],
+      "correctOption": null,
+      "explanation": "Damage to the Wernicke's speech area in the temporal lobe can result in a receptive dysphasia. Hemispatial neglect is most likely to occur in a lesion of the parietal lobe. Homonymous hemianopia is most likely to occur in a lesion of the occipital lobe. Expressive dysphasia is most likely to occur in a lesion of the Broca speech area in the frontal lobe. Conjugate eye deviation towards the side of the lesion is most likely to occur in a lesion of the frontal lobe. “ v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1905,
+      "sourceQuestionNumber": 54
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1906-q0055",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "w Which of the following clinical features would you least expect to see in a lesion of the frontal lobe:",
+      "options": [
+        "Primitive reflexes (x) Spastic paralysis of the contralateral leg 4% (Vv) Contralateral homonymous hemianopia with macular sparing 84%",
+        "Incontinence",
+        "Inability to problem solve"
+      ],
+      "correctOption": null,
+      "explanation": "Contralateral homonymous hemianopia with macular sparing results from damage to the primary visual cortex of the occipital lobe. Incontinence may occur due to damage of the cortical micturition centre in the prefrontal cortex. Primitive reflexes and inability to problem solve may occur due to damage to the prefrontal cortex. Motor weakness of the contralateral limb with UMN signs may occur due to damage of the primary motor cortex. v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1906,
+      "sourceQuestionNumber": 55
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1907-q0056",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following is most likely to cause a bitemporal hemianopia:",
+      "options": [
+        "Penetrating injury to the eye",
+        "Pituitary adenoma",
+        "Stroke",
+        "Frontal lobe tumour",
+        "Glaucoma"
+      ],
+      "correctOption": 1,
+      "explanation": "A bitemporal hemianopia is most likely due to compression at the optic chiasm. This may be caused by pituitary tumour, craniopharyngioma, meningioma, optic glioma or aneurysm of the internal carotid artery. j v Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1907,
+      "sourceQuestionNumber": 56
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1908-q0057",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following arteries is the terminal branch of the basilar artery:",
+      "options": [
+        "Anterior inferior cerebellar artery (x) Superior cerebellar artery ah",
+        "Posterior inferior cerebellar artery (Vv) Posterior cerebral artery 29%",
+        "Posterior spinal artery"
+      ],
+      "correctOption": null,
+      "explanation": "The posterior cerebral artery is the terminal branch of the basilar artery. , Vv Arterial Supply of Brain ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1908,
+      "sourceQuestionNumber": 57
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1909-q0058",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "w The extracranial portion of the optic nerve is supplied by which of the following blood vessels: Superficial temporal artery",
+      "options": [
+        "Facial artery",
+        "Ophthalmic artery",
+        "Anterior choroidal artery External carotid artery"
+      ],
+      "correctOption": null,
+      "explanation": "",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected.",
+        "Explanation is missing or too short after OCR parsing."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1909,
+      "sourceQuestionNumber": 58
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1910-q0058",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The extracranial portion of the optic nerve is supplied by which of the following blood vessels:",
+      "options": [
+        "Superficial temporal artery (x) Facial artery 2%",
+        "Ophthalmic artery",
+        "Anterior choroidal artery",
+        "External carotid artery"
+      ],
+      "correctOption": 1,
+      "explanation": "The extracranial portion of the optic nerve is supplied by the ophthalmic artery. : : v Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1910,
+      "sourceQuestionNumber": 58
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1911-q0059",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww What type of visual field defect are you likely to see in a lesion of the temporal optic radiation:",
+      "options": [
+        "Bitemporal hemianopia (x) Contralateral homonymous inferior quadrantanopia 1%",
+        "Contralateral homonymous hemianopia (Vv) Contralateral homonymous superior quadrantanopia 1%",
+        "Homonymous hemianopia with macular sparing"
+      ],
+      "correctOption": null,
+      "explanation": "A lesion of the temporal optic radiation will result in a contralateral homonymous superior quadrantanopia. : : v Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1911,
+      "sourceQuestionNumber": 59
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1912-q0060",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following is NOT a typical cerebellar sign:",
+      "options": [
+        "Dysmetria",
+        "Resting tremor",
+        "Hypotonia",
+        "Slurred speech"
+      ],
+      "correctOption": 1,
+      "explanation": "An intention tremor is characteristic of cerebellar dysfunction. Resting tremor may be seen in Parkinsonism. ‘ . Vv Cerebellum ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1912,
+      "sourceQuestionNumber": 60
+    }
+  ]
+}

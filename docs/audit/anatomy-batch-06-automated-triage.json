@@ -1,0 +1,530 @@
+{
+  "generatedAt": "2026-08-22T14:53:54.695485+00:00",
+  "input": "docs/audit/anatomy-all-pdf-batch-06-ocr-records.json",
+  "model": "gpt-5-mini",
+  "recordCount": 10,
+  "nonMutationRule": "Triage does not alter question text, answer keys, explanations, learning aids, or review status.",
+  "evidenceRule": "Every correction requires source-page confirmation; medical corrections additionally require an authoritative external source.",
+  "triage": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0217-q0054",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "Posteromedial gluteal region (x) Posterior thigh 2%",
+          "reason": "Multiple OCR artifacts merged into a single option line: a parenthetical '(x)' (which may indicate an answer marker) and a stray '2%' appear within the same line, making it unclear whether one or two separate options are present and which (if any) is marked as correct.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "[<= o Vv",
+          "reason": "Trailing garbage characters appear at the end of the explanation, likely OCR noise corrupting the explanatory text.",
+          "severity": "medium"
+        },
+        {
+          "kind": "option_structure",
+          "span": "Options: [\"Posterolateral gluteal region\", \"Lateral thigh\", \"Posteromedial gluteal region (x) Posterior thigh 2%\"]",
+          "reason": "Option formatting is inconsistent: the third listed item appears to contain two distinct option phrases merged together and an inline answer marker; there is no single clearly marked correct option and the provided 'correctOption' field is null.",
+          "severity": "high"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "Stem/options vs explanation: explanation describes 'upper medial thigh and the external genitalia' but none of the provided options explicitly list 'upper medial thigh' or 'external genitalia'.",
+          "reason": "The explanatory text asserts a sensory distribution that does not match any of the visible answer choices, creating a content mismatch and making the intended correct option ambiguous.",
+          "severity": "high"
+        },
+        {
+          "kind": "terminology",
+          "span": "Posteromedial gluteal region",
+          "reason": "The phrase 'posteromedial gluteal region' is unusual/ambiguous in standard anatomical nomenclature (more common descriptors are 'gluteal region', 'posterior thigh', or 'posteromedial thigh'); this may be an OCR error or imprecise wording.",
+          "severity": "low"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The options appear corrupted/merged and the explanation contains OCR noise; the intended answer cannot be determined reliably from the scanned text alone. Authoritative anatomical sources and inspection of the original page are required to confirm the correct cutaneous distribution of the ilioinguinal nerve and the intended answer choice.",
+        "suggestedAuthorityQuery": "Inspect the original scanned source page for correct option layout/answer marker. Verify the cutaneous distribution of the ilioinguinal nerve (L1) using standard anatomy references (e.g., Gray's Anatomy, Netter, or a clinical neuroanatomy textbook) to confirm which listed region(s) correspond to the nerve's sensory supply.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "OCR corruption merged option text and inserted artifacts (e.g., '(x)', '2%', trailing garbage). The original page must be inspected to restore correct option boundaries and confirm which option (if any) was marked as correct."
+      },
+      "disposition": "needs_external_evidence"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0221-q0055",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "Head 12%",
+          "reason": "Trailing percentage appears to be an OCR artifact (possibly exam-statistics or layout text) and does not belong to the option label.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Uncinate process 4%",
+          "reason": "Trailing percentage appears to be an OCR artifact (possibly exam-statistics or layout text) and does not belong to the option label.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "ae] L JL SS Li Vv",
+          "reason": "Extraneous non-sentence characters at end of explanation consistent with OCR garbage.",
+          "severity": "medium"
+        },
+        {
+          "kind": "grammar",
+          "span": "Which of the following parts of the pancreas is intraperitoneal:",
+          "reason": "Question ends with a colon rather than a question mark; minor punctuation/formatting issue.",
+          "severity": "low"
+        },
+        {
+          "kind": "option_structure",
+          "span": "[\"Head 12%\", \"Neck\", \"Body\", \"Uncinate process 4%\"]",
+          "reason": "No option corresponds to the pancreas 'tail', which is typically the intraperitoneal part per the explanation; the correct option is not marked and may be missing from the option list.",
+          "severity": "high"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "stem + options together",
+          "reason": "The stem asks for an intraperitoneal part but the provided options appear not to include the anatomy mentioned in the explanation (tail). This creates ambiguity about the intended correct answer.",
+          "severity": "high"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The option set appears to omit the anatomical part (tail) referenced in the explanation; combined with OCR artifacts and no marked correct option, authoritative review is required to determine the intended correct answer and to verify the explanation.",
+        "suggestedAuthorityQuery": "Inspect the original source page to confirm the intended options and the correct answer for this item (verify whether 'tail' was omitted or mis-OCRed) and confirm the explanation text. After source-page confirmation, consult an anatomy reference (e.g., Gray's Anatomy or a standard surgical anatomy text) if needed to confirm intraperitoneal status.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Source-page inspection required to resolve OCR artifacts (percentages and trailing garbage), confirm whether an option (likely 'tail') was omitted or misrecognized, and to identify the marked correct option on the original page."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0226-q0056",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "(x) Left perihepatic space 4%",
+          "reason": "Stray text (looks like an option and a percentage) appears in the question stem instead of only in the options. This is likely an OCR capture of poll/response metadata and confuses the stem.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Right subphrenic space 14%; Left infracolic space 2%",
+          "reason": "Numeric percentages appear appended to option text (likely poll statistics) and should not be part of the answer choices. These artifacts make the option text ambiguous.",
+          "severity": "medium"
+        },
+        {
+          "kind": "option_structure",
+          "span": "correctOption: 2  — explanation: \"The posterior right subhepatic space (Morrison's pouch) ...\"",
+          "reason": "The declared correctOption number does not obviously match the option text that matches the explanation. This suggests an indexing or mapping error between options and the 'correctOption' field (or the explanation may not match the chosen option). Source-page inspection required to confirm intended correct choice.",
+          "severity": "high"
+        },
+        {
+          "kind": "terminology",
+          "span": "Morison's pouch / Morrison's pouch",
+          "reason": "Inconsistent spelling of the eponym appears in the stem ('Morison's') vs the explanation ('Morrison's'). Eponym spelling should be consistent and verified against the source.",
+          "severity": "medium"
+        },
+        {
+          "kind": "grammar",
+          "span": "lowest dependant spaces; v",
+          "reason": "The phrase 'lowest dependant spaces' contains a possible grammatical/word-form issue ('dependant' used where 'dependent' is standard as an adjective). The final 'v' in the explanation looks like an extraneous character/OCR artifact.",
+          "severity": "low"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "There is an internal inconsistency between the listed correctOption and the explanatory text describing Morrison's pouch as the posterior right subhepatic space. Combined with OCR artifacts in the stem and options, the intended correct answer cannot be trusted without verifying the original source page and an authoritative anatomy/radiology reference.",
+        "suggestedAuthorityQuery": "Inspect the original source page to confirm the intended option labeling and correct answer. Cross-check with an authoritative anatomy or radiology reference (FAST exam/Morrison's pouch location) to confirm that Morrison's (Morrison/Morison) pouch is the posterior right subhepatic space between the liver and right kidney and to resolve any indexing mismatch.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Multiple OCR artifacts (stray option text in stem, poll percentages attached to options, extraneous character 'v') and an apparent mismatch between 'correctOption' and the explanation require inspection of the original page to determine the intended wording and correct answer before any correction or publication."
+      },
+      "disposition": "needs_external_evidence"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0230-q0057",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "(| se [eee o Ld Ld Vv",
+          "reason": "Garbled trailing characters in the explanation appear to be OCR noise and do not form meaningful text.",
+          "severity": "high"
+        },
+        {
+          "kind": "grammar",
+          "span": "The termination of the abdominal aorta can be visualised on the anterior abdominal wall by a point:",
+          "reason": "Awkward phrasing ('by a point:') — likely corrupted or incomplete wording from OCR; sentence structure is unclear.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "Option: 'About 2.5 cm above the umbilicus'  — Explanation: 'approximately 2.5 cm below the umbilicus.'",
+          "reason": "Direct contradiction between the answer options (which include 'above the umbilicus') and the explanation (which states 'below the umbilicus'), creating ambiguity about the intended correct location.",
+          "severity": "high"
+        },
+        {
+          "kind": "option_structure",
+          "span": "options array and correctOption: null",
+          "reason": "No correctOption is marked. The options do not include the location stated in the explanation ('2.5 cm below the umbilicus'), suggesting either an OCR omission or misalignment between options and explanation.",
+          "severity": "medium"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The explanation contradicts the provided options (saying '2.5 cm below the umbilicus' vs an option saying '2.5 cm above the umbilicus') and the explanation contains OCR artifact; the source page must be checked to determine the intended correct answer and accurate wording.",
+        "suggestedAuthorityQuery": "Inspect the original source page (p0230, question q0057) to confirm the exact stem wording, the intended correct option, and the explanation text (verify whether the aortic bifurcation is described as '2.5 cm below' or 'above' the umbilicus).",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Explanation contains garbled OCR and directly contradicts one of the listed options. Original page inspection is required to resolve the contradiction and correct OCR errors before any answer validation or medical assertions."
+      },
+      "disposition": "needs_external_evidence"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0233-q0058",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "ww The superior pole of the right kidney reaches as high as which of the following: @",
+          "reason": "Leading 'ww' and trailing '@' look like stray OCR characters inserted into the stem.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Rib 9 5%, Rib 10 1%, Rib 11 58%",
+          "reason": "In-line percentage values appended to several options appear to be page/statistics artifacts (e.g., option-response frequencies) and not part of the answer choices.",
+          "severity": "medium"
+        },
+        {
+          "kind": "grammar",
+          "span": "rib 12",
+          "reason": "Inconsistent capitalization compared with the other options ('rib 12' vs 'Rib 9/10/11').",
+          "severity": "low"
+        },
+        {
+          "kind": "option_structure",
+          "span": "Options array: [\"Rib 9 5%\", \"Rib 10 1%\", \"Rib 11 58%\", \"rib 12\"]",
+          "reason": "Options include extraneous percentage annotations and inconsistent formatting; this harms clear option parsing and may cause automated scoring or display errors.",
+          "severity": "high"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "\"correctOption\": 3 vs explanation: \"The left kidney is a little higher than the right, reaching as high as rib 11, compared to rib 12 for the right kidney\"",
+          "reason": "The 'correctOption' index (pointing to 'Rib 11') conflicts with the explanation text which states that the right kidney reaches as high as rib 12. This is a substantive contradiction requiring source verification.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "explanation: \"... (because of its relationship with the liver). : Vv\"",
+          "reason": "Trailing ' : Vv' appears to be garbage/OCR artifact in the explanation.",
+          "severity": "low"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The provided 'correctOption' (Rib 11) conflicts with the explanation (which states the right kidney reaches as high as rib 12). Because this affects the medical fact and the intended correct answer, authoritative source confirmation is required.",
+        "suggestedAuthorityQuery": "Confirm the typical highest rib level reached by the superior pole of the right kidney (vs left kidney) in standard anatomy references (e.g., Gray's Anatomy, Netter's Atlas, or an anatomy textbook).",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Source-page inspection is required to: (1) confirm the intended correct answer and resolve the contradiction between the 'correctOption' and the explanation; (2) remove OCR artifacts (leading 'ww', trailing '@', percentage annotations in options, and stray characters in the explanation); and (3) verify exact option wording and formatting as printed on the source page."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0239-q0059",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "bd Regarding the ureters,",
+          "reason": "Leading 'bd' appears to be OCR noise prefixed to the question stem.",
+          "severity": "medium"
+        },
+        {
+          "kind": "option_structure",
+          "span": "The bladder drains into the ureters. 1% / The ureters are continuously superiorly with the renal medulla. 6% / The ureters are intraperitoneal structures. 55% / The left ureter lies in close proximity to the appendix. 2%",
+          "reason": "Several options contain trailing percentage markers (e.g., '1%', '6%', '55%', '2%') that look like extraneous survey/annotation data; they are inconsistent across options and likely not part of the intended choices.",
+          "severity": "medium"
+        },
+        {
+          "kind": "terminology",
+          "span": "The ureters are continuously superiorly with the renal medulla.",
+          "reason": "Phrase is ungrammatical ('continuously superiorly with') and contains 'renal medulla', which conflicts with the explanation (which refers to the renal pelvis). This suggests an OCR/word-substitution error or incorrect terminology.",
+          "severity": "high"
+        },
+        {
+          "kind": "grammar",
+          "span": "The right ureter lies in close proximity to the appendix and be irritated in inflammation resulting in urinary symptoms.",
+          "reason": "Ungrammatical construction 'and be irritated' (missing auxiliary/modal) makes the sentence unclear.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": ", Vv",
+          "reason": "Stray characters at the end of the explanation look like OCR artifacts.",
+          "severity": "low"
+        },
+        {
+          "kind": "terminology",
+          "span": "The ureters are intraperitoneal structures.",
+          "reason": "This statement conflicts with standard anatomical classification (ureters are typically retroperitoneal). The line may be a transcription error and requires confirmation.",
+          "severity": "high"
+        },
+        {
+          "kind": "terminology",
+          "span": "The left ureter lies in close proximity to the appendix.",
+          "reason": "The option's laterality conflicts with the explanation, which names the right ureter as near the appendix. This looks like a laterality error or OCR swap and needs review.",
+          "severity": "high"
+        },
+        {
+          "kind": "grammar",
+          "span": "The ureters descend on the medial aspect of the psoas major muscles.",
+          "reason": "Use of plural 'muscles' is unusual in this anatomical context (commonly singular 'psoas major muscle'); could be a minor grammatical/numbering issue.",
+          "severity": "low"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "Conflict between option text ('renal medulla') and explanation ('renal pelvis').",
+          "reason": "The option and the explanation disagree on the anatomical structure continuous with the ureter superiorly; this internal contradiction prevents trusting the intended correct wording without checking the source.",
+          "severity": "high"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "Multiple potential factual/terminology errors and internal contradictions are present (e.g., 'renal medulla' vs 'renal pelvis', intraperitoneal vs retroperitoneal statement, wrong laterality regarding appendix). These require authoritative anatomical verification and correction.",
+        "suggestedAuthorityQuery": "Verify ureter anatomy: what structure is continuous superiorly with the ureter (renal pelvis vs renal medulla), the anatomical course relative to the psoas major, whether ureters are retroperitoneal or intraperitoneal, and the side relationship of ureters to the appendix.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Original page inspection is required to resolve OCR artifacts and internal contradictions (e.g., trailing '%', stray 'bd' and ', Vv', and conflicting terms 'renal medulla' vs 'renal pelvis'). The original will determine intended wording and answer choices."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0242-q0060",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "ww The renal pelvis is continuous with which of the following structures:",
+          "reason": "Leading 'ww' appears to be extraneous OCR noise prefixed to the stem.",
+          "severity": "low"
+        },
+        {
+          "kind": "option_structure",
+          "span": "The minor calyx 54% | The renal pyramid 2% | The major calyx 9% | The renal sinus 1% (v’) | The ureter 3496",
+          "reason": "Options include trailing numeric percentages and a large integer ('3496') and a parenthetical marker '(v’)' that are likely OCR artifacts or voting/statistic metadata accidentally merged into option text, making option boundaries and intended wording unclear.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "The renal sinus 1% (v’)",
+          "reason": "The parenthetical '(v’)' contains an unexpected character and may be an OCR misread of a footnote marker or punctuation.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "The ureter 3496",
+          "reason": "Trailing number '3496' is almost certainly not part of the option text and appears to be an OCR or layout artifact (e.g., page number, vote count).",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Vv",
+          "reason": "The explanation ends with 'Vv' which appears to be stray characters/artifact unrelated to the explanatory content.",
+          "severity": "low"
+        },
+        {
+          "kind": "option_structure",
+          "span": "correctOption: null / warning: No marked correct option was detected.",
+          "reason": "No correct option is marked in the provided data. Combined with OCR artifacts in the options, this prevents reliable determination of the intended correct answer without the original source.",
+          "severity": "high"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "explanation: \"The apical projection of the renal pyramid is surrounded by a minor calyx ... which is continuous with the ureter. Vv\"",
+          "reason": "Explanation text appears coherent but ends with OCR noise; given option artifacts and missing marked correct option, the mapping between this explanation and the intended correct option is ambiguous until the source page is checked.",
+          "severity": "medium"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "OCR artifacts affect option text and a correct option is not marked. Authoritative confirmation is required to verify the intended wording of options and the correct answer before any medical content is used or published.",
+        "suggestedAuthorityQuery": "Please inspect the original source page to (1) provide the exact, uncorrupted option texts (remove any trailing percentages, vote counts, or stray numbers), (2) indicate which option is marked as correct on the source, and (3) confirm the exact explanation as printed on the source page.",
+        "risk": "possible_ambiguity"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Multiple OCR artifacts (extraneous characters 'ww', trailing percentages and numbers, stray parenthetical marker, stray 'Vv') and the absence of a marked correct option make the item unreliable without inspection of the original page."
+      },
+      "disposition": "candidate_for_literal_source_correction"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0248-q0061",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "anglia inal cord levels S2, S3 and S4 Dorsal root ganglia of spinal cord levels T5 - T9 1%",
+          "reason": "Option 2 appears to be a concatenation of multiple fragments and contains garbled text ('anglia inal cord'), duplicated option fragments (S2-S4 and T5-T9), and a stray '1%'. This prevents clear identification of the intended single option.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Dorsal root ganglia of spinal cord levels 110 - T12",
+          "reason": "Likely OCR misrecognition of a spinal level ('110' looks like 'T10' misread as '110'), creating an invalid vertebral/segment range.",
+          "severity": "high"
+        },
+        {
+          "kind": "option_structure",
+          "span": "options array (all entries)",
+          "reason": "Option 2 contains multiple candidate answers concatenated, and option 3 contains an invalid segment label; the option set is not a clean set of mutually exclusive choices and needs reconstitution from the source page.",
+          "severity": "high"
+        },
+        {
+          "kind": "grammar",
+          "span": "A 65 year old man with known BPH, presents to ED in severe pain due to urinary retention.",
+          "reason": "Minor punctuation/grammar issue: comma after 'BPH' is unnecessary and awkward; sentence could be smoothed. (Low priority compared with corrupted options.)",
+          "severity": "low"
+        },
+        {
+          "kind": "terminology",
+          "span": "pelvic nerve plexus and into the pelvic splanchnic nerves",
+          "reason": "Phrase 'pelvic nerve plexus' is nonstandard/unclear; combined with other OCR noise in the explanation, it is ambiguous whether the intended anatomical term was 'pelvic plexus', 'pelvic nerve plexus', or something else.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Ce] Py] Vv",
+          "reason": "Trailing garbage characters in the explanation suggest OCR failure at the end of the explanation text.",
+          "severity": "medium"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The options and explanation contain OCR corruption and ambiguous terminology; the intended answer and correct spinal levels cannot be confirmed from the draft. Authoritative sources and the original scanned page are required to verify the correct anatomical levels for bladder pain afferents and to reconstruct the intended options and explanation.",
+        "suggestedAuthorityQuery": "Verify which dorsal root ganglia (spinal nerve levels) contain the visceral afferent cell bodies that mediate pain from the urinary bladder. Check standard anatomy references (e.g., Gray's Anatomy, neuroanatomy texts) and clinical sources on bladder innervation. Confirm intended options (e.g., L1-L4, S2-S4, T5-T9, T10-T12) and the correct answer.",
+        "risk": "possible_ambiguity"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "OCR corruption in options and explanation (concatenated fragments, numeric misreads, stray characters) means the original scanned page must be inspected to recover the intended option wording, correct spinal level notation, and the authoritative explanation before any correction or medical validation."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0253-q0062",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "ww The right and left hepatic arteries are derived from which of the following blood vessels:",
+          "reason": "Leading 'ww' appears to be stray OCR characters at the start of the stem.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "Directly from the aorta 6% / From the superior mesenteric artery 7% / From the gastrosplenic artery 4%",
+          "reason": "Numeric percentages appended to several option strings appear extraneous (likely OCR capture of survey/annotation marks) and corrupt the option text.",
+          "severity": "high"
+        },
+        {
+          "kind": "grammar",
+          "span": "The arterial supply to the liver is from the left and right hepatic arteries derived from the hepatic artery proper, a branch of the common hepatic artery from the coeliac trunk. Vv",
+          "reason": "Trailing 'Vv' looks like an OCR artifact or unfinished text; sentence punctuation and flow may be disrupted.",
+          "severity": "medium"
+        },
+        {
+          "kind": "terminology",
+          "span": "From the gastrosplenic artery",
+          "reason": "'Gastrosplenic artery' is not a standard widely used anatomical term (may be an OCR corruption of 'gastroduodenal', 'gastrosplenic ligament/branch', 'splenic artery', or similar). This needs verification against the source.",
+          "severity": "high"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "The right and left hepatic arteries are derived from which of the following blood vessels:",
+          "reason": "The stem does not specify whether 'derived from' means direct origin (immediate parent vessel) or more remote origin. That ambiguity affects answer interpretation.",
+          "severity": "medium"
+        },
+        {
+          "kind": "option_structure",
+          "span": "Options list",
+          "reason": "Inconsistent formatting across options (some include percentage annotations, others do not). This inconsistency suggests OCR overlay of meta-data and may affect parsing/scoring.",
+          "severity": "medium"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The question text contains multiple OCR artifacts and a possibly incorrect or nonstandard vessel name ('gastrosplenic artery'); the stem is ambiguous about 'derived from' (direct vs indirect origin). The explanation contains stray characters. Authoritative confirmation of the intended options and the correct anatomical origin of the left and right hepatic arteries is required.",
+        "suggestedAuthorityQuery": "Check the original scanned page for the intended option wording and remove annotation artifacts. Verify the correct origin of the left and right hepatic arteries in standard anatomy references (e.g., Gray's Anatomy, Netter, or peer-reviewed surgical anatomy texts) and confirm whether any option terms (e.g., 'gastrosplenic artery') are transcription errors.",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "Original scan must be inspected to (1) remove stray OCR characters ('ww', 'Vv'), (2) confirm whether percentage marks are extraneous annotations, (3) verify the intended wording for the option listed as 'gastrosplenic artery', and (4) confirm the accurate explanation text."
+      },
+      "disposition": "manual_review_required"
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0259-q0063",
+      "languageIssues": [
+        {
+          "kind": "ocr_artifact",
+          "span": "Appendix Sigmoid colon 6%",
+          "reason": "Multiple answer choices appear concatenated into a single line and include a stray '6%' artifact — suggests OCR merging and noise.",
+          "severity": "high"
+        },
+        {
+          "kind": "option_structure",
+          "span": "options array (\"Appendix Sigmoid colon 6%\", \"Tail of the pancreas\")",
+          "reason": "Only two option strings are present but the text/content implies more distinct choices were intended (e.g., 'Appendix', 'Sigmoid colon', possibly 'Ascending colon'). The listed explanation refers to an option ('ascending colon') that is not present in the options, indicating missing or mis-parsed options.",
+          "severity": "high"
+        },
+        {
+          "kind": "ocr_artifact",
+          "span": "The ascending colon is the only organ listed which is retroperitoneal. [< | se |eseaen | Py] Vv",
+          "reason": "Explanation contains unreadable bracketed garbage and trailing characters likely introduced by OCR corruption.",
+          "severity": "medium"
+        },
+        {
+          "kind": "ambiguity",
+          "span": "explanation references 'ascending colon' (not present in options)",
+          "reason": "The explanation asserts a correct answer that is not among the parsed options, creating ambiguity about the intended correct choice and requiring source verification.",
+          "severity": "high"
+        },
+        {
+          "kind": "grammar",
+          "span": "A 23 year old patient is brought to ED following a road traffic accident.",
+          "reason": "Minor grammatical/formatting issues: '23 year old' should be hyphenated as '23-year-old'; 'ED' is an abbreviation that may not be expanded ('to the ED' vs 'to ED').",
+          "severity": "low"
+        },
+        {
+          "kind": "terminology",
+          "span": "Tail of the pancreas",
+          "reason": "No direct error, but anatomical terms can be ambiguous in different contexts; leave for medical review to confirm intended meaning and relation to 'retroperitoneal injury'.",
+          "severity": "low"
+        }
+      ],
+      "medicalReview": {
+        "needed": true,
+        "reason": "The explanation names a correct answer ('ascending colon') that is not present in the parsed options, and the options list is corrupted by OCR artifacts. Confirming the intended options and correct answer requires inspecting the original source page and, if necessary, authoritative anatomy references.",
+        "suggestedAuthorityQuery": "Inspect the original scanned page to recover the full, correctly separated option list and the marked correct option. Then verify which of the listed organs are retroperitoneal using an authoritative anatomy reference (textbook or peer-reviewed source).",
+        "risk": "possible_inaccuracy"
+      },
+      "sourcePageGate": {
+        "required": true,
+        "reason": "OCR corruption likely removed or merged answer choices and inserted garbage into the explanation (e.g., '6%', bracketed noise, missing 'ascending colon'). A page-level inspection of the original source is required before any content correction or medical validation."
+      },
+      "disposition": "needs_external_evidence"
+    }
+  ]
+}

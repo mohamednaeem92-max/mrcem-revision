@@ -1,0 +1,342 @@
+{
+  "exportedAt": "2026-08-27T20:43:19.883Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-68",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      1888,
+      1889,
+      1890,
+      1891,
+      1892,
+      1896,
+      1897,
+      1898,
+      1899,
+      1900
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1888-q0042",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following best describes the position of the parietal lobe:",
+      "options": [
+        "Posterior to the parieto-occipital sulcus",
+        "Anterior to the central sulcus and superior to the lateral sulcus (Vv) Posterior to the central sulcus and superior to the lateral sulcus 82%",
+        "Anterior to the central sulcus and inferior to the lateral sulcus",
+        "Posterior to the central sulcus and inferior to the lateral sulcus"
+      ],
+      "correctOption": null,
+      "explanation": "The parietal lobe extends from the central sulcus to the occipital lobe and lies posterior to the central sulcus and superior to the lateral sulcus and the temporal lobe. . Vv Parietal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1888,
+      "sourceQuestionNumber": 42
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1889-q0043",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The blood supply to the frontal lobe is primarily supplied by which of the following arteries:",
+      "options": [
+        "Anterior cerebral artery (x) Middle cerebral artery 4%",
+        "Posterior cerebral artery (Vv) Anterior and middle cerebral artery 31%",
+        "Basilar artery"
+      ],
+      "correctOption": null,
+      "explanation": "The blood supply to the frontal lobe is from the anterior cerebral artery (supplying the medial surface of the primary motor cortex which controls the lower limb) and the middle cerebral artery (supplying the lateral surface of the primary motor cortex which controls the face and upper limb). : Vv Frontal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1889,
+      "sourceQuestionNumber": 43
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1890-q0044",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww The sensation produced by touching the arm with cotton wool during a neurological examination is mediated by which of the following spinal tracts:",
+      "options": [
+        "Anterior spinothalamic tract",
+        "Lateral spinothalamic tract (x) Anterior corticospinal tract 4% (Vv) Posterior column 24%",
+        "Anterior spinocerebellar tract"
+      ],
+      "correctOption": null,
+      "explanation": "Fine-touch, proprioception and vibration sensation are mediated by the posterior column-medial lemniscus pathway. , Vv Spinal Cord Tracts ANATOMY / CENTRAL NERVOUS SYSTEM 11 Ranimart",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1890,
+      "sourceQuestionNumber": 44
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1891-q0045",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "pit. A 69 year old patient is brought to ED with acute onset facial weakness on the right side, and difficulty with speech. He is able to respond to questions appropriately by nodding or shaking his head, but his words are jumbled and don't make sense. Which of the following lobes has been affected:",
+      "options": [
+        "Left parietal lobe",
+        "Left temporal lobe () Lett frontal lobe 30%",
+        "Right frontal lobe"
+      ],
+      "correctOption": null,
+      "explanation": "Right sided facial weakness and expressive dysphasia is most likely caused by a lesion to the left frontal lobe, due to damage to the primary motor cortex and the Broca speech area respectively. Vv Frontal Lobe",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1891,
+      "sourceQuestionNumber": 45
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1892-q0046",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following best describes the position of the occipital lobe:",
+      "options": [
+        "Anterior to the parieto-occipital sulcus (x) Posterior to the central sulcus and inferior to the lateral sulcus 11%",
+        "Posterior to the central sulcus and superior to the lateral sulcus",
+        "Inferior to the lateral sulcus (Vv) Inferior to the parieto-occipital sulcus 76%"
+      ],
+      "correctOption": null,
+      "explanation": "The occipital lobe lies inferior to the parieto-occipital sulcus. , ; Vv Occipital Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1892,
+      "sourceQuestionNumber": 46
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1896-q0047",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww A 49 year old presents to ED complaining of muscle weakness and clumsiness in the right hand, with slow and effortful speech. In which of the following lobes is the lesion most likely found: (Vv) Left frontal lobe 36% (x) Right frontal lobe 3%",
+      "options": [
+        "Right parietal lobe",
+        "Left parietal lobe",
+        "Left temporal lobe"
+      ],
+      "correctOption": null,
+      "explanation": "The patient exhibits motor weakness and expressive dysphasia. The lesion is most likely in the left frontal lobe. : Vv Frontal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1896,
+      "sourceQuestionNumber": 47
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1897-q0048",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww Which of the following clinical features is most suggestive of a lesion of the parietal lobe:",
+      "options": [
+        "Contralateral limb weakness",
+        "Expressive dysphasia (Vv) Hemispatial sensory neglect 70%",
+        "Receptive dysphasia"
+      ],
+      "correctOption": null,
+      "explanation": "Hemispatial sensory neglect is most likely to be associated with damage to the parietal lobe. Receptive dysphasia may be seen in damage to the Wernicke speech area in the temporal lobe. Expressive dysphasia may be seen in damage to the Broca speech area in the frontal lobe. Contralateral motor weakness is due to damage of the motor cortex of the frontal lobe. Homonymous hemianopia is most likely to occur in damage of the occipital lobe. “ v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1897,
+      "sourceQuestionNumber": 48
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1898-q0049",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "ww What type of visual field defect are you most likely to see in a lesion at the optic chiasm: (Vv) Bitemporal hemianopia 89%",
+      "options": [
+        "Contralateral homonymous inferior quadrantanopia (x) Contralateral homonymous hemianopia 7%",
+        "Contralateral homonymous superior quadrantanopia",
+        "Homonymous hemianopia with macular sparing"
+      ],
+      "correctOption": null,
+      "explanation": "Alesion at the optic chiasm will result in a bitemporal hemianopia. Vv Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1898,
+      "sourceQuestionNumber": 49
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1899-q0050",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "w A 68 year old lady was involved in a road traffic accident and describes a whiplash type injury. She has pain and tenderness in the cervical region and imaging shows a herniated disc in this region. The patient is complaining of weakness of elbow extension and loss of sensation over the middle finger. Which of the following spinal nerves is most likely affected: c",
+      "options": [
+        "Cé",
+        "c9 %"
+      ],
+      "correctOption": null,
+      "explanation": "Elbow extension is a predominant function of the C7 spinal nerve root, which also supplies sensation to skin over the middle of the hand. The important myotomes are shown below. Vv eat aa moe",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1899,
+      "sourceQuestionNumber": 50
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1900-q0051",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Central Nervous System",
+      "stem": "w CSF is reabsorbed from subarachnoid space via which of the following structures:",
+      "options": [
+        "Subarachnoid cisterns",
+        "Cerebral aqueduct (Vv) Arachnoid granulations 27%",
+        "Choroid plexus"
+      ],
+      "correctOption": null,
+      "explanation": "From the subarachnoid cisterns in the subarachnoid space, CSF is reabsorbed via arachnoid granulations which protrude into the dura mater, into the dural venous sinuses and from here back into the circulation. v Cerebrospinal Fluid ANATOMY / CENTRAL NERVOUS SYSTEM",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Central Nervous System"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 1900,
+      "sourceQuestionNumber": 51
+    }
+  ]
+}

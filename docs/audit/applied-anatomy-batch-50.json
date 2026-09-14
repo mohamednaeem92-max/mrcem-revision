@@ -1,0 +1,658 @@
+{
+  "generatedAt": "2026-08-26T04:48:36.047Z",
+  "batch": "anatomy-all-pdf-batch-50",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1522-q0016",
+      "sourcePage": 1522,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1522-q0016",
+        "sourcePage": 1522,
+        "stem": "ww The brainstem comprises which of the following:",
+        "options": [
+          "Midbrain and hindbrain (x) Pons, medulla and cerebellum 10%",
+          "Thalamus and hypothalamus (Vv) Pons, medulla and midbrain 88%",
+          "Midbrain and cerebellum"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The brainstem comprises the midbrain, the pons and the medulla. : Vv Brainstem ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1522-q0016",
+        "sourcePage": 1522,
+        "stem": "The brainstem comprises which of the following:",
+        "options": [
+          "Midbrain and hindbrain",
+          "Pons, medulla and cerebellum",
+          "Thalamus and hypothalamus",
+          "Pons, medulla and midbrain",
+          "Midbrain and cerebellum"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The brainstem comprises the midbrain, pons, and medulla.",
+        "learningNote": "The brainstem comprises the midbrain, pons, and medulla.",
+        "highYieldNote": "The brainstem comprises the midbrain, pons, and medulla.",
+        "mnemonic": "Brainstem: mid, pons, medulla.",
+        "memoryAid": {
+          "coreFact": "The brainstem comprises the midbrain, pons, and medulla.",
+          "mnemonic": "Brainstem: mid, pons, medulla.",
+          "emojiCues": [
+            "🧠",
+            "3️⃣",
+            "🔗"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK544297/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK544297/",
+        "externalFinding": "NCBI brainstem anatomy supports the displayed key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1528-q0017",
+      "sourcePage": 1528,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1528-q0017",
+        "sourcePage": 1528,
+        "stem": "ww The blood supply to the temporal lobe is primarily supplied by which of the following arteries:",
+        "options": [
+          "Basilar artery",
+          "Middle cerebral artery (x) Posterior cerebral artery 2%",
+          "Anterior and middle cerebral artery (Vv) Middle and posterior cerebral artery 18%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The blood supply to the temporal lobe is from the posterior cerebral artery (medial part of the lobe) and the middle cerebral artery (lateral part of the lobe). , Vv Temporal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM 11 Ranimart",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1528-q0017",
+        "sourcePage": 1528,
+        "stem": "The blood supply to the temporal lobe is primarily supplied by which of the following arteries:",
+        "options": [
+          "Basilar artery",
+          "Middle cerebral artery",
+          "Posterior cerebral artery",
+          "Anterior and middle cerebral artery",
+          "Middle and posterior cerebral artery"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The temporal lobe receives lateral supply from the MCA and medial supply from the PCA.",
+        "learningNote": "The temporal lobe receives lateral supply from the MCA and medial supply from the PCA.",
+        "highYieldNote": "The temporal lobe receives lateral supply from the MCA and medial supply from the PCA.",
+        "mnemonic": "Temporal lobe: MCA lateral, PCA medial.",
+        "memoryAid": {
+          "coreFact": "The temporal lobe receives lateral supply from the MCA and medial supply from the PCA.",
+          "mnemonic": "Temporal lobe: MCA lateral, PCA medial.",
+          "emojiCues": [
+            "🧠",
+            "🩸",
+            "↔️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK532297/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532297/",
+        "externalFinding": "NCBI cerebral blood-supply anatomy supports the displayed combination."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1529-q0018",
+      "sourcePage": 1529,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1529-q0018",
+        "sourcePage": 1529,
+        "stem": "ww The basilar artery is formed from which of the following blood vessels:",
+        "options": [
+          "Internal carotid arteries",
+          "Anterior cerebral arteries (Vv) Vertebral arteries 45%",
+          "External carotid arteries",
+          "Middle cerebral arteries"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The basilar artery is formed by the joining of the two terminal vertebral arteries. : / v Arterial Supply of Brain ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1529-q0018",
+        "sourcePage": 1529,
+        "stem": "The basilar artery is formed from which of the following blood vessels:",
+        "options": [
+          "Internal carotid arteries",
+          "Anterior cerebral arteries",
+          "Vertebral arteries",
+          "External carotid arteries",
+          "Middle cerebral arteries"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The two vertebral arteries unite at the pontomedullary junction to form the basilar artery.",
+        "learningNote": "The two vertebral arteries unite at the pontomedullary junction to form the basilar artery.",
+        "highYieldNote": "The two vertebral arteries unite at the pontomedullary junction to form the basilar artery.",
+        "mnemonic": "Vertebrals converge to make the basilar.",
+        "memoryAid": {
+          "coreFact": "The two vertebral arteries unite at the pontomedullary junction to form the basilar artery.",
+          "mnemonic": "Vertebrals converge to make the basilar.",
+          "emojiCues": [
+            "🩸",
+            "↘️↙️",
+            "🔗"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK11042/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK11042/",
+        "externalFinding": "NCBI supports vertebral-artery union."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1530-q0019",
+      "sourcePage": 1530,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1530-q0019",
+        "sourcePage": 1530,
+        "stem": "A 29 year old male racing driver has fractured a cervical vertebra. On examination, he has weakness of the right side of his body with upgoing plantars, loss of pain and temperature sensation in his left limbs, with normal fine-touch sensation over all four limbs. This clinical picture is most likely seen in a lesion of the:",
+        "options": [
+          "Anterior column, left side (x) Anterior column, right side 19% (Vv) Lateral column, right side 46%",
+          "Lateral column, left side",
+          "Posterior column, right side"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The lesion is likely affecting the corticospinal and lateral spinothalamic tracts in the lateral column. Motor power of the limbs is mediated by the ipsilateral corticospinal tract, and pain and temperature sensation is mediated by the contralateral spinothalamic tract, therefore the lesion is likely on the right side. The posterior column is spared, as fine-touch sensation is normal throughout. v Spinal Cord Tracts",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1530-q0019",
+        "sourcePage": 1530,
+        "stem": "A 29 year old male racing driver has fractured a cervical vertebra. On examination, he has weakness of the right side of his body with upgoing plantars, loss of pain and temperature sensation in his left limbs, with normal fine-touch sensation over all four limbs. This clinical picture is most likely seen in a lesion of the:",
+        "options": [
+          "Anterior column, left side",
+          "Anterior column, right side",
+          "Lateral column, right side",
+          "Lateral column, left side",
+          "Posterior column, right side"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "A right lateral spinal-cord lesion affects the ipsilateral corticospinal tract and contralateral spinothalamic pathway while sparing dorsal-column fine touch.",
+        "learningNote": "A right lateral spinal-cord lesion affects the ipsilateral corticospinal tract and contralateral spinothalamic pathway while sparing dorsal-column fine touch.",
+        "highYieldNote": "A right lateral spinal-cord lesion affects the ipsilateral corticospinal tract and contralateral spinothalamic pathway while sparing dorsal-column fine touch.",
+        "mnemonic": "Hemicord: same-side motor, opposite-side pain.",
+        "memoryAid": {
+          "coreFact": "A right lateral spinal-cord lesion affects the ipsilateral corticospinal tract and contralateral spinothalamic pathway while sparing dorsal-column fine touch.",
+          "mnemonic": "Hemicord: same-side motor, opposite-side pain.",
+          "emojiCues": [
+            "↔️",
+            "💪",
+            "🌡️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK538135/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK538135/",
+        "externalFinding": "NCBI Brown-Séquard anatomy supports right lateral-column localization."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1531-q0020",
+      "sourcePage": 1531,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1531-q0020",
+        "sourcePage": 1531,
+        "stem": "ww A 65 year old man has resting tremor, rigidity, bradykinesia and a shuffling gait. Parkinson's disease results from which of the following mechanisms:",
+        "options": [
+          "Avascular lesion of the subthalamic nucleus Vv) Loss of dopaminergic neurons in the substantia nigra 93% (x) Loss of serotonergic neurons in the globus pallidus and red nucleus 2% Defect in the metabolism of copper 0%",
+          "Loss of cholinergic and GABAergic neurons in the caudate nucleus and putamen"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Parkinson's disease, characterised by resting tremor, rigidity, akinesia/bradykinesia and shuffling gait, results from degeneration of neurons in the substantia nigra resulting in depletion of dopamine in the caudate nucleus and putamen. ; : Vv Cerebral Hemispheres ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1531-q0020",
+        "sourcePage": 1531,
+        "stem": "A 65 year old man has resting tremor, rigidity, bradykinesia and a shuffling gait. Parkinson's disease results from which of the following mechanisms:",
+        "options": [
+          "A vascular lesion of the subthalamic nucleus",
+          "Loss of dopaminergic neurons in the substantia nigra",
+          "Loss of serotonergic neurons in the globus pallidus and red nucleus",
+          "Defect in the metabolism of copper",
+          "Loss of cholinergic and GABAergic neurons in the caudate nucleus and putamen"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Parkinson disease involves degeneration of dopaminergic neurons in the substantia nigra with striatal dopamine depletion.",
+        "learningNote": "Parkinson disease involves degeneration of dopaminergic neurons in the substantia nigra with striatal dopamine depletion.",
+        "highYieldNote": "Parkinson disease involves degeneration of dopaminergic neurons in the substantia nigra with striatal dopamine depletion.",
+        "mnemonic": "Parkinson: substantia nigra loses dopamine.",
+        "memoryAid": {
+          "coreFact": "Parkinson disease involves degeneration of dopaminergic neurons in the substantia nigra with striatal dopamine depletion.",
+          "mnemonic": "Parkinson: substantia nigra loses dopamine.",
+          "emojiCues": [
+            "🧠",
+            "⬛",
+            "⬇️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "Source-confirmed anatomy fact",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK536722/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK536722/",
+        "externalFinding": "Source explanation and standard neuroanatomy support the displayed key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1532-q0021",
+      "sourcePage": 1532,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1532-q0021",
+        "sourcePage": 1532,
+        "stem": "w Which of the following best describes the function of the cerebral aqueduct:",
+        "options": [
+          "Major site of production of CSF",
+          "Connects the lateral ventricles to the third ventricle (Vv) Connects the third ventricle to the fourth ventricle 38%",
+          "Connects the right and left lateral ventricles"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The third ventricle is connected to the fourth ventricle by the cerebral aqueduct. Vv Cerebral Ventricles ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1532-q0021",
+        "sourcePage": 1532,
+        "stem": "Which of the following best describes the function of the cerebral aqueduct:",
+        "options": [
+          "Major site of production of CSF",
+          "Connects the lateral ventricles to the third ventricle",
+          "Drains CSF into the subarachnoid cisterns",
+          "Connects the third ventricle to the fourth ventricle",
+          "Connects the right and left lateral ventricles"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The cerebral aqueduct connects the third ventricle to the fourth ventricle.",
+        "learningNote": "The cerebral aqueduct connects the third ventricle to the fourth ventricle.",
+        "highYieldNote": "The cerebral aqueduct connects the third ventricle to the fourth ventricle.",
+        "mnemonic": "Aqueduct: third to fourth.",
+        "memoryAid": {
+          "coreFact": "The cerebral aqueduct connects the third ventricle to the fourth ventricle.",
+          "mnemonic": "Aqueduct: third to fourth.",
+          "emojiCues": [
+            "3️⃣",
+            "➡️",
+            "4️⃣"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "Source-confirmed anatomy fact",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK532910/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532910/",
+        "externalFinding": "Standard ventricular anatomy supports the displayed key."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1536-q0023",
+      "sourcePage": 1536,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1536-q0023",
+        "sourcePage": 1536,
+        "stem": "ww What type of visual field defect would you most likely see in a lesion of the optic radiation of the left temporal lobe:",
+        "options": [
+          "Left homonymous hemianopia (x) Left homonymous inferior quadrantanopia 3%",
+          "Right homonymous inferior quadrantanopia",
+          "Left homonymous superior quadrantanopia (Vv) Right homonymous superior quadrantanopia 68%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The fibres of the lower part of the optic radiation (serving the upper quadrant of the contralateral visual field) pass through the temporal lobe. Vv Temporal Lobe ANATOMY / CENTRAL NERVOUS SYSTEM 01 Ranemare",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1536-q0023",
+        "sourcePage": 1536,
+        "stem": "What type of visual field defect would you most likely see in a lesion of the optic radiation of the left temporal lobe:",
+        "options": [
+          "Left homonymous hemianopia",
+          "Left homonymous inferior quadrantanopia",
+          "Right homonymous inferior quadrantanopia",
+          "Left homonymous superior quadrantanopia",
+          "Right homonymous superior quadrantanopia"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The left temporal optic radiations carry lower fibres representing the right superior visual quadrant, so injury causes right homonymous superior quadrantanopia.",
+        "learningNote": "The left temporal optic radiations carry lower fibres representing the right superior visual quadrant, so injury causes right homonymous superior quadrantanopia.",
+        "highYieldNote": "The left temporal optic radiations carry lower fibres representing the right superior visual quadrant, so injury causes right homonymous superior quadrantanopia.",
+        "mnemonic": "Temporal Meyer loop: contralateral upper quadrant.",
+        "memoryAid": {
+          "coreFact": "The left temporal optic radiations carry lower fibres representing the right superior visual quadrant, so injury causes right homonymous superior quadrantanopia.",
+          "mnemonic": "Temporal Meyer loop: contralateral upper quadrant.",
+          "emojiCues": [
+            "👁️",
+            "⬆️",
+            "↔️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK558982/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK558982/",
+        "externalFinding": "NCBI supports the visual-field localization."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1537-q0024",
+      "sourcePage": 1537,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1537-q0024",
+        "sourcePage": 1537,
+        "stem": "ww What type of visual field defect are you most likely to see in a lesion of the optic nerve:",
+        "options": [
+          "Bitemporal hemianopia",
+          "Contralateral homonymous inferior quadrantanopia (x) ontralateral homonymous hemianopia 3%",
+          "Ipsilateral homonymous superior quadrantanopia (Vv) Monocular visual loss 43%"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "A lesion of the optic nerve will result in ipsilateral monocular visual loss. : : v Visual Pathway ANATOMY / CENTRAL NERVOUS SYSTEM / CRANIAL NERVE LESIONS",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1537-q0024",
+        "sourcePage": 1537,
+        "stem": "What type of visual field defect are you most likely to see in a lesion of the optic nerve:",
+        "options": [
+          "Bitemporal hemianopia",
+          "Contralateral homonymous inferior quadrantanopia",
+          "Contralateral homonymous hemianopia",
+          "Ipsilateral homonymous superior quadrantanopia",
+          "Monocular visual loss"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "An optic-nerve lesion causes ipsilateral monocular visual loss before the chiasm.",
+        "learningNote": "An optic-nerve lesion causes ipsilateral monocular visual loss before the chiasm.",
+        "highYieldNote": "An optic-nerve lesion causes ipsilateral monocular visual loss before the chiasm.",
+        "mnemonic": "Optic nerve before crossing: one eye.",
+        "memoryAid": {
+          "coreFact": "An optic-nerve lesion causes ipsilateral monocular visual loss before the chiasm.",
+          "mnemonic": "Optic nerve before crossing: one eye.",
+          "emojiCues": [
+            "👁️",
+            "1️⃣",
+            "🚫"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK553189/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK553189/",
+        "externalFinding": "NCBI visual-pathway anatomy supports monocular loss."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1538-q0025",
+      "sourcePage": 1538,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1538-q0025",
+        "sourcePage": 1538,
+        "stem": "ww Which of the following clinical features is most suggestive of a lesion of the occipital lobe:",
+        "options": [
+          "Memory impairment (Vv) Homonymous hemianopia 83% (x) Expressive dysphasia 2%",
+          "Hemispatial neglect",
+          "Conjugate eye deviation"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "Homonymous hemianopia is most likely caused by damage to the occipital lobe. Vv Occipital Lobe ANATOMY / CENTRAL NERVOUS SYSTEM",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1538-q0025",
+        "sourcePage": 1538,
+        "stem": "Which of the following clinical features is most suggestive of a lesion of the occipital lobe:",
+        "options": [
+          "Memory impairment",
+          "Homonymous hemianopia",
+          "Expressive dysphasia",
+          "Hemispatial neglect",
+          "Conjugate eye deviation"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Occipital-lobe lesions commonly produce homonymous visual-field loss.",
+        "learningNote": "Occipital-lobe lesions commonly produce homonymous visual-field loss.",
+        "highYieldNote": "Occipital-lobe lesions commonly produce homonymous visual-field loss.",
+        "mnemonic": "Occipital cortex is the visual cortex.",
+        "memoryAid": {
+          "coreFact": "Occipital-lobe lesions commonly produce homonymous visual-field loss.",
+          "mnemonic": "Occipital cortex is the visual cortex.",
+          "emojiCues": [
+            "🧠",
+            "👁️",
+            "↔️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK558929/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK558929/",
+        "externalFinding": "NCBI supports the visual-field deficit."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1542-q0026",
+      "sourcePage": 1542,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p1542-q0026",
+        "sourcePage": 1542,
+        "stem": "ww The blood supply to the occipital lobe is primarily supplied from which of the following arteries:",
+        "options": [
+          "Anterior cerebral artery (x) Middle cerebral artery 3%",
+          "Posterior cerebral artery",
+          "Basilar artery",
+          "Vertebral artery"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The blood supply to the occipital lobe is from the posterior cerebral artery, but the occipital poles, serving macular vision, have additional supply from a branch of the middle cerebral artery. Vv Occipital Lobe ANATOMY / CENTRAL NERVOUS SYSTEM 01 Ranemare",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p1542-q0026",
+        "sourcePage": 1542,
+        "stem": "The blood supply to the occipital lobe is primarily supplied from which of the following arteries:",
+        "options": [
+          "Anterior cerebral artery",
+          "Middle cerebral artery",
+          "Posterior cerebral artery",
+          "Basilar artery",
+          "Vertebral artery"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The occipital lobe is primarily supplied by the posterior cerebral artery, with additional MCA supply possible at the occipital poles.",
+        "learningNote": "The occipital lobe is primarily supplied by the posterior cerebral artery, with additional MCA supply possible at the occipital poles.",
+        "highYieldNote": "The occipital lobe is primarily supplied by the posterior cerebral artery, with additional MCA supply possible at the occipital poles.",
+        "mnemonic": "PCA powers the posterior visual cortex.",
+        "memoryAid": {
+          "coreFact": "The occipital lobe is primarily supplied by the posterior cerebral artery, with additional MCA supply possible at the occipital poles.",
+          "mnemonic": "PCA powers the posterior visual cortex.",
+          "emojiCues": [
+            "🧠",
+            "🩸",
+            "👁️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK538474/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK538474/",
+        "externalFinding": "NCBI PCA anatomy supports the displayed key and source caveat."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

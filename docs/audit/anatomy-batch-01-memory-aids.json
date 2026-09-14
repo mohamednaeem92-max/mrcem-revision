@@ -1,0 +1,138 @@
+{
+  "generatedAt": "2026-08-22T02:43:48.911Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0001-q0001",
+      "sourcePage": 1,
+      "status": "ocr_draft",
+      "memoryAid": {
+        "coreFact": "Femoral nerve roots are L2-L4.",
+        "mnemonic": "Count 2, 3, 4 before knee extension.",
+        "emojiCues": [
+          "🦵",
+          "2️⃣3️⃣4️⃣"
+        ],
+        "cueLabel": "A leg and the sequence two, three, four cue femoral roots.",
+        "sourceLabel": "NCBI Bookshelf: Femoral Nerve",
+        "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK556065/"
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0013-q0004",
+      "sourcePage": 13,
+      "status": "ocr_draft",
+      "memoryAid": {
+        "coreFact": "The prostate lies anterior to the rectum and inferior to the bladder.",
+        "mnemonic": "PROstate is before the rectum.",
+        "emojiCues": [
+          "➡️",
+          "📍"
+        ],
+        "cueLabel": "A forward arrow and map pin cue the prostate’s anterior relation.",
+        "sourceLabel": "NCBI Bookshelf: Rectum",
+        "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537245/"
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0017-q0005",
+      "sourcePage": 17,
+      "status": "ocr_draft",
+      "memoryAid": {
+        "coreFact": "Pelvic splanchnic nerves are parasympathetic and arise from S2-S4.",
+        "mnemonic": "S2, S3, S4 keep the pelvis parasympathetic.",
+        "emojiCues": [
+          "🧠",
+          "2️⃣3️⃣4️⃣"
+        ],
+        "cueLabel": "A brain and the sequence two, three, four cue pelvic parasympathetics.",
+        "sourceLabel": "NCBI Bookshelf: Splanchnic Nerves",
+        "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK560504/"
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0022-q0006",
+      "sourcePage": 22,
+      "status": "ocr_draft",
+      "memoryAid": {
+        "coreFact": "The trigone contains the ureteric openings at its upper corners and the urethral opening at its lower corner.",
+        "mnemonic": "Two ureters top the trigone; urethra completes the base.",
+        "emojiCues": [
+          "🔺",
+          "2️⃣"
+        ],
+        "cueLabel": "A triangle and two cue the two upper ureteric corners.",
+        "sourceLabel": "NCBI Bookshelf: Physiology, Bladder",
+        "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK538533/"
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0027-q0007",
+      "sourcePage": 27,
+      "status": "ocr_draft",
+      "memoryAid": {
+        "coreFact": "The rectum is the most posterior visceral organ in the pelvic cavity.",
+        "mnemonic": "RECTUM = rear-most pelvic viscus.",
+        "emojiCues": [
+          "⬅️",
+          "📍"
+        ],
+        "cueLabel": "A rear-facing arrow and map pin cue the posterior pelvic position.",
+        "sourceLabel": "NCBI Bookshelf: Rectum",
+        "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537245/"
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0032-q0008",
+      "sourcePage": 32,
+      "status": "ocr_draft",
+      "memoryAid": {
+        "coreFact": "Uterine visceral afferent pain fibres travel to T10-L1.",
+        "mnemonic": "Uterus: ten to one.",
+        "emojiCues": [
+          "🤰",
+          "🔟1️⃣"
+        ],
+        "cueLabel": "A pregnant person and ten-to-one sequence cue uterine afferents.",
+        "sourceLabel": "Origoni et al.: Neurobiological Mechanisms of Pelvic Pain",
+        "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4119661/"
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0036-q0009",
+      "sourcePage": 36,
+      "status": "ocr_draft",
+      "memoryAid": {
+        "coreFact": "The posterior wall of the inguinal canal is formed by transversalis fascia, with medial conjoint-tendon reinforcement.",
+        "mnemonic": "The posterior wall starts with T: transversalis fascia.",
+        "emojiCues": [
+          "⬅️",
+          "🔤"
+        ],
+        "cueLabel": "A back arrow and letter cue the posterior wall’s transversalis fascia.",
+        "sourceLabel": "NCBI Bookshelf: Inguinal Region",
+        "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK470204/"
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0040-q0010",
+      "sourcePage": 40,
+      "status": "ocr_draft",
+      "memoryAid": {
+        "coreFact": "Splenic arterial branches supply the pancreatic body and tail.",
+        "mnemonic": "Pancreatic tail points to the spleen.",
+        "emojiCues": [
+          "➡️",
+          "🟣"
+        ],
+        "cueLabel": "A directional arrow and purple marker cue the pancreatic tail toward the spleen.",
+        "sourceLabel": "NCBI Bookshelf: Pancreas",
+        "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK532912/"
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "unresolved": [
+    "anatomy-anatomy-all-pdf-p0006-q0002",
+    "anatomy-anatomy-all-pdf-p0009-q0003"
+  ]
+}

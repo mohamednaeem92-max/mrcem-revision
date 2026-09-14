@@ -1,0 +1,653 @@
+{
+  "generatedAt": "2026-08-27T21:39:53.393Z",
+  "batch": "anatomy-all-pdf-batch-75",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p2032-q0036",
+      "sourcePage": 2032,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p2032-q0036",
+        "sourcePage": 2032,
+        "stem": "Regarding the trochlear nerve, which of the following statements is CORRECT:",
+        "options": [
+          "The trochlear nerve has both sensory and motor function. 2%",
+          "The trochlear nerve innervates the superior rectus muscle. 4%",
+          "The trochlear nerve enters the orbit through the superior orbital fissure.",
+          "Trochlear nerve palsy results in loss of eyeball adduction. 4%"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The trochlear nerve enters the orbit through the superior orbital fissure. It has the longest intracranial course. It is a purely motor nerve, which innervates the superior oblique muscle responsible for intorsion, depression and abduction of the eye. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p2032-q0036",
+        "sourcePage": 2032,
+        "stem": "Regarding the trochlear nerve, which of the following statements is CORRECT:",
+        "options": [
+          "The trochlear nerve has both sensory and motor function.",
+          "The trochlear nerve innervates the superior rectus muscle.",
+          "The trochlear nerve has the shortest intracranial course.",
+          "The trochlear nerve enters the orbit through the superior orbital fissure.",
+          "Trochlear nerve palsy results in loss of eyeball adduction."
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "CN IV is purely motor, supplies superior oblique, has the longest intracranial course, and enters via the superior orbital fissure.",
+        "learningNote": "CN IV is purely motor, supplies superior oblique, has the longest intracranial course, and enters via the superior orbital fissure.",
+        "highYieldNote": "CN IV is purely motor, supplies superior oblique, has the longest intracranial course, and enters via the superior orbital fissure.",
+        "mnemonic": "SO4: superior oblique by IV.",
+        "memoryAid": {
+          "coreFact": "CN IV is purely motor, supplies superior oblique, has the longest intracranial course, and enters via the superior orbital fissure.",
+          "mnemonic": "SO4: superior oblique by IV.",
+          "emojiCues": [
+            "IV",
+            "👁️",
+            "🕳️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537173/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537173/",
+        "externalFinding": "NCBI supports the trochlear course and orbital entry."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2033-q0037",
+      "sourcePage": 2033,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p2033-q0037",
+        "sourcePage": 2033,
+        "stem": "A 55 year old woman presents to ED complaining of vertical diplopia with difficulty walking downstairs. She is tilting her head to one side as she says this helps ease the diplopia. Which of the following extraocular muscles is responsible for this picture:",
+        "options": [
+          "Superior rectus",
+          "Inferior oblique",
+          "Lateral rectus"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The superior oblique, innervated by the trochlear nerve, acts to cause intorsion, depression and abduction of the eyeball. In trochlear nerve palsy the patient complains of difficulty reading or walking downstairs and of vertical diplopia. The eye is extorted and may be elevated and the patient may head tilt to the opposite side of the palsy to compensate. Cc | Se Teer Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p2033-q0037",
+        "sourcePage": 2033,
+        "stem": "A 55 year old woman presents to ED complaining of vertical diplopia with difficulty walking downstairs. She is tilting her head to one side as she says this helps ease the diplopia. Which of the following extraocular muscles is responsible for this picture:",
+        "options": [
+          "Superior rectus",
+          "Inferior rectus",
+          "Superior oblique",
+          "Inferior oblique",
+          "Lateral rectus"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Superior oblique dysfunction causes vertical diplopia and difficulty walking downstairs.",
+        "learningNote": "Superior oblique dysfunction causes vertical diplopia and difficulty walking downstairs.",
+        "highYieldNote": "Superior oblique dysfunction causes vertical diplopia and difficulty walking downstairs.",
+        "mnemonic": "SO4 depresses, intorts, abducts.",
+        "memoryAid": {
+          "coreFact": "Superior oblique dysfunction causes vertical diplopia and difficulty walking downstairs.",
+          "mnemonic": "SO4 depresses, intorts, abducts.",
+          "emojiCues": [
+            "IV",
+            "👁️",
+            "⬇️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537173/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537173/",
+        "externalFinding": "CN IV supplies superior oblique."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2034-q0038",
+      "sourcePage": 2034,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p2034-q0038",
+        "sourcePage": 2034,
+        "stem": "The lingual nerve supplies which of the following:",
+        "options": [
+          "Taste from the anterior two-thirds of the tongue (x Sensation from the lower lip 4%",
+          "Sensation from the anterior two-thirds of the tongue",
+          "Sensation from the upper teeth and associated gingiva",
+          "Tensor veli palatini muscle"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The lingual nerve carries general sensation from the anterior two-thirds of the tongue, oral mucosa on the floor of the oral cavity and lingual gingiva associated with the lower teeth. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p2034-q0038",
+        "sourcePage": 2034,
+        "stem": "The lingual nerve supplies which of the following:",
+        "options": [
+          "Taste from the anterior two-thirds of the tongue",
+          "Sensation from the lower lip",
+          "Sensation from the anterior two-thirds of the tongue",
+          "Sensation from the upper teeth and associated gingiva",
+          "Tensor veli palatini muscle"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "The lingual nerve carries general sensation from the anterior two-thirds of the tongue.",
+        "learningNote": "The lingual nerve carries general sensation from the anterior two-thirds of the tongue.",
+        "highYieldNote": "The lingual nerve carries general sensation from the anterior two-thirds of the tongue.",
+        "mnemonic": "Lingual feels; chorda tastes.",
+        "memoryAid": {
+          "coreFact": "The lingual nerve carries general sensation from the anterior two-thirds of the tongue.",
+          "mnemonic": "Lingual feels; chorda tastes.",
+          "emojiCues": [
+            "👅",
+            "V3",
+            "VII"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK546626/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK546626/",
+        "externalFinding": "NCBI supports anterior-tongue general sensation."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2035-q0039",
+      "sourcePage": 2035,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p2035-q0039",
+        "sourcePage": 2035,
+        "stem": "Ww A patient presents with spontaneous onset of left sided facial weakness but is otherwise well. He is unable to purse his lips, close his eye fully or raise his eyebrow on the left side, which of the following is the most likely cause:",
+        "options": [
+          "Ramsay-Hunt syndrome",
+          "Bell's palsy",
+          "Guillain-Barre syndrome a Multiple sclerosis 0%",
+          "Stroke"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The most common cause of isolated lower motor neuron (LMN) facial nerve palsy is Bell's palsy. If the damage is peripheral (LMN), the forehead will be involved and there will be an inability to close the eyes or raise the eyebrows. If the damage is central (UMN) there is forehead sparing as the frontalis and orbicularis oculi muscles are innervated bilaterally. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p2035-q0039",
+        "sourcePage": 2035,
+        "stem": "A patient presents with spontaneous onset of left sided facial weakness but is otherwise well. He is unable to purse his lips, close his eye fully or raise his eyebrow on the left side, which of the following is the most likely cause:",
+        "options": [
+          "Ramsay-Hunt syndrome",
+          "Bell's palsy",
+          "Guillain-Barre syndrome",
+          "Multiple sclerosis",
+          "Stroke"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Bell palsy is the common isolated lower-motor-neuron facial palsy and involves the forehead and eye closure.",
+        "learningNote": "Bell palsy is the common isolated lower-motor-neuron facial palsy and involves the forehead and eye closure.",
+        "highYieldNote": "Bell palsy is the common isolated lower-motor-neuron facial palsy and involves the forehead and eye closure.",
+        "mnemonic": "LMN VII affects the whole side.",
+        "memoryAid": {
+          "coreFact": "Bell palsy is the common isolated lower-motor-neuron facial palsy and involves the forehead and eye closure.",
+          "mnemonic": "LMN VII affects the whole side.",
+          "emojiCues": [
+            "VII",
+            "👁️",
+            "🙂"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK526119/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK526119/",
+        "externalFinding": "NCBI supports isolated peripheral facial palsy features."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2036-q0040",
+      "sourcePage": 2036,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p2036-q0040",
+        "sourcePage": 2036,
+        "stem": "The glossopharyngeal nerve supplies general sensation to all of the following regions EXCEPT for:",
+        "options": [
+          "Posterior one-third of the tongue",
+          "Palatine tonsils",
+          "Upper teeth and associated gingiva",
+          "Mucosa of the middle ear",
+          "Oropharynx"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The maxillary division of the trigeminal nerve supplies general sensation to the upper teeth and associated gingivae. . Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p2036-q0040",
+        "sourcePage": 2036,
+        "stem": "The glossopharyngeal nerve supplies general sensation to all of the following regions EXCEPT for:",
+        "options": [
+          "Posterior one-third of the tongue",
+          "Palatine tonsils",
+          "Upper teeth and associated gingiva",
+          "Mucosa of the middle ear",
+          "Oropharynx"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Upper teeth and associated gingiva are supplied by V2, not CN IX.",
+        "learningNote": "Upper teeth and associated gingiva are supplied by V2, not CN IX.",
+        "highYieldNote": "Upper teeth and associated gingiva are supplied by V2, not CN IX.",
+        "mnemonic": "IX covers posterior tongue and throat; V2 covers upper teeth.",
+        "memoryAid": {
+          "coreFact": "Upper teeth and associated gingiva are supplied by V2, not CN IX.",
+          "mnemonic": "IX covers posterior tongue and throat; V2 covers upper teeth.",
+          "emojiCues": [
+            "IX",
+            "🦷",
+            "👅"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK539877/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK539877/",
+        "externalFinding": "NCBI supports CN IX sensory territories and excludes upper teeth."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2037-q0041",
+      "sourcePage": 2037,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p2037-q0041",
+        "sourcePage": 2037,
+        "stem": "A 21 year old female presents to ED with isolated facial nerve palsy. You diagnose Bell's palsy. Which of the following clinical features might you expect on examination:",
+        "options": [
+          "Sensory loss over the cornea and conjunctiva (x) Fixed and dilated pupil 1%",
+          "Loss of sensation over the ipsilateral face",
+          "Loss of accommodation refiex"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The facial nerve innervates the orbicularis oculi, the muscle responsible for closing the eye. The facial nerve is therefore the efferent pathway of the corneal blink reflex. Sensation to the face, and the cornea and conjunctiva is supplied by the trigeminal nerve, which is therefore the afferent pathway of the corneal blink reflex. A fixed dilated pupil, and loss of the accommodation reflex may be seen in palsy of the oculomotor nerve due to loss of innervation of the sphincter pupillae and ciliary muscle respectively. Cc | Se [seer Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p2037-q0041",
+        "sourcePage": 2037,
+        "stem": "A 21 year old female presents to ED with isolated facial nerve palsy. You diagnose Bell's palsy. Which of the following clinical features might you expect on examination:",
+        "options": [
+          "Sensory loss over the cornea and conjunctiva",
+          "Loss of the corneal blink reflex",
+          "Fixed and dilated pupil",
+          "Loss of sensation over the ipsilateral face",
+          "Loss of accommodation reflex"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "CN VII is the efferent corneal-blink limb through orbicularis oculi.",
+        "learningNote": "CN VII is the efferent corneal-blink limb through orbicularis oculi.",
+        "highYieldNote": "CN VII is the efferent corneal-blink limb through orbicularis oculi.",
+        "mnemonic": "V1 feels; VII shuts.",
+        "memoryAid": {
+          "coreFact": "CN VII is the efferent corneal-blink limb through orbicularis oculi.",
+          "mnemonic": "V1 feels; VII shuts.",
+          "emojiCues": [
+            "V1",
+            "VII",
+            "👁️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK526119/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK526119/",
+        "externalFinding": "Facial palsy can abolish the efferent corneal blink response."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2038-q0042",
+      "sourcePage": 2038,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p2038-q0042",
+        "sourcePage": 2038,
+        "stem": "ww? The facial nerve exits the skull through the:",
+        "options": [
+          "Stylomastoid foramen",
+          "Foramen ovale “Gin. & Jugular foramen 8%",
+          "Foramen rotundum 5%",
+          "Hypoglossal canal"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The facial nerve exits the facial canal (and the basal skull) through the stylomastoid foramen between the styloid and mastoid processes of the temporal bone. 4",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p2038-q0042",
+        "sourcePage": 2038,
+        "stem": "The facial nerve exits the skull through the:",
+        "options": [
+          "Stylomastoid foramen",
+          "Foramen ovale",
+          "Jugular foramen",
+          "Foramen rotundum",
+          "Hypoglossal canal"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "CN VII exits the facial canal and skull through the stylomastoid foramen.",
+        "learningNote": "CN VII exits the facial canal and skull through the stylomastoid foramen.",
+        "highYieldNote": "CN VII exits the facial canal and skull through the stylomastoid foramen.",
+        "mnemonic": "VII exits between styloid and mastoid.",
+        "memoryAid": {
+          "coreFact": "CN VII exits the facial canal and skull through the stylomastoid foramen.",
+          "mnemonic": "VII exits between styloid and mastoid.",
+          "emojiCues": [
+            "VII",
+            "🦴",
+            "🚪"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK526119/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK526119/",
+        "externalFinding": "NCBI supports stylomastoid-foramen exit."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2039-q0043",
+      "sourcePage": 2039,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p2039-q0043",
+        "sourcePage": 2039,
+        "stem": "Which of the following nerves is the efferent pathway of the gag reflex:",
+        "options": [
+          "Facial nerve",
+          "Glossopharyngeal nerve (x) ypoglossal nerve 4%",
+          "Mandibular nerve"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ],
+        "explanation": "The vagus nerve is the efferent pathway of the gag reflex. The glossopharyngeal nerve is the afferent pathway of the gag reflex. Cc | ss [Ceaser Oo Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p2039-q0043",
+        "sourcePage": 2039,
+        "stem": "Which of the following nerves is the efferent pathway of the gag reflex:",
+        "options": [
+          "Facial nerve",
+          "Glossopharyngeal nerve",
+          "Hypoglossal nerve",
+          "Vagus nerve",
+          "Mandibular nerve"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "CN X is the efferent gag-reflex limb; CN IX is afferent.",
+        "learningNote": "CN X is the efferent gag-reflex limb; CN IX is afferent.",
+        "highYieldNote": "CN X is the efferent gag-reflex limb; CN IX is afferent.",
+        "mnemonic": "IX in, X out.",
+        "memoryAid": {
+          "coreFact": "CN X is the efferent gag-reflex limb; CN IX is afferent.",
+          "mnemonic": "IX in, X out.",
+          "emojiCues": [
+            "IX",
+            "X",
+            "🗣️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537304/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537304/",
+        "externalFinding": "NCBI supports vagal efferent gag function."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2040-q0044",
+      "sourcePage": 2040,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p2040-q0044",
+        "sourcePage": 2040,
+        "stem": "The oculomotor nerve supplies all of the following structures EXCEPT for the:",
+        "options": [
+          "Levator palpebrae superioris & Sphincter pupillae 2%",
+          "Ciliary muscle",
+          "Superior oblique",
+          "Inferior oblique"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The oculomotor nerve supplies four extraocular muscles - the inferior oblique, superior rectus, inferior rectus and medial rectus muscles, the levator palpebrae superioris muscle, the sphincter pupillae muscle and the ciliary muscle. The superior oblique muscle is innervated by the trochlear nerve, and the lateral rectus muscle by the abducens nerve. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p2040-q0044",
+        "sourcePage": 2040,
+        "stem": "The oculomotor nerve supplies all of the following structures EXCEPT for the:",
+        "options": [
+          "Levator palpebrae superioris",
+          "Sphincter pupillae",
+          "Ciliary muscle",
+          "Superior oblique",
+          "Inferior oblique"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "Superior oblique is supplied by CN IV; CN III supplies the other listed structures.",
+        "learningNote": "Superior oblique is supplied by CN IV; CN III supplies the other listed structures.",
+        "highYieldNote": "Superior oblique is supplied by CN IV; CN III supplies the other listed structures.",
+        "mnemonic": "LR6 SO4, all else III.",
+        "memoryAid": {
+          "coreFact": "Superior oblique is supplied by CN IV; CN III supplies the other listed structures.",
+          "mnemonic": "LR6 SO4, all else III.",
+          "emojiCues": [
+            "III",
+            "IV",
+            "👁️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537126/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537126/",
+        "externalFinding": "NCBI supports the CN III muscle and parasympathetic distribution."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2041-q0045",
+      "sourcePage": 2041,
+      "before": {
+        "id": "anatomy-anatomy-all-pdf-p2041-q0045",
+        "sourcePage": 2041,
+        "stem": "w A 28 year old man presents to ED complaining of severe headaches and dizziness. Imaging shows a tumour compressing the hypoglossal canal. Which of the following clinical features would you most expect to see:",
+        "options": [
+          "Dysphagia CJ",
+          "Uvula deviation away from affected side",
+          "Tongue deviation on protrusion towards affected side",
+          "Loss of gag reflex"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [],
+        "explanation": "The hypoglossal nerve exits the cranial cavity through the hypoglossal canal. Injury to the hypoglossal nerve will result in ipsilateral tongue weakness, atrophy and fasciculations, with tongue deviation on protrusion towards the affected side due to the unopposed action of the opposite genioglossus muscle. Vv",
+        "learningNote": "",
+        "highYieldNote": "",
+        "mnemonic": "",
+        "memoryAid": null
+      },
+      "after": {
+        "id": "anatomy-anatomy-all-pdf-p2041-q0045",
+        "sourcePage": 2041,
+        "stem": "A 28 year old man presents to ED complaining of severe headaches and dizziness. Imaging shows a tumour compressing the hypoglossal canal. Which of the following clinical features would you most expect to see:",
+        "options": [
+          "Dysphagia",
+          "Dysarthria",
+          "Uvula deviation away from affected side",
+          "Tongue deviation on protrusion towards affected side",
+          "Loss of gag reflex"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ],
+        "explanation": "CN XII injury causes ipsilateral tongue weakness and deviation toward the affected side on protrusion.",
+        "learningNote": "CN XII injury causes ipsilateral tongue weakness and deviation toward the affected side on protrusion.",
+        "highYieldNote": "CN XII injury causes ipsilateral tongue weakness and deviation toward the affected side on protrusion.",
+        "mnemonic": "XII points the tongue toward the lesion.",
+        "memoryAid": {
+          "coreFact": "CN XII injury causes ipsilateral tongue weakness and deviation toward the affected side on protrusion.",
+          "mnemonic": "XII points the tongue toward the lesion.",
+          "emojiCues": [
+            "XII",
+            "👅",
+            "➡️"
+          ],
+          "cueLabel": "Source-confirmed anatomy fact",
+          "sourceLabel": "NCBI/PMC authoritative source",
+          "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK537173/"
+        }
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK537173/",
+        "externalFinding": "NCBI supports hypoglossal-canal lesion findings."
+      }
+    }
+  ],
+  "restricted": [],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

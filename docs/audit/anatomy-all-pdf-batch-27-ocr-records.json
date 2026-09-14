@@ -1,0 +1,341 @@
+{
+  "exportedAt": "2026-08-23T16:25:55.962Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-27",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      787,
+      791,
+      795,
+      802,
+      805,
+      809,
+      813,
+      817,
+      820,
+      823
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0787-q0024",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "w The abdominal aorta bifurcates into its terminal branches at which of the following vertebral levels:",
+      "options": [
+        "112 1%",
+        "(Les 8%"
+      ],
+      "correctOption": null,
+      "explanation": "The abdominal aorta bifurcates into the right and left common iliac artery at the level of vertebra L4. This bifurcation can be visualised on the anterior abdominal wall as a point approximately 2.5 cm below the umbilicus. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 787,
+      "sourceQuestionNumber": 24
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0791-q0025",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 49 year old female patient undergoes surgery for uterine cancer. Whilst attempting to ligate the uterine artery, the surgeon accidentally ligates the structure that the uterine artery crosses anteriorly as it passes from the internal iliac artery to the uterus. Which of the following structures has most likely been injured:",
+      "options": [
+        "Ovarian artery",
+        "Ovarian ligament",
+        "Fallopian tube",
+        "Round ligament of uterus"
+      ],
+      "correctOption": null,
+      "explanation": "The ureter is crossed anteriorly by the uterine artery just lateral to the cervix. («Js [ee] a Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 791,
+      "sourceQuestionNumber": 25
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0795-q0026",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Sensation to the skin over the penis is primarily supplied by which of the following nerves:",
+      "options": [
+        "Coccygeal nerve",
+        "llioinguinal nerve",
+        "lliohypogastric nerve"
+      ],
+      "correctOption": null,
+      "explanation": "Sensory and sympathetic innervation is provided primarily by the dorsal nerve of the penis, a terminal branch of the pudendal nerve. Branches of the ilioinguinal nerve supply skin at the root of the penis. P<] P Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 795,
+      "sourceQuestionNumber": 26
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0802-q0029",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The rectus sheath is formed by which of the following:",
+      "options": [
+        "the thoracolumbar fascia 1%",
+        "the aponeuroses of the external and internal oblique 8%",
+        "the aponeuroses of the external oblique, internal oblique and transversus abdominis",
+        "the transversalis fascia 5%",
+        "the tendinous intersections of the rectus abdominis 5%"
+      ],
+      "correctOption": 2,
+      "explanation": "The rectus sheath is formed by the aponeuroses of the three flat anterior abdominal wall muscles. The anterior wall of the sheath is formed by the aponeurosis of the external oblique and half of the aponeurosis of the internal oblique (which splits at the lateral margin of the rectus abdominis). The posterior wall of the sheath is formed by the other half of the aponeurosis of the internal oblique and by the aponeurosis of the transversus abdominis. , Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 802,
+      "sourceQuestionNumber": 29
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0805-q0030",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A75 year old man presents to ED in acute urinary retention. On examination you note the prostate feels hard and craggy. You suspect prostate cancer. Which structure is most likely affected: (x) Anterior lobe of prostate 2%",
+      "options": [
+        "Fibromuscular zone of prostate",
+        "Lateral lobe of prostate",
+        "Transitional zone of prostate"
+      ],
+      "correctOption": null,
+      "explanation": "Anatomically the prostate has four main lobes: two lateral lobes, a posterior lobe and a median lobe that directly surrounds the urethra. Benign prostatic hypertrophy most commonly affects the median lobe. The posterior lobe is the area most prone to carcinomatous change, and the area palpated on PR examination. («| se ees] P Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 805,
+      "sourceQuestionNumber": 30
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0809-q0031",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A19 year old male is brought to ED having sustained a handlebar injury with blunt trauma to his upper abdomen whilst riding his scooter. Which of the following is the most commonly injured organ: Pancreas 8%",
+      "options": [
+        "Transverse colon",
+        "Duodenum",
+        "Kidney"
+      ],
+      "correctOption": null,
+      "explanation": "The liver and spleen are the most commonly injured organs with this clinical picture. Cc] Se eense] DP Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 809,
+      "sourceQuestionNumber": 31
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0813-q0032",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The deep inguinal ring is located at which of the following sites:",
+      "options": [
+        "Immediately superficial to the femoral artery",
+        "Superior to a point midway between the iliac crest and the pubic symphysis (x) erior to ar yay between the anterior superior iliac spine and the pubic tubercle 33%",
+        "Just superior to the pubic tubercle"
+      ],
+      "correctOption": null,
+      "explanation": "The deep inguinal ring is located just superior to a point midway between the anterior superior iliac spine and the pubic symphysis (the mid-inguinal point). N.B. Some sources state it is located at a slightly different site, just superior to a point midway between the anterior superior iliac spine and the pubic tubercle (the midpoint of the inguinal ligament). Cc | ss een | a Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 813,
+      "sourceQuestionNumber": 32
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0817-q0033",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The gallbladder occupies which of the following regions of the abdomen:",
+      "options": [
+        "Left hypochondrium 1%",
+        "Right hypochondrium",
+        "Right hypochondrium and right flank 4%",
+        "Right hypochondrium and epigastric region 17%",
+        "Epigastric region and umbilicus 1%"
+      ],
+      "correctOption": 1,
+      "explanation": "The gallbladder lies in the right hypochondrium. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 817,
+      "sourceQuestionNumber": 33
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0820-q0034",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "iv e) ww The flat anterior abdominal wall muscles are comprised of which of the following muscles: (x) The external and internal oblique muscles 2%",
+      "options": [
+        "The external, internal and innermost oblique muscles 2%",
+        "The external oblique, internal oblique and rectus abdominis muscles 21%",
+        "The external oblique, internal oblique and transversus abdominis muscles",
+        "The rectus abdominis and transversus abdominis muscles 1%"
+      ],
+      "correctOption": 2,
+      "explanation": "The external oblique, internal oblique and transversus abdominis muscles comprise the flat anterior abdominal muscles. ; Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 820,
+      "sourceQuestionNumber": 34
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0823-q0035",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 45 year old overweight patient presents to ED complaining of fever and severe right upper quadrant pain. The pain radiates to her right shoulder tip. Murphy's sign is positive and you diagnose acute cholecystitis. Which of the following nerves is responsible for the pain referred to the shoulder tip:",
+      "options": [
+        "Vagus nerve 53%",
+        "Greater thoracic splanchnic nerve 4% (x) Intercostal nerves 2%",
+        "Lesser thoracic splanchnic nerve 1%"
+      ],
+      "correctOption": null,
+      "explanation": "Inflammation of the gallbladder may present with pain in the right upper quadrant and also in the right shoulder due to irritation of the diaphragmatic peritoneum. N.B. Pain arising from structures supplied by the phrenic nerve is often referred to other somatic regions served by spinal nerves C3 - C5. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 823,
+      "sourceQuestionNumber": 35
+    }
+  ]
+}

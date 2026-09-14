@@ -1,0 +1,339 @@
+{
+  "exportedAt": "2026-08-22T15:51:27.336Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-11",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      412,
+      417,
+      422,
+      425,
+      426,
+      429,
+      432,
+      433,
+      437,
+      438
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0412-q0105",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The iliohypogastric nerve supplies skin over which of the following regions:",
+      "options": [
+        "Posterolateral gluteal region",
+        "Medial thigh 12%",
+        "Lateral thigh 4%",
+        "Posteromedial gluteal region 17%"
+      ],
+      "correctOption": 0,
+      "explanation": "The iliohypogastric nerve is formed from the anterior rami of L1. It innervates the internal oblique and the transversus abdominis muscles and supplies posterolateral gluteal skin and skin over the pubic region. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 412,
+      "sourceQuestionNumber": 105
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0417-q0106",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "wy? Which of the following nerves transmits the parasympathetic supply to the stomach: (x) Greater thoracic splanchnic nerves 6%",
+      "options": [
+        "Lesser thoracic splanchnic nerves 8%",
+        "Lumbar splanchnic nerves 5%",
+        "Pelvic splanchnic nerves 2%"
+      ],
+      "correctOption": null,
+      "explanation": "The parasympathetic supply to the stomach is carried by the vagus nerve. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 417,
+      "sourceQuestionNumber": 106
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0422-q0107",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 29 year patient presents to ED complaining of a painless lump in his scrotum. Imaging shows a tumour affecting the scrotum but sparing the testis. Where would the lymph from this area of pathology drain to initially:",
+      "options": [
+        "Deep inguinal nodes Internal iliac nodes 1%",
+        "Lumbar nodes Qrmnenncmeme"
+      ],
+      "correctOption": null,
+      "explanation": "The lymph drainage of the testis is to the lumbar (para-aortic) nodes in the abdomen, in contrast to that of the scrotum which drains to the superficial inguinal nodes. a] os Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 422,
+      "sourceQuestionNumber": 107
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0425-q0108",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The roof of the inguinal canal is formed primarily by which of the following structures:",
+      "options": [
+        "Transversus abdominis and internal oblique muscles",
+        "External oblique muscle",
+        "External oblique aponeurosis",
+        "Transversalis fascia",
+        "Rectus abdominis muscle"
+      ],
+      "correctOption": 0,
+      "explanation": "The roof of the inguinal canal is formed by arching fibres of the transversus abdominis and internal oblique muscles. (Je Jes | D> Ld Ld Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 425,
+      "sourceQuestionNumber": 108
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0426-q0109",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The abdominal aorta begins at which vertebral level:",
+      "options": [
+        "™ 4% (v 112 70% E a]",
+        "L2 2%"
+      ],
+      "correctOption": null,
+      "explanation": "The abdominal aorta begins at the aortic hiatus of the diaphragm, anterior to the lower border of vertebra 112: Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 426,
+      "sourceQuestionNumber": 109
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0429-q0110",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "The rectus sheath encloses all of the following structures except the:",
+      "options": [
+        "Lower thoracic intercostal nerves",
+        "Superior epigastric artery",
+        "Inferior epigastric artery"
+      ],
+      "correctOption": null,
+      "explanation": "The rectus sheath encloses the rectus abdominis and pyramidalis muscles, the superior and inferior epigastric vessels, the termination of intercostal nerves T7 - T11 and the 12th thoracic nerve and the accompanying vessels. Cc) Se |owe] a v",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 429,
+      "sourceQuestionNumber": 110
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0432-q0111",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Ad The iliohypogastric nerve is formed from the anterior rami of:",
+      "options": [
+        "11-12 18% c a",
+        "ets i"
+      ],
+      "correctOption": null,
+      "explanation": "The iliohypogastric nerve is formed from the anterior rami of L1. It innervates the internal oblique and the transversus abdominis muscles and supplies posterolateral gluteal skin and skin over the pubic region. ; Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 432,
+      "sourceQuestionNumber": 111
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0433-q0112",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Which of the following structures does NOT pass through the inguinal canal:",
+      "options": [
+        "Genital branch of genitofemoral nerve 4%",
+        "llioinguinal nerve 5%",
+        "Spermatic cord 2%",
+        "Round ligament 6%",
+        "Inferior epigastric artery"
+      ],
+      "correctOption": 4,
+      "explanation": "The inferior epigastric artery does not pass through the inguinal canal. The inguinal canal contains: e the genital branch of the genitofemoral nerve (within the spermatic cord in men) e the spermatic cord in men e the round ligament in women e the ilioinguinal nerve (passes through part of the canal, exiting the superficial inguinal ring with the other contents) Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 433,
+      "sourceQuestionNumber": 112
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0437-q0113",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The superficial inguinal ring is an ‘opening’ in which of the following structures:",
+      "options": [
+        "External oblique aponeurosis",
+        "Internal oblique aponeurosis 5%",
+        "Transversus abdominis aponeurosis 5%",
+        "Rectus abdominis aponeurosis 2%",
+        "Transversalis fascia 1%"
+      ],
+      "correctOption": 0,
+      "explanation": "The superficial inguinal ring is a triangular opening in the aponeurosis of the external oblique, with its apex pointing superolaterally and its base formed by the pubic crest. ; Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 437,
+      "sourceQuestionNumber": 113
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0438-q0114",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The sacrum articulates with which of the following structures:",
+      "options": [
+        "Pubis of the pelvic bone 4%",
+        "Ischium of the pelvic bone 19% () ium of the pelvic bone 69%",
+        "Ischial tuberosity 4%",
+        "Pubic ramus 4%"
+      ],
+      "correctOption": null,
+      "explanation": "The pelvic bones articulate posteriorly with the sacrum at the sacroiliac joints and with each other anteriorly at the pubic symphysis. The sacrum also articulates superiorly with vertebra L5 at the lumbosacral joints and inferiorly with the coccyx at the sacrococcygeal joint. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 438,
+      "sourceQuestionNumber": 114
+    }
+  ]
+}

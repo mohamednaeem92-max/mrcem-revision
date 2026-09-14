@@ -1,0 +1,404 @@
+{
+  "generatedAt": "2026-08-23T16:38:08.728Z",
+  "applied": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0826-q0036",
+      "sourcePage": 826,
+      "before": {
+        "stem": "The pre-aortic lymph nodes receive lymph from all of the following structures EXCEPT for the:",
+        "options": [
+          "Pancreas",
+          "Spleen",
+          "Sigmoid colon"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The pre-aortic lymph nodes receive lymph from all of the following structures except the:",
+        "options": [
+          "Kidneys",
+          "Pancreas",
+          "Spleen",
+          "Sigmoid colon",
+          "Appendix"
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK532972/",
+        "externalFinding": "NCBI distinguishes pre-aortic visceral drainage from para-aortic renal drainage."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0829-q0037",
+      "sourcePage": 829,
+      "before": {
+        "stem": "The quadrate and caudate lobes of the liver are separated by which of the following structures:",
+        "options": [
+          "Ligamentum venosum",
+          "Gallbladder",
+          "Inferior vena cava"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The quadrate and caudate lobes of the liver are separated by which structure?",
+        "options": [
+          "Ligamentum venosum",
+          "Ligamentum teres",
+          "Gallbladder",
+          "Inferior vena cava",
+          "Porta hepatis"
+        ],
+        "correctOption": 4,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK500014/",
+        "externalFinding": "NCBI places the porta hepatis between the caudate and quadrate lobe boundaries."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0836-q0038",
+      "sourcePage": 836,
+      "before": {
+        "stem": "The superficial inguinal ring is located at which of the following sites:",
+        "options": [
+          "Just superior to the midpoint of the inguinal ligament (x) Superior to a point midway between the anterior superior iliac spine and the pubic symphysis 13%",
+          "Superior to a point midway between the anterior superior iliac spine and the pubic tubercle",
+          "Immediately lateral to the inferior epigastric vessels"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The superficial inguinal ring is located at which site?",
+        "options": [
+          "Just superior to the midpoint of the inguinal ligament",
+          "Superior to a point midway between the anterior superior iliac spine and the pubic symphysis",
+          "Superior to a point midway between the anterior superior iliac spine and the pubic tubercle",
+          "Just superior to the pubic tubercle",
+          "Immediately lateral to the inferior epigastric vessels"
+        ],
+        "correctOption": 3,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK470204/",
+        "externalFinding": "NCBI explicitly locates the superficial inguinal ring just superior to the pubic tubercle."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0844-q0040",
+      "sourcePage": 844,
+      "before": {
+        "stem": "ww The anterior abdominal wall muscles are innervated by:",
+        "options": [
+          "The anterior rami of L1 - L3 6%",
+          "The anterior rami of T7 - T12 and L1",
+          "The anterior rami of T12 and L1 - L4 15%",
+          "The phrenic nerve 1%",
+          "The anterior rami of T7 - T10 6%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The anterior abdominal wall muscles are innervated by which nerves?",
+        "options": [
+          "The anterior rami of L1 - L3",
+          "The anterior rami of T7 - T12 and L1",
+          "The anterior rami of T12 and L1 - L4",
+          "The phrenic nerve",
+          "The anterior rami of T7 - T10"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK556034/",
+        "externalFinding": "NCBI identifies T7–T12 thoracoabdominal nerves and L1 branches as the abdominal-wall supply."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0847-q0041",
+      "sourcePage": 847,
+      "before": {
+        "stem": "Regarding the appendix, which of the following statements is CORRECT:",
+        "options": [
+          "The appendix has a highly variable attachment site to the caecum.",
+          "The appendix is a retroperitoneal structure. (x) The surface projection of the base of the appendix is called Murphy's point. 71%",
+          "The subcaecal position is the most common position of the appendix."
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "Regarding the appendix, which statement is correct?",
+        "options": [
+          "The psoas sign may be positive in retrocaecal appendicitis.",
+          "The appendix has a highly variable attachment site to the caecum.",
+          "The appendix is a retroperitoneal structure.",
+          "The surface projection of the base of the appendix is called Murphy's point.",
+          "The subcaecal position is the most common position of the appendix."
+        ],
+        "correctOption": 0,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK459205/",
+        "externalFinding": "NCBI describes pain on right-hip extension from a retrocecal appendix as the psoas sign."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0850-q0042",
+      "sourcePage": 850,
+      "before": {
+        "stem": "Ld The arterial supply to the colon is derived predominantly from which of the following:",
+        "options": [
+          "Lumbar arteries 1%",
+          "Superior and inferior mesenteric arteries",
+          "Renal artery 0%",
+          "Common iliac artery 1%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The arterial supply to the colon is derived predominantly from which arteries?",
+        "options": [
+          "Coeliac trunk",
+          "Lumbar arteries",
+          "Superior and inferior mesenteric arteries",
+          "Renal artery",
+          "Common iliac artery"
+        ],
+        "correctOption": 2,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK53099/",
+        "externalFinding": "NCBI identifies SMA supply to proximal colon and IMA supply to distal colon."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0855-q0043",
+      "sourcePage": 855,
+      "before": {
+        "stem": "Which of the following is a retroperitoneal structure: Sigmoid colon 1% lleum 2% Liver 1%",
+        "options": [],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Fewer than two answer options were detected.",
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "Which of the following is a retroperitoneal structure?",
+        "options": [
+          "Sigmoid colon",
+          "Second part of duodenum",
+          "Ileum",
+          "Liver",
+          "Spleen"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK553104/",
+        "externalFinding": "NCBI lists duodenal parts 2 to 4 as retroperitoneal structures."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0858-q0044",
+      "sourcePage": 858,
+      "before": {
+        "stem": "A 65 year old man presents to ED complaining of abdominal pain and weight loss. Imaging shows a tumour anterior to the inferior vena cava. Which of the following structures is most likely to be compressed by this tumour:",
+        "options": [
+          "Cisterna chyli 6%",
+          "Third part of the duodenum",
+          "Right kidney 54% (x) Ascending colon 2%",
+          "Right sympathetic trunk 4%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "A 65-year-old man presents to the ED with abdominal pain and weight loss. Imaging shows a tumour anterior to the inferior vena cava. Which structure is most likely to be compressed by this tumour?",
+        "options": [
+          "Cisterna chyli",
+          "Third part of the duodenum",
+          "Right kidney",
+          "Ascending colon",
+          "Right sympathetic trunk"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": [
+          "Source page and external anatomy reference reviewed; remains an unapproved OCR draft."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482390/",
+        "externalFinding": "NCBI states that the third duodenal segment courses anterior to the aorta and IVC."
+      }
+    }
+  ],
+  "restricted": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0840-q0039",
+      "sourcePage": 840,
+      "before": {
+        "stem": "The abdominal aorta lies posterior to which of the following parts of the duodenum:",
+        "options": [
+          "First part",
+          "First and second parts",
+          "Second and third parts"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "No marked correct option was detected."
+        ]
+      },
+      "after": {
+        "stem": "The abdominal aorta lies posterior to which parts of the duodenum?",
+        "options": [
+          "First part",
+          "Second part",
+          "First and second parts",
+          "Second and third parts",
+          "Third and fourth parts"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but external evidence explicitly confirms the third-part relation only and does not corroborate the exact combined third-and-fourth formulation; no correct option is inferred."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK482390/",
+        "externalFinding": "NCBI states that the third part passes anterior to the aorta and IVC, but does not corroborate the exact combined third-and-fourth keyed formulation."
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0862-q0045",
+      "sourcePage": 862,
+      "before": {
+        "stem": "ww The ilioinguinal nerve innervates which of the following muscles:",
+        "options": [
+          "Internal and external oblique muscles 9%",
+          "Internal oblique and transversus abdominis muscles",
+          "Transversus abdominis and rectus abdominis muscles 8%",
+          "Psoas major and minor muscles 10%",
+          "Quadratus lumborum 5%"
+        ],
+        "correctOption": 1,
+        "status": "ocr_draft",
+        "askable": true,
+        "needsImage": false,
+        "warnings": []
+      },
+      "after": {
+        "stem": "The ilioinguinal nerve innervates which muscles?",
+        "options": [
+          "Internal and external oblique muscles",
+          "Internal oblique and transversus abdominis muscles",
+          "Transversus abdominis and rectus abdominis muscles",
+          "Psoas major and minor muscles",
+          "Quadratus lumborum"
+        ],
+        "correctOption": null,
+        "status": "needs_review",
+        "askable": false,
+        "needsImage": false,
+        "warnings": [
+          "Source page reviewed, but external evidence also records external-oblique motor contribution, so the exact isolated two-muscle formulation is not corroborated; no correct option is inferred."
+        ]
+      },
+      "evidence": {
+        "externalSource": "https://www.ncbi.nlm.nih.gov/books/NBK556034/",
+        "externalFinding": "NCBI records ilioinguinal motor contribution to transversus abdominis, internal oblique, and external oblique, conflicting with the exact isolated source key."
+      }
+    }
+  ],
+  "automaticApproval": false,
+  "mockEligibility": "No restored OCR draft is mock eligible."
+}

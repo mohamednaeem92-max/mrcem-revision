@@ -1,0 +1,69 @@
+    "generatedAt": "2026-08-21T22:23:30.126542+00:00",
+    "sourceFile": "EBM-All.pdf",
+    "recordCount": 133,
+    "states": {
+      "confirmed_match": 2,
+      "no_reliable_source_marker": 103,
+      "possible_mismatch_manual_review_required": 6,
+      "source_marker_found_stored_key_missing": 22
+    },
+--
+      "sourcePage": 99,
+      "storedCorrectOption": 2,
+      "storedCorrectLetter": "C",
+      "sourceMarkerLetters": [
+        "A"
+      ],
+      "state": "possible_mismatch_manual_review_required",
+      "correctionApplied": false
+    },
+--
+      "sourcePage": 122,
+      "storedCorrectOption": 3,
+      "storedCorrectLetter": "D",
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "possible_mismatch_manual_review_required",
+      "correctionApplied": false
+    },
+--
+      "sourcePage": 133,
+      "storedCorrectOption": 1,
+      "storedCorrectLetter": "B",
+      "sourceMarkerLetters": [
+        "A"
+      ],
+      "state": "possible_mismatch_manual_review_required",
+      "correctionApplied": false
+    },
+--
+      "sourcePage": 144,
+      "storedCorrectOption": 3,
+      "storedCorrectLetter": "D",
+      "sourceMarkerLetters": [
+        "A"
+      ],
+      "state": "possible_mismatch_manual_review_required",
+      "correctionApplied": false
+    },
+--
+      "sourcePage": 169,
+      "storedCorrectOption": 3,
+      "storedCorrectLetter": "D",
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "possible_mismatch_manual_review_required",
+      "correctionApplied": false
+    },
+--
+      "sourcePage": 171,
+      "storedCorrectOption": 3,
+      "storedCorrectLetter": "D",
+      "sourceMarkerLetters": [
+        "E"
+      ],
+      "state": "possible_mismatch_manual_review_required",
+      "correctionApplied": false
+    },

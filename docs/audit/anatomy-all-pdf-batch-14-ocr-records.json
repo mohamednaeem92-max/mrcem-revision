@@ -1,0 +1,338 @@
+{
+  "exportedAt": "2026-08-22T16:27:02.133Z",
+  "batch": {
+    "id": "anatomy-all-pdf-batch-14",
+    "sourceFile": "Anatomy-All.pdf",
+    "sourcePages": [
+      513,
+      514,
+      518,
+      519,
+      520,
+      522,
+      526,
+      529,
+      530,
+      533
+    ],
+    "cachedSourceAvailable": true
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0513-q0136",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The rectovesical fascia is located at which of the following sites:",
+      "options": [
+        "Between the ampulla of the rectum and the sacrum 1%",
+        "Between the fundus of the bladder and the ampulla of the rectum (x) Between the rectum and the posterior fornix and cervix 4%",
+        "Between the rectum and the seminal vesicle 9%",
+        "Between the sigmoid colon and the rectum 3%"
+      ],
+      "correctOption": 1,
+      "explanation": "In men, the rectovesical septum lies between the fundus of the bladder and the ampulla of the rectum and is closely associated with the seminal glands and prostate. In females, the rectouterine pouch (pouch of Douglas) is a peritoneal recess between the rectum and uterus. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 513,
+      "sourceQuestionNumber": 136
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0514-q0137",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww Regarding the relations of the uterus, which of the following statements is INCORRECT:",
+      "options": [
+        "The vagina is inferior to the uterus. 6%",
+        "The broad ligament is lateral to the uterus. 4%",
+        "The vesicouterine pouch is anterior to the uterus. 12%",
+        "The pouch of Douglas is anterior to the uterus. (x) The small intestine is superior to the uterus. 4%"
+      ],
+      "correctOption": 3,
+      "explanation": "The uterus is related: ® superiorly to the small intestine e anteriorly to the bladder and the vesicouterine pouch e posteriorly to the rectum and pouch of Douglas (rectouterine pouch) e laterally to the broad ligament, uterine vessels and ovaries (to which it is attached by the ovarian ligament). e inferiorly to the vagina Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 514,
+      "sourceQuestionNumber": 137
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0518-q0138",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "A 66 year old man presents to ED complaining of difficulty passing urine and nocturia. On examination you note the prostate is enlarged and you suspect BPH. Which of the following lobes of the prostate is most likely hypertrophied: Lateral lobe 5%",
+      "options": [
+        "Anterior lobe",
+        "Fibromuscular zone"
+      ],
+      "correctOption": null,
+      "explanation": "Anatomically the prostate has four main lobes: two lateral lobes, a posterior lobe and a median lobe that directly surrounds the urethra. Benign prostatic hypertrophy most commonly affects the median lobe, resulting in obstruction of the urethra and urinary symptoms. The posterior lobe is the area most prone to carcinomatous change, and the area palpated on PR examination. Cc) Ss ama] a Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 518,
+      "sourceQuestionNumber": 138
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0519-q0139",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "Which of the following best describes the relationship of the psoas major and quadratus lumborum muscles:",
+      "options": [
+        "The psoas major muscle lies adjacent to the lateral border of the quadratus lumborum muscle.",
+        "The psoas major muscle overlaps the quadratus lumborum muscle medially.",
+        "The psoas major muscle originates inferior to the quadratus lumborum muscle.",
+        "The psoas major muscle lies deep to the quadratus lumborum muscle. 6%",
+        "The psoas major muscle lies superior to the quadratus lumborum muscle. 5%"
+      ],
+      "correctOption": 1,
+      "explanation": "The quadratus lumborum muscles essentially fill the space between rib 12 and the iliac crest on both sides of the vertebral column. They are overlapped medially by the psoas major muscles and along their lateral borders are the transversus abdominis muscles. [se [ease] PT Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 519,
+      "sourceQuestionNumber": 139
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0520-q0140",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The ejaculatory duct is formed by the union of which of the following structures:",
+      "options": [
+        "Ductus deferens and the prostatic urethra 4%",
+        "Ductus deferens and the epididymis 3% (x) Ductus deferens and prostatic ducts bee () Ductus deferens and duct from the seminal vesicle 28%",
+        "Prostatic ducts and duct from seminal vesicle 48%"
+      ],
+      "correctOption": null,
+      "explanation": "The ejaculatory duct is formed where the duct from the seminal vesicle joins the ductus deferens. The ejaculatory duct penetrates through the prostate gland to connect with the prostatic urethra. : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 520,
+      "sourceQuestionNumber": 140
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0522-q0141",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The external anal sphincter is innervated by which of the following nerves:",
+      "options": [
+        "Genitofemoral nerve 3%",
+        "Pudendal nerve (x) Coccygeal nerve 6%",
+        "llioinguinal nerve 5%",
+        "lliohypogastric nerve 3%"
+      ],
+      "correctOption": 1,
+      "explanation": "The external anal sphincter is innervated by the pudendal nerve. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 522,
+      "sourceQuestionNumber": 141
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0526-q0142",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The inguinal ligament is formed from which of the following:",
+      "options": [
+        "The lower free border of the external oblique aponeurosis",
+        "The lower free border of the internal oblique aponeurosis 6%",
+        "The lower free border of the transversus abdominis aponeurosis 1%",
+        "The lower free border of the rectus abdominis aponeurosis 2%",
+        "The lower free border of the thoracolumbar fascia 1%"
+      ],
+      "correctOption": 0,
+      "explanation": "The lower free border of the external oblique aponeurosis forms the inguinal ligament on each side (which runs between the anterior superior iliac spine laterally and the pubic tubercle medially). ; Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 526,
+      "sourceQuestionNumber": 142
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0529-q0143",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The male bladder lies immediately anterior to which of the following structures:",
+      "options": [
+        "Anus 1%",
+        "Prostate gland 19%",
+        "Sigmoid colon 1%",
+        "Abdominal aorta 2%"
+      ],
+      "correctOption": null,
+      "explanation": "In the male the bladder is related: e anteriorly to the pubic symphysis e posteriorly to the rectovesical pouch and rectum e inferiorly to the prostate and the pelvic floor © superiorly to the peritoneum : Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "needs_review",
+      "askable": false,
+      "needsImage": false,
+      "warnings": [
+        "No marked correct option was detected."
+      ],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 529,
+      "sourceQuestionNumber": 143
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0530-q0144",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The ileum predominantly occupies which region of the abdomen:",
+      "options": [
+        "Left upper quadrant 7%",
+        "Right upper quadrant 4%",
+        "Left lower quadrant 16%",
+        "Right lower quadrant"
+      ],
+      "correctOption": 3,
+      "explanation": "The ileum is mostly in the right lower quadrant. Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 530,
+      "sourceQuestionNumber": 144
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0533-q0145",
+      "subject": "Anatomy",
+      "topic": "Anatomy · Abdomen",
+      "stem": "ww The greater omentum descends from which of the following structures:",
+      "options": [
+        "The quadrate lobe of the liver 1%",
+        "The lesser curvature of the stomach and first part of the duodenum 6%",
+        "The greater curvature of the stomach and first part of the duodenum",
+        "The transverse colon 6%",
+        "The duodenojejunal junction 2%"
+      ],
+      "correctOption": 2,
+      "explanation": "The greater omentum descends from the greater curvature of the stomach and first part of the duodenum, drapes inferiorly over the transverse colon and the coils of the jejunum and ileum, then folds back up posteriorly and ascends to become adherent to the peritoneum on the superior surface of the transverse colon and the anterior layer of the transverse mesocolon before arriving at the posterior abdominal wall. , Vv",
+      "learningNote": "",
+      "tags": [
+        "Anatomy",
+        "Abdomen"
+      ],
+      "status": "ocr_draft",
+      "askable": true,
+      "needsImage": false,
+      "warnings": [],
+      "source": {
+        "markdownFile": "folder__Anatomy-All.md",
+        "sourceFile": "Anatomy-All.pdf",
+        "driveId": "1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1",
+        "sourceLink": "https://drive.google.com/file/d/1N0TmjuKTwpdLs7NT1drSmyepxdHq_-x1/view?usp=drivesdk"
+      },
+      "sourcePage": 533,
+      "sourceQuestionNumber": 145
+    }
+  ]
+}
