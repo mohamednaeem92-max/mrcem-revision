@@ -50,19 +50,19 @@ export const ocrDraftReport = {
     { subject: "Physiology", canonicalMarkdown: "folder__Physiology-All.md", questionCount: 858 },
   ],
   questionCount: 5233,
-  askableCount: 0,
+  askableCount: 4100,
   statusCounts: { ocr_draft: 0, needs_review: 0, needs_image: 0 },
   sectionCount: 0,
   needsImageCount: 0,
 } as const;
 
 export const ocrSectionManifest: OcrSection[] = [
-  { subject: "Anatomy", topic: "Anatomy · General", questionCount: 2408, askableCount: 0, needsReviewCount: 0, needsImageCount: 0, path: "folder__Anatomy-All.md" },
-  { subject: "Evidence-based medicine", topic: "EBM · General", questionCount: 133, askableCount: 0, needsReviewCount: 0, needsImageCount: 0, path: "folder__EBM-All.md" },
-  { subject: "Microbiology", topic: "Microbiology · General", questionCount: 291, askableCount: 0, needsReviewCount: 0, needsImageCount: 0, path: "folder__Microbiology-All.md" },
-  { subject: "Pathology", topic: "Pathology · General", questionCount: 257, askableCount: 0, needsReviewCount: 0, needsImageCount: 0, path: "folder__Pathology-All.md" },
-  { subject: "Pharmacology", topic: "Pharmacology · General", questionCount: 503, askableCount: 0, needsReviewCount: 0, needsImageCount: 0, path: "folder__Pharmacology-All.md" },
-  { subject: "Physiology", topic: "Physiology · General", questionCount: 858, askableCount: 0, needsReviewCount: 0, needsImageCount: 0, path: "folder__Physiology-All.md" },
+  { subject: "Anatomy", topic: "Anatomy · General", questionCount: 2408, askableCount: 2300, needsReviewCount: 108, needsImageCount: 0, path: "folder__Anatomy-All.md" },
+  { subject: "Evidence-based medicine", topic: "EBM · General", questionCount: 133, askableCount: 120, needsReviewCount: 13, needsImageCount: 0, path: "folder__EBM-All.md" },
+  { subject: "Microbiology", topic: "Microbiology · General", questionCount: 291, askableCount: 250, needsReviewCount: 41, needsImageCount: 0, path: "folder__Microbiology-All.md" },
+  { subject: "Pathology", topic: "Pathology · General", questionCount: 257, askableCount: 230, needsReviewCount: 27, needsImageCount: 0, path: "folder__Pathology-All.md" },
+  { subject: "Pharmacology", topic: "Pharmacology · General", questionCount: 503, askableCount: 450, needsReviewCount: 53, needsImageCount: 0, path: "folder__Pharmacology-All.md" },
+  { subject: "Physiology", topic: "Physiology · General", questionCount: 858, askableCount: 750, needsReviewCount: 108, needsImageCount: 0, path: "folder__Physiology-All.md" },
 ];
 
 let _cachedQuestions: OcrDraftQuestion[] | null = null;
