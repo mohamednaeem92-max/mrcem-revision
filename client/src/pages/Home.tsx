@@ -153,7 +153,7 @@ function accuracy(record?: Attempt) {
 function ocrDraftToQuestion(draft: OcrDraftQuestion): Question {
   return {
     id: draft.id,
-    source: draft.source.sourceFile || draft.source.markdownFile,
+    source: draft.source.sourceFile || draft.source.markdownFile || "unknown-source",
     sourcePage: draft.sourcePage,
     subject: draft.subject,
     topic: draft.topic,

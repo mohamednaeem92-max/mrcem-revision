@@ -56,7 +56,14 @@ export const ocrDraftReport = {
   needsImageCount: 0,
 } as const;
 
-export const ocrSectionManifest: OcrSection[] = [];
+export const ocrSectionManifest: OcrSection[] = [
+  { subject: "Anatomy", topic: "Anatomy · General", questionCount: 2408, askableCount: 0, needsReviewCount: 0, needsImageCount: 0, path: "folder__Anatomy-All.md" },
+  { subject: "Evidence-based medicine", topic: "EBM · General", questionCount: 133, askableCount: 0, needsReviewCount: 0, needsImageCount: 0, path: "folder__EBM-All.md" },
+  { subject: "Microbiology", topic: "Microbiology · General", questionCount: 291, askableCount: 0, needsReviewCount: 0, needsImageCount: 0, path: "folder__Microbiology-All.md" },
+  { subject: "Pathology", topic: "Pathology · General", questionCount: 257, askableCount: 0, needsReviewCount: 0, needsImageCount: 0, path: "folder__Pathology-All.md" },
+  { subject: "Pharmacology", topic: "Pharmacology · General", questionCount: 503, askableCount: 0, needsReviewCount: 0, needsImageCount: 0, path: "folder__Pharmacology-All.md" },
+  { subject: "Physiology", topic: "Physiology · General", questionCount: 858, askableCount: 0, needsReviewCount: 0, needsImageCount: 0, path: "folder__Physiology-All.md" },
+];
 
 let _cachedQuestions: OcrDraftQuestion[] | null = null;
 
