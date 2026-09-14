@@ -9,6 +9,7 @@
     "build:standalone": "STANDALONE=1 vite build",
     "preview": "vite preview --host",
     "check": "tsc --noEmit",
+    "test": "vitest run --config vitest.config.ts",
     "format": "prettier --write ."
   },
   "dependencies": {

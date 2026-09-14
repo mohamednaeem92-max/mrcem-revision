@@ -74,6 +74,9 @@ export function clearOcrCache(): void {
 export async function loadOcrDraftQuestions(): Promise<OcrDraftQuestion[]> {
   if (_cachedQuestions) return _cachedQuestions;
   const res = await fetch(`${import.meta.env.BASE_URL}ocr-questions.json`);
-  _cachedQuestions = (await res.json()) as OcrDraftQuestion[];
+  if (!res.ok) throw new Error(`Could not load the local question bank (${res.status})`);
+  const parsed = (await res.json()) as OcrDraftQuestion[];
+  if (!Array.isArray(parsed)) throw new Error("Question bank file is not a JSON array");
+  _cachedQuestions = parsed;
   return _cachedQuestions;
 }

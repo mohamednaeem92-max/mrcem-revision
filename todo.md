@@ -713,9 +713,9 @@
 - [ ] Checkpoint the completed revision-interface integration.
 
 ## Trusted-source review access recovery
-- [ ] Open the bundled OCR/source catalogue directly for trusted local review without requiring approval.
-- [ ] Represent missing answer keys as ungraded records rather than blocking or marking them incorrect.
-- [ ] Keep timed Primary mock selection strict for complete keyed records with blueprint metadata.
-- [ ] Update Source library, dashboard, and review copy to distinguish direct review from mock eligibility.
-- [ ] Add regression tests for trusted OCR review and strict mock exclusion.
-- [ ] Run typecheck, tests, production build, responsive visual verification, and save a new checkpoint.
+- [x] Open the bundled OCR/source catalogue directly for trusted local review without requiring approval.
+- [x] Represent missing answer keys as ungraded records rather than blocking or marking them incorrect.
+- [x] Keep timed Primary mock selection strict for complete keyed records with blueprint metadata.
+- [x] Update Source library, dashboard, and review copy to distinguish direct review from mock eligibility.
+- [x] Add regression tests for trusted OCR review and strict mock exclusion.
+- [x] Run typecheck, tests, production build, responsive visual verification, and save a new checkpoint.
