@@ -1,0 +1,1079 @@
+{
+  "input": "ocr-questions.json",
+  "total": 5233,
+  "changed": 3199,
+  "newlyKeyed": 1429,
+  "lostKey": 0,
+  "keyedAfter": 2622,
+  "fiveOptionsAfter": 2170,
+  "askableAfter": 2621,
+  "actions": {
+    "key_preserved": 412,
+    "cleaned_explanation": 2738,
+    "peeled_stem_option": 885,
+    "key_from_vv": 1428,
+    "truncated_long_option_list": 8,
+    "key_from_zero_percent_explanation": 1
+  },
+  "examples": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p0067-q0016",
+      "actions": [
+        "key_preserved",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "The portal triad comprises all of the following structures EXCEPT for:",
+        "options": [
+          "Branches of the hepatic vein",
+          "Branches of the portal vein 9%",
+          "Branches of the hepatic artery 6%",
+          "Vagal parasympathetic nerve fibres 22%"
+        ],
+        "correctOption": 0
+      },
+      "after": {
+        "stem": "The portal triad comprises all of the following structures EXCEPT for:",
+        "options": [
+          "Branches of the hepatic vein",
+          "Branches of the portal vein",
+          "Branches of the hepatic artery",
+          "Vagal parasympathetic nerve fibres"
+        ],
+        "correctOption": 0
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0073-q0017",
+      "actions": [
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "ww The ductus deferens is derived from which of the following structures:",
+        "options": [
+          "Tunica vaginalis",
+          "Ejaculatory ducts 4%",
+          "Seminal vesicle 8% () Epididymis 68%",
+          "Rete testis 3%"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "The ductus deferens is derived from which of the following structures:",
+        "options": [
+          "Tunica vaginalis",
+          "Ejaculatory ducts",
+          "Seminal vesicle",
+          ") Epididymis",
+          "Rete testis"
+        ],
+        "correctOption": null
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0078-q0019",
+      "actions": [
+        "key_preserved",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "The lower pole of the kidneys occurs around the level of:",
+        "options": [
+          "The disc between L3 and L4 vertebrae (x) The body of the L2 vertebra 4%",
+          "The body of the L4 vertebra",
+          "The disc between L2 and L3 vertebrae 20%",
+          "The disc between L4 and L5 vertebrae"
+        ],
+        "correctOption": 0
+      },
+      "after": {
+        "stem": "The lower pole of the kidneys occurs around the level of:",
+        "options": [
+          "The disc between L3 and L4 vertebrae",
+          "The body of the L2 vertebra",
+          "The body of the L4 vertebra",
+          "The disc between L2 and L3 vertebrae",
+          "The disc between L4 and L5 vertebrae"
+        ],
+        "correctOption": 0
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0126-q0031",
+      "actions": [
+        "peeled_stem_option",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "A19 year old male is brought to ED having sustained a handlebar injury with blunt trauma to his upper abdomen whilst riding his scooter. Which of the following is the most commonly injured organ: Pancreas 8%",
+        "options": [
+          "Transverse colon",
+          "Duodenum",
+          "Kidney"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "A19 year old male is brought to ED having sustained a handlebar injury with blunt trauma to his upper abdomen whilst riding his scooter. Which of the following is the most commonly injured organ:",
+        "options": [
+          "Pancreas",
+          "Transverse colon",
+          "Duodenum",
+          "Kidney"
+        ],
+        "correctOption": null
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0130-q0032",
+      "actions": [
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "The deep inguinal ring is located at which of the following sites:",
+        "options": [
+          "Immediately superficial to the femoral artery",
+          "Superior to a point midway between the iliac crest and the pubic symphysis (x) erior to ar yay between the anterior superior iliac spine and the pubic tubercle 33%",
+          "Just superior to the pubic tubercle"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "The deep inguinal ring is located at which of the following sites:",
+        "options": [
+          "Immediately superficial to the femoral artery",
+          "Superior to a point midway between the iliac crest and the pubic symphysis",
+          "erior to ar yay between the anterior superior iliac spine and the pubic tubercle",
+          "Just superior to the pubic tubercle"
+        ],
+        "correctOption": null
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p0189-q0048",
+      "actions": [
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "The blood supply to the pancreas is primarily from which of the following arteries:",
+        "options": [
+          "Left gastric artery",
+          "Common hepatic artery",
+          "Superior mesenteric artery Inferior mesenteric artery 1%"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "The blood supply to the pancreas is primarily from which of the following arteries:",
+        "options": [
+          "Left gastric artery",
+          "Common hepatic artery",
+          "Superior mesenteric artery Inferior mesenteric artery"
+        ],
+        "correctOption": null
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2051-q0048",
+      "actions": [
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "Regarding the vestibulocochlear nerve, which of the following statements is INCORRECT:",
+        "options": [
+          "The vestibulocochlear nerve emerges from the brainstem at the cerebellopontine angle. 5%",
+          "Weber's test distinguishes between sensorineural or conductive hearing loss. 7%",
+          "The vestibulocochlear nerve is a purely sensory nerve.",
+          "In normal hearing air conduction is louder than bone conduction. 10%"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "Regarding the vestibulocochlear nerve, which of the following statements is INCORRECT:",
+        "options": [
+          "The vestibulocochlear nerve emerges from the brainstem at the cerebellopontine angle",
+          "Weber's test distinguishes between sensorineural or conductive hearing loss",
+          "The vestibulocochlear nerve is a purely sensory nerve",
+          "In normal hearing air conduction is louder than bone conduction"
+        ],
+        "correctOption": null
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2052-q0049",
+      "actions": [
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "w Which of the following is NOT a branch of the facial nerve:",
+        "options": [
+          "Posterior auricular nerve",
+          "Chorda tympani",
+          "Marginal mandibular branch & Nerve to the stapedius 8%"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "Which of the following is NOT a branch of the facial nerve:",
+        "options": [
+          "Posterior auricular nerve",
+          "Chorda tympani",
+          "Marginal mandibular branch & Nerve to the stapedius"
+        ],
+        "correctOption": null
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2053-q0050",
+      "actions": [
+        "peeled_stem_option",
+        "key_preserved",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "te The hypoglossal nerve emerges from the cranial cavity through the: Creer",
+        "options": [
+          "Foramen ovale",
+          "Hypoglossal canal",
+          "Internal acoustic meatus",
+          "Jugular foramen"
+        ],
+        "correctOption": 1
+      },
+      "after": {
+        "stem": "The hypoglossal nerve emerges from the cranial cavity through the:",
+        "options": [
+          "Creer",
+          "Foramen ovale",
+          "Hypoglossal canal",
+          "Internal acoustic meatus",
+          "Jugular foramen"
+        ],
+        "correctOption": 2
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2058-q0053",
+      "actions": [
+        "peeled_stem_option",
+        "key_preserved",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "The oculomotor nerve supplies all of the following muscles EXCEPT for the: (x) Medial rectus 2%",
+        "options": [
+          "Lateral rectus",
+          "Superior rectus",
+          "Inferior rectus",
+          "Inferior oblique"
+        ],
+        "correctOption": 0
+      },
+      "after": {
+        "stem": "The oculomotor nerve supplies all of the following muscles EXCEPT for",
+        "options": [
+          "the",
+          "Medial rectus",
+          "Lateral rectus",
+          "Superior rectus",
+          "Inferior rectus",
+          "Inferior oblique"
+        ],
+        "correctOption": 2
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2059-q0054",
+      "actions": [
+        "key_preserved",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "Ww The vagus nerve exits the skull through the:",
+        "options": [
+          "Foramen rotundum 1%",
+          "Hypoglossal canal 2%",
+          "Internal acoustic meatus 2%",
+          "Jugular foramen"
+        ],
+        "correctOption": 3
+      },
+      "after": {
+        "stem": "The vagus nerve exits the skull through the:",
+        "options": [
+          "Foramen rotundum",
+          "Hypoglossal canal",
+          "Internal acoustic meatus",
+          "Jugular foramen"
+        ],
+        "correctOption": 3
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2060-q0055",
+      "actions": [
+        "peeled_stem_option",
+        "key_preserved",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "Regarding the olfactory nerve, which of the following statements is CORRECT: (x) The olfactory bulb lies in the posterior cranial fossa. 10% The olfactory nerve is the longest cranial nerve. 7%",
+        "options": [
+          "The olfactory nerve originates from the medulla oblongata.",
+          "The olfactory nerve carries crude touch sensation from the nasal cavity.",
+          "The olfactory tract runs inferiorly to the frontal lobe."
+        ],
+        "correctOption": 2
+      },
+      "after": {
+        "stem": "Regarding the olfactory nerve, which of the following statements is CORRECT:",
+        "options": [
+          "The olfactory bulb lies in the posterior cranial fossa",
+          "The olfactory nerve is the longest cranial nerve",
+          "The olfactory nerve originates from the medulla oblongata",
+          "The olfactory nerve carries crude touch sensation from the nasal cavity",
+          "The olfactory tract runs inferiorly to the frontal lobe"
+        ],
+        "correctOption": 4
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2064-q0056",
+      "actions": [
+        "key_preserved",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "Regarding the vagus nerve, which of the following statements is INCORRECT:",
+        "options": [
+          "The vagus nerve is a motor and sensory nerve. a The vagus nerve originates in the medulla. 4%",
+          "The vagus nerve exits the skull via the jugular foramen.",
+          "It is the afferent nerve of the gag reflex.",
+          "It innervates the palatoglossal muscle of the tongue."
+        ],
+        "correctOption": 2
+      },
+      "after": {
+        "stem": "Regarding the vagus nerve, which of the following statements is INCORRECT:",
+        "options": [
+          "The vagus nerve is a motor and sensory nerve. a The vagus nerve originates in the medulla",
+          "The vagus nerve exits the skull via the jugular foramen",
+          "It is the afferent nerve of the gag reflex",
+          "It innervates the palatoglossal muscle of the tongue"
+        ],
+        "correctOption": 2
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2065-q0057",
+      "actions": [
+        "key_preserved",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "Which of the following nerves is the afferent pathway of the corneal blink reflex:",
+        "options": [
+          "Optic nerve",
+          "Ophthalmic nerve",
+          "Oculomotor nerve",
+          "Facial nerve 48%",
+          "Maxillary nerve"
+        ],
+        "correctOption": 1
+      },
+      "after": {
+        "stem": "Which of the following nerves is the afferent pathway of the corneal blink reflex:",
+        "options": [
+          "Optic nerve",
+          "Ophthalmic nerve",
+          "Oculomotor nerve",
+          "Facial nerve",
+          "Maxillary nerve"
+        ],
+        "correctOption": 1
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2069-q0058",
+      "actions": [
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "w Which of the following features is NOT typical of oculomotor (CN III) palsy:",
+        "options": [
+          "Ptosis",
+          "Pupillary dilatation x Accommodation deficit 6%",
+          "A depressed and abducted pupil (Inability to abduct the eyeball 69%"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "Which of the following features is NOT typical of oculomotor (CN III) palsy:",
+        "options": [
+          "Ptosis",
+          "Pupillary dilatation x Accommodation deficit",
+          "A depressed and abducted pupil (Inability to abduct the eyeball"
+        ],
+        "correctOption": null
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2072-q0061",
+      "actions": [
+        "key_preserved",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "Regarding the trigeminal nerve, which of the following statements is INCORRECT:",
+        "options": [
+          "The trigeminal nerve has both motor and sensory function. 3%",
+          "The trigeminal nerve is the afferent nerve for the corneal blink refiex. 9%",
+          "All three divisions of the trigeminal nerve have bilateral cortical representation. 13%",
+          "In a trigeminal nerve palsy, the jaw will deviate away from the affected side when open."
+        ],
+        "correctOption": 3
+      },
+      "after": {
+        "stem": "Regarding the trigeminal nerve, which of the following statements is INCORRECT:",
+        "options": [
+          "The trigeminal nerve has both motor and sensory function",
+          "The trigeminal nerve is the afferent nerve for the corneal blink refiex",
+          "All three divisions of the trigeminal nerve have bilateral cortical representation",
+          "In a trigeminal nerve palsy, the jaw will deviate away from the affected side when open"
+        ],
+        "correctOption": 3
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2074-q0063",
+      "actions": [
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "The auriculotemporal nerve carries general sensation from all of the following regions EXCEPT for the:",
+        "options": [
+          "Posterior temple 52%",
+          "Tympanic membrane 3%",
+          "Temporomandibular joint"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "The auriculotemporal nerve carries general sensation from all of the following regions EXCEPT for the:",
+        "options": [
+          "Posterior temple",
+          "Tympanic membrane",
+          "Temporomandibular joint"
+        ],
+        "correctOption": null
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2075-q0064",
+      "actions": [
+        "key_preserved",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "Regarding the optic nerve, which of the following statements is CORRECT:",
+        "options": [
+          "The optic nerve is surrounded by the cranial meninges.",
+          "The optic nerve has both motor and sensory function. 4%",
+          "The optic nerve receives its blood supply primarily from branches of the external carotid artery. 6%",
+          "Visual acuity should be tested with Ishihara plates. 4%"
+        ],
+        "correctOption": 0
+      },
+      "after": {
+        "stem": "Regarding the optic nerve, which of the following statements is CORRECT:",
+        "options": [
+          "The optic nerve is surrounded by the cranial meninges",
+          "The optic nerve has both motor and sensory function",
+          "The optic nerve receives its blood supply primarily from branches of the external carotid artery",
+          "Visual acuity should be tested with Ishihara plates"
+        ],
+        "correctOption": 0
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2086-q0069",
+      "actions": [
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "te Which of the following is NOT a typical feature of an abducens nerve palsy:",
+        "options": [
+          "Convergent squint at rest",
+          "Horizontal diplopia © Loss of abduction 2%",
+          "Adducted eye at rest 4% (/ inability to look up 40%"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "Which of the following is NOT a typical feature of an abducens nerve palsy:",
+        "options": [
+          "Convergent squint at rest",
+          "Horizontal diplopia © Loss of abduction",
+          "Adducted eye at rest",
+          "/ inability to look up"
+        ],
+        "correctOption": null
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2087-q0070",
+      "actions": [
+        "key_preserved",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "The chorda tympani branch of the facial nerve carries which of the following:",
+        "options": [
+          "Taste from the posterior one-third of the tongue",
+          "Sensation from the posterior one-third of the tongue [x Parasympathetic innervation of the parotid gland 4%",
+          "Taste from the anterior two-thirds of the tongue Sensation from the anterior two-thirds of the tongue 6%"
+        ],
+        "correctOption": 2
+      },
+      "after": {
+        "stem": "The chorda tympani branch of the facial nerve carries which of the following:",
+        "options": [
+          "Taste from the posterior one-third of the tongue",
+          "Sensation from the posterior one-third of the tongue [x Parasympathetic innervation of the parotid gland",
+          "Taste from the anterior two-thirds of the tongue Sensation from the anterior two-thirds of the tongue"
+        ],
+        "correctOption": 2
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2088-q0071",
+      "actions": [
+        "key_preserved",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "Regarding the hypoglossal nerve, which of the following statements is CORRECT:",
+        "options": [
+          "The hypoglossal nerve emerges from the cranial cavity via the jugular foramen.",
+          "The hypoglossal nerve innervates all of the muscles of the tongue. cy In hypoglossal nerve palsy, the tongue deviates away from the affected side on protrusion. 11%",
+          "Hypoglossal nerve palsy results in weakness of the ipsilateral tongue.",
+          "Hypoglossal nerve palsy results in loss of the gag reflex."
+        ],
+        "correctOption": 2
+      },
+      "after": {
+        "stem": "Regarding the hypoglossal nerve, which of the following statements is CORRECT:",
+        "options": [
+          "The hypoglossal nerve emerges from the cranial cavity via the jugular foramen",
+          "The hypoglossal nerve innervates all of the muscles of the tongue. cy In hypoglossal nerve palsy, the tongue deviates away from the affected side on protrusion",
+          "Hypoglossal nerve palsy results in weakness of the ipsilateral tongue",
+          "Hypoglossal nerve palsy results in loss of the gag reflex"
+        ],
+        "correctOption": 2
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2089-q0072",
+      "actions": [
+        "key_preserved",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "w A patient presenting with nerve injury has sparing of the upper half of the orbicularis oculi muscle but not the lower half. The lower half of the orbicularis oculi is supplied by which branch of the facial nerve:",
+        "options": [
+          "Temporal branch 6%",
+          "Zygomatic branch",
+          "Buccal branch",
+          "Mandibular branch"
+        ],
+        "correctOption": 1
+      },
+      "after": {
+        "stem": "A patient presenting with nerve injury has sparing of the upper half of the orbicularis oculi muscle but not the lower half. The lower half of the orbicularis oculi is supplied by which branch of the facial nerve:",
+        "options": [
+          "Temporal branch",
+          "Zygomatic branch",
+          "Buccal branch",
+          "Mandibular branch"
+        ],
+        "correctOption": 1
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2090-q0073",
+      "actions": [
+        "key_preserved",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "w The maxillary division of the trigeminal nerve exits the skull through the:",
+        "options": [
+          "Foramen rotundum",
+          "Foramen ovale",
+          "Internal acoustic meatus 2%",
+          "Jugular foramen 2%"
+        ],
+        "correctOption": 0
+      },
+      "after": {
+        "stem": "The maxillary division of the trigeminal nerve exits the skull through the:",
+        "options": [
+          "Foramen rotundum",
+          "Foramen ovale",
+          "Internal acoustic meatus",
+          "Jugular foramen"
+        ],
+        "correctOption": 0
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2093-q0076",
+      "actions": [
+        "peeled_stem_option",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "Which of the following muscles is NOT supplied by the facial nerve: (x) Occipitofrontalis muscle 5%",
+        "options": [
+          "Posterior belly of the digastric muscle",
+          "Stapedius muscle",
+          "Stylohyoid muscle"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "Which of the following muscles is NOT supplied by the facial nerve:",
+        "options": [
+          "Occipitofrontalis muscle",
+          "Posterior belly of the digastric muscle",
+          "Stapedius muscle",
+          "Stylohyoid muscle"
+        ],
+        "correctOption": null
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2094-q0077",
+      "actions": [
+        "key_preserved",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "A 28 year old male man is brought to ED having been hit in the head by a cricket ball. Imaging shows a fracture of the foramen rotundum. Which of the following nerves would most likely be injured:",
+        "options": [
+          "Ophthalmic nerve 4%",
+          "Maxillary nerve",
+          "Mandibular nerve",
+          "Facial nerve",
+          "Glossopharyngeal nerve"
+        ],
+        "correctOption": 1
+      },
+      "after": {
+        "stem": "A 28 year old male man is brought to ED having been hit in the head by a cricket ball. Imaging shows a fracture of the foramen rotundum. Which of the following nerves would most likely be injured:",
+        "options": [
+          "Ophthalmic nerve",
+          "Maxillary nerve",
+          "Mandibular nerve",
+          "Facial nerve",
+          "Glossopharyngeal nerve"
+        ],
+        "correctOption": 1
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2095-q0078",
+      "actions": [
+        "key_preserved",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "Ww Which of the following is NOT a typical feature of trochlear nerve palsy:",
+        "options": [
+          "Patient head tilts to side of affected eye (x) Patient has weakness of downward gaze 4%",
+          "Patient has vertical diplopia",
+          "Patient has difficulty walking downstairs",
+          "Eye is extorted and elevated"
+        ],
+        "correctOption": 0
+      },
+      "after": {
+        "stem": "Which of the following is NOT a typical feature of trochlear nerve palsy:",
+        "options": [
+          "Patient head tilts to side of affected eye",
+          "Patient has weakness of downward gaze",
+          "Patient has vertical diplopia",
+          "Patient has difficulty walking downstairs",
+          "Eye is extorted and elevated"
+        ],
+        "correctOption": 0
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2096-q0079",
+      "actions": [
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "w A 49 year old man presents to ED complaining of visual disturbance in his right eye. On examination you note when you shine a light in his right eye, neither his right or left pupil constricts. When you shine a light in his left eye, both his left and right pupil constrict. Which of the following nerves is most likely affected:",
+        "options": [
+          "Oculomotor nerve 17%",
+          "Trochlear nerve",
+          "Abducens nerve",
+          "Ophthalmic nerve"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "A 49 year old man presents to ED complaining of visual disturbance in his right eye. On examination you note when you shine a light in his right eye, neither his right or left pupil constricts. When you shine a light in his left eye, both his left and right pupil constrict. Which of the following nerves is most likely affected:",
+        "options": [
+          "Oculomotor nerve",
+          "Trochlear nerve",
+          "Abducens nerve",
+          "Ophthalmic nerve"
+        ],
+        "correctOption": null
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2172-q0001",
+      "actions": [
+        "peeled_stem_option",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "ww The lateral pterygoid acts to primarily produce which of the following movements: () Protrusion of the mandible 25%",
+        "options": [
+          "Retraction of the mandible",
+          "Elevation of the mandible",
+          "Depression and retraction of the mandible",
+          "Elevation and protrusion of the mandible"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "The lateral pterygoid acts to primarily produce which of the following movements:",
+        "options": [
+          ") Protrusion of the mandible",
+          "Retraction of the mandible",
+          "Elevation of the mandible",
+          "Depression and retraction of the mandible",
+          "Elevation and protrusion of the mandible"
+        ],
+        "correctOption": null
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2175-q0002",
+      "actions": [
+        "key_from_vv",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "w Postganglionic parasympathetic fibres are carried to the parotid gland by which of the following nerves:",
+        "options": [
+          "Vagus nerve (x) Hypoglossal nerve 1%",
+          "Glossopharyngeal nerve (Vv) Auriculotemporal nerve of the mandibular nerve 25%",
+          "Facial nerve"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "Postganglionic parasympathetic fibres are carried to the parotid gland by which of the following nerves:",
+        "options": [
+          "Vagus nerve",
+          "Hypoglossal nerve",
+          "Glossopharyngeal nerve",
+          "Auriculotemporal nerve of the mandibular nerve",
+          "Facial nerve"
+        ],
+        "correctOption": 3
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2178-q0003",
+      "actions": [
+        "key_from_vv",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "bd The superficial temporal artery is a branch of which of the following blood vessels:",
+        "options": [
+          "Internal carotid artery (x) Brachiocephalic trunk 1% (Vv) External carotid artery 10%",
+          "Facial artery 16%",
+          "Maxillary artery"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "The superficial temporal artery is a branch of which of the following blood vessels:",
+        "options": [
+          "Internal carotid artery",
+          "Brachiocephalic trunk",
+          "External carotid artery",
+          "Facial artery",
+          "Maxillary artery"
+        ],
+        "correctOption": 2
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2184-q0005",
+      "actions": [
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "The medial and lateral pterygoid muscles are innervated by which of the following nerves:",
+        "options": [
+          "Facial nerve (/)) Mandibular division of the trigeminal nerve 39%",
+          "Glossopharyngeal nerve",
+          "Maxillary division of the trigeminal nerve",
+          "Spinal accessory nerve"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "The medial and lateral pterygoid muscles are innervated by which of the following nerves:",
+        "options": [
+          "Facial nerve (/)) Mandibular division of the trigeminal nerve",
+          "Glossopharyngeal nerve",
+          "Maxillary division of the trigeminal nerve",
+          "Spinal accessory nerve"
+        ],
+        "correctOption": null
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2189-q0007",
+      "actions": [
+        "key_from_vv",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "Ad The occipitofrontalis muscle is responsible for which of the following:",
+        "options": [
+          "Blowing the cheeks out",
+          "Screwing the eyes shut (4 Opening the eyes 2% (Vv) Raising the eyebrows 92%",
+          "Protruding the lips"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "The occipitofrontalis muscle is responsible for which of the following:",
+        "options": [
+          "Blowing the cheeks out",
+          "Screwing the eyes shut (4 Opening the eyes",
+          "Raising the eyebrows",
+          "Protruding the lips"
+        ],
+        "correctOption": 2
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2195-q0009",
+      "actions": [
+        "key_from_vv",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "Regarding the nerve supply of the oral cavity, which of the following statements is CORRECT:",
+        "options": [
+          "All of the muscles of the tongue are innervated by the hypoglossal nerve. (x) All of the muscles of the soft palate are innervated by the vagus nerve. 5%",
+          "The mylohyoid muscle is innervated by the vagus nerve. (Vv) athe ‘ 4 mM Sp egment T1. 59% Parasympathetic fibres to the glands within the oral cavity are carried by branches of the 22% glossopharyngeal nerve."
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "Regarding the nerve supply of the oral cavity, which of the following statements is CORRECT:",
+        "options": [
+          "All of the muscles of the tongue are innervated by the hypoglossal nerve",
+          "All of the muscles of the soft palate are innervated by the vagus nerve",
+          "The mylohyoid muscle is innervated by the vagus nerve",
+          "athe ' 4 mM Sp egment T1",
+          "Parasympathetic fibres to the glands within the oral cavity are carried by branches of the 22% glossopharyngeal nerve"
+        ],
+        "correctOption": 3
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2205-q0012",
+      "actions": [
+        "key_from_vv",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "wv Regarding the lacrimal apparatus, which of the following statements is CORRECT:",
+        "options": [
+          "The lacrimal gland is located in the superomedial region of the orbit.",
+          "The lacrimal gland is located in the inferomedial region of the orbit. (x) The lacrimal sac empties via lacrimal canaliculi. 20%",
+          "The nasolacrimal duct empties into the middle nasal meatus. 1% (Vv) Lacrimal fluid is drained from the eyeball through the lacrimal punctum. 36%"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "Regarding the lacrimal apparatus, which of the following statements is CORRECT:",
+        "options": [
+          "The lacrimal gland is located in the superomedial region of the orbit",
+          "The lacrimal gland is located in the inferomedial region of the orbit",
+          "The lacrimal sac empties via lacrimal canaliculi",
+          "The nasolacrimal duct empties into the middle nasal meatus",
+          "Lacrimal fluid is drained from the eyeball through the lacrimal punctum"
+        ],
+        "correctOption": 4
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2207-q0013",
+      "actions": [
+        "key_from_vv",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "Ad The orbicularis oculi muscle is responsible for which of the following:",
+        "options": [
+          "Accommodation of the lens",
+          "Pupillary constriction @ Intorsion of the eyeball 2% (Vv) Closure of the eyelids 87%",
+          "Opening of the eyelids"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "The orbicularis oculi muscle is responsible for which of the following:",
+        "options": [
+          "Accommodation of the lens",
+          "Pupillary constriction",
+          "Intorsion of the eyeball",
+          "Closure of the eyelids",
+          "Opening of the eyelids"
+        ],
+        "correctOption": 3
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2208-q0014",
+      "actions": [
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "Taste from the posterior one-third of the tongue is carried by which of the following nerves:",
+        "options": [
+          "Facial nerve (x) orda tympani 6%",
+          "Hypoglossal nerve",
+          "Lingual nerve"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "Taste from the posterior one-third of the tongue is carried by which of the following nerves:",
+        "options": [
+          "Facial nerve",
+          "orda tympani",
+          "Hypoglossal nerve",
+          "Lingual nerve"
+        ],
+        "correctOption": null
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2215-q0016",
+      "actions": [
+        "key_from_vv",
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "w Regarding the neck fascia, which of the following statements is CORRECT:",
+        "options": [
+          "The investing layer of the deep fascia lies deep to the pretracheal layer. 54% (x) The thyroid gland lies anterior to the pretracheal layer. 7%",
+          "The deep fascia is further divided into two layers. (Vv) The vagus nerve is contained within the carotid sheath. 30%",
+          "The pretracheal space communicates directly with the posterior mediastinum."
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "Regarding the neck fascia, which of the following statements is CORRECT:",
+        "options": [
+          "The investing layer of the deep fascia lies deep to the pretracheal layer",
+          "The thyroid gland lies anterior to the pretracheal layer",
+          "The deep fascia is further divided into two layers",
+          "The vagus nerve is contained within the carotid sheath",
+          "The pretracheal space communicates directly with the posterior mediastinum"
+        ],
+        "correctOption": 3
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2219-q0017",
+      "actions": [
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "The inferior rectus muscle acts to produce which of the following eyeball movements:",
+        "options": [
+          "Depression and medial rotation (x) ession and abduction 7% Depression and adduction 14%",
+          "Depression and lateral rotation"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "The inferior rectus muscle acts to produce which of the following eyeball movements:",
+        "options": [
+          "Depression and medial rotation",
+          "ession and abduction",
+          "Depression and adduction",
+          "Depression and lateral rotation"
+        ],
+        "correctOption": null
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2224-q0018",
+      "actions": [
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "Regarding the tongue, which of the following statements is CORRECT:",
+        "options": [
+          "The posterior root of the tongue is attached to the mandible and the thyroid cartilage. (x) = lingual tonsil is found on the underside of the tongue. 6%",
+          "Tastebuds are predominantly found on the pharyngeal surface of the tongue. 0) The lymphatic supply of the tongue drains to the jugulo-omohyoid node of the deep cervical 34% chain",
+          "Sensation from the tongue is carried by the hypoglossal nerve."
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "Regarding the tongue, which of the following statements is CORRECT:",
+        "options": [
+          "The posterior root of the tongue is attached to the mandible and the thyroid cartilage",
+          "= lingual tonsil is found on the underside of the tongue",
+          "Tastebuds are predominantly found on the pharyngeal surface of the tongue. 0) The lymphatic supply of the tongue drains to the jugulo-omohyoid node of the deep cervical 34% chain",
+          "Sensation from the tongue is carried by the hypoglossal nerve"
+        ],
+        "correctOption": null
+      }
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p2226-q0020",
+      "actions": [
+        "cleaned_explanation"
+      ],
+      "before": {
+        "stem": "Preganglionic parasympathetic fibres to the parotid gland are carried by which of the following nerves:",
+        "options": [
+          "Vagus nerve (x) Hypoglossal nerve 1%",
+          "Auriculotemporal nerve of the mandibular nerve",
+          "Facial nerve"
+        ],
+        "correctOption": null
+      },
+      "after": {
+        "stem": "Preganglionic parasympathetic fibres to the parotid gland are carried by which of the following nerves:",
+        "options": [
+          "Vagus nerve",
+          "Hypoglossal nerve",
+          "Auriculotemporal nerve of the mandibular nerve",
+          "Facial nerve"
+        ],
+        "correctOption": null
+      }
+    }
+  ]
+}
