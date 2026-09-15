@@ -1,0 +1,1173 @@
+{
+  "generatedAt": "2026-09-15",
+  "reviewBatch": "review-batch-018",
+  "recordCount": 50,
+  "method": "manual web verification against rank 2-3 authorities; no bank records modified",
+  "verdictCounts": {
+    "corroborated": 46,
+    "needs_source_confirmation": 3,
+    "unresolved": 1
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1307-q0019",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Uterine artery (internal iliac) is the primary uterine blood supply.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Uterine Arteries",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK482267",
+          "quote": "The uterine artery is a branch of the internal iliac artery... main blood vessels that supply blood to the uterus.",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Uterus",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK470297",
+          "quote": "The uterus receives its primary blood supply from the uterine and ovarian arteries, both originating from the anterior branch of the internal iliac artery.",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1308-q0020",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Pancreas occupies left hypochondrium and epigastrium.",
+      "citations": [
+        {
+          "authorityRank": 4,
+          "authority": "Kenhub Pancreas",
+          "url": "https://www.kenhub.com/en/library/anatomy/the-pancreas",
+          "quote": "traverses the epigastric, left hypochondriac, and a small portion of the umbilical regions",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Abdomen",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK553104",
+          "quote": "Epigastrium: stomach, liver, pancreas, duodenum",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1309-q0021",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "A",
+      "verdict": "corroborated",
+      "keyClaim": "Uterine sensory signals travel via hypogastric nerves to T10-L1.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Uterus",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK470297",
+          "quote": "Sensory signals from the uterus travel through the hypogastric nerves to spinal levels T10 to L1.",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Sympathetic efferents cited as T11-T12; afferent claim T10-L1 directly supported."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1310-q0022",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "E",
+      "verdict": "corroborated",
+      "keyClaim": "Pancreatic tail is the intraperitoneal part.",
+      "citations": [
+        {
+          "authorityRank": 4,
+          "authority": "TeachMeAnatomy Pancreas",
+          "url": "https://teachmeanatomy.info/abdomen/viscera/pancreas",
+          "quote": "It is the only intraperitoneal part of the pancreas, contained within the splenorenal ligament.",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Embryology Pancreas",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK545243",
+          "quote": "the pancreatic tail is intraperitoneal",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1311-q0023",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "E",
+      "verdict": "needs_source_confirmation",
+      "keyClaim": "Aorta lies posterior to 3rd and 4th duodenal parts.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Abdominal Aorta",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK525964",
+          "quote": "Between the origins of superior mesenteric and inferior mesenteric arteries - left renal vein, the uncinate process of the pancreas and 3 part of the duodenum",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 4,
+          "authority": "Medscape Duodenal Anatomy",
+          "url": "https://emedicine.medscape.com/article/1898874-overview",
+          "quote": "The fourth (ascending) part (2.5 cm), begins to the left of the abdominal aorta",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "3rd part anterior to aorta confirmed; 4th part is lateral (left of aorta), not strictly posterior. Source page must confirm the bank's exact E wording before approval."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1312-q0024",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "B",
+      "verdict": "unresolved",
+      "keyClaim": "Ureters end at the level of the pubic tubercle.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Ureter",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK532980",
+          "quote": "The ureters lack reliable anatomical landmarks to mark their location besides the 3 physiologic constrictions.",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 4,
+          "authority": "Medscape Ureter Anatomy",
+          "url": "https://emedicine.medscape.com/article/1949127-overview",
+          "quote": "turns anteromedially opposite the ischial spine ... to reach the fundus of the bladder",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "No rank 2-3 source supports the pubic tubercle as the ureteric termination level; ischial spine is the cited turn landmark. Possible key mismatch - source-page check required, do not approve."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1313-q0025",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Rectus sheath formed by all three lateral aponeuroses.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Rectus Sheath",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK537153",
+          "quote": "The fascial coverings of the external oblique, internal oblique, and transversus abdominis muscles comprise the rectus sheath.",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1314-q0026",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Renal arteries arise just posterior to the pancreas.",
+      "citations": [
+        {
+          "authorityRank": 4,
+          "authority": "Kenhub Renal Artery",
+          "url": "https://www.kenhub.com/en/library/anatomy/renal-artery",
+          "quote": "The left renal artery courses ... posterior to ... the body of the pancreas; right renal artery courses posterior to ... head of the pancreas and second part of the duodenum.",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Renal Artery",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK459158",
+          "quote": "arise from the lateral aspect of the abdominal aorta, typically at L1/L2, immediately inferior to the SMA",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1315-q0027",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Omental bursa lies posterior to stomach and liver.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "AJR Lesser Sac review",
+          "url": "https://www.ajronline.org/doi/10.2214/AJR.19.22749",
+          "quote": "lesser sac ... between the stomach and the pancreas ... superior omental recess extends between the medial aspect of the caudate lobe of the liver and the diaphragm.",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 4,
+          "authority": "TeachMeAnatomy Peritoneal Cavity",
+          "url": "https://teachmeanatomy.info/abdomen/areas/peritoneal-cavity",
+          "quote": "The lesser sac lies posterior to the stomach and lesser omentum.",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1316-q0028",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "A",
+      "verdict": "corroborated",
+      "keyClaim": "Infraduodenal CBD runs in a groove posterior to pancreatic head.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Pancreas",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK532912",
+          "quote": "the bile duct lies in a groove on the posterosuperior surface of the head",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 4,
+          "authority": "ScienceDirect Duodenal Muscle",
+          "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/duodenal-muscle",
+          "quote": "The common bile duct passes dorsal to the first part of the duodenum lying in a groove either within or posterior to the head of the pancreas",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1317-q0029",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "E",
+      "verdict": "corroborated",
+      "keyClaim": "Spleen is NOT a posterior relation of transverse colon.",
+      "citations": [
+        {
+          "authorityRank": 4,
+          "authority": "ScienceDirect Transverse Colon",
+          "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/transverse-colon",
+          "quote": "Posterior to the transverse colon are the descending part of the duodenum, the head of the pancreas, the mesentery, the duodenojejunal flexure, and the small intestine.",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "Dartmouth Spleen",
+          "url": "https://humananatomy.host.dartmouth.edu/BHA/public_html/part_5/chapter_28.html",
+          "quote": "visceral surface related to the stomach, left colic flexure, and left kidney",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "partial",
+      "rank3Note": "transverse-colon posterior list from rank-4 overview; spleen relations from rank-3 Dartmouth chapter",
+      "reviewerNote": "Spleen relates to splenic flexure laterally, not posterior to transverse colon."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1321-q0030",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Aorta terminates as right and left common iliacs.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Arteries and Veins",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK560486",
+          "quote": "The abdominal aorta bifurcates into the right and left common iliac arteries close to the L4 vertebral level.",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1322-q0031",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "SMA occlusion threatens jejunum and ileum.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls SMA",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519560",
+          "quote": "provides blood flow to the third portion of the duodenum, the jejunum, the ileum, the cecum, the ascending colon... splenic flexure is a watershed area",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Splenic flexure is watershed (less likely than jejunum/ileum); stomach/foregut supplied by coeliac."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1323-q0032",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Spleen lies at ribs 9-11 posteriorly.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Spleen",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK482235",
+          "quote": "typically spanning the ninth to 11th ribs.",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "Dartmouth Spleen",
+          "url": "https://humananatomy.host.dartmouth.edu/BHA/public_html/part_5/chapter_28.html",
+          "quote": "ribs 9 to 11 on the left-hand side",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1324-q0033",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Ductus deferens is the continuation of the epididymis.",
+      "citations": [
+        {
+          "authorityRank": 4,
+          "authority": "Medscape Ductus Deferens",
+          "url": "https://emedicine.medscape.com/article/1949281-overview",
+          "quote": "a fibromuscular tube that is a continuation of the epididymis",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 4,
+          "authority": "Radiopaedia Ductus Deferens",
+          "url": "https://radiopaedia.org/articles/ductus-deferens?lang=us",
+          "quote": "The ductus deferens is the continuation of the tail of the epididymis.",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Wolffian Ducts",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK557818",
+          "quote": "they give rise to the epididymis, vas deferens, and seminal vesicles",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Embryology nuance: both derive from the Wolffian duct (NBK557818); the question tests anatomical continuation, which key D answers."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1326-q0034",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "L1 root supplies transversus abdominis and internal oblique.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Anterolateral Abdominal Wall Nerves",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK556034",
+          "quote": "iliohypogastric/ilioinguinal (L1) ... motor branches to the inferior portions of the transversus abdominis, external oblique, and internal oblique muscles.",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Gluteus medius/minimus are superior gluteal (L4-S1), excluded."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1327-q0035",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "E",
+      "verdict": "corroborated",
+      "keyClaim": "Scrotal skin supplied by L1 (anterior) and S2-S3 (posterior/inferior).",
+      "citations": [
+        {
+          "authorityRank": 4,
+          "authority": "Kenhub Scrotum",
+          "url": "https://www.kenhub.com/en/library/anatomy/the-scrotum",
+          "quote": "Anterior scrotal nerves (ilioinguinal L1) supply the anterior surface; posterior scrotal nerves (pudendal S2-4); perineal branches of posterior cutaneous nerve of thigh (S2,3).",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "UAMS Nerves of Pelvis and Perineum",
+          "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-pelvis-and-perineum",
+          "quote": "anterior scrotal n. ... skin of the anterior aspect of the scrotum ... continuation of the ilioinguinal n.; genitofemoral n. (L1-L2) ... skin of the anterior scrotum",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1330-q0036",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Kidneys extend T12-L3.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Kidneys",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK482385",
+          "quote": "paired retroperitoneal organs located between the T12 and L3 vertebrae.",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1331-q0037",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Pancreatic body at L1 (transpyloric plane).",
+      "citations": [
+        {
+          "authorityRank": 4,
+          "authority": "TeachMeAnatomy Pancreas",
+          "url": "https://teachmeanatomy.info/abdomen/viscera/pancreas",
+          "quote": "located at the level of the transpyloric plane (L1)",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Pancreas",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK532912",
+          "quote": "crossing the bodies of the L1 and L2 vertebrae",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Body spans L1-L2; L1 is the best option (neck at transpyloric plane)."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1332-q0038",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "A",
+      "verdict": "corroborated",
+      "keyClaim": "Uterine tubes open into the peritoneal cavity; ectopics commonest in ampulla, not isthmus.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Ectopic Pregnancy",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK539860",
+          "quote": "most frequently located at the ampulla region (70%)",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 4,
+          "authority": "Williams Obstetrics via AccessMedicine",
+          "url": "https://accessmedicine.mhmedical.com/content.aspx?legacysectionid=wob26-ch012",
+          "quote": "ampulla 70%, isthmic 12%, fimbrial 11%",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Eliminates B (tube ~10cm), C (opening = infundibulum/fimbria), D (isthmus is narrowest), E (isthmus second, not first)."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1333-q0039",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Perinephric abscess lies between renal capsule and Gerota fascia.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Perinephric Abscess",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK536936",
+          "quote": "affects the renal capsule and Gerota's fascia",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 4,
+          "authority": "Medscape Perinephric Abscess",
+          "url": "https://emedicine.medscape.com/article/439831-overview",
+          "quote": "located between the capsule of the kidney and the Gerota fascia",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1334-q0040",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Morison pouch = right subhepatic (hepatorenal) space.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "PMC Morrison Pouch review",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9968550",
+          "quote": "Right supramesocolic space is further divided into right subphrenic space, right subhepatic space (hepatorenal pouch or Morrison's pouch), and lesser sac.",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1335-q0041",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "A",
+      "verdict": "corroborated",
+      "keyClaim": "Renal artery derives from abdominal aorta.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Renal Artery",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK459158",
+          "quote": "arise from the lateral aspect of the abdominal aorta, typically at L1/L2",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1336-q0042",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Pancreatic neck tumour metastasises first to liver via portal drainage.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "PMC Portal Venous System",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4062210",
+          "quote": "portal vein is formed behind the neck of the pancreas by the union of the splenic and superior mesenteric veins",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "Int J Surgery 2025 PV/SMV review",
+          "url": "https://qa-ai.ovid.com/jnls/international-journal-of-surgery/fulltext/10.1097/js9.0000000000002307~implications-of-portal-veinsuperior-mesenteric-vein",
+          "quote": "portal vein and SMV involvement is common in pancreatic head/neck cancer due to anatomical proximity",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Portal blood flows to liver first."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1337-q0043",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Lateral femoral cutaneous nerve supplies lateral thigh skin.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls LFCN",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK532301",
+          "quote": "supplying cutaneous sensation to the anterolateral and lateral thigh",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1338-q0044",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "A",
+      "verdict": "corroborated",
+      "keyClaim": "Iliohypogastric supplies posterolateral gluteal skin.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Anterolateral Abdominal Wall Nerves",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK556034",
+          "quote": "gives off a lateral cutaneous branch ... to supply the skin ... that overlies the buttocks and ilium",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1339-q0045",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Retrocaecal is the most common appendix position.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Appendix",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK459205",
+          "quote": "The retrocecal position is by far the most common.",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "PMC Appendix Variations 2025",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11831545",
+          "quote": "retrocecal position ... most common anatomical variant",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Some populations show pelvic predominance; retrocaecal is the exam-standard answer."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1342-q0046",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Uncinate tumour most likely compresses SMA.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls SMA",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519560",
+          "quote": "Posterior to the artery lies the uncinate process of the pancreas",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "PMC Uncinate Carcinoma case report",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2827061",
+          "quote": "The uncinate process ... projects medially and wraps around the superior mesenteric vessels",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "SMV/portal vein also adjacent; among options SMA is the vessel the uncinate wraps."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1343-q0047",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Glans penis drains primarily to deep inguinal nodes.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Inguinal Lymph Node",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK557639",
+          "quote": "deep nodes receive drainage from the glans penis or clitoris",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Lymphatic Drainage",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK557720",
+          "quote": "deep lymphatics ... along with the glans penis",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1346-q0048",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "E",
+      "verdict": "corroborated",
+      "keyClaim": "Jejunal/ileal (midgut) pain refers to the umbilical region.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "CMRE Understanding Pain Abdomen",
+          "url": "https://journals.lww.com/cmre/fulltext/2011/01030/understanding_pain_abdomen__anatomical.5.aspx",
+          "quote": "Pain arising ... from the midgut in the umbilical area; The small intestine ... produces midline, periumbilical visceral pain (T10)",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1349-q0049",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Pancreatic neck tumour most likely compresses portal vein.",
+      "citations": [
+        {
+          "authorityRank": 4,
+          "authority": "Medscape Pancreas Anatomy",
+          "url": "https://emedicine.medscape.com/article/1948885-images",
+          "quote": "The neck of the pancreas ... lies in front of the SMV, splenic vein, and portal vein junction.",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 4,
+          "authority": "TeachMeAnatomy Pancreas",
+          "url": "https://teachmeanatomy.info/abdomen/viscera/pancreas",
+          "quote": "Portal vein formed posterior to the neck of the pancreas",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "PMC Portal Venous System",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4062210",
+          "quote": "The portal vein is formed behind the neck of the pancreas by the union of the splenic vein and the superior mesenteric vein",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1350-q0050",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Aortic bifurcation ~2.5cm below the umbilicus (L4).",
+      "citations": [
+        {
+          "authorityRank": 4,
+          "authority": "ScienceDirect Aortic Bifurcation",
+          "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/aortic-bifurcation",
+          "quote": "typically located at the lower border of the L4 vertebral body, approximately 2.5 cm below the umbilicus.",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Aorta",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK537319",
+          "quote": "bifurcation at the L4 vertebral level",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Hurd 1992 notes umbilicus is often at/above the bifurcation; 2.5cm-below remains the exam convention."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1351-q0051",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Iliacus innervated by femoral nerve.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Iliopsoas",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK531508",
+          "quote": "The iliacus is innervated by the femoral nerve",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Anterior Thigh Muscles",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK538425",
+          "quote": "The femoral nerve innervates the sartorius, pectineus, quadriceps femoris, and iliacus muscle",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1352-q0052",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "E",
+      "verdict": "corroborated",
+      "keyClaim": "IVC formed at L5 by common iliac confluence.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls IVC",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK482353",
+          "quote": "formed by the confluence of the right and left common iliac veins ... at the L5 vertebral level.",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1353-q0053",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "E",
+      "verdict": "corroborated",
+      "keyClaim": "Inferior epigastric artery does NOT pass through the inguinal canal.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Inguinal Canal region (NBK470204, via existing batch-11 evidence)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK470204",
+          "quote": "ilioinguinal and genitofemoral nerves pass within it; the deep ring is lateral to the epigastric vessels",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Artery runs in rectus sheath, medial to deep ring; cord/round ligament + genital branch + ilioinguinal nerve do traverse."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1354-q0054",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Spleen occupies left hypochondrium.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Spleen",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK482235",
+          "quote": "located in the left hypochondriac region between the diaphragm and gastric fundus",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1355-q0055",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Ejaculatory duct = ductus deferens + seminal vesicle duct.",
+      "citations": [
+        {
+          "authorityRank": 4,
+          "authority": "Medscape Ductus Deferens",
+          "url": "https://emedicine.medscape.com/article/1949281-overview",
+          "quote": "formed by the union of the duct from the seminal vesicle and the ductus (vas) deferens",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Seminal Vesicle",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK499854",
+          "quote": "seminal vesicle ultimately converging with an ampullae to form the ejaculatory duct",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1356-q0056",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Female urethra opens in the vestibule between the labia minora.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Female External Genitalia",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK547703",
+          "quote": "the urethra opens within the vulvar vestibule ... The area between the labia minora is known as the vulvar vestibule.",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 4,
+          "authority": "Medscape Female Urethra",
+          "url": "https://emedicine.medscape.com/article/1972504-overview",
+          "quote": "4 cm long tubular structure that begins at the bladder neck and terminates at the vaginal vestibule",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Eliminates A (male longer), B (begins at bladder neck, not apex), D/E (sphincter/vaginal relations misstated)."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1357-q0057",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "E",
+      "verdict": "needs_source_confirmation",
+      "keyClaim": "Duodenal supply primarily gastroduodenal + superior mesenteric arcades.",
+      "citations": [
+        {
+          "authorityRank": 4,
+          "authority": "Medscape Duodenal Anatomy",
+          "url": "https://emedicine.medscape.com/article/1898874-overview",
+          "quote": "GDA ... gives off ... anterior/posterior superior pancreaticoduodenal artery ... Anterior and posterior branches of the SPDA and IPDA join ... supplying ... the first, second, and third parts of the duodenum",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls SMA",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519560",
+          "quote": "The inferior pancreaticoduodenal artery arises from the SMA and, along with the superior pancreaticoduodenal artery, supplies the head of the pancreas",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "partial",
+      "rank3Note": "SMA half from rank-3 NBK519560; gastroduodenal half from rank-4 Medscape overview",
+      "reviewerNote": "Rank-3 coverage is partial (SMA/inferior half); the gastroduodenal half rests on rank-4 overview. Source-page check decides approval."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1358-q0058",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "E",
+      "verdict": "corroborated",
+      "keyClaim": "CBD + pancreatic duct unite as ampulla of Vater.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Pancreas",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK532912",
+          "quote": "joins the bile duct to form the hepatopancreatic ampulla, which opens into the descending part of the duodenum.",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1359-q0059",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Inferior epigastric vessels differentiate direct vs indirect hernia.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Inguinal region (NBK470204)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK470204",
+          "quote": "the deep ring is lateral to the epigastric vessels",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Indirect sac passes lateral (through deep ring), direct medial to the vessels."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1360-q0060",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "IVC lies posterior to 1st and 3rd duodenal parts.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "TTUHSC Dissector Answers",
+          "url": "https://anatomy.ttuhscep.edu/gastrointestinal_system/duodenum_ans.html",
+          "quote": "superior (1st): ... anterior to the bile duct, the gastroduodenal artery, the portal vein, and the IVC; horizontal (3rd): ... anterior to ... the IVC, the abdominal aorta",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1361-q0061",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Liver lymph drains primarily to coeliac nodes.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Lymphatic Drainage",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK557720",
+          "quote": "The liver drains its lymph into the hepatic, caval, posterior mediastinal, and celiac lymph nodes.",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 4,
+          "authority": "Surgery (Oxford) liver chapter",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S1472029911002682",
+          "quote": "drain into the hepatic nodes and subsequently into the coeliac group",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1362-q0062",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "A",
+      "verdict": "corroborated",
+      "keyClaim": "Transversus abdominis muscle is NOT enclosed by rectus sheath (categorical exam answer).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Rectus Sheath",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK537153",
+          "quote": "contains both the rectus abdominis muscle and the pyramidalis muscle ... thoracoabdominal nerves ... epigastric vessels",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Caveat (existing batch-11 note): one study found transversus fibres within the sheath superiorly - exam-categorical answer stands, note retained."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1363-q0063",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Ilioinguinal supplies upper medial thigh skin.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Ilioinguinal Neuralgia",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK538256",
+          "quote": "provides sensory innervation to the upper anteromedial thigh region",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1364-q0064",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "C",
+      "verdict": "needs_source_confirmation",
+      "keyClaim": "Transverse mesocolon divides greater sac into supra/infracolic compartments.",
+      "citations": [
+        {
+          "authorityRank": 4,
+          "authority": "TeachMeAnatomy Peritoneal Cavity",
+          "url": "https://teachmeanatomy.info/abdomen/areas/peritoneal-cavity",
+          "quote": "further divided into two compartments by the ... transverse mesocolon: Supracolic ... Infracolic",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "No rank<=3 citation; approval requires source-page plus rank<=3 agreement."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1365-q0065",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "BPH arises in the transitional zone.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "Endotext Benign Prostate Disorders (NCBI)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK279008",
+          "quote": "The transitional zone ... This is the zone where benign prostatic hypertrophy occurs",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls BPH",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK558920",
+          "quote": "stromal and epithelial cell proliferation in the prostate transition zone",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1366-q0066",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Ilioinguinal innervates internal oblique + transversus abdominis.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Ilioinguinal Neuralgia",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK538256",
+          "quote": "motor innervation of the transverse abdominis and internal oblique muscles",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1450-q0001",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Temporal lobe lies inferior to the lateral sulcus.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Temporal Lobe",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519512",
+          "quote": "It is found inferior to the lateral fissure, also known as the Sylvian fissure or the lateral sulcus.",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1456-q0002",
+      "reviewBatch": "review-batch-018",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Post-traumatic CSF rhinorrhoea implicates ethmoid (cribriform) fracture.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Cribriform Plate Fractures",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK562192",
+          "quote": "fractures of the cribriform plate can easily tear the dura and lead to leakage of CSF into the nasal cavity",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Skull Foramen",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK546621",
+          "quote": "fracture of the cribriform plate ... allows cerebrospinal fluid to extravasate into the nasal passages",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Cribriform plate is part of the ethmoid bone (NBK544328)."
+    }
+  ]
+}

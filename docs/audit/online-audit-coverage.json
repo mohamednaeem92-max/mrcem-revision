@@ -1,0 +1,2212 @@
+{
+  "generatedAt": "2026-09-15T11:11:17.035069+00:00",
+  "total": 5233,
+  "tierTotals": {
+    "memory_aid_source": 342,
+    "none": 783,
+    "mechanical_audit": 3778,
+    "external_finding": 330
+  },
+  "externalFindingCount": 330,
+  "memoryAidSourceCount": 672,
+  "mechanicalAuditCount": 4450,
+  "researchNoteFiles": 65,
+  "researchNoteIdMentions": 436,
+  "fullyUncoveredBatches": 11,
+  "batches": [
+    {
+      "id": "review-batch-001",
+      "subject": "Anatomy",
+      "positions": [
+        1,
+        50
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "memory_aid_source": 1,
+        "none": 49
+      },
+      "uncovered": [
+        "anatomy-markdown-p0001-q0423",
+        "anatomy-markdown-p0001-q0472",
+        "anatomy-markdown-p0001-q0594",
+        "anatomy-markdown-p0001-q0664",
+        "anatomy-markdown-p0001-q0473",
+        "anatomy-markdown-p0001-q0503",
+        "anatomy-markdown-p0001-q0665",
+        "anatomy-markdown-p0001-q0740",
+        "anatomy-markdown-p0001-q0787",
+        "anatomy-markdown-p0001-q0840",
+        "anatomy-markdown-p0001-q0843",
+        "anatomy-markdown-p0001-q0424",
+        "anatomy-markdown-p0001-q0504",
+        "anatomy-markdown-p0001-q0595",
+        "anatomy-markdown-p0001-q0741",
+        "anatomy-markdown-p0001-q0835",
+        "anatomy-markdown-p0001-q0841",
+        "anatomy-markdown-p0001-q0844",
+        "anatomy-markdown-p0001-q0505",
+        "anatomy-markdown-p0001-q0742",
+        "anatomy-markdown-p0001-q0506",
+        "anatomy-markdown-p0001-q0788",
+        "anatomy-markdown-p0001-q0836",
+        "anatomy-markdown-p0001-q0507",
+        "anatomy-markdown-p0001-q0596",
+        "anatomy-markdown-p0001-q0743",
+        "anatomy-markdown-p0001-q0508",
+        "anatomy-markdown-p0001-q0666",
+        "anatomy-markdown-p0001-q0744",
+        "anatomy-markdown-p0001-q0463",
+        "anatomy-markdown-p0001-q0597",
+        "anatomy-markdown-p0001-q0667",
+        "anatomy-markdown-p0001-q0598",
+        "anatomy-markdown-p0001-q0668",
+        "anatomy-markdown-p0001-q0837",
+        "anatomy-markdown-p0001-q0425",
+        "anatomy-markdown-p0001-q0745",
+        "anatomy-markdown-p0001-q0838",
+        "anatomy-markdown-p0001-q0426",
+        "anatomy-markdown-p0001-q0464",
+        "anatomy-markdown-p0001-q0669",
+        "anatomy-markdown-p0001-q0746",
+        "anatomy-markdown-p0001-q0789",
+        "anatomy-markdown-p0001-q0839",
+        "anatomy-markdown-p0001-q0427",
+        "anatomy-markdown-p0001-q0509",
+        "anatomy-markdown-p0001-q0670",
+        "anatomy-markdown-p0001-q0790",
+        "anatomy-markdown-p0001-q0510"
+      ]
+    },
+    {
+      "id": "review-batch-002",
+      "subject": "Anatomy",
+      "positions": [
+        51,
+        100
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "none": 50
+      },
+      "uncovered": [
+        "anatomy-markdown-p0001-q0671",
+        "anatomy-markdown-p0001-q0428",
+        "anatomy-markdown-p0001-q0474",
+        "anatomy-markdown-p0001-q0672",
+        "anatomy-markdown-p0001-q0791",
+        "anatomy-markdown-p0001-q0673",
+        "anatomy-markdown-p0001-q0429",
+        "anatomy-markdown-p0001-q0511",
+        "anatomy-markdown-p0001-q0599",
+        "anatomy-markdown-p0001-q0465",
+        "anatomy-markdown-p0001-q0792",
+        "anatomy-markdown-p0001-q0600",
+        "anatomy-markdown-p0001-q0674",
+        "anatomy-markdown-p0001-q0430",
+        "anatomy-markdown-p0001-q0475",
+        "anatomy-markdown-p0001-q0675",
+        "anatomy-markdown-p0001-q0747",
+        "anatomy-markdown-p0001-q0476",
+        "anatomy-markdown-p0001-q0601",
+        "anatomy-markdown-p0001-q0748",
+        "anatomy-markdown-p0001-q0477",
+        "anatomy-markdown-p0001-q0676",
+        "anatomy-markdown-p0001-q0478",
+        "anatomy-markdown-p0001-q0512",
+        "anatomy-markdown-p0001-q0677",
+        "anatomy-markdown-p0001-q0749",
+        "anatomy-markdown-p0001-q0793",
+        "anatomy-markdown-p0001-q0466",
+        "anatomy-markdown-p0001-q0479",
+        "anatomy-markdown-p0001-q0513",
+        "anatomy-markdown-p0001-q0794",
+        "anatomy-markdown-p0001-q0602",
+        "anatomy-markdown-p0001-q0678",
+        "anatomy-markdown-p0001-q0795",
+        "anatomy-markdown-p0001-q0431",
+        "anatomy-markdown-p0001-q0480",
+        "anatomy-markdown-p0001-q0603",
+        "anatomy-markdown-p0001-q0750",
+        "anatomy-markdown-p0001-q0796",
+        "anatomy-markdown-p0001-q0751",
+        "anatomy-markdown-p0001-q0797",
+        "anatomy-markdown-p0001-q0432",
+        "anatomy-markdown-p0001-q0481",
+        "anatomy-markdown-p0001-q0514",
+        "anatomy-markdown-p0001-q0752",
+        "anatomy-markdown-p0001-q0798",
+        "anatomy-markdown-p0001-q0834",
+        "anatomy-markdown-p0001-q0515",
+        "anatomy-markdown-p0001-q0679",
+        "anatomy-markdown-p0001-q0799"
+      ]
+    },
+    {
+      "id": "review-batch-003",
+      "subject": "Anatomy",
+      "positions": [
+        101,
+        150
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "none": 50
+      },
+      "uncovered": [
+        "anatomy-markdown-p0001-q0496",
+        "anatomy-markdown-p0001-q0516",
+        "anatomy-markdown-p0001-q0604",
+        "anatomy-markdown-p0001-q0680",
+        "anatomy-markdown-p0001-q0497",
+        "anatomy-markdown-p0001-q0517",
+        "anatomy-markdown-p0001-q0605",
+        "anatomy-markdown-p0001-q0482",
+        "anatomy-markdown-p0001-q0518",
+        "anatomy-markdown-p0001-q0753",
+        "anatomy-markdown-p0001-q0483",
+        "anatomy-markdown-p0001-q0498",
+        "anatomy-markdown-p0001-q0519",
+        "anatomy-markdown-p0001-q0606",
+        "anatomy-markdown-p0001-q0681",
+        "anatomy-markdown-p0001-q0484",
+        "anatomy-markdown-p0001-q0520",
+        "anatomy-markdown-p0001-q0800",
+        "anatomy-markdown-p0001-q0521",
+        "anatomy-markdown-p0001-q0433",
+        "anatomy-markdown-p0001-q0485",
+        "anatomy-markdown-p0001-q0607",
+        "anatomy-markdown-p0001-q0522",
+        "anatomy-markdown-p0001-q0608",
+        "anatomy-markdown-p0001-q0801",
+        "anatomy-markdown-p0001-q0842",
+        "anatomy-markdown-p0001-q0434",
+        "anatomy-markdown-p0001-q0682",
+        "anatomy-markdown-p0001-q0435",
+        "anatomy-markdown-p0001-q0523",
+        "anatomy-markdown-p0001-q0609",
+        "anatomy-markdown-p0001-q0754",
+        "anatomy-markdown-p0001-q0802",
+        "anatomy-markdown-p0001-q0524",
+        "anatomy-markdown-p0001-q0683",
+        "anatomy-markdown-p0001-q0436",
+        "anatomy-markdown-p0001-q0467",
+        "anatomy-markdown-p0001-q0525",
+        "anatomy-markdown-p0001-q0684",
+        "anatomy-markdown-p0001-q0803",
+        "anatomy-markdown-p0001-q0437",
+        "anatomy-markdown-p0001-q0610",
+        "anatomy-markdown-p0001-q0804",
+        "anatomy-markdown-p0001-q0526",
+        "anatomy-markdown-p0001-q0805",
+        "anatomy-markdown-p0001-q0438",
+        "anatomy-markdown-p0001-q0806",
+        "anatomy-markdown-p0001-q0499",
+        "anatomy-markdown-p0001-q0527",
+        "anatomy-markdown-p0001-q0685"
+      ]
+    },
+    {
+      "id": "review-batch-004",
+      "subject": "Anatomy",
+      "positions": [
+        151,
+        200
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "none": 50
+      },
+      "uncovered": [
+        "anatomy-markdown-p0001-q0528",
+        "anatomy-markdown-p0001-q0686",
+        "anatomy-markdown-p0001-q0807",
+        "anatomy-markdown-p0001-q0486",
+        "anatomy-markdown-p0001-q0687",
+        "anatomy-markdown-p0001-q0487",
+        "anatomy-markdown-p0001-q0611",
+        "anatomy-markdown-p0001-q0688",
+        "anatomy-markdown-p0001-q0808",
+        "anatomy-markdown-p0001-q0439",
+        "anatomy-markdown-p0001-q0809",
+        "anatomy-markdown-p0001-q0529",
+        "anatomy-markdown-p0001-q0689",
+        "anatomy-markdown-p0001-q0755",
+        "anatomy-markdown-p0001-q0810",
+        "anatomy-markdown-p0001-q0440",
+        "anatomy-markdown-p0001-q0530",
+        "anatomy-markdown-p0001-q0690",
+        "anatomy-markdown-p0001-q0811",
+        "anatomy-markdown-p0001-q0488",
+        "anatomy-markdown-p0001-q0531",
+        "anatomy-markdown-p0001-q0612",
+        "anatomy-markdown-p0001-q0691",
+        "anatomy-markdown-p0001-q0812",
+        "anatomy-markdown-p0001-q0468",
+        "anatomy-markdown-p0001-q0489",
+        "anatomy-markdown-p0001-q0613",
+        "anatomy-markdown-p0001-q0692",
+        "anatomy-markdown-p0001-q0813",
+        "anatomy-markdown-p0001-q0532",
+        "anatomy-markdown-p0001-q0614",
+        "anatomy-markdown-p0001-q0500",
+        "anatomy-markdown-p0001-q0533",
+        "anatomy-markdown-p0001-q0693",
+        "anatomy-markdown-p0001-q0814",
+        "anatomy-markdown-p0001-q0501",
+        "anatomy-markdown-p0001-q0694",
+        "anatomy-markdown-p0001-q0441",
+        "anatomy-markdown-p0001-q0490",
+        "anatomy-markdown-p0001-q0695",
+        "anatomy-markdown-p0001-q0469",
+        "anatomy-markdown-p0001-q0491",
+        "anatomy-markdown-p0001-q0534",
+        "anatomy-markdown-p0001-q0696",
+        "anatomy-markdown-p0001-q0492",
+        "anatomy-markdown-p0001-q0615",
+        "anatomy-markdown-p0001-q0815",
+        "anatomy-markdown-p0001-q0493",
+        "anatomy-markdown-p0001-q0697",
+        "anatomy-markdown-p0001-q0816"
+      ]
+    },
+    {
+      "id": "review-batch-005",
+      "subject": "Anatomy",
+      "positions": [
+        201,
+        250
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "none": 50
+      },
+      "uncovered": [
+        "anatomy-markdown-p0001-q0442",
+        "anatomy-markdown-p0001-q0470",
+        "anatomy-markdown-p0001-q0616",
+        "anatomy-markdown-p0001-q0756",
+        "anatomy-markdown-p0001-q0817",
+        "anatomy-markdown-p0001-q0471",
+        "anatomy-markdown-p0001-q0698",
+        "anatomy-markdown-p0001-q0443",
+        "anatomy-markdown-p0001-q0535",
+        "anatomy-markdown-p0001-q0699",
+        "anatomy-markdown-p0001-q0757",
+        "anatomy-markdown-p0001-q0700",
+        "anatomy-markdown-p0001-q0818",
+        "anatomy-markdown-p0001-q0758",
+        "anatomy-markdown-p0001-q0819",
+        "anatomy-markdown-p0001-q0617",
+        "anatomy-markdown-p0001-q0759",
+        "anatomy-markdown-p0001-q0820",
+        "anatomy-markdown-p0001-q0701",
+        "anatomy-markdown-p0001-q0760",
+        "anatomy-markdown-p0001-q0821",
+        "anatomy-markdown-p0001-q0494",
+        "anatomy-markdown-p0001-q0536",
+        "anatomy-markdown-p0001-q0702",
+        "anatomy-markdown-p0001-q0502",
+        "anatomy-markdown-p0001-q0618",
+        "anatomy-markdown-p0001-q0761",
+        "anatomy-markdown-p0001-q0444",
+        "anatomy-markdown-p0001-q0537",
+        "anatomy-markdown-p0001-q0822",
+        "anatomy-markdown-p0001-q0445",
+        "anatomy-markdown-p0001-q0538",
+        "anatomy-markdown-p0001-q0703",
+        "anatomy-markdown-p0001-q0539",
+        "anatomy-markdown-p0001-q0704",
+        "anatomy-markdown-p0001-q0762",
+        "anatomy-markdown-p0001-q0495",
+        "anatomy-markdown-p0001-q0705",
+        "anatomy-markdown-p0001-q0823",
+        "anatomy-markdown-p0001-q0540",
+        "anatomy-markdown-p0001-q0706",
+        "anatomy-markdown-p0001-q0541",
+        "anatomy-markdown-p0001-q0619",
+        "anatomy-markdown-p0001-q0824",
+        "anatomy-markdown-p0001-q0446",
+        "anatomy-markdown-p0001-q0620",
+        "anatomy-markdown-p0001-q0707",
+        "anatomy-markdown-p0001-q0825",
+        "anatomy-markdown-p0001-q0542",
+        "anatomy-markdown-p0001-q0621"
+      ]
+    },
+    {
+      "id": "review-batch-006",
+      "subject": "Anatomy",
+      "positions": [
+        251,
+        300
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "none": 50
+      },
+      "uncovered": [
+        "anatomy-markdown-p0001-q0826",
+        "anatomy-markdown-p0001-q0622",
+        "anatomy-markdown-p0001-q0708",
+        "anatomy-markdown-p0001-q0827",
+        "anatomy-markdown-p0001-q0543",
+        "anatomy-markdown-p0001-q0709",
+        "anatomy-markdown-p0001-q0828",
+        "anatomy-markdown-p0001-q0544",
+        "anatomy-markdown-p0001-q0710",
+        "anatomy-markdown-p0001-q0829",
+        "anatomy-markdown-p0001-q0545",
+        "anatomy-markdown-p0001-q0763",
+        "anatomy-markdown-p0001-q0546",
+        "anatomy-markdown-p0001-q0711",
+        "anatomy-markdown-p0001-q0547",
+        "anatomy-markdown-p0001-q0447",
+        "anatomy-markdown-p0001-q0623",
+        "anatomy-markdown-p0001-q0712",
+        "anatomy-markdown-p0001-q0830",
+        "anatomy-markdown-p0001-q0548",
+        "anatomy-markdown-p0001-q0713",
+        "anatomy-markdown-p0001-q0549",
+        "anatomy-markdown-p0001-q0831",
+        "anatomy-markdown-p0001-q0550",
+        "anatomy-markdown-p0001-q0624",
+        "anatomy-markdown-p0001-q0832",
+        "anatomy-markdown-p0001-q0551",
+        "anatomy-markdown-p0001-q0625",
+        "anatomy-markdown-p0001-q0764",
+        "anatomy-markdown-p0001-q0552",
+        "anatomy-markdown-p0001-q0626",
+        "anatomy-markdown-p0001-q0714",
+        "anatomy-markdown-p0001-q0553",
+        "anatomy-markdown-p0001-q0833",
+        "anatomy-markdown-p0001-q0554",
+        "anatomy-markdown-p0001-q0627",
+        "anatomy-markdown-p0001-q0765",
+        "anatomy-markdown-p0001-q0628",
+        "anatomy-markdown-p0001-q0715",
+        "anatomy-markdown-p0001-q0766",
+        "anatomy-markdown-p0001-q0555",
+        "anatomy-markdown-p0001-q0448",
+        "anatomy-markdown-p0001-q0556",
+        "anatomy-markdown-p0001-q0629",
+        "anatomy-markdown-p0001-q0716",
+        "anatomy-markdown-p0001-q0557",
+        "anatomy-markdown-p0001-q0717",
+        "anatomy-markdown-p0001-q0558",
+        "anatomy-markdown-p0001-q0630",
+        "anatomy-markdown-p0001-q0718"
+      ]
+    },
+    {
+      "id": "review-batch-007",
+      "subject": "Anatomy",
+      "positions": [
+        301,
+        350
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "none": 50
+      },
+      "uncovered": [
+        "anatomy-markdown-p0001-q0767",
+        "anatomy-markdown-p0001-q0559",
+        "anatomy-markdown-p0001-q0449",
+        "anatomy-markdown-p0001-q0719",
+        "anatomy-markdown-p0001-q0450",
+        "anatomy-markdown-p0001-q0720",
+        "anatomy-markdown-p0001-q0768",
+        "anatomy-markdown-p0001-q0631",
+        "anatomy-markdown-p0001-q0721",
+        "anatomy-markdown-p0001-q0560",
+        "anatomy-markdown-p0001-q0769",
+        "anatomy-markdown-p0001-q0451",
+        "anatomy-markdown-p0001-q0722",
+        "anatomy-markdown-p0001-q0452",
+        "anatomy-markdown-p0001-q0561",
+        "anatomy-markdown-p0001-q0723",
+        "anatomy-markdown-p0001-q0562",
+        "anatomy-markdown-p0001-q0632",
+        "anatomy-markdown-p0001-q0724",
+        "anatomy-markdown-p0001-q0563",
+        "anatomy-markdown-p0001-q0725",
+        "anatomy-markdown-p0001-q0770",
+        "anatomy-markdown-p0001-q0453",
+        "anatomy-markdown-p0001-q0633",
+        "anatomy-markdown-p0001-q0771",
+        "anatomy-markdown-p0001-q0564",
+        "anatomy-markdown-p0001-q0634",
+        "anatomy-markdown-p0001-q0565",
+        "anatomy-markdown-p0001-q0635",
+        "anatomy-markdown-p0001-q0726",
+        "anatomy-markdown-p0001-q0566",
+        "anatomy-markdown-p0001-q0772",
+        "anatomy-markdown-p0001-q0567",
+        "anatomy-markdown-p0001-q0454",
+        "anatomy-markdown-p0001-q0568",
+        "anatomy-markdown-p0001-q0636",
+        "anatomy-markdown-p0001-q0773",
+        "anatomy-markdown-p0001-q0569",
+        "anatomy-markdown-p0001-q0637",
+        "anatomy-markdown-p0001-q0570",
+        "anatomy-markdown-p0001-q0774",
+        "anatomy-markdown-p0001-q0638",
+        "anatomy-markdown-p0001-q0639",
+        "anatomy-markdown-p0001-q0727",
+        "anatomy-markdown-p0001-q0640",
+        "anatomy-markdown-p0001-q0775",
+        "anatomy-markdown-p0001-q0571",
+        "anatomy-markdown-p0001-q0641",
+        "anatomy-markdown-p0001-q0776",
+        "anatomy-markdown-p0001-q0572"
+      ]
+    },
+    {
+      "id": "review-batch-008",
+      "subject": "Anatomy",
+      "positions": [
+        351,
+        400
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "none": 50
+      },
+      "uncovered": [
+        "anatomy-markdown-p0001-q0777",
+        "anatomy-markdown-p0001-q0573",
+        "anatomy-markdown-p0001-q0642",
+        "anatomy-markdown-p0001-q0728",
+        "anatomy-markdown-p0001-q0643",
+        "anatomy-markdown-p0001-q0644",
+        "anatomy-markdown-p0001-q0645",
+        "anatomy-markdown-p0001-q0646",
+        "anatomy-markdown-p0001-q0647",
+        "anatomy-markdown-p0001-q0729",
+        "anatomy-markdown-p0001-q0574",
+        "anatomy-markdown-p0001-q0778",
+        "anatomy-markdown-p0001-q0575",
+        "anatomy-markdown-p0001-q0730",
+        "anatomy-markdown-p0001-q0648",
+        "anatomy-markdown-p0001-q0731",
+        "anatomy-markdown-p0001-q0649",
+        "anatomy-markdown-p0001-q0779",
+        "anatomy-markdown-p0001-q0576",
+        "anatomy-markdown-p0001-q0650",
+        "anatomy-markdown-p0001-q0577",
+        "anatomy-markdown-p0001-q0651",
+        "anatomy-markdown-p0001-q0732",
+        "anatomy-markdown-p0001-q0780",
+        "anatomy-markdown-p0001-q0578",
+        "anatomy-markdown-p0001-q0781",
+        "anatomy-markdown-p0001-q0733",
+        "anatomy-markdown-p0001-q0455",
+        "anatomy-markdown-p0001-q0782",
+        "anatomy-markdown-p0001-q0579",
+        "anatomy-markdown-p0001-q0652",
+        "anatomy-markdown-p0001-q0734",
+        "anatomy-markdown-p0001-q0456",
+        "anatomy-markdown-p0001-q0653",
+        "anatomy-markdown-p0001-q0735",
+        "anatomy-markdown-p0001-q0580",
+        "anatomy-markdown-p0001-q0654",
+        "anatomy-markdown-p0001-q0736",
+        "anatomy-markdown-p0001-q0783",
+        "anatomy-markdown-p0001-q0581",
+        "anatomy-markdown-p0001-q0655",
+        "anatomy-markdown-p0001-q0457",
+        "anatomy-markdown-p0001-q0582",
+        "anatomy-markdown-p0001-q0656",
+        "anatomy-markdown-p0001-q0583",
+        "anatomy-markdown-p0001-q0657",
+        "anatomy-markdown-p0001-q0737",
+        "anatomy-markdown-p0001-q0584",
+        "anatomy-markdown-p0001-q0658",
+        "anatomy-markdown-p0001-q0585"
+      ]
+    },
+    {
+      "id": "review-batch-009",
+      "subject": "Anatomy",
+      "positions": [
+        401,
+        450
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "none": 23,
+        "mechanical_audit": 6,
+        "memory_aid_source": 21
+      },
+      "uncovered": [
+        "anatomy-markdown-p0001-q0659",
+        "anatomy-markdown-p0001-q0738",
+        "anatomy-markdown-p0001-q0458",
+        "anatomy-markdown-p0001-q0586",
+        "anatomy-markdown-p0001-q0660",
+        "anatomy-markdown-p0001-q0459",
+        "anatomy-markdown-p0001-q0460",
+        "anatomy-markdown-p0001-q0587",
+        "anatomy-markdown-p0001-q0784",
+        "anatomy-markdown-p0001-q0661",
+        "anatomy-markdown-p0001-q0461",
+        "anatomy-markdown-p0001-q0462",
+        "anatomy-markdown-p0001-q0588",
+        "anatomy-markdown-p0001-q0662",
+        "anatomy-markdown-p0001-q0739",
+        "anatomy-markdown-p0001-q0589",
+        "anatomy-markdown-p0001-q0590",
+        "anatomy-markdown-p0001-q0785",
+        "anatomy-markdown-p0001-q0591",
+        "anatomy-markdown-p0001-q0663",
+        "anatomy-markdown-p0001-q0786",
+        "anatomy-markdown-p0001-q0592",
+        "anatomy-markdown-p0001-q0593"
+      ]
+    },
+    {
+      "id": "review-batch-010",
+      "subject": "Anatomy",
+      "positions": [
+        451,
+        500
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 8,
+        "memory_aid_source": 42
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-011",
+      "subject": "Anatomy",
+      "positions": [
+        501,
+        550
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "memory_aid_source": 41,
+        "mechanical_audit": 9
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-012",
+      "subject": "Anatomy",
+      "positions": [
+        551,
+        600
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "memory_aid_source": 42,
+        "mechanical_audit": 8
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-013",
+      "subject": "Anatomy",
+      "positions": [
+        601,
+        650
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "memory_aid_source": 43,
+        "mechanical_audit": 7
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-014",
+      "subject": "Anatomy",
+      "positions": [
+        651,
+        700
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "memory_aid_source": 36,
+        "mechanical_audit": 14
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-015",
+      "subject": "Anatomy",
+      "positions": [
+        701,
+        750
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "memory_aid_source": 40,
+        "mechanical_audit": 10
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-016",
+      "subject": "Anatomy",
+      "positions": [
+        751,
+        800
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "memory_aid_source": 41,
+        "mechanical_audit": 9
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-017",
+      "subject": "Anatomy",
+      "positions": [
+        801,
+        850
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 7,
+        "memory_aid_source": 35,
+        "external_finding": 8
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-018",
+      "subject": "Anatomy",
+      "positions": [
+        851,
+        900
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "external_finding": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-019",
+      "subject": "Anatomy",
+      "positions": [
+        901,
+        950
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "external_finding": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-020",
+      "subject": "Anatomy",
+      "positions": [
+        951,
+        1000
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "external_finding": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-021",
+      "subject": "Anatomy",
+      "positions": [
+        1001,
+        1050
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "external_finding": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-022",
+      "subject": "Anatomy",
+      "positions": [
+        1051,
+        1100
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "external_finding": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-023",
+      "subject": "Anatomy",
+      "positions": [
+        1101,
+        1150
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "external_finding": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-024",
+      "subject": "Anatomy",
+      "positions": [
+        1151,
+        1200
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "external_finding": 22,
+        "mechanical_audit": 28
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-025",
+      "subject": "Anatomy",
+      "positions": [
+        1201,
+        1250
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-026",
+      "subject": "Anatomy",
+      "positions": [
+        1251,
+        1300
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-027",
+      "subject": "Anatomy",
+      "positions": [
+        1301,
+        1350
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-028",
+      "subject": "Anatomy",
+      "positions": [
+        1351,
+        1400
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-029",
+      "subject": "Anatomy",
+      "positions": [
+        1401,
+        1450
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-030",
+      "subject": "Anatomy",
+      "positions": [
+        1451,
+        1500
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-031",
+      "subject": "Anatomy",
+      "positions": [
+        1501,
+        1550
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-032",
+      "subject": "Anatomy",
+      "positions": [
+        1551,
+        1600
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-033",
+      "subject": "Anatomy",
+      "positions": [
+        1601,
+        1650
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-034",
+      "subject": "Anatomy",
+      "positions": [
+        1651,
+        1700
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-035",
+      "subject": "Anatomy",
+      "positions": [
+        1701,
+        1750
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-036",
+      "subject": "Anatomy",
+      "positions": [
+        1751,
+        1800
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-037",
+      "subject": "Anatomy",
+      "positions": [
+        1801,
+        1850
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-038",
+      "subject": "Anatomy",
+      "positions": [
+        1851,
+        1900
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-039",
+      "subject": "Anatomy",
+      "positions": [
+        1901,
+        1950
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-040",
+      "subject": "Anatomy",
+      "positions": [
+        1951,
+        2000
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-041",
+      "subject": "Anatomy",
+      "positions": [
+        2001,
+        2050
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-042",
+      "subject": "Anatomy",
+      "positions": [
+        2051,
+        2100
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-043",
+      "subject": "Anatomy",
+      "positions": [
+        2101,
+        2150
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-044",
+      "subject": "Anatomy",
+      "positions": [
+        2151,
+        2200
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-045",
+      "subject": "Anatomy",
+      "positions": [
+        2201,
+        2250
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-046",
+      "subject": "Anatomy",
+      "positions": [
+        2251,
+        2300
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-047",
+      "subject": "Anatomy",
+      "positions": [
+        2301,
+        2350
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-048",
+      "subject": "Anatomy",
+      "positions": [
+        2351,
+        2400
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-049",
+      "subject": "Anatomy",
+      "positions": [
+        2401,
+        2450
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-050",
+      "subject": "Anatomy",
+      "positions": [
+        2451,
+        2500
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-051",
+      "subject": "Anatomy",
+      "positions": [
+        2501,
+        2550
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-052",
+      "subject": "Anatomy",
+      "positions": [
+        2551,
+        2600
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-053",
+      "subject": "Anatomy",
+      "positions": [
+        2601,
+        2650
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-054",
+      "subject": "Anatomy",
+      "positions": [
+        2651,
+        2700
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-055",
+      "subject": "Anatomy",
+      "positions": [
+        2701,
+        2750
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-056",
+      "subject": "Anatomy",
+      "positions": [
+        2751,
+        2800
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-057",
+      "subject": "Anatomy",
+      "positions": [
+        2801,
+        2850
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 31,
+        "none": 19
+      },
+      "uncovered": [
+        "physiology-markdown-p0001-q0162",
+        "physiology-markdown-p0001-q0180",
+        "physiology-markdown-p0001-q0122",
+        "physiology-markdown-p0001-q0123",
+        "physiology-markdown-p0001-q0163",
+        "physiology-markdown-p0001-q0198",
+        "physiology-markdown-p0001-q0124",
+        "physiology-markdown-p0001-q0164",
+        "physiology-markdown-p0001-q0140",
+        "physiology-markdown-p0001-q0165",
+        "physiology-markdown-p0001-q0181",
+        "physiology-markdown-p0001-q0125",
+        "physiology-markdown-p0001-q0106",
+        "physiology-markdown-p0001-q0141",
+        "physiology-markdown-p0001-q0107",
+        "physiology-markdown-p0001-q0126",
+        "physiology-markdown-p0001-q0142",
+        "physiology-markdown-p0001-q0182",
+        "physiology-markdown-p0001-q0199"
+      ]
+    },
+    {
+      "id": "review-batch-058",
+      "subject": "Physiology",
+      "positions": [
+        2851,
+        2900
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "none": 50
+      },
+      "uncovered": [
+        "physiology-markdown-p0001-q0127",
+        "physiology-markdown-p0001-q0166",
+        "physiology-markdown-p0001-q0108",
+        "physiology-markdown-p0001-q0167",
+        "physiology-markdown-p0001-q0128",
+        "physiology-markdown-p0001-q0143",
+        "physiology-markdown-p0001-q0183",
+        "physiology-markdown-p0001-q0109",
+        "physiology-markdown-p0001-q0144",
+        "physiology-markdown-p0001-q0184",
+        "physiology-markdown-p0001-q0200",
+        "physiology-markdown-p0001-q0201",
+        "physiology-markdown-p0001-q0145",
+        "physiology-markdown-p0001-q0168",
+        "physiology-markdown-p0001-q0110",
+        "physiology-markdown-p0001-q0129",
+        "physiology-markdown-p0001-q0169",
+        "physiology-markdown-p0001-q0111",
+        "physiology-markdown-p0001-q0146",
+        "physiology-markdown-p0001-q0170",
+        "physiology-markdown-p0001-q0202",
+        "physiology-markdown-p0001-q0147",
+        "physiology-markdown-p0001-q0203",
+        "physiology-markdown-p0001-q0148",
+        "physiology-markdown-p0001-q0171",
+        "physiology-markdown-p0001-q0130",
+        "physiology-markdown-p0001-q0149",
+        "physiology-markdown-p0001-q0204",
+        "physiology-markdown-p0001-q0112",
+        "physiology-markdown-p0001-q0205",
+        "physiology-markdown-p0001-q0150",
+        "physiology-markdown-p0001-q0151",
+        "physiology-markdown-p0001-q0185",
+        "physiology-markdown-p0001-q0186",
+        "physiology-markdown-p0001-q0113",
+        "physiology-markdown-p0001-q0152",
+        "physiology-markdown-p0001-q0131",
+        "physiology-markdown-p0001-q0153",
+        "physiology-markdown-p0001-q0132",
+        "physiology-markdown-p0001-q0172",
+        "physiology-markdown-p0001-q0133",
+        "physiology-markdown-p0001-q0154",
+        "physiology-markdown-p0001-q0206",
+        "physiology-markdown-p0001-q0155",
+        "physiology-markdown-p0001-q0207",
+        "physiology-markdown-p0001-q0134",
+        "physiology-markdown-p0001-q0156",
+        "physiology-markdown-p0001-q0157",
+        "physiology-markdown-p0001-q0187",
+        "physiology-markdown-p0001-q0188"
+      ]
+    },
+    {
+      "id": "review-batch-059",
+      "subject": "Physiology",
+      "positions": [
+        2901,
+        2950
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "none": 36,
+        "mechanical_audit": 14
+      },
+      "uncovered": [
+        "physiology-markdown-p0001-q0158",
+        "physiology-markdown-p0001-q0135",
+        "physiology-markdown-p0001-q0189",
+        "physiology-markdown-p0001-q0159",
+        "physiology-markdown-p0001-q0190",
+        "physiology-markdown-p0001-q0208",
+        "physiology-markdown-p0001-q0114",
+        "physiology-markdown-p0001-q0160",
+        "physiology-markdown-p0001-q0191",
+        "physiology-markdown-p0001-q0209",
+        "physiology-markdown-p0001-q0173",
+        "physiology-markdown-p0001-q0210",
+        "physiology-markdown-p0001-q0136",
+        "physiology-markdown-p0001-q0115",
+        "physiology-markdown-p0001-q0116",
+        "physiology-markdown-p0001-q0174",
+        "physiology-markdown-p0001-q0117",
+        "physiology-markdown-p0001-q0192",
+        "physiology-markdown-p0001-q0175",
+        "physiology-markdown-p0001-q0193",
+        "physiology-markdown-p0001-q0194",
+        "physiology-markdown-p0001-q0118",
+        "physiology-markdown-p0001-q0119",
+        "physiology-markdown-p0001-q0176",
+        "physiology-markdown-p0001-q0120",
+        "physiology-markdown-p0001-q0177",
+        "physiology-markdown-p0001-q0195",
+        "physiology-markdown-p0001-q0137",
+        "physiology-markdown-p0001-q0196",
+        "physiology-markdown-p0001-q0121",
+        "physiology-markdown-p0001-q0138",
+        "physiology-markdown-p0001-q0178",
+        "physiology-markdown-p0001-q0161",
+        "physiology-markdown-p0001-q0179",
+        "physiology-markdown-p0001-q0139",
+        "physiology-markdown-p0001-q0197"
+      ]
+    },
+    {
+      "id": "review-batch-060",
+      "subject": "Physiology",
+      "positions": [
+        2951,
+        3000
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-061",
+      "subject": "Physiology",
+      "positions": [
+        3001,
+        3050
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-062",
+      "subject": "Physiology",
+      "positions": [
+        3051,
+        3100
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-063",
+      "subject": "Physiology",
+      "positions": [
+        3101,
+        3150
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-064",
+      "subject": "Physiology",
+      "positions": [
+        3151,
+        3200
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-065",
+      "subject": "Physiology",
+      "positions": [
+        3201,
+        3250
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-066",
+      "subject": "Physiology",
+      "positions": [
+        3251,
+        3300
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-067",
+      "subject": "Physiology",
+      "positions": [
+        3301,
+        3350
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-068",
+      "subject": "Physiology",
+      "positions": [
+        3351,
+        3400
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-069",
+      "subject": "Physiology",
+      "positions": [
+        3401,
+        3450
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-070",
+      "subject": "Physiology",
+      "positions": [
+        3451,
+        3500
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-071",
+      "subject": "Physiology",
+      "positions": [
+        3501,
+        3550
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-072",
+      "subject": "Physiology",
+      "positions": [
+        3551,
+        3600
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-073",
+      "subject": "Physiology",
+      "positions": [
+        3601,
+        3650
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-074",
+      "subject": "Physiology",
+      "positions": [
+        3651,
+        3700
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-075",
+      "subject": "Physiology",
+      "positions": [
+        3701,
+        3750
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-076",
+      "subject": "Physiology",
+      "positions": [
+        3751,
+        3800
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 44,
+        "none": 6
+      },
+      "uncovered": [
+        "pharmacology-markdown-p0001-q0296",
+        "pharmacology-markdown-p0001-q0339",
+        "pharmacology-markdown-p0001-q0340",
+        "pharmacology-markdown-p0001-q0297",
+        "pharmacology-markdown-p0001-q0223",
+        "pharmacology-markdown-p0001-q0298"
+      ]
+    },
+    {
+      "id": "review-batch-077",
+      "subject": "Pharmacology",
+      "positions": [
+        3801,
+        3850
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "none": 50
+      },
+      "uncovered": [
+        "pharmacology-markdown-p0001-q0341",
+        "pharmacology-markdown-p0001-q0172",
+        "pharmacology-markdown-p0001-q0299",
+        "pharmacology-markdown-p0001-q0342",
+        "pharmacology-markdown-p0001-q0173",
+        "pharmacology-markdown-p0001-q0224",
+        "pharmacology-markdown-p0001-q0174",
+        "pharmacology-markdown-p0001-q0225",
+        "pharmacology-markdown-p0001-q0300",
+        "pharmacology-markdown-p0001-q0175",
+        "pharmacology-markdown-p0001-q0226",
+        "pharmacology-markdown-p0001-q0301",
+        "pharmacology-markdown-p0001-q0227",
+        "pharmacology-markdown-p0001-q0302",
+        "pharmacology-markdown-p0001-q0303",
+        "pharmacology-markdown-p0001-q0304",
+        "pharmacology-markdown-p0001-q0228",
+        "pharmacology-markdown-p0001-q0305",
+        "pharmacology-markdown-p0001-q0229",
+        "pharmacology-markdown-p0001-q0230",
+        "pharmacology-markdown-p0001-q0306",
+        "pharmacology-markdown-p0001-q0231",
+        "pharmacology-markdown-p0001-q0176",
+        "pharmacology-markdown-p0001-q0177",
+        "pharmacology-markdown-p0001-q0232",
+        "pharmacology-markdown-p0001-q0307",
+        "pharmacology-markdown-p0001-q0178",
+        "pharmacology-markdown-p0001-q0233",
+        "pharmacology-markdown-p0001-q0308",
+        "pharmacology-markdown-p0001-q0179",
+        "pharmacology-markdown-p0001-q0309",
+        "pharmacology-markdown-p0001-q0180",
+        "pharmacology-markdown-p0001-q0234",
+        "pharmacology-markdown-p0001-q0310",
+        "pharmacology-markdown-p0001-q0181",
+        "pharmacology-markdown-p0001-q0311",
+        "pharmacology-markdown-p0001-q0235",
+        "pharmacology-markdown-p0001-q0312",
+        "pharmacology-markdown-p0001-q0236",
+        "pharmacology-markdown-p0001-q0313",
+        "pharmacology-markdown-p0001-q0182",
+        "pharmacology-markdown-p0001-q0237",
+        "pharmacology-markdown-p0001-q0183",
+        "pharmacology-markdown-p0001-q0238",
+        "pharmacology-markdown-p0001-q0239",
+        "pharmacology-markdown-p0001-q0314",
+        "pharmacology-markdown-p0001-q0184",
+        "pharmacology-markdown-p0001-q0315",
+        "pharmacology-markdown-p0001-q0240",
+        "pharmacology-markdown-p0001-q0316"
+      ]
+    },
+    {
+      "id": "review-batch-078",
+      "subject": "Pharmacology",
+      "positions": [
+        3851,
+        3900
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "none": 50
+      },
+      "uncovered": [
+        "pharmacology-markdown-p0001-q0185",
+        "pharmacology-markdown-p0001-q0241",
+        "pharmacology-markdown-p0001-q0317",
+        "pharmacology-markdown-p0001-q0242",
+        "pharmacology-markdown-p0001-q0186",
+        "pharmacology-markdown-p0001-q0187",
+        "pharmacology-markdown-p0001-q0318",
+        "pharmacology-markdown-p0001-q0243",
+        "pharmacology-markdown-p0001-q0188",
+        "pharmacology-markdown-p0001-q0244",
+        "pharmacology-markdown-p0001-q0319",
+        "pharmacology-markdown-p0001-q0189",
+        "pharmacology-markdown-p0001-q0245",
+        "pharmacology-markdown-p0001-q0246",
+        "pharmacology-markdown-p0001-q0320",
+        "pharmacology-markdown-p0001-q0190",
+        "pharmacology-markdown-p0001-q0247",
+        "pharmacology-markdown-p0001-q0321",
+        "pharmacology-markdown-p0001-q0248",
+        "pharmacology-markdown-p0001-q0249",
+        "pharmacology-markdown-p0001-q0322",
+        "pharmacology-markdown-p0001-q0191",
+        "pharmacology-markdown-p0001-q0250",
+        "pharmacology-markdown-p0001-q0251",
+        "pharmacology-markdown-p0001-q0252",
+        "pharmacology-markdown-p0001-q0323",
+        "pharmacology-markdown-p0001-q0253",
+        "pharmacology-markdown-p0001-q0324",
+        "pharmacology-markdown-p0001-q0254",
+        "pharmacology-markdown-p0001-q0255",
+        "pharmacology-markdown-p0001-q0325",
+        "pharmacology-markdown-p0001-q0256",
+        "pharmacology-markdown-p0001-q0257",
+        "pharmacology-markdown-p0001-q0192",
+        "pharmacology-markdown-p0001-q0258",
+        "pharmacology-markdown-p0001-q0259",
+        "pharmacology-markdown-p0001-q0326",
+        "pharmacology-markdown-p0001-q0327",
+        "pharmacology-markdown-p0001-q0193",
+        "pharmacology-markdown-p0001-q0260",
+        "pharmacology-markdown-p0001-q0194",
+        "pharmacology-markdown-p0001-q0261",
+        "pharmacology-markdown-p0001-q0262",
+        "pharmacology-markdown-p0001-q0328",
+        "pharmacology-markdown-p0001-q0195",
+        "pharmacology-markdown-p0001-q0263",
+        "pharmacology-markdown-p0001-q0329",
+        "pharmacology-markdown-p0001-q0330",
+        "pharmacology-markdown-p0001-q0264",
+        "pharmacology-markdown-p0001-q0331"
+      ]
+    },
+    {
+      "id": "review-batch-079",
+      "subject": "Pharmacology",
+      "positions": [
+        3901,
+        3950
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "none": 50
+      },
+      "uncovered": [
+        "pharmacology-markdown-p0001-q0265",
+        "pharmacology-markdown-p0001-q0332",
+        "pharmacology-markdown-p0001-q0196",
+        "pharmacology-markdown-p0001-q0266",
+        "pharmacology-markdown-p0001-q0333",
+        "pharmacology-markdown-p0001-q0334",
+        "pharmacology-markdown-p0001-q0197",
+        "pharmacology-markdown-p0001-q0267",
+        "pharmacology-markdown-p0001-q0268",
+        "pharmacology-markdown-p0001-q0335",
+        "pharmacology-markdown-p0001-q0198",
+        "pharmacology-markdown-p0001-q0269",
+        "pharmacology-markdown-p0001-q0199",
+        "pharmacology-markdown-p0001-q0270",
+        "pharmacology-markdown-p0001-q0271",
+        "pharmacology-markdown-p0001-q0336",
+        "pharmacology-markdown-p0001-q0200",
+        "pharmacology-markdown-p0001-q0337",
+        "pharmacology-markdown-p0001-q0201",
+        "pharmacology-markdown-p0001-q0272",
+        "pharmacology-markdown-p0001-q0273",
+        "pharmacology-markdown-p0001-q0338",
+        "pharmacology-markdown-p0001-q0274",
+        "pharmacology-markdown-p0001-q0202",
+        "pharmacology-markdown-p0001-q0275",
+        "pharmacology-markdown-p0001-q0276",
+        "pharmacology-markdown-p0001-q0203",
+        "pharmacology-markdown-p0001-q0204",
+        "pharmacology-markdown-p0001-q0277",
+        "pharmacology-markdown-p0001-q0205",
+        "pharmacology-markdown-p0001-q0206",
+        "pharmacology-markdown-p0001-q0207",
+        "pharmacology-markdown-p0001-q0278",
+        "pharmacology-markdown-p0001-q0279",
+        "pharmacology-markdown-p0001-q0208",
+        "pharmacology-markdown-p0001-q0280",
+        "pharmacology-markdown-p0001-q0209",
+        "pharmacology-markdown-p0001-q0210",
+        "pharmacology-markdown-p0001-q0211",
+        "pharmacology-markdown-p0001-q0281",
+        "pharmacology-markdown-p0001-q0212",
+        "pharmacology-markdown-p0001-q0213",
+        "pharmacology-markdown-p0001-q0282",
+        "pharmacology-markdown-p0001-q0283",
+        "pharmacology-markdown-p0001-q0214",
+        "pharmacology-markdown-p0001-q0284",
+        "pharmacology-markdown-p0001-q0215",
+        "pharmacology-markdown-p0001-q0285",
+        "pharmacology-markdown-p0001-q0286",
+        "pharmacology-markdown-p0001-q0216"
+      ]
+    },
+    {
+      "id": "review-batch-080",
+      "subject": "Pharmacology",
+      "positions": [
+        3951,
+        4000
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "none": 15,
+        "mechanical_audit": 35
+      },
+      "uncovered": [
+        "pharmacology-markdown-p0001-q0287",
+        "pharmacology-markdown-p0001-q0288",
+        "pharmacology-markdown-p0001-q0217",
+        "pharmacology-markdown-p0001-q0218",
+        "pharmacology-markdown-p0001-q0219",
+        "pharmacology-markdown-p0001-q0289",
+        "pharmacology-markdown-p0001-q0290",
+        "pharmacology-markdown-p0001-q0291",
+        "pharmacology-markdown-p0001-q0220",
+        "pharmacology-markdown-p0001-q0292",
+        "pharmacology-markdown-p0001-q0221",
+        "pharmacology-markdown-p0001-q0293",
+        "pharmacology-markdown-p0001-q0222",
+        "pharmacology-markdown-p0001-q0294",
+        "pharmacology-markdown-p0001-q0295"
+      ]
+    },
+    {
+      "id": "review-batch-081",
+      "subject": "Pharmacology",
+      "positions": [
+        4001,
+        4050
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-082",
+      "subject": "Pharmacology",
+      "positions": [
+        4051,
+        4100
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-083",
+      "subject": "Pharmacology",
+      "positions": [
+        4101,
+        4150
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-084",
+      "subject": "Pharmacology",
+      "positions": [
+        4151,
+        4200
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-085",
+      "subject": "Pharmacology",
+      "positions": [
+        4201,
+        4250
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-086",
+      "subject": "Pharmacology",
+      "positions": [
+        4251,
+        4300
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-087",
+      "subject": "Pharmacology",
+      "positions": [
+        4301,
+        4350
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-088",
+      "subject": "Pharmacology",
+      "positions": [
+        4351,
+        4400
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-089",
+      "subject": "Pharmacology",
+      "positions": [
+        4401,
+        4450
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-090",
+      "subject": "Pharmacology",
+      "positions": [
+        4451,
+        4500
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 18,
+        "none": 32
+      },
+      "uncovered": [
+        "microbiology-markdown-p0001-q0058",
+        "microbiology-markdown-p0001-q0059",
+        "microbiology-markdown-p0001-q0035",
+        "microbiology-markdown-p0001-q0060",
+        "microbiology-markdown-p0001-q0036",
+        "microbiology-markdown-p0001-q0061",
+        "microbiology-markdown-p0001-q0037",
+        "microbiology-markdown-p0001-q0062",
+        "microbiology-markdown-p0001-q0063",
+        "microbiology-markdown-p0001-q0038",
+        "microbiology-markdown-p0001-q0039",
+        "microbiology-markdown-p0001-q0040",
+        "microbiology-markdown-p0001-q0064",
+        "microbiology-markdown-p0001-q0041",
+        "microbiology-markdown-p0001-q0065",
+        "microbiology-markdown-p0001-q0066",
+        "microbiology-markdown-p0001-q0042",
+        "microbiology-markdown-p0001-q0043",
+        "microbiology-markdown-p0001-q0044",
+        "microbiology-markdown-p0001-q0067",
+        "microbiology-markdown-p0001-q0045",
+        "microbiology-markdown-p0001-q0046",
+        "microbiology-markdown-p0001-q0068",
+        "microbiology-markdown-p0001-q0047",
+        "microbiology-markdown-p0001-q0048",
+        "microbiology-markdown-p0001-q0049",
+        "microbiology-markdown-p0001-q0050",
+        "microbiology-markdown-p0001-q0051",
+        "microbiology-markdown-p0001-q0052",
+        "microbiology-markdown-p0001-q0053",
+        "microbiology-markdown-p0001-q0054",
+        "microbiology-markdown-p0001-q0055"
+      ]
+    },
+    {
+      "id": "review-batch-091",
+      "subject": "Microbiology",
+      "positions": [
+        4501,
+        4550
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "none": 2,
+        "mechanical_audit": 48
+      },
+      "uncovered": [
+        "microbiology-markdown-p0001-q0056",
+        "microbiology-markdown-p0001-q0057"
+      ]
+    },
+    {
+      "id": "review-batch-092",
+      "subject": "Microbiology",
+      "positions": [
+        4551,
+        4600
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-093",
+      "subject": "Microbiology",
+      "positions": [
+        4601,
+        4650
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-094",
+      "subject": "Microbiology",
+      "positions": [
+        4651,
+        4700
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-095",
+      "subject": "Microbiology",
+      "positions": [
+        4701,
+        4750
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-096",
+      "subject": "Microbiology",
+      "positions": [
+        4751,
+        4800
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 43,
+        "none": 7
+      },
+      "uncovered": [
+        "pathology-markdown-p0001-q0064",
+        "pathology-markdown-p0001-q0065",
+        "pathology-markdown-p0001-q0066",
+        "pathology-markdown-p0001-q0039",
+        "pathology-markdown-p0001-q0067",
+        "pathology-markdown-p0001-q0040",
+        "pathology-markdown-p0001-q0041"
+      ]
+    },
+    {
+      "id": "review-batch-097",
+      "subject": "Pathology",
+      "positions": [
+        4801,
+        4850
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "none": 31,
+        "mechanical_audit": 19
+      },
+      "uncovered": [
+        "pathology-markdown-p0001-q0068",
+        "pathology-markdown-p0001-q0069",
+        "pathology-markdown-p0001-q0042",
+        "pathology-markdown-p0001-q0070",
+        "pathology-markdown-p0001-q0071",
+        "pathology-markdown-p0001-q0043",
+        "pathology-markdown-p0001-q0044",
+        "pathology-markdown-p0001-q0072",
+        "pathology-markdown-p0001-q0045",
+        "pathology-markdown-p0001-q0073",
+        "pathology-markdown-p0001-q0074",
+        "pathology-markdown-p0001-q0046",
+        "pathology-markdown-p0001-q0075",
+        "pathology-markdown-p0001-q0047",
+        "pathology-markdown-p0001-q0048",
+        "pathology-markdown-p0001-q0076",
+        "pathology-markdown-p0001-q0049",
+        "pathology-markdown-p0001-q0050",
+        "pathology-markdown-p0001-q0051",
+        "pathology-markdown-p0001-q0052",
+        "pathology-markdown-p0001-q0053",
+        "pathology-markdown-p0001-q0054",
+        "pathology-markdown-p0001-q0055",
+        "pathology-markdown-p0001-q0056",
+        "pathology-markdown-p0001-q0057",
+        "pathology-markdown-p0001-q0058",
+        "pathology-markdown-p0001-q0059",
+        "pathology-markdown-p0001-q0060",
+        "pathology-markdown-p0001-q0061",
+        "pathology-markdown-p0001-q0062",
+        "pathology-markdown-p0001-q0063"
+      ]
+    },
+    {
+      "id": "review-batch-098",
+      "subject": "Pathology",
+      "positions": [
+        4851,
+        4900
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-099",
+      "subject": "Pathology",
+      "positions": [
+        4901,
+        4950
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-100",
+      "subject": "Pathology",
+      "positions": [
+        4951,
+        5000
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-101",
+      "subject": "Pathology",
+      "positions": [
+        5001,
+        5050
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-102",
+      "subject": "Pathology",
+      "positions": [
+        5051,
+        5100
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 38,
+        "none": 12
+      },
+      "uncovered": [
+        "evidence-based-medicine-markdown-p0001-q0014",
+        "evidence-based-medicine-markdown-p0001-q0015",
+        "evidence-based-medicine-markdown-p0001-q0016",
+        "evidence-based-medicine-markdown-p0001-q0017",
+        "evidence-based-medicine-markdown-p0001-q0018",
+        "evidence-based-medicine-markdown-p0001-q0019",
+        "evidence-based-medicine-markdown-p0001-q0020",
+        "evidence-based-medicine-markdown-p0001-q0021",
+        "evidence-based-medicine-markdown-p0001-q0022",
+        "evidence-based-medicine-markdown-p0001-q0023",
+        "evidence-based-medicine-markdown-p0001-q0024",
+        "evidence-based-medicine-markdown-p0001-q0025"
+      ]
+    },
+    {
+      "id": "review-batch-103",
+      "subject": "Evidence-based medicine",
+      "positions": [
+        5101,
+        5150
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "none": 1,
+        "mechanical_audit": 49
+      },
+      "uncovered": [
+        "evidence-based-medicine-markdown-p0001-q0026"
+      ]
+    },
+    {
+      "id": "review-batch-104",
+      "subject": "Evidence-based medicine",
+      "positions": [
+        5151,
+        5200
+      ],
+      "recordCount": 50,
+      "tiers": {
+        "mechanical_audit": 50
+      },
+      "uncovered": []
+    },
+    {
+      "id": "review-batch-105",
+      "subject": "Evidence-based medicine",
+      "positions": [
+        5201,
+        5233
+      ],
+      "recordCount": 33,
+      "tiers": {
+        "mechanical_audit": 33
+      },
+      "uncovered": []
+    }
+  ]
+}
