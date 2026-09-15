@@ -16,13 +16,26 @@ Meridian Revision is a private, offline-first MRCEM Primary study workspace. It 
 
 ## Open the application
 
-Run the project from the project directory:
+### Daily study (offline after first load)
 
 ```bash
-pnpm dev
+pnpm build
+pnpm preview
 ```
 
-The workspace runs in a local browser. Progress remains in that browser unless you export it from **Local data**.
+Open the preview URL, wait for the bank to load, then install the app or keep the tab. After that, Meridian works without internet: the question bank, interface, and your progress stay on this device.
+
+- **Phone or tablet:** browser menu → Add to Home Screen / Install app
+- **iPhone:** Share → Add to Home Screen
+- **Computer:** Install app from the header, or Local data
+
+`pnpm dev` is for development only and does not register the offline cache.
+
+### Copyable standalone folder
+
+`pnpm build` writes a complete app in `dist/`. Copy that folder to another computer and serve it with any static server (`pnpm preview`, `python3 -m http.server`, etc.). Do not open `index.html` as a `file://` page; browsers block the local question bank that way.
+
+`pnpm build:standalone` bakes the question bank into the JavaScript bundle so the first load does not fetch `ocr-questions.json`. Use that when you want a single self-contained `dist/` folder.
 
 ## Extract and review a scanned source PDF
 

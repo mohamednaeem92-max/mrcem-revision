@@ -1,8 +1,9 @@
 /**
  * Clinical Field Notes style: source-aware OCR draft bank.
- * Questions are loaded from /ocr-questions.json at runtime to avoid
- * bloating the JS bundle. The service worker caches the JSON for offline use.
+ * Questions are loaded from /ocr-questions.json at runtime (PWA cache),
+ * or inlined in standalone builds so the app works with no extra fetch.
  */
+import { inlineQuestionBank } from "virtual:question-bank";
 import type { MemoryAid } from "./questionBank";
 
 export type OcrDraftStatus = "ocr_draft" | "needs_review" | "needs_image";
@@ -73,6 +74,10 @@ export function clearOcrCache(): void {
 
 export async function loadOcrDraftQuestions(): Promise<OcrDraftQuestion[]> {
   if (_cachedQuestions) return _cachedQuestions;
+  if (Array.isArray(inlineQuestionBank) && inlineQuestionBank.length > 0) {
+    _cachedQuestions = inlineQuestionBank as OcrDraftQuestion[];
+    return _cachedQuestions;
+  }
   const res = await fetch(`${import.meta.env.BASE_URL}ocr-questions.json`);
   if (!res.ok) throw new Error(`Could not load the local question bank (${res.status})`);
   const parsed = (await res.json()) as OcrDraftQuestion[];
