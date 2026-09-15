@@ -14,6 +14,8 @@ import {
   buildApprovedExport,
   downloadJson,
   draftViewWithCorrections,
+  evidenceApprovalWarning,
+  loadOnlineEvidence,
   loadReviewDecisions,
   orderDraftsForReview,
   REVIEW_SUBJECT_ORDER,
@@ -22,6 +24,7 @@ import {
   type BankReviewCorrections,
   type BankReviewDecisionMap,
   type BankReviewDecisionValue,
+  type OnlineEvidenceMap,
 } from "@/lib/bankReview";
 
 const OPTION_LETTERS = ["A", "B", "C", "D", "E"];
@@ -38,12 +41,15 @@ export default function BankReview() {
   const [position, setPosition] = useState(0);
   const [edits, setEdits] = useState<BankReviewCorrections>(blankCorrections());
   const [rejectReason, setRejectReason] = useState("");
+  const [overrideReason, setOverrideReason] = useState("");
   const [notice, setNotice] = useState<string | null>(null);
+  const [evidence, setEvidence] = useState<OnlineEvidenceMap>({});
 
   useEffect(() => {
     loadOcrDraftQuestions()
       .then((loaded) => setDrafts(orderDraftsForReview(loaded)))
       .catch((err) => setLoadError(String(err?.message ?? err)));
+    loadOnlineEvidence().then(setEvidence).catch(() => undefined);
   }, []);
 
   useEffect(() => {
@@ -74,6 +80,11 @@ export default function BankReview() {
   useEffect(() => {
     setEdits(currentDecision?.corrected ?? blankCorrections());
     setRejectReason(currentDecision?.decision === "rejected" ? (currentDecision.reason ?? "") : "");
+    setOverrideReason(
+      currentDecision?.decision === "approved" && currentDecision.reason?.startsWith("Evidence override: ")
+        ? currentDecision.reason.replace("Evidence override: ", "")
+        : "",
+    );
   }, [current?.id]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const view = useMemo(
@@ -81,6 +92,8 @@ export default function BankReview() {
     [current, edits],
   );
   const blockers = useMemo(() => (view ? approvalBlockers(view) : []), [view]);
+  const currentEvidence = current ? evidence[current.id] : undefined;
+  const evidenceWarning = evidenceApprovalWarning(currentEvidence);
 
   const move = useCallback(
     (direction: 1 | -1) => {
@@ -107,6 +120,11 @@ export default function BankReview() {
       setNotice("Resolve the listed blockers before approving.");
       return;
     }
+    const warning = decision === "approved" ? evidenceApprovalWarning(currentEvidence) : null;
+    if (warning && !overrideReason.trim()) {
+      setNotice("Online evidence is not clean here. Record an override reason before approving.");
+      return;
+    }
     if (decision === "rejected" && !rejectReason.trim()) {
       setNotice("Add a short reject reason so the item can be triaged later.");
       return;
@@ -116,7 +134,7 @@ export default function BankReview() {
       [current.id]: {
         questionId: current.id,
         decision,
-        reason: decision === "rejected" ? rejectReason.trim() : undefined,
+        reason: decision === "rejected" ? rejectReason.trim() : warning ? `Evidence override: ${overrideReason.trim()}` : undefined,
         corrected: { ...edits },
         reviewedAt: new Date().toISOString(),
       },
@@ -140,6 +158,7 @@ export default function BankReview() {
     });
     setEdits(blankCorrections());
     setRejectReason("");
+    setOverrideReason("");
   }
 
   function exportApproved() {
@@ -300,6 +319,42 @@ export default function BankReview() {
                 {current.warnings.map((warning) => <li key={warning}>⚠ {warning}</li>)}
               </ul>
             )}
+            {currentEvidence ? (
+              <div className={cn("mt-3 rounded-xl p-3 text-xs leading-5", currentEvidence.verdict === "corroborated" ? "bg-[#eaf7f0] text-[#1f5c44]" : currentEvidence.verdict === "unresolved" ? "bg-[#fdeaea] text-[#9c3128]" : "bg-[#eef4ff] text-[#2c4b9c]")}>
+                <p className="font-bold uppercase tracking-[0.1em]">
+                  Online audit: {currentEvidence.verdict.replace(/_/g, " ")} · key {currentEvidence.markedKey}
+                  {currentEvidence.rank3Coverage === "partial" ? " · partial rank-3" : ""}
+                </p>
+                <p className="mt-1">{currentEvidence.keyClaim}</p>
+                <ul className="mt-1 space-y-0.5">
+                  {currentEvidence.citations.map((citation) => (
+                    <li key={citation.url}>
+                      <a className="font-semibold underline" href={citation.url} target="_blank" rel="noreferrer">
+                        {citation.authority}
+                      </a>{" "}
+                      <span className="opacity-80">(rank {citation.authorityRank}, {citation.retrievedAt})</span>
+                    </li>
+                  ))}
+                </ul>
+                {currentEvidence.reviewerNote ? <p className="mt-1 font-semibold">{currentEvidence.reviewerNote}</p> : null}
+                {currentEvidence.rank3Note ? <p className="mt-1">Rank-3 gap: {currentEvidence.rank3Note}</p> : null}
+              </div>
+            ) : (
+              <p className="mt-3 rounded-xl bg-[#f2f2ed] p-3 text-xs leading-5 text-[#7d837d]">
+                No online audit yet for this item — sign-off rests on the source page alone.
+              </p>
+            )}
+            {evidenceWarning ? (
+              <div className="mt-3 rounded-xl bg-[#fdeaea] p-3 text-xs leading-5 text-[#9c3128]">
+                <p className="font-semibold">⚠ {evidenceWarning}</p>
+                <input
+                  value={overrideReason}
+                  onChange={(event) => setOverrideReason(event.target.value)}
+                  placeholder="Override reason (required to approve)…"
+                  className="mt-2 h-9 w-full rounded-lg border border-[#e3b7b3] bg-white px-3 text-sm text-[#1f3a36] focus:border-[#b3372f] focus:outline-none"
+                />
+              </div>
+            ) : null}
 
             <label className="mt-4 block text-[11px] font-bold uppercase tracking-[0.14em] text-[#71857e]">Stem</label>
             <textarea

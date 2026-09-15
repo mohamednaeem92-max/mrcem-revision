@@ -200,3 +200,73 @@ export function downloadJson(filename: string, payload: unknown): void {
   anchor.remove();
   URL.revokeObjectURL(url);
 }
+
+/* ---- Online-source evidence (rank 2-3 audit) ---- */
+
+export type OnlineEvidenceVerdict = "corroborated" | "needs_source_confirmation" | "unresolved";
+
+export type OnlineEvidenceCitation = {
+  authorityRank: number;
+  authority: string;
+  url: string;
+  quote: string;
+  retrievedAt: string;
+};
+
+export type OnlineEvidenceRecord = {
+  id: string;
+  reviewBatch: string;
+  markedKey: string;
+  verdict: OnlineEvidenceVerdict;
+  keyClaim: string;
+  citations: OnlineEvidenceCitation[];
+  rank3Coverage: "full" | "partial";
+  rank3Note: string;
+  reviewerNote: string;
+};
+
+export type OnlineEvidenceMap = Record<string, OnlineEvidenceRecord>;
+
+const ONLINE_EVIDENCE_FILES = [
+  "review-batch-018-online-evidence.json",
+  "review-batch-019-online-evidence.json",
+  "review-batch-020-online-evidence.json",
+];
+
+let _cachedEvidence: OnlineEvidenceMap | null = null;
+
+export async function loadOnlineEvidence(): Promise<OnlineEvidenceMap> {
+  if (_cachedEvidence) return _cachedEvidence;
+  const merged: OnlineEvidenceMap = {};
+  for (const file of ONLINE_EVIDENCE_FILES) {
+    try {
+      const res = await fetch(`${import.meta.env.BASE_URL}online-evidence/${file}`);
+      if (!res.ok) continue;
+      const doc = (await res.json()) as { records?: OnlineEvidenceRecord[] };
+      for (const record of doc.records ?? []) merged[record.id] = record;
+    } catch {
+      continue;
+    }
+  }
+  _cachedEvidence = merged;
+  return merged;
+}
+
+export function clearOnlineEvidenceCache(): void {
+  _cachedEvidence = null;
+}
+
+/**
+ * Additive approval warning: external evidence never approves a record on
+ * its own, but an unresolved/partial verdict must force an explicit reason.
+ */
+export function evidenceApprovalWarning(evidence: OnlineEvidenceRecord | undefined): string | null {
+  if (!evidence) return null;
+  if (evidence.verdict === "unresolved") {
+    return `Online audit is unresolved for this item${evidence.reviewerNote ? `: ${evidence.reviewerNote}` : "."} Confirm against the source page and record a reason.`;
+  }
+  if (evidence.verdict === "needs_source_confirmation" || evidence.rank3Coverage === "partial") {
+    return `Online evidence is partial${evidence.rank3Note ? `: ${evidence.rank3Note}` : "."} Confirm against the source page before approving.`;
+  }
+  return null;
+}

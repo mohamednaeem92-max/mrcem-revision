@@ -1,0 +1,1011 @@
+{
+  "generatedAt": "2026-09-15",
+  "reviewBatch": "review-batch-020",
+  "recordCount": 50,
+  "method": "manual web verification against rank 2-3 authorities; no bank records modified",
+  "verdictCounts": {
+    "corroborated": 49,
+    "needs_source_confirmation": 1,
+    "unresolved": 0
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1582-q0055",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Homonymous hemianopia with macular sparing is least expected in frontal lesion (occipital sign).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Homonymous Hemianopsia",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK558929",
+          "quote": "Lesions that affect the occipital lobe will result in contralateral hemianopia with macular sparing",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Frontal features (primitive reflexes, leg weakness, incontinence, executive loss) all typical."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1583-q0056",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Pituitary adenoma most likely cause of bitemporal hemianopia among options.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Bitemporal Hemianopsia",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK545213",
+          "quote": "commonly results from a tumor or lesion impinging on the optic chiasm",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Chiasm lies superior to pituitary (same source)."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1584-q0057",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Basilar terminates as posterior cerebral arteries.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Brain Arteries",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK549894",
+          "quote": "the basilar artery bifurcates into its 2 terminal branches, the posterior cerebral arteries",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1585-q0058",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Extracranial optic nerve supplied by ophthalmic artery.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Homonymous Hemianopsia",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK558929",
+          "quote": "optic nerve is supplied by the internal carotid artery, specifically the superior hypophyseal and ophthalmic arteries",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Identical stem to p1586-q0058: possible duplicate record, flag for bank dedup."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1586-q0058",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Extracranial optic nerve supplied by ophthalmic artery.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Homonymous Hemianopsia",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK558929",
+          "quote": "optic nerve is supplied by the internal carotid artery, specifically the superior hypophyseal and ophthalmic arteries",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Identical stem to p1585-q0058: possible duplicate record, flag for bank dedup."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1587-q0059",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Temporal (Meyer loop) lesion causes contralateral superior quadrantanopia.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Superior Quadrantanopia",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK558982",
+          "quote": "right-sided Meyer loop damage would cause vision loss in the superior-left quadrant bilaterally",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1588-q0060",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Resting tremor is NOT cerebellar (parkinsonian); intention tremor is.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Cerebellum",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK538167",
+          "quote": "tremor is observed at the end of the movement, called intention tremor",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Substantia Nigra",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK536995",
+          "quote": "nigrostriatal pathway ... critically involved in the motor deficits observed in Parkinson disease",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1591-q0061",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Two-point discrimination loss is parietal, least expected in frontal lesion.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Postcentral Gyrus",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK549825",
+          "quote": "contains the primary somatosensory cortex ... touch, pressure, temperature, and pain",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1592-q0062",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Lateral ventricles join the 3rd via foramen of Monro, not the aqueduct.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Hydrocephalus",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK560875",
+          "quote": "from the lateral ventricle to the third ventricle via the foramen of Monro, from third to the fourth ventricle via the cerebral aqueduct",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Options A/B/C/E all true (130-150mL; lateral-dominant production; temporal horn; 4th ventricle in brainstem)."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1593-q0063",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Vertebral artery branches from subclavian.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Brain Arteries",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK549894",
+          "quote": "paired vertebral arteries ... arise from the corresponding subclavian arteries",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1594-q0064",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "A",
+      "verdict": "corroborated",
+      "keyClaim": "Internal capsule primarily carries projection fibres.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Lateral Corticospinal",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK534818",
+          "quote": "impulse ... passes through the posterior limb of the internal capsule ... to the anterior horn (lower motor neuron)",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Corticospinal/corticobulbar/thalamocortical projection traffic; association/U-fibres run cortico-cortically."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1595-q0065",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Broca damage causes expressive dysphasia.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Broca Area",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526096",
+          "quote": "Also known as expressive aphasia, it is non-fluent aphasia",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1596-q0066",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "E",
+      "verdict": "corroborated",
+      "keyClaim": "Trochlear nucleus is midbrain, not pons.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Trochlear CN4",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK537244",
+          "quote": "trochlear nuclei within the medial midbrain at the level of the inferior colliculus",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Facial/abducens/trigeminal/vestibulocochlear nuclei are pontine."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1597-q0067",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Past-pointing + heel-shin failure + nystagmus + slurred speech = cerebellum.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Cerebellum",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK538167",
+          "quote": "ataxia, intention tremor, nystagmus, slurred/scanning speech, hypotonia",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1598-q0068",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Right parietal (dorsal) lesion causes left inferior quadrantanopia.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Superior Quadrantanopia",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK558982",
+          "quote": "partial inferior defects occur from damage to the superior parts of the pathway including the superior optic radiation in the parietal lobe",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1599-q0069",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "CRAO cherry-red spot emboli usually from carotid plaque.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Cherry Red Spot",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK539841",
+          "quote": "The embolus usually originates from the carotid plaque",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1600-q0070",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Parietal optic radiation lesion causes contralateral inferior quadrantanopia.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Superior Quadrantanopia",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK558982",
+          "quote": "Dorsal fibers ... travel through the posterior temporal lobe and the parietal lobe ... transmit ... inferior visual field",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1601-q0071",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Anterolateral tract transection loses pain and temperature.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Spinothalamic Tract",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK507824",
+          "quote": "lateral spinothalamic tract carries information about pain and temperature",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Proprioception/vibration are dorsal-column modalities."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1602-q0072",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Right homonymous hemianopia with macular sparing implicates PCA.",
+      "citations": [
+        {
+          "authorityRank": 4,
+          "authority": "Medscape PCA Stroke",
+          "url": "https://emedicine.medscape.com/article/2128100-clinical",
+          "quote": "Homonymous hemianopia is a key finding that distinguishes PCA strokes",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "NCBI Cerebral Ischemia cortex",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK575742",
+          "quote": "macular area receives dual blood supply ... In thrombosis of the posterior cerebral artery, the macular area is spared",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1603-q0073",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Isolated leg weakness/numbness stroke implicates ACA (medial frontal/parietal leg area).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "PMC Cerebral circulation",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8446242",
+          "quote": "ACAs supply all of the medial surfaces of the frontal and parietal lobe ... primary motor, primary sensory cortices",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Leg motor homunculus lies on the medial hemispheric surface in ACA territory."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1604-q0074",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Triceps reflex is primarily C7.",
+      "citations": [
+        {
+          "authorityRank": 4,
+          "authority": "WikiEM Cervical Exam",
+          "url": "https://wikem.org/wiki/Cervical_radiculopathy",
+          "quote": "C7 | Triceps & Wrist flexion | Index/Middle/Ring Paresthesia | Triceps",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Cervical Radiculopathy",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK441828",
+          "quote": "Motor strength testing ... C7 (triceps)",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1605-q0075",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "A",
+      "verdict": "corroborated",
+      "keyClaim": "Primary visual cortex in occipital lobe.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "PMC Cerebral circulation",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8446242",
+          "quote": "PCAs supply the occipital lobe, which includes the visual areas",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1606-q0076",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "E",
+      "verdict": "corroborated",
+      "keyClaim": "Visual cortex lesion causes contralateral HH with macular sparing.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Homonymous Hemianopsia",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK558929",
+          "quote": "Lesions that affect the occipital lobe will result in contralateral hemianopia with macular sparing",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1607-q0001",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "A",
+      "verdict": "corroborated",
+      "keyClaim": "Diplopia on reading/downstairs implicates trochlear (superior oblique).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Superior Oblique",
+          "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK537152",
+          "quote": "difficulty looking downwards ... reading a book ... descending stairs",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1611-q0002",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Absent consensual blink with intact direct = efferent (facial) lesion on the unresponsive side.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Trigeminal CN5",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK482283",
+          "quote": "Afferent input from the ophthalmic division ... stimulate the orbicularis oculi muscles bilaterally",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Direct left intact proves left afferent + left efferent work; absent right consensual isolates right VII."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1617-q0003",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Pupil-sparing CN III palsy is typically diabetic microvascular.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls CN III Palsy",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526112",
+          "quote": "Microvascular ischemia ... is the most common etiology in adults ... ischemic injury typically sparing parasympathetic fibers",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 4,
+          "authority": "AAFP Diplopia and Ptosis",
+          "url": "https://www.aafp.org/afp/2010/0715/p187",
+          "quote": "Diabetic third nerve palsy ... pupil-sparing ... microvascular infarction",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Aneurysmal compression typically dilates the pupil."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1621-q0004",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Glossopharyngeal palsy abolishes the gag reflex (afferent limb).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Gag Reflex",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK554502",
+          "quote": "If the glossopharyngeal (IX) nerve is damaged ... there is no response when touched",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Tongue fasciculations = XII; uvular deviation = X; jaw jerk = V; hoarseness = X."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1625-q0005",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Glossopharyngeal is the gag afferent; vagus the efferent.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Gag Reflex",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK554502",
+          "quote": "glossopharyngeal (CN IX) and vagus (CN X) nerves, which serve as the afferent (sensory) and the efferent (motor) limbs",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1629-q0006",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Cerebellopontine-angle tumours most often involve VIII (acoustic neuroma).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Acoustic Neuroma",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK470177",
+          "quote": "commonly located in the cerebellopontine angle, near the cochlear and vestibular nerves",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Vestibular schwannoma = 75-85% of CPA tumours (CPA Cancer, NBK559116)."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1634-q0007",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "E",
+      "verdict": "corroborated",
+      "keyClaim": "Abducens palsy leaves medial rectus unopposed causing convergent squint.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Abducens CN6",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK430711",
+          "quote": "innervate the lateral rectus muscle, which then abducts the eye",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Oculomotor CN3",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK537126",
+          "quote": "down-and-out eye position due to the unopposed action of the lateral rectus ... and superior oblique",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "A/B/C/D all false (SO=IV; horizontal not vertical diplopia; nucleus in pons; enters via superior orbital fissure)."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1638-q0008",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Internal auditory meatus contains VII and VIII.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls CN8",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK537359",
+          "quote": "commonly involve the cerebellopontine angle (CPA), the internal auditory canal (IAC), or the inner ear",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 4,
+          "authority": "Mayo Acoustic Neuroma",
+          "url": "https://www.mayoclinic.org/diseases-conditions/acoustic-neuroma/symptoms-causes/syc-20356127",
+          "quote": "grows between the vestibulocochlear nerve and the facial nerve inside the inner ear canal",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1640-q0009",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Depressed-abducted eye with ptosis = CN III palsy (unopposed LR + SO).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls CN III Palsy",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526112",
+          "quote": "characteristic down-and-out eye position ... Ptosis occurs due to paralysis of the levator palpebrae superioris",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1644-q0010",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Trochlear nerve innervates superior oblique only.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Trochlear CN4",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK537244",
+          "quote": "The only muscle the trochlear nerve innervates, the superior oblique muscle",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1647-q0011",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Spinal accessory innervates SCM and trapezius.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Accessory CN11",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK507722",
+          "quote": "innervates the sternocleidomastoid (SCM) and trapezius muscles through its spinal root",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1651-q0012",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "A",
+      "verdict": "corroborated",
+      "keyClaim": "Facial nerve divides into five terminal branches within the parotid.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Facial Nerve Anatomy",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK554569",
+          "quote": "enters the parotid gland ... five branches emerge",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 4,
+          "authority": "Iowa Head and Neck Protocols",
+          "url": "https://iowaprotocols.medicine.uiowa.edu/protocols/facial-nerve-cranial-nerve-vii-general-information",
+          "quote": "Within the parotid gland, the facial nerve divides into five branches: Temporal, Zygomatic, Buccal, Marginal mandibular, Cervical",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1657-q0013",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Glossopharyngeal is NOT the gag efferent (vagus is); all other statements true.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Gag Reflex",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK554502",
+          "quote": "afferent (sensory) and the efferent (motor) limbs ... CN IX ... CN X",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Glossopharyngeal CN9",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK539877",
+          "quote": "supply motor innervation to the stylopharyngeus muscle ... parasympathetic innervation to the parotid glands",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1661-q0014",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "B",
+      "verdict": "needs_source_confirmation",
+      "keyClaim": "Bank key says abducens, but the stem references an image unavailable to this audit.",
+      "citations": [],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Image-dependent question: the eye position cannot be inspected. Do not approve without the source page/image. No online evidence retrievable (image-dependent)."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1665-q0015",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Facial nerve traverses the internal acoustic meatus.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Facial Nerve Anatomy",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK554569",
+          "quote": "pass through the posterior cranial fossa along with the vestibulocochlear nerve ... entering the internal acoustic meatus",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "It exits the skull via the stylomastoid foramen; IAM is its transit, matching key D among options."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1671-q0016",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Masseter wasting + jaw-opening weakness + anterior-tongue numbness = mandibular nerve (V3).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Mandibular Nerve",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK507820",
+          "quote": "mandibular nerve ... carries both afferent and efferent fibers ... muscles of mastication ... anterior two-thirds of the tongue",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1676-q0017",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Mandibular nerve does NOT innervate orbicularis oculi (facial nerve does).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Mandibular Nerve",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK507820",
+          "quote": "motor muscular branches to the medial pterygoid, tensor tympani, and tensor veli palatini ... mastication muscles",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "A/B/C/E all true (infratemporal course, foramen ovale, anterior tongue sensory, mixed nerve)."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1677-q0018",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Oculomotor nerve runs in the lateral wall of the cavernous sinus.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Cavernous Sinus",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK459244",
+          "quote": "enters the cavernous sinus, where it runs on the roof and lateral wall",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "A/B/C/E false (mixed? no - pure motor + parasymp; not all EOMs; constricts pupil; enters via superior orbital fissure)."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1681-q0019",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Uvula deviates away from a vagal lesion, so rightward deviation implicates the left vagus.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Vagus CN10",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK537171",
+          "quote": "uvula deviation (towards the opposite side of the lesion)",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1686-q0020",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Mandibular division spares the upper lip (maxillary territory).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Trigeminal POC",
+          "url": "https://www.statpearls.com/point-of-care/862",
+          "quote": "maxillary branch ... upper lip ... mandibular branch ... external ear, chin, lower lip, anterior two-thirds of the tongue",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1687-q0021",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Vagus carries visceral afferents from aortic arch baroreceptors.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Vagus CN10",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK537171",
+          "quote": "inferior ganglion of X provides afferent general visceral fibers to the carotid and aortic bodies",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "A/B/D/E false (foramen ovale=V3; oropharynx general sensation=V; parotid=IX; gag afferent=IX)."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1688-q0022",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Maxillary division spares the external ear (mandibular territory).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Trigeminal POC",
+          "url": "https://www.statpearls.com/point-of-care/862",
+          "quote": "maxillary branch ... superior palate, upper lip, upper molar ... nasal cavity ... lower eyelid",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "External ear supplied via mandibular (auriculotemporal)."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1691-q0023",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Hyperacusis (stapedius dysfunction) occurs in facial palsy.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "PMC Trigeminal/Facial nerves",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2848459",
+          "quote": "hyperacusis ... due the stapedius muscle ... being affected",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Ptosis/ophthalmoplegia are oculomotor; facial sensory loss is trigeminal."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1693-q0024",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Lingual nerve carries touch (not taste) from anterior tongue; chorda tympani carries taste/salivation.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Lingual Nerve",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK546652",
+          "quote": "innervates the mucous membrane of the anterior two-thirds ... chorda tympani ... responsible for taste perception ... and secretory/motor innervation of glands",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "Taste + salivation intact isolates the lingual (general sensory) division."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1694-q0025",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "E",
+      "verdict": "corroborated",
+      "keyClaim": "Inability to raise the eyelid (levator/CN III) is NOT a facial palsy feature; lagophthalmos is.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls CN III Palsy",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526112",
+          "quote": "Ptosis occurs due to paralysis of the levator palpebrae superioris muscle",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "A-D (hyperacusis, reduced salivation/lacrimation, taste loss) are all VII features."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1695-q0026",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Tongue deviation toward the lesion is hypoglossal (XII), not vagal.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Hypoglossal CN12",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK532869",
+          "quote": "the tongue, when protruded, deviates towards the damaged nerve",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "A/C/D/E (uvula away, hoarseness, gag loss, dysphagia) are vagal."
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1696-q0027",
+      "reviewBatch": "review-batch-020",
+      "markedKey": "E",
+      "verdict": "corroborated",
+      "keyClaim": "Glossopharyngeal provides parotid parasympathetics.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Glossopharyngeal CN9",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK539877",
+          "quote": "provide parasympathetic innervation to the parotid glands",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": "A-D false (efferent=vagus; exits via jugular foramen; taste post-third; tensor veli palatini=V3)."
+    }
+  ]
+}

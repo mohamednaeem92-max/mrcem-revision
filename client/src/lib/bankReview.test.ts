@@ -4,8 +4,10 @@ import {
   buildApprovedExport,
   draftToReviewedQuestion,
   draftViewWithCorrections,
+  evidenceApprovalWarning,
   orderDraftsForReview,
   summarizeProgress,
+  type OnlineEvidenceRecord,
 } from "./bankReview";
 import type { OcrDraftQuestion as Draft } from "./ocrDraftSections";
 
@@ -89,5 +91,33 @@ describe("progress summary", () => {
     expect(summary).toMatchObject({ total: 2, approved: 1, remaining: 1 });
     expect(summary.perSubject["Anatomy"]).toMatchObject({ total: 1, approved: 1, remaining: 0 });
     expect(summary.perSubject["Physiology"]).toMatchObject({ total: 1, approved: 0, remaining: 1 });
+  });
+});
+
+function evidence(overrides: Partial<OnlineEvidenceRecord> = {}): OnlineEvidenceRecord {
+  return {
+    id: "ana-001",
+    reviewBatch: "review-batch-018",
+    markedKey: "A",
+    verdict: "corroborated",
+    keyClaim: "Tested claim.",
+    citations: [],
+    rank3Coverage: "full",
+    rank3Note: "",
+    reviewerNote: "",
+    ...overrides,
+  };
+}
+
+describe("online evidence approval warnings", () => {
+  it("stays silent for corroborated records and missing evidence", () => {
+    expect(evidenceApprovalWarning(evidence())).toBeNull();
+    expect(evidenceApprovalWarning(undefined)).toBeNull();
+  });
+
+  it("warns on unresolved and partial verdicts", () => {
+    expect(evidenceApprovalWarning(evidence({ verdict: "unresolved", reviewerNote: "No source found." }))).toContain("unresolved");
+    expect(evidenceApprovalWarning(evidence({ verdict: "needs_source_confirmation" }))).toContain("partial");
+    expect(evidenceApprovalWarning(evidence({ rank3Coverage: "partial", rank3Note: "half covered" }))).toContain("half covered");
   });
 });

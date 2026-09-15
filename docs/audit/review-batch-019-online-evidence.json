@@ -1,0 +1,1068 @@
+{
+  "generatedAt": "2026-09-15",
+  "reviewBatch": "review-batch-019",
+  "recordCount": 50,
+  "method": "manual web verification against rank 2-3 authorities; no bank records modified",
+  "verdictCounts": {
+    "corroborated": 50,
+    "needs_source_confirmation": 0,
+    "unresolved": 0
+  },
+  "records": [
+    {
+      "id": "anatomy-anatomy-all-pdf-p1459-q0003",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Primary motor cortex in frontal lobe (precentral gyrus).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Frontal Cortex",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK554483",
+          "quote": "primary motor cortex ... precentral gyrus ... frontal lobe is anterior to the central sulcus",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1465-q0004",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "C5 radiculopathy: deltoid weakness, shoulder abduction loss.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Cervical Radiculopathy",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK441828",
+          "quote": "Motor strength testing in key myotomes - C5 (deltoid and biceps)",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 4,
+          "authority": "AAFP Cervical Radiculopathy",
+          "url": "https://www.aafp.org/afp/2010/0101/p33",
+          "quote": "C5 | C4-C5 | Neck, shoulder, lateral arm | Deltoid, elbow flexion",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1468-q0005",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "L5 root: big-toe (EHL) extension loss.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Radicular Back Pain",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK546593",
+          "quote": "muscle strength may be reduced with big toe extension (extensor hallucis longus)",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Lumbar Degenerative Disk",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK448134",
+          "quote": "A herniation compressing the L5 nerve root will present as a weakness of ankle dorsiflexion and an extension of the great toe",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1471-q0006",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Corpus callosum connects the hemispheres.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Corpus Callosum",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK448209",
+          "quote": "primary commissural region ... white matter tracts that connect the left and right cerebral hemispheres",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1476-q0007",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Wernicke area in temporal lobe (BA22, posterior STG).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Wernicke Area",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK533001",
+          "quote": "Wernicke area is located in Brodmann area 22, the posterior segment of the superior temporal gyrus",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1482-q0008",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "A",
+      "verdict": "corroborated",
+      "keyClaim": "Left weakness + right gaze deviation localises to right frontal lobe (frontal eye field).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "Stroke AHA FEF infarction",
+          "url": "https://www.ahajournals.org/doi/10.1161/str.33.2.642",
+          "quote": "transient ipsilateral CED with right-sided head version due to a localized cortical infarction in the right middle frontal gyrus",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1488-q0009",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Hypertonia is NOT cerebellar; hypotonia is.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Cerebellum",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK538167",
+          "quote": "During hypotonia, the muscles lose resistance to palpation",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "PMC Cerebellar consensus",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5565264",
+          "quote": "patients with cerebellar dysfunction have a reduction in tone, called hypotonia",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1491-q0010",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "E",
+      "verdict": "corroborated",
+      "keyClaim": "Wernicke damage causes receptive dysphasia.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Broca Area",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526096",
+          "quote": "language comprehension is primarily a function of Wernicke's area, located in the posterior superior temporal gyrus",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1497-q0011",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "MCA is the continuation beyond the circle, not part of the ring proper.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Circle of Willis",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK534861",
+          "quote": "At the point of connection between the ACA and the ICA, the lateral continuation of the ICA becomes the middle cerebral artery",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1505-q0012",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "PCA stroke causes homonymous (not bitemporal) loss; chiasmal lesions cause bitemporal.",
+      "citations": [
+        {
+          "authorityRank": 4,
+          "authority": "Medscape PCA Stroke",
+          "url": "https://emedicine.medscape.com/article/2128100-clinical",
+          "quote": "Homonymous hemianopia is a key finding that distinguishes PCA strokes",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Bitemporal Hemianopsia",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK545213",
+          "quote": "commonly results from a tumor or lesion impinging on the optic chiasm",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1510-q0013",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Anterior corticospinal tract serves trunk/axial muscles.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Lateral Corticospinal",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK534818",
+          "quote": "The anterior corticospinal tract sends fibers mainly to the trunk or axial muscles",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1521-q0014",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "MCA occlusion threatens Wernicke territory causing receptive dysphasia.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls MCA",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526002",
+          "quote": "Oxygenated blood flows through the MCA to the lateral frontal, parietal, and temporal lobes",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Wernicke Area",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK533001",
+          "quote": "posterior segment of the superior temporal gyrus in the dominant hemisphere",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1522-q0016",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Brainstem = midbrain, pons, medulla.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Brainstem",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK544297",
+          "quote": "It is composed of three sections in descending order: the midbrain, pons, and medulla oblongata",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1528-q0017",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "E",
+      "verdict": "corroborated",
+      "keyClaim": "Temporal lobe supplied by MCA (lateral) and PCA (inferior/medial).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls MCA",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526002",
+          "quote": "MCA's cortical branches supply most of the lateral cerebral hemisphere, including the frontal, parietal, and temporal lobes",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "PMC Cerebral circulation",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8446242",
+          "quote": "PCAs supply the occipital lobe ... and the lower portion of the temporal lobe",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1529-q0018",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Basilar artery formed by vertebral confluence.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Brain Arteries",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK549894",
+          "quote": "The 2 vertebral arteries unite to form the basilar artery",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1530-q0019",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Right hemicord lesion: ipsilateral motor + fine touch loss, contralateral pain/temp loss.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Brown-Sequard",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK538135",
+          "quote": "weakness or paralysis, loss of proprioception and vibration sense on the same side ... loss of pain and temperature sensations on the opposite side",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1531-q0020",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Parkinson disease = loss of SN dopaminergic neurons.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Substantia Nigra",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK536995",
+          "quote": "A loss of the dopaminergic neurons of the substantia nigra leads to Parkinson disease",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1532-q0021",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Aqueduct connects 3rd to 4th ventricle.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Hydrocephalus",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK560875",
+          "quote": "from third to the fourth ventricle via the cerebral aqueduct",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1536-q0023",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "E",
+      "verdict": "corroborated",
+      "keyClaim": "Left Meyer loop lesion causes right superior (pie-in-the-sky) quadrantanopia.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Superior Quadrantanopia",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK558982",
+          "quote": "right-sided Meyer loop (inferior radiation) damage would cause vision loss in the superior-left quadrant bilaterally (pie in the sky)",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "PMC Meyer loop DTI",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2685925",
+          "quote": "deficits are caused by damage to Meyer's loop of the optic radiation",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1537-q0024",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "E",
+      "verdict": "corroborated",
+      "keyClaim": "Optic nerve lesion causes monocular loss.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Superior Quadrantanopia",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK558982",
+          "quote": "Unilateral deficits are caused by retinal and optic nerve disease",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1538-q0025",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Occipital lesion classically gives homonymous hemianopia.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Homonymous Hemianopsia",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK558929",
+          "quote": "Lesions that affect the occipital lobe will result in contralateral hemianopia with macular sparing",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1542-q0026",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Occipital lobe supplied primarily by PCA.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "PMC Cerebral circulation",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8446242",
+          "quote": "PCAs supply the occipital lobe, which includes the visual areas",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1543-q0027",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "E",
+      "verdict": "corroborated",
+      "keyClaim": "Substantia nigra is a midbrain nucleus.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Substantia Nigra",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK536995",
+          "quote": "The substantia nigra (SN) is a midbrain dopaminergic nucleus",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1544-q0028",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "E",
+      "verdict": "corroborated",
+      "keyClaim": "Frontal lesion causes ipsilateral conjugate gaze deviation (frontal eye field).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "Stroke AHA FEF infarction",
+          "url": "https://www.ahajournals.org/doi/10.1161/str.33.2.642",
+          "quote": "transient ipsilateral CED ... due to a localized cortical infarction in the right middle frontal gyrus",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1545-q0029",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Parietal lobe supplied primarily by MCA.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls MCA",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526002",
+          "quote": "supply most of the lateral cerebral hemisphere, including the frontal, parietal, and temporal lobes",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1550-q0030",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Left inferior quadrantanopia localises to right parietal (dorsal) pathway.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Superior Quadrantanopia",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK558982",
+          "quote": "partial inferior defects occur from damage to the superior parts of the pathway including the superior optic radiation in the parietal lobe",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "PubMed Jacobson quadrantanopia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/9109741",
+          "quote": "location of lesions causing inferior quadrantanopia was occipital lobe (76%), parietal lobe (22%)",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1551-q0031",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Corpus callosum is commissural fibres.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Corpus Callosum",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK448209",
+          "quote": "primary commissural region of the brain",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1552-q0032",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "PCA stroke causes homonymous hemianopia.",
+      "citations": [
+        {
+          "authorityRank": 4,
+          "authority": "Medscape PCA Stroke",
+          "url": "https://emedicine.medscape.com/article/2128100-clinical",
+          "quote": "Homonymous hemianopia is a key finding that distinguishes PCA strokes",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Homonymous Hemianopsia",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK558929",
+          "quote": "Lesions at any point of the retrochiasmal visual pathway can cause this defect",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1553-q0033",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Hemispheres separated by longitudinal fissure.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Cerebral Hemisphere",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK549789",
+          "quote": "divided into the left and right hemispheres by a deep longitudinal fissure",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1554-q0034",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Optic tract lesion causes contralateral homonymous hemianopia.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Homonymous Hemianopsia",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK558929",
+          "quote": "Left optic tract lesion: HH on the right side",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1555-q0035",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "A",
+      "verdict": "corroborated",
+      "keyClaim": "Lateral spinothalamic carries contralateral pain/temperature.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Spinothalamic Tract",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK507824",
+          "quote": "lateral spinothalamic tract carries information about pain and temperature ... cross over ... to the opposite side",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1556-q0036",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Foramen of Monro connects lateral to 3rd ventricle.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Hydrocephalus",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK560875",
+          "quote": "from the lateral ventricle to the third ventricle via the foramen of Monro",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1557-q0037",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Elderly fall + upper-limb-only weakness = central cord syndrome.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Central Cord Syndrome",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK441932",
+          "quote": "motor deficits disproportionately greater in the upper extremities ... older adults with cervical stenosis after low-energy hyperextension injuries",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1558-q0038",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Thalamus forms walls of the 3rd ventricle.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Thalamus",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK542184",
+          "quote": "thalamus forms the upper and lateral walls of the third ventricle",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1561-q0039",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Primary auditory cortex in temporal lobe (Heschl gyrus).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Aphasia POC",
+          "url": "https://www.statpearls.com/point-of-care/43129",
+          "quote": "Spoken language is received by the primary auditory cortices in the Heschl gyrus (transverse temporal gyrus)",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1562-q0040",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Primary somatosensory cortex in parietal lobe (postcentral gyrus).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Somatosensory Cortex",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK555915",
+          "quote": "primary somatosensory cortex (S1) ... are in the parietal lobe ... just behind the central sulcus",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1563-q0041",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "Frontal lobe: anterior to central sulcus, superior to lateral sulcus.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Cerebral Hemisphere",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK549789",
+          "quote": "Frontal lobe is anterior to the central sulcus and superior to the lateral fissure",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1564-q0042",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Parietal lobe: posterior to central sulcus, superior to lateral sulcus.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Cerebral Hemisphere",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK549789",
+          "quote": "parietal lobe is posterior to the central sulcus and anterior to the parieto-occipital sulcus ... lateral fissure ... separates the temporal lobe from the frontal and parietal lobe",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1565-q0043",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Frontal lobe supplied by ACA (medial) and MCA (lateral).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Frontal Cortex",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK554483",
+          "quote": "receives its blood supply from ... the anterior cerebral arteries and the middle cerebral arteries",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1566-q0044",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Cotton-wool fine touch travels in posterior (dorsal) columns.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Posterior Column",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK507888",
+          "quote": "Posterior cord syndrome ... loss of vibration and proprioception sensation",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Postcentral Gyrus",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK549825",
+          "quote": "perceives various somatic sensations ... including touch, pressure, temperature, and pain ... relay through the dorsal spinal cord",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1567-q0045",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Expressive (non-fluent) dysphasia with intact comprehension = left frontal (Broca).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Broca Area",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526096",
+          "quote": "posterior inferior frontal gyrus ... expressive aphasia ... non-fluent aphasia",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1568-q0046",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "E",
+      "verdict": "corroborated",
+      "keyClaim": "Occipital lobe lies inferior/posterior to parieto-occipital sulcus.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Cerebral Hemisphere",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK549789",
+          "quote": "parieto-occipital sulcus separates the parietal lobe from the occipital lobe",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Frontal Cortex",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK554483",
+          "quote": "parieto-occipital sulcus divides the parietal and occipital lobes",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1572-q0047",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "A",
+      "verdict": "corroborated",
+      "keyClaim": "Right-hand weakness + effortful speech = left frontal (motor cortex + Broca).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls MCA",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526002",
+          "quote": "left side of the brain controls the right side ... lateral frontal ... lobes",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Broca Area",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526096",
+          "quote": "inferior frontal lobe ... expressive aphasia",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1573-q0048",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "Hemispatial sensory neglect localises to parietal lobe (usually right).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "Neurology Stein parietal neglect",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/6682527",
+          "quote": "classical unilateral neglect syndrome is usually associated with lesions of the nondominant inferior parietal lobe",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "PMC Neglect review",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2962986",
+          "quote": "posterior parietal and temporal injuries correspond to neglect",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1574-q0049",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "A",
+      "verdict": "corroborated",
+      "keyClaim": "Optic chiasm lesion causes bitemporal hemianopia.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Bitemporal Hemianopsia",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK545213",
+          "quote": "tumor or lesion impinging on the optic chiasm ... Bitemporal hemianopsia",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1575-q0050",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Elbow extension + middle-finger sensation = C7.",
+      "citations": [
+        {
+          "authorityRank": 4,
+          "authority": "WikiEM Cervical Exam",
+          "url": "https://wikem.org/wiki/Cervical_radiculopathy",
+          "quote": "C7 | Triceps & Wrist flexion | Index/Middle/Ring Paresthesia | Triceps",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Cervical Radiculopathy",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK441828",
+          "quote": "Motor strength testing ... C7 (triceps)",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1576-q0051",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "D",
+      "verdict": "corroborated",
+      "keyClaim": "CSF absorbed via arachnoid granulations.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls CSF Physiology",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519007",
+          "quote": "classical theory holds that CSF absorption occurs via arachnoid villi and granulations",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1579-q0052",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "B",
+      "verdict": "corroborated",
+      "keyClaim": "CSF produced mainly by choroid plexus.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls CSF Physiology",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519007",
+          "quote": "Around 80% of CSF production occurs via ... the choroid plexus",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1580-q0053",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "C",
+      "verdict": "corroborated",
+      "keyClaim": "Broca area in frontal lobe (BA44/45).",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Broca Area",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526096",
+          "quote": "posterior inferior frontal gyrus of the dominant hemisphere at Brodmann areas 44 and 45",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    },
+    {
+      "id": "anatomy-anatomy-all-pdf-p1581-q0054",
+      "reviewBatch": "review-batch-019",
+      "markedKey": "E",
+      "verdict": "corroborated",
+      "keyClaim": "Temporal lesion causes receptive dysphasia.",
+      "citations": [
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls Wernicke Area",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK533001",
+          "quote": "center for comprehension and understanding of language",
+          "retrievedAt": "2026-09-15"
+        },
+        {
+          "authorityRank": 3,
+          "authority": "StatPearls PPA",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK563145",
+          "quote": "Wernicke area within the left superior temporal gyrus ... involved in language comprehension",
+          "retrievedAt": "2026-09-15"
+        }
+      ],
+      "rank3Coverage": "full",
+      "rank3Note": "",
+      "reviewerNote": ""
+    }
+  ]
+}

@@ -21,6 +21,9 @@ RANK3_MARKERS = (
     "ajronline.org", "humananatomy.host.dartmouth.edu",
     "medicine.uams.edu", "gmch.gov.in", "anatomy.ttuhscep.edu",
     "ovid.com/jnls", "onlinelibrary.wiley.com/doi",
+    "ahajournals.org", "statpearls.com", "academic.oup.com",
+    "neurology.org", "thejns.org", "journals.physiology.org",
+    "sciencedirect.com/science/article", "link.springer.com/article",
 )
 
 # Strict reading of source-hierarchy-and-rules.md: educational summaries

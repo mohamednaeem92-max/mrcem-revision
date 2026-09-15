@@ -1,0 +1,56 @@
+# Review Batch 019 Online Evidence Notes
+
+50 neuroanatomy records (positions 901-950) verified 2026-09-15 against rank 2-3 authorities only. Source-page comparison remains required before any correction or approval.
+
+| Question | Key | Verdict | Evidence |
+|---|---|---|---|
+| `anatomy-anatomy-all-pdf-p1459-q0003` | C | corroborated | Primary motor cortex in frontal lobe (precentral gyrus). [StatPearls Frontal Cortex](https://www.ncbi.nlm.nih.gov/books/NBK554483) |
+| `anatomy-anatomy-all-pdf-p1465-q0004` | C | corroborated | C5 radiculopathy: deltoid weakness, shoulder abduction loss. [StatPearls Cervical Radiculopathy](https://www.ncbi.nlm.nih.gov/books/NBK441828); [AAFP Cervical Radiculopathy](https://www.aafp.org/afp/2010/0101/p33) |
+| `anatomy-anatomy-all-pdf-p1468-q0005` | C | corroborated | L5 root: big-toe (EHL) extension loss. [StatPearls Radicular Back Pain](https://www.ncbi.nlm.nih.gov/books/NBK546593); [StatPearls Lumbar Degenerative Disk](https://www.ncbi.nlm.nih.gov/books/NBK448134) |
+| `anatomy-anatomy-all-pdf-p1471-q0006` | B | corroborated | Corpus callosum connects the hemispheres. [StatPearls Corpus Callosum](https://www.ncbi.nlm.nih.gov/books/NBK448209) |
+| `anatomy-anatomy-all-pdf-p1476-q0007` | D | corroborated | Wernicke area in temporal lobe (BA22, posterior STG). [StatPearls Wernicke Area](https://www.ncbi.nlm.nih.gov/books/NBK533001) |
+| `anatomy-anatomy-all-pdf-p1482-q0008` | A | corroborated | Left weakness + right gaze deviation localises to right frontal lobe (frontal eye field). [Stroke AHA FEF infarction](https://www.ahajournals.org/doi/10.1161/str.33.2.642) |
+| `anatomy-anatomy-all-pdf-p1488-q0009` | D | corroborated | Hypertonia is NOT cerebellar; hypotonia is. [StatPearls Cerebellum](https://www.ncbi.nlm.nih.gov/books/NBK538167); [PMC Cerebellar consensus](https://pmc.ncbi.nlm.nih.gov/articles/PMC5565264) |
+| `anatomy-anatomy-all-pdf-p1491-q0010` | E | corroborated | Wernicke damage causes receptive dysphasia. [StatPearls Broca Area](https://www.ncbi.nlm.nih.gov/books/NBK526096) |
+| `anatomy-anatomy-all-pdf-p1497-q0011` | B | corroborated | MCA is the continuation beyond the circle, not part of the ring proper. [StatPearls Circle of Willis](https://www.ncbi.nlm.nih.gov/books/NBK534861) |
+| `anatomy-anatomy-all-pdf-p1505-q0012` | D | corroborated | PCA stroke causes homonymous (not bitemporal) loss; chiasmal lesions cause bitemporal. [Medscape PCA Stroke](https://emedicine.medscape.com/article/2128100-clinical); [StatPearls Bitemporal Hemianopsia](https://www.ncbi.nlm.nih.gov/books/NBK545213) |
+| `anatomy-anatomy-all-pdf-p1510-q0013` | D | corroborated | Anterior corticospinal tract serves trunk/axial muscles. [StatPearls Lateral Corticospinal](https://www.ncbi.nlm.nih.gov/books/NBK534818) |
+| `anatomy-anatomy-all-pdf-p1521-q0014` | C | corroborated | MCA occlusion threatens Wernicke territory causing receptive dysphasia. [StatPearls MCA](https://www.ncbi.nlm.nih.gov/books/NBK526002); [StatPearls Wernicke Area](https://www.ncbi.nlm.nih.gov/books/NBK533001) |
+| `anatomy-anatomy-all-pdf-p1522-q0016` | D | corroborated | Brainstem = midbrain, pons, medulla. [StatPearls Brainstem](https://www.ncbi.nlm.nih.gov/books/NBK544297) |
+| `anatomy-anatomy-all-pdf-p1528-q0017` | E | corroborated | Temporal lobe supplied by MCA (lateral) and PCA (inferior/medial). [StatPearls MCA](https://www.ncbi.nlm.nih.gov/books/NBK526002); [PMC Cerebral circulation](https://pmc.ncbi.nlm.nih.gov/articles/PMC8446242) |
+| `anatomy-anatomy-all-pdf-p1529-q0018` | C | corroborated | Basilar artery formed by vertebral confluence. [StatPearls Brain Arteries](https://www.ncbi.nlm.nih.gov/books/NBK549894) |
+| `anatomy-anatomy-all-pdf-p1530-q0019` | C | corroborated | Right hemicord lesion: ipsilateral motor + fine touch loss, contralateral pain/temp loss. [StatPearls Brown-Sequard](https://www.ncbi.nlm.nih.gov/books/NBK538135) |
+| `anatomy-anatomy-all-pdf-p1531-q0020` | B | corroborated | Parkinson disease = loss of SN dopaminergic neurons. [StatPearls Substantia Nigra](https://www.ncbi.nlm.nih.gov/books/NBK536995) |
+| `anatomy-anatomy-all-pdf-p1532-q0021` | D | corroborated | Aqueduct connects 3rd to 4th ventricle. [StatPearls Hydrocephalus](https://www.ncbi.nlm.nih.gov/books/NBK560875) |
+| `anatomy-anatomy-all-pdf-p1536-q0023` | E | corroborated | Left Meyer loop lesion causes right superior (pie-in-the-sky) quadrantanopia. [StatPearls Superior Quadrantanopia](https://www.ncbi.nlm.nih.gov/books/NBK558982); [PMC Meyer loop DTI](https://pmc.ncbi.nlm.nih.gov/articles/PMC2685925) |
+| `anatomy-anatomy-all-pdf-p1537-q0024` | E | corroborated | Optic nerve lesion causes monocular loss. [StatPearls Superior Quadrantanopia](https://www.ncbi.nlm.nih.gov/books/NBK558982) |
+| `anatomy-anatomy-all-pdf-p1538-q0025` | B | corroborated | Occipital lesion classically gives homonymous hemianopia. [StatPearls Homonymous Hemianopsia](https://www.ncbi.nlm.nih.gov/books/NBK558929) |
+| `anatomy-anatomy-all-pdf-p1542-q0026` | C | corroborated | Occipital lobe supplied primarily by PCA. [PMC Cerebral circulation](https://pmc.ncbi.nlm.nih.gov/articles/PMC8446242) |
+| `anatomy-anatomy-all-pdf-p1543-q0027` | E | corroborated | Substantia nigra is a midbrain nucleus. [StatPearls Substantia Nigra](https://www.ncbi.nlm.nih.gov/books/NBK536995) |
+| `anatomy-anatomy-all-pdf-p1544-q0028` | E | corroborated | Frontal lesion causes ipsilateral conjugate gaze deviation (frontal eye field). [Stroke AHA FEF infarction](https://www.ahajournals.org/doi/10.1161/str.33.2.642) |
+| `anatomy-anatomy-all-pdf-p1545-q0029` | B | corroborated | Parietal lobe supplied primarily by MCA. [StatPearls MCA](https://www.ncbi.nlm.nih.gov/books/NBK526002) |
+| `anatomy-anatomy-all-pdf-p1550-q0030` | D | corroborated | Left inferior quadrantanopia localises to right parietal (dorsal) pathway. [StatPearls Superior Quadrantanopia](https://www.ncbi.nlm.nih.gov/books/NBK558982); [PubMed Jacobson quadrantanopia](https://pubmed.ncbi.nlm.nih.gov/9109741) |
+| `anatomy-anatomy-all-pdf-p1551-q0031` | C | corroborated | Corpus callosum is commissural fibres. [StatPearls Corpus Callosum](https://www.ncbi.nlm.nih.gov/books/NBK448209) |
+| `anatomy-anatomy-all-pdf-p1552-q0032` | B | corroborated | PCA stroke causes homonymous hemianopia. [Medscape PCA Stroke](https://emedicine.medscape.com/article/2128100-clinical); [StatPearls Homonymous Hemianopsia](https://www.ncbi.nlm.nih.gov/books/NBK558929) |
+| `anatomy-anatomy-all-pdf-p1553-q0033` | C | corroborated | Hemispheres separated by longitudinal fissure. [StatPearls Cerebral Hemisphere](https://www.ncbi.nlm.nih.gov/books/NBK549789) |
+| `anatomy-anatomy-all-pdf-p1554-q0034` | C | corroborated | Optic tract lesion causes contralateral homonymous hemianopia. [StatPearls Homonymous Hemianopsia](https://www.ncbi.nlm.nih.gov/books/NBK558929) |
+| `anatomy-anatomy-all-pdf-p1555-q0035` | A | corroborated | Lateral spinothalamic carries contralateral pain/temperature. [StatPearls Spinothalamic Tract](https://www.ncbi.nlm.nih.gov/books/NBK507824) |
+| `anatomy-anatomy-all-pdf-p1556-q0036` | B | corroborated | Foramen of Monro connects lateral to 3rd ventricle. [StatPearls Hydrocephalus](https://www.ncbi.nlm.nih.gov/books/NBK560875) |
+| `anatomy-anatomy-all-pdf-p1557-q0037` | C | corroborated | Elderly fall + upper-limb-only weakness = central cord syndrome. [StatPearls Central Cord Syndrome](https://www.ncbi.nlm.nih.gov/books/NBK441932) |
+| `anatomy-anatomy-all-pdf-p1558-q0038` | C | corroborated | Thalamus forms walls of the 3rd ventricle. [StatPearls Thalamus](https://www.ncbi.nlm.nih.gov/books/NBK542184) |
+| `anatomy-anatomy-all-pdf-p1561-q0039` | D | corroborated | Primary auditory cortex in temporal lobe (Heschl gyrus). [StatPearls Aphasia POC](https://www.statpearls.com/point-of-care/43129) |
+| `anatomy-anatomy-all-pdf-p1562-q0040` | B | corroborated | Primary somatosensory cortex in parietal lobe (postcentral gyrus). [StatPearls Somatosensory Cortex](https://www.ncbi.nlm.nih.gov/books/NBK555915) |
+| `anatomy-anatomy-all-pdf-p1563-q0041` | B | corroborated | Frontal lobe: anterior to central sulcus, superior to lateral sulcus. [StatPearls Cerebral Hemisphere](https://www.ncbi.nlm.nih.gov/books/NBK549789) |
+| `anatomy-anatomy-all-pdf-p1564-q0042` | C | corroborated | Parietal lobe: posterior to central sulcus, superior to lateral sulcus. [StatPearls Cerebral Hemisphere](https://www.ncbi.nlm.nih.gov/books/NBK549789) |
+| `anatomy-anatomy-all-pdf-p1565-q0043` | D | corroborated | Frontal lobe supplied by ACA (medial) and MCA (lateral). [StatPearls Frontal Cortex](https://www.ncbi.nlm.nih.gov/books/NBK554483) |
+| `anatomy-anatomy-all-pdf-p1566-q0044` | D | corroborated | Cotton-wool fine touch travels in posterior (dorsal) columns. [StatPearls Posterior Column](https://www.ncbi.nlm.nih.gov/books/NBK507888); [StatPearls Postcentral Gyrus](https://www.ncbi.nlm.nih.gov/books/NBK549825) |
+| `anatomy-anatomy-all-pdf-p1567-q0045` | D | corroborated | Expressive (non-fluent) dysphasia with intact comprehension = left frontal (Broca). [StatPearls Broca Area](https://www.ncbi.nlm.nih.gov/books/NBK526096) |
+| `anatomy-anatomy-all-pdf-p1568-q0046` | E | corroborated | Occipital lobe lies inferior/posterior to parieto-occipital sulcus. [StatPearls Cerebral Hemisphere](https://www.ncbi.nlm.nih.gov/books/NBK549789); [StatPearls Frontal Cortex](https://www.ncbi.nlm.nih.gov/books/NBK554483) |
+| `anatomy-anatomy-all-pdf-p1572-q0047` | A | corroborated | Right-hand weakness + effortful speech = left frontal (motor cortex + Broca). [StatPearls MCA](https://www.ncbi.nlm.nih.gov/books/NBK526002); [StatPearls Broca Area](https://www.ncbi.nlm.nih.gov/books/NBK526096) |
+| `anatomy-anatomy-all-pdf-p1573-q0048` | D | corroborated | Hemispatial sensory neglect localises to parietal lobe (usually right). [Neurology Stein parietal neglect](https://pubmed.ncbi.nlm.nih.gov/6682527); [PMC Neglect review](https://pmc.ncbi.nlm.nih.gov/articles/PMC2962986) |
+| `anatomy-anatomy-all-pdf-p1574-q0049` | A | corroborated | Optic chiasm lesion causes bitemporal hemianopia. [StatPearls Bitemporal Hemianopsia](https://www.ncbi.nlm.nih.gov/books/NBK545213) |
+| `anatomy-anatomy-all-pdf-p1575-q0050` | C | corroborated | Elbow extension + middle-finger sensation = C7. [WikiEM Cervical Exam](https://wikem.org/wiki/Cervical_radiculopathy); [StatPearls Cervical Radiculopathy](https://www.ncbi.nlm.nih.gov/books/NBK441828) |
+| `anatomy-anatomy-all-pdf-p1576-q0051` | D | corroborated | CSF absorbed via arachnoid granulations. [StatPearls CSF Physiology](https://www.ncbi.nlm.nih.gov/books/NBK519007) |
+| `anatomy-anatomy-all-pdf-p1579-q0052` | B | corroborated | CSF produced mainly by choroid plexus. [StatPearls CSF Physiology](https://www.ncbi.nlm.nih.gov/books/NBK519007) |
+| `anatomy-anatomy-all-pdf-p1580-q0053` | C | corroborated | Broca area in frontal lobe (BA44/45). [StatPearls Broca Area](https://www.ncbi.nlm.nih.gov/books/NBK526096) |
+| `anatomy-anatomy-all-pdf-p1581-q0054` | E | corroborated | Temporal lesion causes receptive dysphasia. [StatPearls Wernicke Area](https://www.ncbi.nlm.nih.gov/books/NBK533001); [StatPearls PPA](https://www.ncbi.nlm.nih.gov/books/NBK563145) |
