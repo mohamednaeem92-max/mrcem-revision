@@ -838,6 +838,14 @@ function SideRail({ activeView, isOpen, onClose, onSelect }: { activeView: View;
               {view === "review" && <span className="ml-auto rounded-md bg-white/14 px-1.5 py-0.5 text-[10px] font-semibold text-[#dff7f0]">QUEUE</span>}
             </button>
           ))}
+          <a
+            href="bank-review"
+            className="group flex w-full items-center gap-3 rounded-xl px-3 py-3 text-left text-sm text-[#d5ebe6] transition hover:bg-white/8 hover:text-white"
+          >
+            <ClipboardCheck size={17} strokeWidth={1.8} />
+            <span>Bank sign-off</span>
+            <span className="ml-auto rounded-md bg-white/14 px-1.5 py-0.5 text-[10px] font-semibold text-[#dff7f0]">5K</span>
+          </a>
         </nav>
 
         <div className="mt-auto rounded-2xl border border-white/12 bg-white/7 p-4">
